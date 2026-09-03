@@ -157,21 +157,28 @@ async def entrypoint(ctx: agents.JobContext):
                 raise
 
 
-if __name__ == "__main__":
+def _launch_gui(script_name: str, label: str) -> None:
+    """Launch a local GUI module without making it a hard dependency."""
     try:
-        gui_path = os.path.join(os.path.dirname(__file__), "jarvis_ui.py")
-        if os.path.exists(gui_path):
+        path = os.path.join(os.path.dirname(__file__), script_name)
+        if os.path.exists(path):
             subprocess.Popen(
-                [sys.executable, gui_path],
+                [sys.executable, path],
                 stdout=None,
                 stderr=None,
                 stdin=None,
                 close_fds=True,
             )
+            print(f"🖥️ {label} started")
         else:
-            print("jarvis_ui.py not found; GUI will not be started.")
-    except Exception as e:
-        print("Failed to start GUI subprocess:", e)
+            print(f"{script_name} not found; {label} will not be started.")
+    except Exception as exc:
+        print(f"Failed to start {label}: {exc}")
+
+
+if __name__ == "__main__":
+    _launch_gui("jarvis_ui.py", "ADX GUI")
+    _launch_gui("adxmug_dashboard.py", "ADXmug Command Center")
 
     agents.cli.run_app(
         agents.WorkerOptions(entrypoint_fnc=entrypoint)
