@@ -1,64 +1,47 @@
 {
-  "updated_utc": "2026-09-03T17:39:29.608050+00:00",
+  "updated_utc": "2026-09-03T18:31:07.647200+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [],
-  "landed": [
+  "articles": [
     {
-      "title": "Banking system liquidity surplus touches a record high of Rs 9.71 lakh cr on FCNR (B) flows - moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWgtRjNUU0VOZVRaS0ZmbTlNSmM3bzlxOUlOclBuR1YxMjNHSldKY2xvVEtvUDdkSks4YmNJQVpjazBlRXB6ekEwR01OMlJVYlNUV1Z3Q3FqT1p1bkdqR0VtbnFQWEVEUUozUExrVTZ1SjFOQVV6RUJMZ3M5bXdXTXRFNnZTNHBMb3NHMlk1WFhlVjFOaEdFOTVQdC1pWF90QVpKY3ZwSVVkbFRBVDFQYldkNlI4RUlvWVRlUFB4YkF1NktHTjZCY1UwYTNoQ1lYWmdnNTFCZFBLR1RJTThnbDBJOV9rSDZHckY5ZdIB8gFBVV95cUxOS1hWTk9pZkFxQUtDN2lrLUo1Q2Fvb0xzalZXeGVqb3VscjhRdmdjSFI4ek1oNVNHekVwWVk2MWh1UVlKWm1wSGlqM2w1eWpDNmUzZ1lsZFNsUVBIUGpyTzVEbmJmb0FzRGlnak9rWFZ3dDBEalV0MUJPYWZodzhqeHdrcllUVkRTUDlGaTREcVpfVmdZc0lwR2V5UmQ1VWhRTzBBMV8yZTJVRTU2cHEzOTZNYWZ4djNKd21EVGZEeW5IZEY4RmhWQ1kzVjU0QjF4NHpDZkZaOGVkYXhZMkI3eWpKNERkUjlKaXhGVzItMTRGZw?oc=5",
-      "published": "Thu, 03 Sep 2026 17:34:53 GMT",
-      "source": "moneycontrol.com",
+      "title": "Banking system surplus liquidity reaches Rs 5 lakh cr, highest in over four months - ET BFSI",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzlnMTd5ems5em9ra0JPUHRWSHBlUVVIcmtKLXBvY0V0MHN1dXJ1d25tNlkxejdhSVBzQWVkU21Dd2U0c3JoZnRvbVA3dFc5cUl1WVQwZTJRSHMta1ZsZk8taXY1MjBhMVJjUXlJVlVmM0JOY0RGWFBwenA4SUVzS0Z3Z3lIel9aLWNPNDFzbWd5VFV1YkJJcW1HLUNpMksxa3lUSE9nWHAxV1cxd1RhYk9fWm1GeUFKY0UtdlAxRU5JUkJ1YmptaFhUdndzUDBnZkN2SXhuS2FkcHhSYmRV0gHkAUFVX3lxTE1hMWZ4dldBVnB6N2JFSlYtSE14WXFKNkFBMGpyZFZTUlpUaVZEUlNYSXR2eXpqdFJPV0FLb081b0ZTUVdWLWh1VXh3M1pfSGpaM3R3cFlod1Q0cXVKTDdvZ2lVQVdGR0dfdU9SWTdmLWJUcDYweldPLS00aFUta29iUGxHTTRBVENNWEFtWmhjZjFnSk8tdWY2d3pMLURaUFlyc0pXU0Yzb0JzcXJUTGVNRGE5Z3pXZTc3NlllMFVneEtVWWRoeUlPS2FBUy1zQUl3dWQxX2NVajZxNkYtVXJpT215QQ?oc=5",
+      "published": "Mon, 31 Aug 2026 13:03:26 GMT",
+      "source": "ET BFSI",
+      "feed": "Banking & Financials",
+      "description": "Banking system surplus liquidity reaches Rs 5 lakh cr, highest in over four months ET BFSI",
       "sector": "Banking & Financials",
       "triggers": [
-        "MATERIAL CHANGE"
+        "POLICY",
+        "PRICING"
       ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.8
-    },
-    {
-      "title": "Legacy Healthcare Welcomes U.S. Congressional Legislation Proposing 12-Year Market Exclusivity for US FDA Newly Approved Botanical Drugs - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQR0NXSTNIWUZYdktDM0RlbkFLS0NyYm1NYUR5Q2NJVVBpbmpxZWF3WldxQmZ3YnQ2QnB0UlFkSFBaSWVqd1pva3Z2RU9DUEl5ckVReE5ya0h2STNhSDR5cUE1dzBUZktQM0JuVmNwZVhWTXB2M1hvMndnYzdwcDVWR2hTVG05RGJVems1UVF5NnZ0SVcwNXZQZlFWYjBTZEl5LTFXQjFaTXNtclF2OUMzaGJuc0pwLXBBUElib2p3M3lLZUlYZmcxMEF3dWNreXo2Q0dfOWtQU0Y0MnBtdFA3Y1Q5VF9Pdlg3cmJQR3d4cXRFTER6TnZRTmswQ0RJY2xPVjNaNVh3YTZiMUdXd05ocThxUzJER0JDTUE?oc=5",
-      "published": "Thu, 03 Sep 2026 12:15:00 GMT",
-      "source": "PR Newswire",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 6.2
-    },
-    {
-      "title": "Antifoaming Silicone Agents Market 2035: 3.4% CAGR Driven by Semiconductor Fab Expansion - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGZBNktxWjJEUFc0NmpZSjdrUUU0ckhBSk9HUWo5cUZyWkI5czd4UGNOS2lOTHBVTnVhQ25kMXRxUmNxa0ZUbmVBRjhFckJWVHNuRFZ4NktLQlBJX211djd4eEVlOWd2eEdQSVcxZXozeHlRYlI2cURBd3NCYmJ2b1ZZdXVDYzFpcXJxc2FfV0tkMzEwY3JPQ3NrbEtXTmRjRTM3Mm1kR3VrWXlucVNvRFNCcl9CNDNvRlBKeWhn?oc=5",
-      "published": "Wed, 02 Sep 2026 23:21:36 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 19.1
+      "signal_score": 21.0
     }
   ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 72,
-      "article_count": 5,
-      "trigger_count": 6,
+      "score": 76,
+      "article_count": 7,
+      "trigger_count": 9,
       "triggers": [
+        "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
+        {
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
         {
           "title": "India opens sugar imports as prices climb: Where are global sugar prices headed? - Invezz",
           "source": "Invezz",
@@ -66,6 +49,15 @@
           "triggers": [
             "TRADE",
             "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India prohibits raw, white & refined sugar export till Sept 30 - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFhzbmRvOXN0cWduZjVRQkN4S3dIZjJ0XzBfaHdxZ2N0RW9WeWJEQkZScEhXb0tZbmV1S20xaFhQTUNzWjVJakhzZFRkVVVDQ2F3QlFiM1c2cnpNR0ZfSmpQQ0hjT3A2THVNUVBhTzd1TUtTelFBMzV6cGFTeHRfMExSYkJnRlliZkFPNXNqXzFOcHllOXJJazVKT0NVSWFpYUU1RjN0eTMya3lqajhKWC1jMnRIT0I1bjRyMTZjcXVWOWRSVGk0YXd2UjdveE9RX2dmeEZ6N01aRUZOSzk5Q9IB5gFBVV95cUxOUlBYUVNuXy1KRGZqalBIMjkwQ3ZaU1RYZEFUQVFCMGZIaEtDcU9mVC15X3hSZEVXaUxMWXlGVlEyeGtBVTR2M19aZkVFajJNYW5lRGpKcU9NSUxnNU9ubVJxMmxON3hLNkNiRzJTam5SWlprS2RNVl9uZEVFcWJfM3R6Qnc5Q1FTcWs2cHVKbUtiNnFYOHhfbGZxNGFVYTkwZGRRV19kcTFFUGNqV3BfOU90NS1WSXcyb0JNSmphakIwU3B3NFZVOE5DOEVZRDBPS1pyZFMzV2cxWjVETWMxWVlqcXdRQQ?oc=5",
+          "triggers": [
+            "TRADE"
           ],
           "companies": []
         },
@@ -86,36 +78,132 @@
             "PRICING"
           ],
           "companies": []
-        },
+        }
+      ],
+      "confidence": "high",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 7 distinct story clusters; 6 independent sources.",
+      "source_count": 6,
+      "story_clusters": 7,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations.",
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Rail & Infrastructure",
+      "score": 58,
+      "article_count": 5,
+      "trigger_count": 7,
+      "triggers": [
+        "CAPEX",
+        "CORPORATE",
+        "POLICY"
+      ],
+      "evidence": [
         {
-          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVIzVVlXNzk5VkREeFUzTm9NczlXSUU3WjRsbGdGdnI0RTJ4R0Q3QWJuTmt5UVZLUTdiWktsQjV6OFQwRkY2SW45bE14b3dKMVFNd3JsV1Y3b2pLRzNtQS1tZFVzcFp0UUhMZkNDcld3TWZ0Sng4aXByQ3VNUmt1MXdKM2VPVVhzNmRmaV9pT3dLQmkzQm9NVl94VmpPa09LMHdGY0dpdUpZZHd2WS1VV3ppbHBnaHM4RFlJMnVFVXJOWWhjbnZFNU05aHZGYUJLdExwMTRpMHJkOTlnTy1KZjZMQmJwZ9IB6wFBVV95cUxOSzZtU05qNHQzS0RkdnVzeE5NOHREMWc4SVFCMGJGOGlVSFpkOUF6WFdjUFVwcUloM3BNS21WMWFtR0tldlFLd1RtVF9KdFN4eXgzdXkwZ2o2aVRpZ0pfLWc1X29RU1ZNcXo1VUdtLUhnUVIzbUkxMk1CQTZMMkJ3V3FIcVZPNnB5Y2hGR2lhdzVJVURSN1BPakduVDNYeGFJMHJETjNRZGdKbzRVUWxQd0U2akduaEpJSEk3cE9ZTFczQ1NPanM4NlNMS2FmeEdpTkdBdVRrWEdBMENWWEZjRlgzUEtaSkpPM1dn?oc=5",
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - constructionworld.in",
+          "source": "constructionworld.in",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
           "triggers": [
-            "TRADE"
+            "CAPEX",
+            "CORPORATE"
           ],
           "companies": []
         },
         {
-          "title": "Average cane crushing days of the sugar mills have decreased by 20% increasing production costs, says mini - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMXlCZE5oc1BTcEIzT09xaDhmaUVzMjZBSWlXOXBKckdrc1kybEUwby02R3hWTDJzX3VMVERnR2d4N1B1WEp2VWVHMjVuNjFtLWJxUFpzd3Y1TEtha1dSaHF6SFkweDFCaXJrSUx2LXVxNXZwdnVrM1VNX1YzTllBb2Myak1XbWJtM01Ic25GWEd1MHpld25kdTl5WTlNbUd1Y3ZaWmpQT1Bzcm51MGdOeWVJTDFTUlhUT2NDTkxQR3dvNkwxZDNiNjBIclJNRy1iTjBEMWlHNXpWOTVYZ3RwbmVkU29aVTlnbkd1eEJUQmQxbFpsYXBZTjFVbUU2LUY5ekhEZWtncVM2SUdGcWg4bE1tTi1OMUxkb2phZ0NSMFBRbEVKaTFPNdIBrgJBVV95cUxOa1hYUFFvaHJ0TlZPNExnbGFiOHhCVzV4M2d3dURLcFVxSUtaSHBXWDltX3VhVV9GQmt4NHFLT00xeGdUdHhuaVJ1eE9mTEROSnp6N2JTSEdFMElWN3JiOG9xbEtROVNjRmlNN1EzWTVSSDlyTzcwRzZhY3hROHZkajhzV3ZsOHpZeERRdkdVeThuN1Q2SVRuRDZNZWQxYTBMejFtTERlemhWRkpmM0tzWVBPd3djOW1jUks5OFFWQnI3N3pTc2dRWERvV1lxclYzVWJGcmFjQWNETDhNeEJ2bmdNbUhYOEZwZFkzZUQtQV9UZFY0bHhaT2RpazItVEsxd29OYVZzN1RZazVIM0p4TUI5Tm50cXJtVUxhajBpNS03b2hnQ0IteDRXdjZKQQ?oc=5",
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
+          "source": "Swarajya",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
           "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - constructionworld.in",
+          "source": "constructionworld.in",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWDBlWFVHakdaOHFWcm9VSThiTEEzSTdua2RHazBZMk5pTzUzRWVLMF84NXZ0cWliXzliV2VXTHFuS2psbTh1d3dKWHNOb1Atc0NrZ0tNX2dOcUVYSHRodjVOcE04eVB2ZXlfUzNndXE4MTdzRHBxcFIyN3Y4cFgzRXc2NmNhQUREUE9NUEZTZUFUWE9QcUttOXBTQnZ0WGxnTmtJOTlDZ28yeFBKYU9YNklnOTRTM1VTbF9pRmQ1RGRMUnBzRmxGVGY4c3Y1MWJNTk8zUk5YT3h6eXRSWHF0VkNWV05lcDQtQWpkTDdWbkJjZ0NQSThMTlpn?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Indian Railways Approves Somtane Chikhli Chord Line Project - constructionworld.in",
+          "source": "constructionworld.in",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNXJORU1CSXlxUHZMZ2ZtSHUyVFRzaVVYWnBpZHJQR0FBbVdya1pvajVhdXIwMDZ1TktRYTJYUzdlWkJKSUdFTkFwcUVJVWpzUE1xaVNuRVdDVExoMXVpeXdyRzd2cFlHc2lZVE4weHREcHc4WHJBb3JUZXlnc0NkTklxbXdHNElVd1YxZUZCbEtuVkFLbWhGSnRnYWdpdGN0VGhLaUx0ZUtLc3dzMzdxZEgzYkNUUjVKc0dDYnJhZGJfV1dLUXp5NHFqRm5fZzZFNlppUThBRWtCdjZFRjNCYU5ZT2xoWU9sV2F2dTVDRFZub3Uw?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Indian Railways Approves Adipur-Bhuj Doubling Project - constructionworld.in",
+          "source": "constructionworld.in",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYXdyMzlnZS1IeHJUNEdVTUF6LXZSTGF6MVdNNWJsT1BOVHdjbm9XRlcwanhRMXREcWN0cVR3aVM2cFVsdldmQTZnV0l4Mm1EWDJhc0hISC1UbHBQZjkzdWJrNHlhTFZKYk13Zjkzbkw2dGsxUWUxdjNvTk56UzNlcVozQmZ3OERQcWY5dmxmelNCc25fNFR1VkNreER2YXYtSE8xRURvZW1vSEg1c0MtSW1CblRKS2FMZ2ZTUGlTRHhSV2JEOEpSbWhWVEV2SUpMTFNtODRfZFAxbXNoa2tsNWFJRTZNZXItb2o1Zw?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, CORPORATE, POLICY; 5 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 5,
+      "companies": [],
+      "connections": [
+        "Corporate action reinforced by capex/orders is a stronger operating signal."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Banking & Financials",
+      "score": 40,
+      "article_count": 2,
+      "trigger_count": 4,
+      "triggers": [
+        "POLICY",
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "Banking system surplus liquidity reaches Rs 5 lakh cr, highest in over four months - ET BFSI",
+          "source": "ET BFSI",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzlnMTd5ems5em9ra0JPUHRWSHBlUVVIcmtKLXBvY0V0MHN1dXJ1d25tNlkxejdhSVBzQWVkU21Dd2U0c3JoZnRvbVA3dFc5cUl1WVQwZTJRSHMta1ZsZk8taXY1MjBhMVJjUXlJVlVmM0JOY0RGWFBwenA4SUVzS0Z3Z3lIel9aLWNPNDFzbWd5VFV1YkJJcW1HLUNpMksxa3lUSE9nWHAxV1cxd1RhYk9fWm1GeUFKY0UtdlAxRU5JUkJ1YmptaFhUdndzUDBnZkN2SXhuS2FkcHhSYmRV0gHkAUFVX3lxTE1hMWZ4dldBVnB6N2JFSlYtSE14WXFKNkFBMGpyZFZTUlpUaVZEUlNYSXR2eXpqdFJPV0FLb081b0ZTUVdWLWh1VXh3M1pfSGpaM3R3cFlod1Q0cXVKTDdvZ2lVQVdGR0dfdU9SWTdmLWJUcDYweldPLS00aFUta29iUGxHTTRBVENNWEFtWmhjZjFnSk8tdWY2d3pMLURaUFlyc0pXU0Yzb0JzcXJUTGVNRGE5Z3pXZTc3NlllMFVneEtVWWRoeUlPS2FBUy1zQUl3dWQxX2NVajZxNkYtVXJpT215QQ?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
+          "triggers": [
+            "POLICY",
             "PRICING"
           ],
           "companies": []
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
-      "source_count": 5,
-      "story_clusters": 5,
+      "reason": "Cross-signal POLICY, PRICING; 2 distinct story clusters; 2 independent sources; 1 fresh evidence items.",
+      "source_count": 2,
+      "story_clusters": 2,
       "companies": [],
       "connections": [
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance."
       ],
-      "fresh_count": 0
+      "fresh_count": 1
     },
     {
       "industry": "Pharma & Healthcare",
@@ -141,6 +229,36 @@
       "confidence": "low",
       "watch": "MONITOR",
       "reason": "Cross-signal CAPEX, POLICY; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Defence & Aerospace",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Tejas cleared to carry Python-5 air-to-air missile | LCA Tejas | drdo | defence ministry - Manorama Yearbook",
+          "source": "Manorama Yearbook",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3lzN2d3cDAyRW1IRXVoSGRxVlNBQ09qeFVfd2N2aXJzVWtIODM5dExsWjYtc3cySGhIbHVXZVRWUWFJYk5YWHFGWlRMOHhacy0xeFJhVUE4MXRoQWpMTldtazNoQmlObGRMazFreFZRbmw3a0Q0OVlrelpMYUR0cU5XTExKem5kQ1VUemh4LTI3YWtRRzRZeFEtN3lrSkNkRGFPRDQtbzc3MlFhQllCSzlSTUhCYW12aExXaw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
@@ -180,83 +298,67 @@
       "fresh_count": 0
     },
     {
-      "industry": "Defence & Aerospace",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
       "industry": "Power & Grid",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - powermag.com",
+          "source": "powermag.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
+      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
       "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Rail & Infrastructure",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Banking & Financials",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
       "fresh_count": 0
     },
     {
       "industry": "Auto & Components",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
+      "score": 10,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
+          "source": "Autocar Professional",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": [
+            "mahindra"
+          ]
+        }
+      ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
+      "reason": "Cross-signal POLICY; 1 distinct story clusters; mixed positive/negative evidence.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [
+        "mahindra"
+      ],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
       "fresh_count": 0
     },
     {
@@ -275,6 +377,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-03T18:24:46.417134+00:00"
+  ]
 }
