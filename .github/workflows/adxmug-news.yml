@@ -1,0 +1,69 @@
+name: ADXmug Google News Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch Google News top 20 and build signal data
+        shell: python
+        run: |
+          import json, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          url = 'https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en'
+          req = urllib.request.Request(url, headers={'User-Agent':'ADXmug/1.0'})
+          xml = urllib.request.urlopen(req, timeout=30).read()
+          root = ET.fromstring(xml)
+          articles=[]
+          for item in root.findall('./channel/item')[:20]:
+              title=(item.findtext('title') or '').strip()
+              link=(item.findtext('link') or '').strip()
+              pub=(item.findtext('pubDate') or '').strip()
+              source=item.findtext('source') or 'Google News'
+              desc=(item.findtext('description') or '').strip()
+              articles.append({'title':title,'link':link,'published':pub,'source':source,'description':desc})
+
+          industries={
+            'Defence & Aerospace':['defence','defense','military','missile','navy','aircraft','drdo','shipbuilding','fighter','procurement'],
+            'Electronics & Semiconductors':['semiconductor','chip','electronics','ems','display','fab','assembly','testing','silicon'],
+            'Power & Grid':['power','grid','transmission','electricity','transformer','renewable','solar','storage','battery'],
+            'Rail & Infrastructure':['rail','metro','highway','infrastructure','capex','construction','epc','tender','road'],
+            'Banking & Financials':['rbi','bank','credit','loan','deposit','insurance','finance','liquidity'],
+            'Auto & Components':['auto','automobile','ev','vehicle','battery','component','mobility'],
+            'Pharma & Healthcare':['pharma','drug','medicine','hospital','healthcare','api','biotech'],
+            'Chemicals & Materials':['chemical','specialty chemical','cement','steel','aluminium','commodity','material'],
+            'Sugar & Ethanol':['sugar','ethanol','molasses','distillery','cane','biofuel']
+          }
+          triggers=['order','orders','capex','investment','approval','policy','tender','contract','expansion','capacity','allocation','subsidy','scheme','import','export','shortage','price','production','localisation','localization','partnership','acquisition']
+          rows=[]
+          for name,keys in industries.items():
+              hits=[]; score=0
+              for a in articles:
+                  text=(a['title']+' '+a['description']).lower()
+                  k=sum(1 for x in keys if x in text)
+                  t=sum(1 for x in triggers if x in text)
+                  if k:
+                      hits.append(a['title']); score += min(14,k*6)+min(8,t*2)
+              score=min(99,score)
+              rows.append({'industry':name,'score':score,'article_count':len(hits),'evidence':hits[:4], 'watch':'7–10D WATCH' if score>=24 else 'LOW SIGNAL'})
+          rows.sort(key=lambda x:x['score'],reverse=True)
+          payload={'updated_utc':datetime.now(timezone.utc).isoformat(),'source':'Google News Business RSS','articles':articles,'opportunities':rows[:6]}
+          Path('adxmug').mkdir(exist_ok=True)
+          Path('adxmug/news.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
+      - name: Commit news data
+        run: |
+          git config user.name 'ADXmug News Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add adxmug/news.json
+          git diff --cached --quiet || git commit -m 'Update ADXmug Google News intelligence feed'
+          git push
