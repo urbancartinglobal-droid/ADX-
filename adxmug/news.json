@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Banking system liquidity surplus touches a record high of Rs 9.71 lakh cr on FCNR (B) flows - moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWgtRjNUU0VOZVRaS0ZmbTlNSmM3bzlxOUlOclBuR1YxMjNHSldKY2xvVEtvUDdkSks4YmNJQVpjazBlRXB6ekEwR01OMlJVYlNUV1Z3Q3FqT1p1bkdqR0VtbnFQWEVEUUozUExrVTZ1SjFOQVV6RUJMZ3M5bXdXTXRFNnZTNHBMb3NHMlk1WFhlVjFOaEdFOTVQdC1pWF90QVpKY3ZwSVVkbFRBVDFQYldkNlI4RUlvWVRlUFB4YkF1NktHTjZCY1UwYTNoQ1lYWmdnNTFCZFBLR1RJTThnbDBJOV9rSDZHckY5ZdIB8gFBVV95cUxOS1hWTk9pZkFxQUtDN2lrLUo1Q2Fvb0xzalZXeGVqb3VscjhRdmdjSFI4ek1oNVNHekVwWVk2MWh1UVlKWm1wSGlqM2w1eWpDNmUzZ1lsZFNsUVBIUGpyTzVEbmJmb0FzRGlnak9rWFZ3dDBEalV0MUJPYWZodzhqeHdrcllUVkRTUDlGaTREcVpfVmdZc0lwR2V5UmQ1VWhRTzBBMV8yZTJVRTU2cHEzOTZNYWZ4djNKd21EVGZEeW5IZEY4RmhWQ1kzVjU0QjF4NHpDZkZaOGVkYXhZMkI3eWpKNERkUjlKaXhGVzItMTRGZw?oc=5",
+      "published": "Thu, 03 Sep 2026 17:34:53 GMT",
+      "source": "moneycontrol.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.8
+    },
+    {
+      "title": "Legacy Healthcare Welcomes U.S. Congressional Legislation Proposing 12-Year Market Exclusivity for US FDA Newly Approved Botanical Drugs - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQR0NXSTNIWUZYdktDM0RlbkFLS0NyYm1NYUR5Q2NJVVBpbmpxZWF3WldxQmZ3YnQ2QnB0UlFkSFBaSWVqd1pva3Z2RU9DUEl5ckVReE5ya0h2STNhSDR5cUE1dzBUZktQM0JuVmNwZVhWTXB2M1hvMndnYzdwcDVWR2hTVG05RGJVems1UVF5NnZ0SVcwNXZQZlFWYjBTZEl5LTFXQjFaTXNtclF2OUMzaGJuc0pwLXBBUElib2p3M3lLZUlYZmcxMEF3dWNreXo2Q0dfOWtQU0Y0MnBtdFA3Y1Q5VF9Pdlg3cmJQR3d4cXRFTER6TnZRTmswQ0RJY2xPVjNaNVh3YTZiMUdXd05ocThxUzJER0JDTUE?oc=5",
+      "published": "Thu, 03 Sep 2026 12:15:00 GMT",
+      "source": "PR Newswire",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 6.2
+    },
+    {
+      "title": "Antifoaming Silicone Agents Market 2035: 3.4% CAGR Driven by Semiconductor Fab Expansion - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGZBNktxWjJEUFc0NmpZSjdrUUU0ckhBSk9HUWo5cUZyWkI5czd4UGNOS2lOTHBVTnVhQ25kMXRxUmNxa0ZUbmVBRjhFckJWVHNuRFZ4NktLQlBJX211djd4eEVlOWd2eEdQSVcxZXozeHlRYlI2cURBd3NCYmJ2b1ZZdXVDYzFpcXJxc2FfV0tkMzEwY3JPQ3NrbEtXTmRjRTM3Mm1kR3VrWXlucVNvRFNCcl9CNDNvRlBKeWhn?oc=5",
+      "published": "Wed, 02 Sep 2026 23:21:36 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 19.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -232,5 +275,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-03T18:24:46.417134+00:00"
 }
