@@ -10,6 +10,7 @@ import logging
 import os
 import subprocess
 import sys
+import webbrowser
 from typing import Dict, List
 
 from livekit.agents import function_tool
@@ -17,6 +18,8 @@ from livekit.agents import function_tool
 from jarvis_search import search_internet
 
 logger = logging.getLogger(__name__)
+
+ADX_MUG_WEB_URL = "https://urbancartinglobal-droid.github.io/ADX-/adxmug/"
 
 SOURCE_HINTS = {
     "corporate": "India listed companies earnings capex orders capacity expansion acquisitions filings annual reports presentations conference calls",
@@ -119,12 +122,18 @@ async def get_adxmug_status() -> str:
 
 @function_tool
 def open_adxmug() -> str:
-    """Open ADXmug as an integrated mode of the ADX desktop UI."""
+    """Open the live ADXmug dashboard from the ADX AI assistant."""
     try:
+        opened = webbrowser.open(ADX_MUG_WEB_URL, new=2)
+        if opened:
+            return "ADXmug live Command Center खोल दिया गया है।"
+
+        # Browser launch can fail on some desktop environments; keep the
+        # existing local ADXmug mode as a safe fallback.
         dashboard = os.path.join(os.path.dirname(__file__), "jarvis_ui.py")
         env = os.environ.copy()
         env["ADX_MUG_MODE"] = "1"
         subprocess.Popen([sys.executable, dashboard], env=env)
-        return "ADXmug Command Center खोल दिया गया है।"
+        return "Live ADXmug browser नहीं खुला, इसलिए local ADXmug Command Center खोल दिया गया है।"
     except Exception as exc:
         return f"ADXmug खोलने में समस्या हुई: {exc}"
