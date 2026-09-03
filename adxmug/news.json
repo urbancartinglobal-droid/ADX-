@@ -1,195 +1,37 @@
 {
-  "updated_utc": "2026-09-03T16:07:41.900001+00:00",
+  "updated_utc": "2026-09-03T16:44:10.725999+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
-  "engine": "ADXmug Signal Engine v4 — entity relevance + story clusters + hidden connections + source diversity + contradiction checks + 7–10D research watch",
-  "method": "News → entity → sector → trigger → story cluster → cross-source verification → hidden connection → company mapping → research watch",
+  "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
+  "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [
     {
-      "title": "Sugar exports may be capped, surplus stocks to be diverted to Ethanol: Food Secretary - ET Auto",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ3liUTNrM3VOLWZVa2R6V0xFLWNlRG1VRG01S2NnOWhxTXFZQnBoS1N3UUltcElMWWd1X20xTDczX19EclRqVUdoNWZnYm1WaktUTVhUUV9RVlJqNExwOTJpc3VNUHNsY1pscVp5amxTd1lKYTNuMFZGNS01NVlmelBqcWw3VG9YT2FYZnJFWGF0SUtrcnhVZXpBZ1NTRVotQm9yRTBZMmU2ZHpjVnJuOVJFZkdTT1hKQnFVOEJ6LUVXSU5kcDlZNnBBRmZYTHc5SWY1S2pHaGtOZV8tQzhxX1pfdnpPaENyMVHSAe8BQVVfeXFMTkhxcXpVeDFBcWhSY3VCNVpkaGxwNy1uakRITGFtNGpmMm95XzQ3RGtxYy13Qmo3MlRaNWlzWk04U3luQ0lTNHowV3J4Q2RYaGlLRDdZbnc2TTFhQ2piYmtJejNjMHlvdGRGSk5oR1V3NDBrLVRYYXJtbGloNEpLVW1fOG5LaHVwRG5yN3JpVVJ6S09JSzRiWl9aZmNEdjVJR1Nwd2VwZ1pPeDAzaTg0b3EyZ3lXamstU28yTkN6OGUxR0pOWW9hZzlmN3BoenFQV1JiVGc3TEx0eTQxYlZyRDdrMGozMVlHanZnMHhLbzQ?oc=5",
-      "published": "Wed, 08 Apr 2026 07:00:00 GMT",
-      "source": "ET Auto",
-      "feed": "Sugar & Ethanol",
-      "description": "Sugar exports may be capped, surplus stocks to be diverted to Ethanol: Food Secretary ET Auto"
-    },
-    {
-      "title": "India weighs duty-free sugar imports, tighter stock limits to cool record prices - ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWdQa2M1WXV4aXFOSDJvbVZuZm95cDRZUkcxekhyekprcDV0bzlaaTFqNmhWMENqeFBfUGtQanJuaktUa2dNWVBneEZucVJvOGlHN28yRXRpcE0tQk1ZZ2VJRHViaW9sMW9rQVpXb1FHdUZHSnAyM0JsS1NkLVdRODZsem1NYnNLYkxzU2dxRFV2VTkwWU1NVGIzemhFTmZJQ2ZRRDZvOERCb1E?oc=5",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "source": "ChiniMandi",
-      "feed": "Sugar & Ethanol",
-      "description": "India weighs duty-free sugar imports, tighter stock limits to cool record prices ChiniMandi"
-    },
-    {
-      "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "source": "A2Z Taxcorp LLP",
-      "feed": "Macro Discovery",
-      "description": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme A2Z Taxcorp LLP"
-    },
-    {
-      "title": "From sugar exports to imports: What’s behind India’s policy U-turn? - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb3RRS2VQLTAtajlwMUxHcDdYNWgyU3dncHVhc1JaU2tSNWhJNjdlSF9xTUhJUWNxU0NjWm9tTklMYmkxc2dkWHNyN0x1aUN0R2VnRm1vQVJUVmdHSmZEcVVyOXJVZUE3d0w1SVZNeVlpaExMQ3VpbG5TdjRkSks0am9yOGVjOEduTkJRdGd1VTBHdkplb1IxbU03dVBLb0VMdzRqU1NaTTl3blZIM2NRc3QyRWZnelNJVmN3c0hDWGFxNFlJVklpQ0dvQlhPUEZ4eVdQTWh5cjh0d9IB3wFBVV95cUxPQjN4cUJWcnJLYklfWkdkM0dVUy1vdWJXRXYzSUZvR1BOa2REUXVrSUJ3OXVnSnZNVlo1TTlpOU9KQ2ZCRkFmUWJLSkp6eFZuek11U21yenBtWUpTOUtYMGV4WHBvTkVDc3pJY0VjdC1NY0M4SEdMY2xCOHp4NUQtdHBBX1lCMm1uMEU1eEZPSWRpUFhqcEg1MHNXTVJWU2VQNnd5aFdfM2xHWDZtWFRnRFRJVk1tZ0Q4cEhGNS1JVmNDTUNaTWFKRUkyQ1c1NVdpV2Y3dU1EMWlnSlhDQWVV?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "source": "The Economic Times",
-      "feed": "Sugar & Ethanol",
-      "description": "From sugar exports to imports: What’s behind India’s policy U-turn? The Economic Times"
-    },
-    {
-      "title": "India may double sugar exports as ethanol diversion falls sharply - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVzdkelY1VkNDME1rckRTY3psRS1jaTEzTkhVY3JvUDhOc0xCVExoUGZDUHJoU3hIMVdzd3VBU09ITFNiQ0JFT1JSUUM4dUI1U1RoLWt5eE5XdElwaHEzcTZJTnVVRFA5UFlwM3VJQmlZdmV3ZjI1eHlobXhkNWViQmZKdEt4anNrbDY4VnJtcHFCQU5CRldCTHk5bkt4Mi1VaVVDQmYxZ2ozRXBlQ20wdDJfU1RPZkRFM1FQTTZVOW5qRHJMMjJuZk03YUJBQdIB0wFBVV95cUxQUzVlVXJ1Mm0xLUpMR3FXWjl5ZDdPQ0JiaVhNNjdqQ24zREFzV0ZkNWNWV0VyalRReDNnRDh5M1ZRaE1od25CUmRMT3FxUVk4enBfVnNqalhyOFNRbnlQLXNNcFBTdVhyWTc0dzdQOVhodXhSYlFpdUlGMVI1akREMVlaRW9KSTZfOVcxOGpwbXZiSUszVWVDNzdwanljYWFRSHU0MWUyRkZHclFYd29ibmItRFpNLXkyM1lyQV9LNTV0QmRFRGZzWGxnZnhULWR4NjVz?oc=5",
-      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
-      "source": "Business Standard",
-      "feed": "Sugar & Ethanol",
-      "description": "India may double sugar exports as ethanol diversion falls sharply Business Standard"
-    },
-    {
-      "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "source": "The Economic Times",
-      "feed": "Sugar & Ethanol",
-      "description": "India eases raw sugar import rules as it cracks down on hoarding The Economic Times"
-    },
-    {
-      "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "source": "ChiniMandi",
-      "feed": "Sugar & Ethanol",
-      "description": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge ChiniMandi"
-    },
-    {
-      "title": "Sugar prices to stay firm amid tight inventories; ethanol earnings under strain, says ratings agency Ind-R - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWU1rakNzY2lmOXBPOFlRdmJfMVVuOE9zeDMwR1IxSUdkZUVlNDRRUGltNmYyVVdCdHVGS0tuUG56a2twd1d1SGpGcmo0UVBTNTdRd1hleEw2LUtMSHVRXzNjcUxsVmVRQ0VfeVRQTFlJV3FZSk1uSWVDaDNIemRNUFJweG1WcHNMZ05oUlRuc3BsVkRxMTJxNnVELWkzUHRtOFVIdkRjTGp6cnBIaV91bzZ4RUVJVUlZTDV5WUJkU2NqcGNEaFlteWdHWUVFRW1kNFY5SjBCVmNaQk50cWFZaFo5RWlyLVZIYlFhc3VYVnZPWFlIaENQeXJIdzNHd2xwZ1dMUU9KT3FEak9qNHd0ekVR0gGXAkFVX3lxTE94ejhDdUxUZFVNZ1BQTGlYX3ZZTDB1dVZmdlhjSzRoWTNMaUlhUUNpLWFmdWZoanZ3QUZ6SXBXNWhvelNnZk5KSFlDTXBxYnNyX1dMR18tc0NKbzh3U0V4R3drYnJucXkzMlMzenpYbkNRVUpkdEc3eHY4bEdlVnphYjRXNERpdWlpU3RUYnVfYi1nanJEbFhidlUwU3lhWnpDcERfVFI3cnZCNUZuVU5xUEJtY3I2WGQySzhnVGp1MkdpYzhfQV9qY1QwcWJCZlNzS1ZKX0F4OXhzRnkySlBMYVZYOXYwYWFlei1fdDJiTzRMdjZfb0JscHpFcTgwZXlXUkVYV1VZUVpacEl1NGZLNkRtbk5oNA?oc=5",
-      "published": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "source": "The Economic Times",
-      "feed": "Sugar & Ethanol",
-      "description": "Sugar prices to stay firm amid tight inventories; ethanol earnings under strain, says ratings agency Ind-R The Economic Times"
-    },
-    {
-      "title": "\"Sweet & sour\": Impact of India’s sugar import & export policy - ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGMxakk3cm1OTlpSSkRVSV9SakFLWFVrRGEtRmhyeS1mTXEzXzVUeDFNbmRIdDBHLUZCeHZUWTRUbHhVN1Zqby1VR3BwUVQzSlFYZHNTUV9tWVhoaHlHNDNCaGhiVXROcDJkNV9sbjQyVmtiMURFY3lOMWRYZjd3ZGo5OS1QOGtURlE?oc=5",
-      "published": "Tue, 24 Dec 2024 08:00:00 GMT",
-      "source": "ChiniMandi",
-      "feed": "Sugar & Ethanol",
-      "description": "\"Sweet & sour\": Impact of India’s sugar import & export policy ChiniMandi"
-    },
-    {
-      "title": "Sugar stock limits may offer temporary relief but risk disrupting the supply chain: Industry - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVndQVzMzTFYxRS1wT1FFM2VsRi15NFhOWm9XcVFXNHBaUmxuNk9wYU5XMDgyaThNLUNULVVPVk43Z0ZFS040ZnVhS3ZfT2o5NVlScWl4bm95c0x4WExzZ2huQVR3cUdmU3NHTzM5UnU5REswaEJDaXpDSVhtcDNkakRYYjBEZkhrSU02eE1FaUZfZlhnZ2RHalM1cFE4NWpmSzFBOVE3RFBiRUtSZVpBdXlZaTVjTnVCQU1TaEhQTlZzdmk4ZnhlUjJBVGdJNjhhdm9zQmZEeVIxTW5ZZGhWUjEwbzZ4VTNEdGM5TlFDazlXeWNmZG5td0M3OUFieFXSAYQCQVVfeXFMTzdzYkNYNTl1MnNCcU9IRmdhUEdkbWhHN3hnSU8xZGhiZkV6WENzaHZnZWJKXzFwZjdnRjV4bW9PenFQVWtvbzU1OVdEeWNZU3hXTEJ1dWI0ZU5NR3ZwQmthOXZ6NUl3a2xZVkktNGY3X2s5VnZ6Z1VQRUpKMTNZMW9LYzgtMldUMUV1ZzhmWTNBaVdHUUc1OGF1WWFRVGlqS0hYWTc5czNLM2RySzU0ak5KR0hlTG9hd0ctUmNTQS1lemVqQkp4UjNvYlVVTHBNWVdfNS1nYWtFMzQ2OHVrZGZpLXB6S1BXMDJkZmVXdHcwR3ZObGtwbTRxR3RtWDlHNlJIWm4?oc=5",
-      "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": "The Economic Times",
-      "feed": "Sugar & Ethanol",
-      "description": "Sugar stock limits may offer temporary relief but risk disrupting the supply chain: Industry The Economic Times"
-    },
-    {
-      "title": "Indian sugar mills rush export deals on record-low rupee, rising global prices - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMHdoaUVhR1lPb21BZGhlVHFBb3VwalJyd1dESHZmYlVacGNjdEc1NkxSQU45ckQtQUNIV19TMURrU2RHZV9FdldwVV96WFlYQ1pTV3FEN0JUcEJNZ3VWYzRxWk9aZ3Znc01JalEzbGNuSFNJaGZzUFpBMGJDQVUxV1g4eDZWVk5WSEJfcVF0Vzc5TWRiZXRVWlhydFpyakZZekhtRVNiakpLMkNLVmxXMEtiSHNlTjQ3SzcyeE1mS1pjMzdySkt1QzNvbHZRbkVtQ3BDUTZYMnlJX0VtQnBGaDhwbTZ6MUVRTlI4ZWIzY9IB9AFBVV95cUxNdFd3cWE5d0FXYVlyd0k3b1ppMmJSYk1GV0h4bUFGdVpGa0VUQXNRRkw4VEZjblZ5Z1NOQ0t2QjEwWDRHb0sxck9OWDFPaVUxQW5CaDlXRnVlR29vaGphMnhfbVc1bVk0dmVfckNtRHVPelIzdGM1YXZDVWs1NjFWYVZudHBLbDFCbE1MaUdtaFNXdkJTUG8tc25wSzM4bG5uVWhCUU1iT1R5Z0tNRWN3TkliRHB2endham5RTGtEMFFlQmdzN25zbmZYTXZYeERaOVJpTDkwb21LdTd3V2N0Nm5xV3lOelRVYTV2Z1BldDBNZUpi?oc=5",
-      "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "source": "The Economic Times",
-      "feed": "Sugar & Ethanol",
-      "description": "Indian sugar mills rush export deals on record-low rupee, rising global prices The Economic Times"
-    },
-    {
-      "title": "‘Sugar scam’: Tehseen Poonawalla-led Team Bharat moves CBI over exports, ethanol diversion - The Statesman",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUlmT2pxcWFHVVpFcFVxb2xTMFdxZzgxdHVPSXRkcUEzVktFZm1LLUUzbHk4WGFGel9heEo2TW43Uy1OVW4zS3J0UmFWSFItXzhBTURSejJ0OVc5ZGpmX190Unp3VEYwQW56eC1iS3R1MGhjb0ZrNzZob01PX1lJaDRUX1JHSE12QWlSRUc4LTFVQjlSdFFWOHBGR3hZREdJMGN4NkZDdVlKcWpGTlJKamVnWFpDOXFuMlhUYVJVRHZLZW94MzFNdE8zV3g1d25PTk800gHYAUFVX3lxTE1ycDdRdDVhTGFEQnZKZFVyaGV5QXpWaDBUNjl5Uzg3VDlNRXdvUEpCUGxGM2NwN1RuT0Q0ekZobXlfbE4yYTZabWlmOUtLczVwMElndllLNUJ3ZldCRFYtZGJpRkNFcVQ1NmlpTzVRSUR0alFnN1ZTeVAtcmhSUERqOE4wUEwyY3EteVVtdDFBTUZ2d012aTA0bTBMdTNDTTBnT0hCLV95TVdJQU9MN2g0VVRlRkxXblRuMzBQWDRpM2Rmdmd4WXZoTlBseXJUcmRJdjIyc0k3VQ?oc=5",
-      "published": "Fri, 21 Aug 2026 09:04:00 GMT",
-      "source": "The Statesman",
-      "feed": "Sugar & Ethanol",
-      "description": "‘Sugar scam’: Tehseen Poonawalla-led Team Bharat moves CBI over exports, ethanol diversion The Statesman"
-    },
-    {
-      "title": "Why did India ban sugar exports? Here's what's happening - indiatoday.in",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnA2U18zMlpnQlhmZjF5RGFlY0JwaVF4YmxCR3VVM1JRSWFsRjVwcWxCU3ZvZ05pcE1pQ0h0cFlSTVg4cE15eXd4a0JzMVN2ZW9PbmxGUnVWVkRsekd6ajFFdTg0Q05zRkdlb1lKYU01UkdlVXhqOGVUbWs5aFp2LThxZW9NNFAyVmEwNElZVHBsQldUUUJNUVpfU25VSU1SN1hmUm11WTVRaUxHaldUSV83OW1DWUU5VjR0am8tNDlFNWhpRHJEbTBBTDNIT2vSAdQBQVVfeXFMTk5SVVdoSzNRemhjd2dUTUZrcE9JTzgxTk1pdUhwemFGOW9pNE5LZWF2cHNFbmNUaThKVU9hOVRzTUJ4YS0zQ3dDTWR2TFIycDlNcjg0eGMzbEdEU1BNT0kzUkZMbGNqVEZtbFloWnFqcl8zVndMNVZBWEgxUXFzZmllRGl3WDRYeUhtT0RkVmRRcFNQbTZIUWJ0OXRRb2dmODZwZ3V0WjVjMkpPWGQ3WnNMLUJVcG5MYVFNcExpZk96a2xQXzY1a2NYQ2ZUZjlRS3hLYjQ?oc=5",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "source": "indiatoday.in",
-      "feed": "Sugar & Ethanol",
-      "description": "Why did India ban sugar exports? Here's what's happening indiatoday.in"
-    },
-    {
-      "title": "Red Rot Explained: How Sugarcane’s ‘Cancer’ Turned India From Exporter to Importer - Open Magazine",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREtFQllxR0tNcGw4NTNpcDNtNXlDQkNnSmxYUFIwWFVIdnhHV2tQSWc3R2VQUGIzV19JSENDdEZidGZ5eXhXTGhNaWNva1AtZTQtNWhRd2RvazZJaGRhQWQzWlptZXN4RUI0a0x6eGNNcjZsdmdvYjFJS1ZzSHhzZThOdGMxMEpJbFQwd1pTWFJkMWpXX0xNSm1kak9hSG1oeUE5SkExTElSeWRMLTF6aVVR?oc=5",
-      "published": "Mon, 24 Aug 2026 02:47:44 GMT",
-      "source": "Open Magazine",
-      "feed": "Sugar & Ethanol",
-      "description": "Red Rot Explained: How Sugarcane’s ‘Cancer’ Turned India From Exporter to Importer Open Magazine"
-    },
-    {
-      "title": "India bans sugar exports for current season: What it means for the industry - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWnZUVGpwSjFZRXJsbUdab1lZdGNlVDltak1oUEtfYll3c1JSck9raXNLNVF6LUpwZ05VMmVfRUowYUNNVFh1alh3Y0JCc1h2QUdsQV9YUW50LVZNRVRhdlNYc3ltSl9aNXRQRjY1UFQ5S192T01GaEUteU42SkFUN2l3ZG5RakVGT2tlVlZ3ZUI2YXc1UktkdUQ0YXdzQ0tRdXhHZXFpSHlKU1lNRkd1SkszblNMWWI4SDl6NHpUVVF5aTTSAcgBQVVfeXFMTnQ2dl9pd0g1UmExN1ByblZqYno1ek0xTVBXOUYzUm50bWRwbEh4cTE2UHd3RU9IdEpMdVVjNUQtYVNHTGJiNDN0LXY4QS12WDVYRTlzcFg1Q2RteWpFUUFaU19WLThXQzNFTTExTzh5azhVNU5MYkNHOF82bDIwZU92RkQtMWdXSmVOVFJXY25WNk1qR2kxUnBNeHRwRlE2TmY5VElTQ2dGVzhTUDFmMEZnM2dKUXVoVU9LNGdhZHhtSlN0ekNaU3o?oc=5",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "source": "Business Standard",
-      "feed": "Sugar & Ethanol",
-      "description": "India bans sugar exports for current season: What it means for the industry Business Standard"
-    },
-    {
-      "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "source": "Global Agriculture",
-      "feed": "Sugar & Ethanol",
-      "description": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies Global Agriculture"
-    },
-    {
-      "title": "Behind Sugar Shock: Not Ethanol, But Over-Estimation Led To 16% Price Rise - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDZyWU1zaGZiTVlBSFgzNzBSMVdJaFM2VFEzY0gwcXUyMExGcXN1SzBMQ21pcXBoOEIwMWNyQm1CS3ptUi1ZVUJlbjJQNk54TVBtQWRYeE00VlFBRUVzcHlQWFV0Smx0dWU2bGpiVG9jXzljdHU2eTRuZjhhT0g3Nm9XMnlMM2duMlF5eWU2Q09NMU1rTXRDQktOVkg5cXFRd3k1TFR0dGRuRE91TzRqR1pfMHdPWjVLZzY0?oc=5",
-      "published": "Fri, 31 Oct 2025 07:00:00 GMT",
-      "source": "NDTV",
-      "feed": "Sugar & Ethanol",
-      "description": "Behind Sugar Shock: Not Ethanol, But Over-Estimation Led To 16% Price Rise NDTV"
-    },
-    {
-      "title": "Ethanol push: Government lifts sugar cap; industry hails 'jackpot for farmers' - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcmNBbEhIc1UyR1RjX3JDQTFUZnNBZnFibHFxRkRCVnpXeTh1RGVMRFY0NFd3MU5hOXdxcmN0bXNXZG9RbUk4NjkxbjZSQVpvd296cF90M2gydXE5Z1pRWGhLbi1HRVEyQTRlS1FLb2JYZmR3TTFXV3Vkel92Q01iNUdYdTVKNzhIckhiMDVXZEhfdDJyX3FqcVJIdUtEbWhnaXhhOVpGa1V6YUdWN2V0eTBFaURsMjBveU5ZX0ozT3BCb3d0UnpVMkJ0ZHZJUWNUMFpIdnNrQ0RLR3hjbllWOVlVU2tZWFR0SXB3R0pxODBsUdIB9wFBVV95cUxNVUszZFp0Zk1pRV93dVBRZ3VvSElwelZSQUNIQ0NsVER1WUJyOEQtRTBITjZBdVlhVVFJR2ZsZEJmRERhdUFHbUpreTgwNWdHUFVIZ3liZjE1cE9TUU1WY0JmV1J5TFIwYURlMFJaRC1EdEswZjVHNGVsMHNCZzhQVXJrOVUwWnNEY0FvTW40VDZ2Mno3eWRBZVRnTnJ2LXhXS0xMRC1hT0NVSks4RjBaRGd0WUhmbkNUQ3hKbEhTMWtDSkNkc1VUMFdTbkJiUTZmNmZ5Y3RzRWE1ZWtIVHI3M2Y0cE5EdHlnanlCUExPMTN5Smg3Ukw4?oc=5",
-      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "source": "The Times of India",
-      "feed": "Sugar & Ethanol",
-      "description": "Ethanol push: Government lifts sugar cap; industry hails 'jackpot for farmers' The Times of India"
+      "title": "Banking system surplus liquidity reaches Rs 5 lakh cr, highest in over four months - ET BFSI",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzlnMTd5ems5em9ra0JPUHRWSHBlUVVIcmtKLXBvY0V0MHN1dXJ1d25tNlkxejdhSVBzQWVkU21Dd2U0c3JoZnRvbVA3dFc5cUl1WVQwZTJRSHMta1ZsZk8taXY1MjBhMVJjUXlJVlVmM0JOY0RGWFBwenA4SUVzS0Z3Z3lIel9aLWNPNDFzbWd5VFV1YkJJcW1HLUNpMksxa3lUSE9nWHAxV1cxd1RhYk9fWm1GeUFKY0UtdlAxRU5JUkJ1YmptaFhUdndzUDBnZkN2SXhuS2FkcHhSYmRV0gHkAUFVX3lxTE1hMWZ4dldBVnB6N2JFSlYtSE14WXFKNkFBMGpyZFZTUlpUaVZEUlNYSXR2eXpqdFJPV0FLb081b0ZTUVdWLWh1VXh3M1pfSGpaM3R3cFlod1Q0cXVKTDdvZ2lVQVdGR0dfdU9SWTdmLWJUcDYweldPLS00aFUta29iUGxHTTRBVENNWEFtWmhjZjFnSk8tdWY2d3pMLURaUFlyc0pXU0Yzb0JzcXJUTGVNRGE5Z3pXZTc3NlllMFVneEtVWWRoeUlPS2FBUy1zQUl3dWQxX2NVajZxNkYtVXJpT215QQ?oc=5",
+      "published": "Mon, 31 Aug 2026 13:03:26 GMT",
+      "source": "ET BFSI",
+      "feed": "Banking & Financials",
+      "description": "Banking system surplus liquidity reaches Rs 5 lakh cr, highest in over four months ET BFSI",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "POLICY",
+        "PRICING"
+      ],
+      "signal_score": 21.2
     }
   ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 86,
-      "article_count": 18,
-      "trigger_count": 21,
+      "score": 76,
+      "article_count": 6,
+      "trigger_count": 8,
       "triggers": [
-        "CORPORATE",
         "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
-        {
-          "title": "Sugar exports may be capped, surplus stocks to be diverted to Ethanol: Food Secretary - ET Auto",
-          "source": "ET Auto",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ3liUTNrM3VOLWZVa2R6V0xFLWNlRG1VRG01S2NnOWhxTXFZQnBoS1N3UUltcElMWWd1X20xTDczX19EclRqVUdoNWZnYm1WaktUTVhUUV9RVlJqNExwOTJpc3VNUHNsY1pscVp5amxTd1lKYTNuMFZGNS01NVlmelBqcWw3VG9YT2FYZnJFWGF0SUtrcnhVZXpBZ1NTRVotQm9yRTBZMmU2ZHpjVnJuOVJFZkdTT1hKQnFVOEJ6LUVXSU5kcDlZNnBBRmZYTHc5SWY1S2pHaGtOZV8tQzhxX1pfdnpPaENyMVHSAe8BQVVfeXFMTkhxcXpVeDFBcWhSY3VCNVpkaGxwNy1uakRITGFtNGpmMm95XzQ3RGtxYy13Qmo3MlRaNWlzWk04U3luQ0lTNHowV3J4Q2RYaGlLRDdZbnc2TTFhQ2piYmtJejNjMHlvdGRGSk5oR1V3NDBrLVRYYXJtbGloNEpLVW1fOG5LaHVwRG5yN3JpVVJ6S09JSzRiWl9aZmNEdjVJR1Nwd2VwZ1pPeDAzaTg0b3EyZ3lXamstU28yTkN6OGUxR0pOWW9hZzlmN3BoenFQV1JiVGc3TEx0eTQxYlZyRDdrMGozMVlHanZnMHhLbzQ?oc=5",
-          "triggers": [
-            "TRADE",
-            "PRICING"
-          ],
-          "sector_hits": [
-            "ethanol",
-            "sugar export"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India weighs duty-free sugar imports, tighter stock limits to cool record prices - ChiniMandi",
-          "source": "ChiniMandi",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWdQa2M1WXV4aXFOSDJvbVZuZm95cDRZUkcxekhyekprcDV0bzlaaTFqNmhWMENqeFBfUGtQanJuaktUa2dNWVBneEZucVJvOGlHN28yRXRpcE0tQk1ZZ2VJRHViaW9sMW9rQVpXb1FHdUZHSnAyM0JsS1NkLVdRODZsem1NYnNLYkxzU2dxRFV2VTkwWU1NVGIzemhFTmZJQ2ZRRDZvOERCb1E?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE",
-            "PRICING"
-          ],
-          "sector_hits": [
-            "sugar import"
-          ],
-          "companies": []
-        },
         {
           "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
           "source": "A2Z Taxcorp LLP",
@@ -198,146 +40,297 @@
             "POLICY",
             "TRADE"
           ],
-          "sector_hits": [
-            "sugar export"
+          "companies": []
+        },
+        {
+          "title": "India opens sugar imports as prices climb: Where are global sugar prices headed? - Invezz",
+          "source": "Invezz",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSnRNa2pwMGFvdHZDUWpEVllsbW8wTWJsUFNoMkF2VGZYX0l4RG5uR0RfWEJyakxxRC1mZW1LU1dGa3dwbHdSa1BhQmlFMFQwbVEtZ1hpSnIxMUFvU1R0U0J4X0M0eEdrX3pRaDM0bHlGSTh6SFJNczRCLXFLajhueTNHZWNNMm1hdTZuRFE1WHhiTXFrR0Exd2JUdjV6d2FFN2prai02eDloZnM5Q0FFV2lLbDFsVlNX?oc=5",
+          "triggers": [
+            "TRADE",
+            "PRICING"
           ],
           "companies": []
         },
         {
-          "title": "From sugar exports to imports: What’s behind India’s policy U-turn? - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb3RRS2VQLTAtajlwMUxHcDdYNWgyU3dncHVhc1JaU2tSNWhJNjdlSF9xTUhJUWNxU0NjWm9tTklMYmkxc2dkWHNyN0x1aUN0R2VnRm1vQVJUVmdHSmZEcVVyOXJVZUE3d0w1SVZNeVlpaExMQ3VpbG5TdjRkSks0am9yOGVjOEduTkJRdGd1VTBHdkplb1IxbU03dVBLb0VMdzRqU1NaTTl3blZIM2NRc3QyRWZnelNJVmN3c0hDWGFxNFlJVklpQ0dvQlhPUEZ4eVdQTWh5cjh0d9IB3wFBVV95cUxPQjN4cUJWcnJLYklfWkdkM0dVUy1vdWJXRXYzSUZvR1BOa2REUXVrSUJ3OXVnSnZNVlo1TTlpOU9KQ2ZCRkFmUWJLSkp6eFZuek11U21yenBtWUpTOUtYMGV4WHBvTkVDc3pJY0VjdC1NY0M4SEdMY2xCOHp4NUQtdHBBX1lCMm1uMEU1eEZPSWRpUFhqcEg1MHNXTVJWU2VQNnd5aFdfM2xHWDZtWFRnRFRJVk1tZ0Q4cEhGNS1JVmNDTUNaTWFKRUkyQ1c1NVdpV2Y3dU1EMWlnSlhDQWVV?oc=5",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
-            "POLICY",
             "TRADE"
           ],
-          "sector_hits": [
-            "sugar export"
+          "companies": []
+        },
+        {
+          "title": "Govt actively considering industry demands to deal with surplus sugar stock: Food secretary - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDF1UDNrZkdEQWpRUW5yMm1aeTB6dC13TC1xeW15LWpmOEI5UUQ1d1ZlT3Fub3dGSGxJV3VCbDk4ckcwdWJ0NlNWUVUwaDJmeS1VbW5SbXVZTWNLUXB6MnRacDZGX3piWDN0MUNaVy1vRHNITU5CZ2dKcDdoMEVKMUpkYkNjMC1CZF9QN2lVMmZNQW96QWZDQ1ZUZnE2enByNmw3MlhONHRGelhNOTJKSGZMaWltSTkyUGc?oc=5",
+          "triggers": [
+            "PRICING"
           ],
           "companies": []
         },
         {
-          "title": "India may double sugar exports as ethanol diversion falls sharply - Business Standard",
+          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - Business Standard",
           "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVzdkelY1VkNDME1rckRTY3psRS1jaTEzTkhVY3JvUDhOc0xCVExoUGZDUHJoU3hIMVdzd3VBU09ITFNiQ0JFT1JSUUM4dUI1U1RoLWt5eE5XdElwaHEzcTZJTnVVRFA5UFlwM3VJQmlZdmV3ZjI1eHlobXhkNWViQmZKdEt4anNrbDY4VnJtcHFCQU5CRldCTHk5bkt4Mi1VaVVDQmYxZ2ozRXBlQ20wdDJfU1RPZkRFM1FQTTZVOW5qRHJMMjJuZk03YUJBQdIB0wFBVV95cUxQUzVlVXJ1Mm0xLUpMR3FXWjl5ZDdPQ0JiaVhNNjdqQ24zREFzV0ZkNWNWV0VyalRReDNnRDh5M1ZRaE1od25CUmRMT3FxUVk4enBfVnNqalhyOFNRbnlQLXNNcFBTdVhyWTc0dzdQOVhodXhSYlFpdUlGMVI1akREMVlaRW9KSTZfOVcxOGpwbXZiSUszVWVDNzdwanljYWFRSHU0MWUyRkZHclFYd29ibmItRFpNLXkyM1lyQV9LNTV0QmRFRGZzWGxnZnhULWR4NjVz?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVIzVVlXNzk5VkREeFUzTm9NczlXSUU3WjRsbGdGdnI0RTJ4R0Q3QWJuTmt5UVZLUTdiWktsQjV6OFQwRkY2SW45bE14b3dKMVFNd3JsV1Y3b2pLRzNtQS1tZFVzcFp0UUhMZkNDcld3TWZ0Sng4aXByQ3VNUmt1MXdKM2VPVVhzNmRmaV9pT3dLQmkzQm9NVl94VmpPa09LMHdGY0dpdUpZZHd2WS1VV3ppbHBnaHM4RFlJMnVFVXJOWWhjbnZFNU05aHZGYUJLdExwMTRpMHJkOTlnTy1KZjZMQmJwZ9IB6wFBVV95cUxOSzZtU05qNHQzS0RkdnVzeE5NOHREMWc4SVFCMGJGOGlVSFpkOUF6WFdjUFVwcUloM3BNS21WMWFtR0tldlFLd1RtVF9KdFN4eXgzdXkwZ2o2aVRpZ0pfLWc1X29RU1ZNcXo1VUdtLUhnUVIzbUkxMk1CQTZMMkJ3V3FIcVZPNnB5Y2hGR2lhdzVJVURSN1BPakduVDNYeGFJMHJETjNRZGdKbzRVUWxQd0U2akduaEpJSEk3cE9ZTFczQ1NPanM4NlNMS2FmeEdpTkdBdVRrWEdBMENWWEZjRlgzUEtaSkpPM1dn?oc=5",
           "triggers": [
             "TRADE"
-          ],
-          "sector_hits": [
-            "ethanol",
-            "sugar export"
           ],
           "companies": []
         }
       ],
       "confidence": "high",
-      "watch": "WATCH",
-      "reason": "Cross-signal CORPORATE, POLICY, PRICING, TRADE; 18 distinct story clusters; 5 independent sources.",
-      "source_count": 5,
-      "story_clusters": 18,
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 6 independent sources.",
+      "source_count": 6,
+      "story_clusters": 6,
       "companies": [],
       "connections": [
-        "Policy change may alter import/export or domestic supply conditions.",
-        "Pricing pressure is linked with a trade/policy change and needs verification."
-      ]
-    },
-    {
-      "industry": "Defence & Aerospace",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "companies": [],
-      "connections": []
-    },
-    {
-      "industry": "Electronics & Semiconductors",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "companies": [],
-      "connections": []
-    },
-    {
-      "industry": "Power & Grid",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "companies": [],
-      "connections": []
-    },
-    {
-      "industry": "Rail & Infrastructure",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "companies": [],
-      "connections": []
+        "Policy + trade can change domestic supply, import/export flows and realisations.",
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
     },
     {
       "industry": "Banking & Financials",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
+      "score": 40,
+      "article_count": 2,
+      "trigger_count": 4,
+      "triggers": [
+        "POLICY",
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "Banking system surplus liquidity reaches Rs 5 lakh cr, highest in over four months - ET BFSI",
+          "source": "ET BFSI",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzlnMTd5ems5em9ra0JPUHRWSHBlUVVIcmtKLXBvY0V0MHN1dXJ1d25tNlkxejdhSVBzQWVkU21Dd2U0c3JoZnRvbVA3dFc5cUl1WVQwZTJRSHMta1ZsZk8taXY1MjBhMVJjUXlJVlVmM0JOY0RGWFBwenA4SUVzS0Z3Z3lIel9aLWNPNDFzbWd5VFV1YkJJcW1HLUNpMksxa3lUSE9nWHAxV1cxd1RhYk9fWm1GeUFKY0UtdlAxRU5JUkJ1YmptaFhUdndzUDBnZkN2SXhuS2FkcHhSYmRV0gHkAUFVX3lxTE1hMWZ4dldBVnB6N2JFSlYtSE14WXFKNkFBMGpyZFZTUlpUaVZEUlNYSXR2eXpqdFJPV0FLb081b0ZTUVdWLWh1VXh3M1pfSGpaM3R3cFlod1Q0cXVKTDdvZ2lVQVdGR0dfdU9SWTdmLWJUcDYweldPLS00aFUta29iUGxHTTRBVENNWEFtWmhjZjFnSk8tdWY2d3pMLURaUFlyc0pXU0Yzb0JzcXJUTGVNRGE5Z3pXZTc3NlllMFVneEtVWWRoeUlPS2FBUy1zQUl3dWQxX2NVajZxNkYtVXJpT215QQ?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
+      "reason": "Cross-signal POLICY, PRICING; 2 distinct story clusters; 2 independent sources; 1 fresh evidence items.",
+      "source_count": 2,
+      "story_clusters": 2,
       "companies": [],
-      "connections": []
+      "connections": [
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance."
+      ],
+      "fresh_count": 1
     },
     {
-      "industry": "Auto & Components",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
+      "industry": "Rail & Infrastructure",
+      "score": 31,
+      "article_count": 2,
+      "trigger_count": 3,
+      "triggers": [
+        "CAPEX",
+        "CORPORATE"
+      ],
+      "evidence": [
+        {
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
+          "triggers": [
+            "CAPEX",
+            "CORPORATE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWDBlWFVHakdaOHFWcm9VSThiTEEzSTdua2RHazBZMk5pTzUzRWVLMF84NXZ0cWliXzliV2VXTHFuS2psbTh1d3dKWHNOb1Atc0NrZ0tNX2dOcUVYSHRodjVOcE04eVB2ZXlfUzNndXE4MTdzRHBxcFIyN3Y4cFgzRXc2NmNhQUREUE9NUEZTZUFUWE9QcUttOXBTQnZ0WGxnTmtJOTlDZ28yeFBKYU9YNklnOTRTM1VTbF9pRmQ1RGRMUnBzRmxGVGY4c3Y1MWJNTk8zUk5YT3h6eXRSWHF0VkNWV05lcDQtQWpkTDdWbkJjZ0NQSThMTlpn?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
+      "reason": "Cross-signal CAPEX, CORPORATE; 2 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 2,
       "companies": [],
-      "connections": []
+      "connections": [
+        "Corporate action reinforced by capex/orders is a stronger operating signal."
+      ],
+      "fresh_count": 0
     },
     {
       "industry": "Pharma & Healthcare",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
+      "score": 25,
+      "article_count": 1,
+      "trigger_count": 2,
+      "triggers": [
+        "CAPEX",
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "USFDA bans Ranbaxy's Toansa API plant, finds mfg violations - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUpUR01OaXgtLXR6SkpnVU1XakMzQXFGZTY0Y09jcWtEZHY5NVQ1Wm1zWW8tQ0p4cUw1bUhZc215a1Mxelh3cmFWUi11TmViVUdWSnFycFpqQmVsT0IyajFGXzZza1ZqbFlhV3NTeHN4NUlzRUJ3TmtzdkU1MDB2LVM4Mkl1c25HdHQ5YUNCUWJBQThxdlllNGxScnJsMTBFSURQaU80NW11WDA0VTBxU2lCWWhWaWVlRjRmTEp4SUzSAcYBQVVfeXFMTTRZUjJxbmtZamhUZEpVS2djeW9LSDB2OUdxRHVMc2lYam1DWnNiUFlrcnhMM0p6MTcxM2R5UDdWUXlhc1lCZWwzQlZiUFNkSzFjX0VQaW1HQmdSb2Y3QWJuVnJRMTJfeE9MZUJ3VnJWenBxVVhOdkl2aTdCbGszc1FYTW94OXJOMnhGcHZReHp1ZUYwMVA5OFFVcEt6NUJScGZFOENxS3VPQVkxYnFKM3RXazNiemhiTjBnUWlCcmdtNnkwU2dB?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
+      "reason": "Cross-signal CAPEX, POLICY; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
       "companies": [],
-      "connections": []
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Defence & Aerospace",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Tejas cleared to carry Python-5 air-to-air missile | LCA Tejas | drdo | defence ministry - Manorama Yearbook",
+          "source": "Manorama Yearbook",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3lzN2d3cDAyRW1IRXVoSGRxVlNBQ09qeFVfd2N2aXJzVWtIODM5dExsWjYtc3cySGhIbHVXZVRWUWFJYk5YWHFGWlRMOHhacy0xeFJhVUE4MXRoQWpMTldtazNoQmlObGRMazFreFZRbmw3a0Q0OVlrelpMYUR0cU5XTExKem5kQ1VUemh4LTI3YWtRRzRZeFEtN3lrSkNkRGFPRDQtbzc3MlFhQllCSzlSTUhCYW12aExXaw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Electronics & Semiconductors",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "12 semiconductor plants approved: Where India’s chip manufacturing mission stands, what’s next - The Indian Express",
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaVZIN3NCOGJkNHM4ZGE1UkJzRjBXSWp2NDBVMHdfSmdRclFSVl8taUM3bDIxR2VrX3RlaUdtYThLZjRtUUw2N2VaMk1pR2NkbmZDUGxFNURkYUZUZS1OQ21hZE1yZ3BQQWJLLVphbVY2QkJhUjF6Z2hGNmFuYlVVTG5uemp0Zkd2YnZoQVl1VTVjVl9TOHczQVhSbC04WDdkRXBCQzk5c2dZTGtNVHkyWkFDT0ZlU0xsUXM4b25tbmdnckhvS1ZR0gHOAUFVX3lxTE1iUGpxTVVzMENmeWszb2tXRHFBbThUeGFpc3lJOTZHNjIzckNJVTJ3R0Q0RE9fbHYzLUVzdUJGLTRyNHRsX3lZVDVYV3o1UjZIVlQxaVQ5ZGw3NGNsUWgtLXlnYUtZbzBVWV9VOE5sZ0hNYnVXNDhSdGhwcGRqSmtQeWFxSVA2cEpWc2xVdU5fS0FMYnZBaFdzXzU1Yk9lRUh2YlY3bGRqLXJvVHlXYXpvVXZsV0RpQWFwU01YV1lJRVZudGNVMjhQNDFuRnNB?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Power & Grid",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
+          "source": "POWER Magazine",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Auto & Components",
+      "score": 10,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
+          "source": "Autocar Professional",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": [
+            "mahindra"
+          ]
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY; 1 distinct story clusters; mixed positive/negative evidence.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [
+        "mahindra"
+      ],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
     },
     {
       "industry": "Chemicals & Materials",
@@ -350,8 +343,10 @@
       "watch": "MONITOR",
       "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
       "source_count": 0,
+      "story_clusters": 0,
       "companies": [],
-      "connections": []
+      "connections": [],
+      "fresh_count": 0
     }
   ]
 }
