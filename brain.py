@@ -25,6 +25,7 @@ from adxmug import (
     adxmug_intelligence,
     adxmug_find_industry_opportunity,
     get_adxmug_status,
+    open_adxmug,
 )
 from keyboard_mouse_CTRL import (
     move_cursor_tool,
@@ -67,6 +68,7 @@ class Assistant(Agent):
                 adxmug_intelligence,
                 adxmug_find_industry_opportunity,
                 get_adxmug_status,
+                open_adxmug,
                 load_memory,
                 save_memory,
                 get_recent_conversations,
@@ -99,15 +101,10 @@ async def entrypoint(ctx: agents.JobContext):
 
     while retry_count < max_retries:
         try:
-            print(
-                f"\n🚀 Starting ADX agent session "
-                f"(attempt {retry_count + 1}/{max_retries})..."
-            )
-
+            print(f"\n🚀 Starting ADX agent session (attempt {retry_count + 1}/{max_retries})...")
             session = AgentSession(
                 llm=google.beta.realtime.RealtimeModel(voice="Charon")
             )
-
             await session.start(
                 room=ctx.room,
                 agent=Assistant(),
@@ -116,10 +113,8 @@ async def entrypoint(ctx: agents.JobContext):
                     video_enabled=True,
                 ),
             )
-
             await ctx.connect()
             print("✅ ADX connected to room, waiting for audio input...")
-
             instructions = Reply_prompts
 
             if ENABLE_MEMORY_INTERCEPTOR:
@@ -127,10 +122,7 @@ async def entrypoint(ctx: agents.JobContext):
                     print("🧠 Fetching memory context...")
                     memory_context = await get_recent_conversations(limit=5)
                     if "अभी तक कोई बातचीत याद नहीं है" not in memory_context:
-                        instructions = (
-                            f"{Reply_prompts}\n\n"
-                            f"[RECENT CONTEXT]\n{memory_context}\n[/CONTEXT]"
-                        )
+                        instructions = f"{Reply_prompts}\n\n[RECENT CONTEXT]\n{memory_context}\n[/CONTEXT]"
                         print("✅ Memory context injected")
                 except Exception as e:
                     logger.warning("Memory injection skipped: %s", e)
@@ -145,9 +137,7 @@ async def entrypoint(ctx: agents.JobContext):
             break
         except Exception as e:
             retry_count += 1
-            print(
-                f"❌ Session error (attempt {retry_count}/{max_retries}): {e}"
-            )
+            print(f"❌ Session error (attempt {retry_count}/{max_retries}): {e}")
             if retry_count < max_retries:
                 wait_time = base_wait_time * retry_count
                 print(f"⏳ Waiting {wait_time}s before retry...")
@@ -157,18 +147,12 @@ async def entrypoint(ctx: agents.JobContext):
                 raise
 
 
-def _launch_gui(script_name: str, label: str) -> None:
+def _launch_gui(script_name: str, label: str, env=None) -> None:
     """Launch a local GUI module without making it a hard dependency."""
     try:
         path = os.path.join(os.path.dirname(__file__), script_name)
         if os.path.exists(path):
-            subprocess.Popen(
-                [sys.executable, path],
-                stdout=None,
-                stderr=None,
-                stdin=None,
-                close_fds=True,
-            )
+            subprocess.Popen([sys.executable, path], env=env or os.environ.copy(), stdout=None, stderr=None, stdin=None, close_fds=True)
             print(f"🖥️ {label} started")
         else:
             print(f"{script_name} not found; {label} will not be started.")
@@ -178,8 +162,4 @@ def _launch_gui(script_name: str, label: str) -> None:
 
 if __name__ == "__main__":
     _launch_gui("jarvis_ui.py", "ADX GUI")
-    _launch_gui("adxmug_dashboard.py", "ADXmug Command Center")
-
-    agents.cli.run_app(
-        agents.WorkerOptions(entrypoint_fnc=entrypoint)
-    )
+    agents.cli.run_app(agents.WorkerOptions(entrypoint_fnc=entrypoint))
