@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-03T16:44:10.725999+00:00",
+  "updated_utc": "2026-09-03T17:29:46.795810+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -16,32 +16,21 @@
         "POLICY",
         "PRICING"
       ],
-      "signal_score": 21.2
+      "signal_score": 21.1
     }
   ],
   "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 76,
-      "article_count": 6,
-      "trigger_count": 8,
+      "score": 72,
+      "article_count": 5,
+      "trigger_count": 6,
       "triggers": [
-        "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
-        {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-          "source": "A2Z Taxcorp LLP",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
         {
           "title": "India opens sugar imports as prices climb: Where are global sugar prices headed? - Invezz",
           "source": "Invezz",
@@ -78,17 +67,24 @@
             "TRADE"
           ],
           "companies": []
+        },
+        {
+          "title": "Average cane crushing days of the sugar mills have decreased by 20% increasing production costs, says mini - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMXlCZE5oc1BTcEIzT09xaDhmaUVzMjZBSWlXOXBKckdrc1kybEUwby02R3hWTDJzX3VMVERnR2d4N1B1WEp2VWVHMjVuNjFtLWJxUFpzd3Y1TEtha1dSaHF6SFkweDFCaXJrSUx2LXVxNXZwdnVrM1VNX1YzTllBb2Myak1XbWJtM01Ic25GWEd1MHpld25kdTl5WTlNbUd1Y3ZaWmpQT1Bzcm51MGdOeWVJTDFTUlhUT2NDTkxQR3dvNkwxZDNiNjBIclJNRy1iTjBEMWlHNXpWOTVYZ3RwbmVkU29aVTlnbkd1eEJUQmQxbFpsYXBZTjFVbUU2LUY5ekhEZWtncVM2SUdGcWg4bE1tTi1OMUxkb2phZ0NSMFBRbEVKaTFPNdIBrgJBVV95cUxOa1hYUFFvaHJ0TlZPNExnbGFiOHhCVzV4M2d3dURLcFVxSUtaSHBXWDltX3VhVV9GQmt4NHFLT00xeGdUdHhuaVJ1eE9mTEROSnp6N2JTSEdFMElWN3JiOG9xbEtROVNjRmlNN1EzWTVSSDlyTzcwRzZhY3hROHZkajhzV3ZsOHpZeERRdkdVeThuN1Q2SVRuRDZNZWQxYTBMejFtTERlemhWRkpmM0tzWVBPd3djOW1jUks5OFFWQnI3N3pTc2dRWERvV1lxclYzVWJGcmFjQWNETDhNeEJ2bmdNbUhYOEZwZFkzZUQtQV9UZFY0bHhaT2RpazItVEsxd29OYVZzN1RZazVIM0p4TUI5Tm50cXJtVUxhajBpNS03b2hnQ0IteDRXdjZKQQ?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
         }
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 6 independent sources.",
-      "source_count": 6,
-      "story_clusters": 6,
+      "reason": "Cross-signal PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
+      "source_count": 5,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations.",
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
       ],
       "fresh_count": 0
@@ -209,36 +205,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Defence & Aerospace",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "POLICY"
-      ],
-      "evidence": [
-        {
-          "title": "Tejas cleared to carry Python-5 air-to-air missile | LCA Tejas | drdo | defence ministry - Manorama Yearbook",
-          "source": "Manorama Yearbook",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3lzN2d3cDAyRW1IRXVoSGRxVlNBQ09qeFVfd2N2aXJzVWtIODM5dExsWjYtc3cySGhIbHVXZVRWUWFJYk5YWHFGWlRMOHhacy0xeFJhVUE4MXRoQWpMTldtazNoQmlObGRMazFreFZRbmw3a0Q0OVlrelpMYUR0cU5XTExKem5kQ1VUemh4LTI3YWtRRzRZeFEtN3lrSkNkRGFPRDQtbzc3MlFhQllCSzlSTUhCYW12aExXaw?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Electronics & Semiconductors",
       "score": 18,
       "article_count": 1,
@@ -299,37 +265,35 @@
       "fresh_count": 0
     },
     {
-      "industry": "Auto & Components",
-      "score": 10,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "POLICY"
-      ],
-      "evidence": [
-        {
-          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
-          "source": "Autocar Professional",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": [
-            "mahindra"
-          ]
-        }
-      ],
+      "industry": "Defence & Aerospace",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY; 1 distinct story clusters; mixed positive/negative evidence.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [
-        "mahindra"
-      ],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Auto & Components",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
       "fresh_count": 0
     },
     {
