@@ -1,55 +1,101 @@
 {
-  "updated_utc": "2026-09-03T15:39:11.066413+00:00",
-  "source": "Google News multi-feed · Business + Corporate + Macro + Global",
-  "method": "Evidence clustering heuristic; not a price prediction",
+  "updated_utc": "2026-09-03T15:55:57.624450+00:00",
+  "source": "Google News Business + Corporate + Macro + Global RSS search feeds",
+  "engine": "ADXmug Signal Engine v3 — sector relevance + leading triggers + source diversity + recency + noise suppression",
   "articles": [
     {
-      "title": "India GDP: Q1 growth defies oil shock but data faces credibility questions - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybS1BMjM5bndaZmFDVFlZRDhlTGoxMVNfeGJVOV9PYzZxUjUwcnhHbS1nMVNrcno3NUg3dEhpMG1WZURjYzBaWlk1WkhKMDJnWDBwekpNY3B1UQ?oc=5",
-      "published": "Thu, 03 Sep 2026 07:11:46 GMT",
-      "source": "BBC",
+      "title": "Flood of dollar deposits drives India bank liquidity surplus to all-time peak - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlFhdTF5STUxYzQycWJGZEZVYkJLaklkb1pMMnRsUWtiNDhmWHFVZV94NXdCS0hHckc2akw5eFg1aFc2QnhNa2hGVkplY1psR1dZRWxlVVhHVmgxVzBTYjYwX1p2b1RldDg2UU9ldTBucm5yUV9qdEN1R0RaekpjQW1zMTc2bW5hWVFrM1lrb1V2WGJOR294RVgzT0Z0UDF1eFBFaXJzRmV6Qkx3alZwSWN5QzJTR1hkby1v?oc=5",
+      "published": "Thu, 03 Sep 2026 07:10:32 GMT",
+      "source": "Reuters",
       "feed": "Google News Business",
-      "description": "India GDP: Q1 growth defies oil shock but data faces credibility questions &nbsp;&nbsp; BBC    \"Transparent On Data Sources\": Top Official Explains 7.8 Per Cent GDP Figure &nbsp;&nbsp; NDTV    'Intellectual dishonesty': SBI hits back at 2.6% GDP growth claim, says numbers compared incorrectly &nbsp;&nbsp; The Times of India    Surjit Bhalla writes: GDP data critics protest too much &nbsp;&nbsp; Th",
-      "triggers": []
-    },
-    {
-      "title": "Apple's new CEO John Ternus may have just told millions of professionals around the world that LinkedIn i - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNVWhpTDlqWjFzdEl1R1pFcVVkckZMcUlCRzNNTjJQX2N4ZzV4am5nVVM3cUZjVzNxYkk3b3VFNDc0ejZ5NDUxMWlrVTFBUE56Skg4dGs0czdWNm1zRmtLY1J4dWhmUWJ4MW1nOFJiV3pGREp1Z2hJemdXMjY1OHZ2bEhWVVVIZ1hUVHk2aGRSRXFZMmdHWllJeWMzS2VkV1F6RkthXzRDb1NHbmg5cEZBQ2x6Umc5RkZRMHNwcWVWbUdnZk5INXVNNnZUR2w3eHZGMXNfNFBRdERlbHJObVNMNkFHMVNYd0s2ZUVGdkEwb1dEX3U0bS1ZcUdqdW9RVzZHYWVzRmFqUnNveDM1YVA0ekY3MmZHTk9rNGw4dnpuSnVGQlUyUml3M2NIVFJ6d3kzN3FyZkh2VW5RT2lF0gHCAkFVX3lxTE1kZ3pYcGxELU5vZ0JkMS0tSzMzdkQxM3ZrOGF3bEczN2pJWnhFaGpmME5jWjQzZjM2cnltZERhRlJKakhQR1Z1VkNERG04OW81dm5FVFJmM3NMOUhTWFNYSXQzaDZOZnVtOTBoZUdGOGNPUGIxVjJOZXhpUUtYUC1OcWFpRDZPb0lWTGZQcGhWZjltNzF5WFVFajRRT1p2cVR5R24wYWEyTXZ4Rkl5WFRZczRYcmtsNlVsR3NGcDhZbEVfYVAzS2xaZjhHdmY2QjNrYURPRzBsS29zVFQyWk9oTVdRdGJQR1RkZUNhZ3MzSlUyelh0SVp0cHl5bkZIMUI2TmxxVVlzOVV6UEpPZEFmUzBfYzZJVU1ocnJuLS1JanV4TGs2UlB1b2FGdVlyUGZhNmFKWlZVT0t2ekVvdElia0E?oc=5",
-      "published": "Thu, 03 Sep 2026 04:40:00 GMT",
-      "source": "The Times of India",
-      "feed": "Google News Business",
-      "description": "Apple's new CEO John Ternus may have just told millions of professionals around the world that LinkedIn i &nbsp;&nbsp; The Times of India    John Ternus takes over Apple from Tim Cook &nbsp;&nbsp; The Hindu    Tim Cook shares the letters that he has been reading every single day since past 15 years: Every morning ... &nbsp;&nbsp; The Times of India    New Apple CEO joins Chinese social media &nbsp",
-      "triggers": []
-    },
-    {
-      "title": "WhatsApp will soon let you make bill payments in India - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHNYcE96YURpejlnNFFiRU1USWdnekZMTTJoenZJYTNUTmVkZ2NZMlNnM2FKODFQSXdiMmh3ZmZ3VWJ0R0tUTGNLWnduajR6blZvREdPQVpsUDJJdFZIU3BJdHZqUnllS256X28tOV9EYzJzeVMwQTZYTUNlWFFDaHZmOFFZU0xTb2N3RkJxT2xob29vMkNYOXdMMjJuZ2NabUoydnZULXd1cUxNZDhwQzQxcWpQTlnSAbwBQVVfeXFMUG1tbjJGYWRjWVozNWFRRXI2eVBRLVA0MHhaa0hCMkNTRlF5NlAtZVRRdGNNSUt3YmxTdnNiejI5cWE3cDRWNThvUEdicVhYY0JaUng1M3otMU1ubTRBZDFINFptdi1IWjQyM0dqcFJwRENFckxyemYtc3F3M2NBT0loWGhESmdMYXJXemNpOG1VcEtQbkdZNXVPSXY0cHJNT3pwZXprZzNLRkJucGNEMGVsWlphbzBVN1BWSTA?oc=5",
-      "published": "Thu, 03 Sep 2026 06:10:43 GMT",
-      "source": "Moneycontrol.com",
-      "feed": "Google News Business",
-      "description": "WhatsApp will soon let you make bill payments in India &nbsp;&nbsp; Moneycontrol.com    WhatsApp launches bill payments in India to tap into country's UPI craze &nbsp;&nbsp; The Economic Times    WhatsApp launches bill payments in India via Bharat Connect network &nbsp;&nbsp; ET BFSI    WhatsApp launches bill payments in India with 22,722 billers &nbsp;&nbsp; Indian Television Dot Com    WhatsApp ",
-      "triggers": []
-    },
-    {
-      "title": "Stock Market Today: Major Indexes Surge as Treasury Yields Decline; Snowflake Shares Soar; Nvidia Buys Hugging Face for $13 Billion - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0xCa2RGdFZHWkxScHduVkhkYXhFMFVsRnE1d0ZiU21kSXB0cXhxTVpoNVdTcFJ5OV8xR1ZLaDIxVzE0YjdqUDNrdmJ6NFlXRE5aV1VHZzUtTjVMNHVadWxDeFplaWtwOTNPSjJEbm9wTU16OTlEMXhDMzkzei16OFE3TkVNekZUNktCaGtwTUQ?oc=5",
-      "published": "Thu, 03 Sep 2026 13:36:42 GMT",
-      "source": "Investopedia",
-      "feed": "Google News Business",
-      "description": "Stock Market Today: Major Indexes Surge as Treasury Yields Decline; Snowflake Shares Soar; Nvidia Buys Hugging Face for $13 Billion &nbsp;&nbsp; Investopedia    Stock futures rise as falling Treasury yields signal less pressure on Fed to hike rates: Live updates &nbsp;&nbsp; CNBC    S&P 500, Dow futures tick up as oil prices and Treasury yields continue to let up &nbsp;&nbsp; investing.com    Stoc",
+      "description": "Flood of dollar deposits drives India bank liquidity surplus to all-time peak Reuters FCNR Inflows Complicate RBI Liquidity Management: Economists Rediff MoneyWiz Indian banks pitch FX sell/buy swaps to drain surplus liquidity, sources say The Economic Times Banking system surplus liquidity hits 4-month high of ₹5 lakh cr | Banks mobilised $65.4 bn via FCNR(B) deposits | Inshorts Inshorts Liquidity surplus tops ₹7.75 trillion on strong FCNR (B) mobilisation Business Standard",
       "triggers": [
+        "POLICY",
         "PRICING"
       ]
     },
     {
-      "title": "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZGR4ZXRRYzBoWlNxekRXdlhUV1Z6V0JDLW0yU0NueXpBZ0ZJVGxKbDZaNkVFYkdjaTlyNm9paVNwdlpEYmdBdTh5NVdrc284d0phTl9tZzIybFZDdTN2WW83M0JSdHhfemVGS09XZGVmdFZ6c2ZqTE52NUFBVHhJWF8xdHI3cHZpQ0N4QzdhS2hBNU1vVnJ4Qk1zdldxVXJyekc4ZlFYQTdkSXpKYmpJWE5RSjJkMnVEaUw1TmFWT0lIOGxuanlxM0E4aGEyWDF1Nm12c2hkZEJBZnFDcFJfa2h3RHEzM1lBZXRacS1Dejg4Zlh5RVdDb3dtRGNhRUJfdFc1T2ZOY3k5X1pnZjJDZng3ckF4b0xTZ0xJeXJxOXlWMGZubVdhTNIBrgJBVV95cUxNQ1cxOW9vZ2gxQlJSTmZOTVpTSklDMlBTOVUxYkhaMU9mV0l1MGNXU3JWYjIwbUFWdS1xVU84SWFXNnRIN2k0TTJUOVpmYk5FcTVzWlhfRS1tdXhoRldzUFVCUWJTVWU4NHR0N2tqbS1QZDQ1NWtaZWQwRERHMG1Sdk9vMGNiSjhxQUN3SVVPcWt0blZZVDNoTGVGa0VtQ29IRmRyeXlUSS10T2xXd3B1a0hRQ2ZJUnNIUG1aS250VnZDT0hubjNIZThBaUo1MmhteVZmN2JZeFZndzNrOWZHcG9zbjY4VHhZYV81T1FkOGxJZV90TTBxd25ncmRHSDNNTlNUYUVRWGFwZVp6WkQ2dGI3eFpTWjFtVm1JRDZrekVvM1ZKSVJ5ZzhIbExVdw?oc=5",
-      "published": "Thu, 03 Sep 2026 10:31:44 GMT",
-      "source": "Business Standard",
+      "title": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits - thehindu.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR2RFa1d5YVh1Qkc4RTZFQ0swVnJkeExTZEFXemZzM1VUdFY2Vmo1VWZ6Sl9KZmVHbFJTOENVblhQamZEVG8yT2g5VGVpc1IyVzVpYndpUXBxY0ZLZENtbHdxdi1WLVlobWJMdGxpUFJVLTVhZHFlbThabTZDTFh0dlFxUnRIRXh2UDRpN3B5aXlPWVlDR2FTSHJsQ0s4b3hMbXA4TzA2SUFTNkNxSnBLckJoNDRvV2EwQzhacnNJSDd6MFNFYzJycVdWZzVrQ0xBSG5TZ1BDY3BVd9IB4AFBVV95cUxNMUJ1d1FoODg3MXM1VVhJcWJuM3NkcVFOU1piTXZ3OTRHcmpzSWRZZnFQRjlqamV5QzRaNXA0NU9yQkJSWlR6WWUzN0Y1cDVDOS1lZEVUUmd5Q1U0c19ycW5LNTZFTkQtcmUzOGhJTlNaWGp1d1FPTzFRN3VZZjl4OS1iNUJWX3k2clU5elBQeFk1TjJVOW1GZnlrNkhlYjBIQUk0U1piN1dYWXV4bHpyNnZpYVB1Rk1yYnlkSGQ2aFQ5TlFRazZDWGFEQzZDalppeGV6djI1ZHkwc3RHaWJZcw?oc=5",
+      "published": "Wed, 02 Sep 2026 13:34:19 GMT",
+      "source": "thehindu.com",
       "feed": "Google News Business",
-      "description": "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform &nbsp;&nbsp; Business Standard    Stock Market Today Highlights: BSE Sensex plunges over 400 points, NSE Nifty50 closes below 24,000 &nbsp;&nbsp; The Times of India    Closing Bell: Sensex down 417 points, Nifty below 23,900; IT, FMCG drag, realty, banks shine &nbsp;&nbsp; Moneycontrol.com    Stock",
+      "description": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits thehindu.com Reserve Bank of India faces about $11 billion bill on foreign deposits plan Moneycontrol.com Explained: What $127 billion FCNR(B) inflows mean for ICICI Bank, HDFC Bank, other bank stocks The Economic Times India draws $136 billion in forex inflows, will strengthen ability to defend rupee Scroll.in India draws record $127 billion through forex deposits: RBI timesofindia.indiatim",
+      "triggers": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "PM Modi Urges Indians To Holiday At Home, Assam CM Says 'Start With Assam' - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjI1dlRTSHYtVUVVZXN3Yy14MGEyeUM1RGlMd0swYUQwYjJpbjJ3TXNORlpPbHotejE5dXFxdV9rMUE1ZTFiQzVFVkFHTlBDZXVoRVljR3RWOVh4SC1aQVZjV1N0OEkwR0laZGliWVFxVlh0LXRla2NmSVpHZ2otdHJ1bW53Y0hSYmVfcHRKdDBjZEVhbDBrdXBxR0YxYWh1c0hBY1o3Nmw1Z2Fi0gG0AUFVX3lxTE1sQU1GRjhLanhVVzJEalpEYzJweVEtNzNFZVkwaTM4MktMUTRBZ3h2WUN3N1ZGNkR2QlU2QXFDYk52QlNQdzhEVGxLYklHeUI1Q3I5ZDZJaWhURDF5Vnd2cGFscXJmLTFObVFENUVjNE5rWnlCd1BhTmthTGxKVG5oWG1NYjVvSjBFV0VMQXBVZWpGWFpQa1I2eFRQQ25PdUwxcFMtXzB5OXd3Q1N4ajJBZF9CaQ?oc=5",
+      "published": "Wed, 02 Sep 2026 12:12:26 GMT",
+      "source": "NDTV",
+      "feed": "Google News Business",
+      "description": "PM Modi Urges Indians To Holiday At Home, Assam CM Says 'Start With Assam' NDTV Must balance ‘economic patriotism’ with cultural heritage: GJC on PM Modi’s call to stop gold purchases thehindu.com PM Modi renews call to embrace Swadeshi goods, avoid unnecessary purchase of gold & destination weddings abroad newsonair.gov.in Gold imports may fall 15% in September after PM Modi’s call to curb purchases The Economic Times PM Narendra Modi's gold-buying appeal triggers fresh anxiety among small jewe",
+      "triggers": [
+        "ORDERS",
+        "TRADE"
+      ]
+    },
+    {
+      "title": "India’s Rs 4 lakh crore data centre bet runs into a power supply, cost squeeze - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGhrWE1YUmpQd05PRVk3MWEtdmZmYWw5c1U5Q2ZQQTBfWURnOWtKQmU5NGVNVTVuNDdyb2ZseEQyNXdFdWZlMXJhLVA3NjlzUmlzenoybWluQWFLNXEySUtrcUJsZlNrWXQ5bGItdV9zcUJtbU9acWlNcXRLUUx0Sl9JY3o1TF9BUFFGUm1GampjVnhRMU9RS0ZqeWZYU244ejFnM2hLeUNWaklmcFBYbi1uQ2pjM3BQZmNwb08tc3NUbkpJUE8yenlCWWRhYXfSAdQBQVVfeXFMTmE4aFFYbFQzbXMyZWI4NVF2STc3ajJHcWhuQnQ1NXNWcThfdFVWRWhsT2h0cFFZQlA2ODhhb0pwNFZsLUY4ZjJKeC0tRndOcTVkbkNYSFZWTkhDMjZqV3lBcUFlOUQyaHBOLUQtT21tVlFicFJrUW9YTU80LXZUYzVUcUM0MkVlSjRiZWtNRjl2V0h5Yk9rbnYzXzZiaWctNzdiNG10U0t5Tk04YXlwVUZXZDJYX1FTX2tvcTJiR011aERScEpTUnhkSzdGaEVrTnRLeWo?oc=5",
+      "published": "Wed, 02 Sep 2026 11:16:35 GMT",
+      "source": "Moneycontrol.com",
+      "feed": "Google News Business",
+      "description": "India’s Rs 4 lakh crore data centre bet runs into a power supply, cost squeeze Moneycontrol.com India’s data centre boom is colliding with its climate reality thehindu.com India is the world's best location to set up data centres: Piyush Goyal ET Government Why India is winning the cloud investment race EY Artificial Intelligence-led growth to turn India into 6 GW data centre hub by 2029, attract $110 billion: Report Hindustan Times",
+      "triggers": [
+        "POLICY",
+        "CAPEX",
+        "PRICING"
+      ]
+    },
+    {
+      "title": "Japan top currency diplomat Mimura declines to comment on whether rate checks were made in the FX market - Forex Factory",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHAtSFZQRlRlcGtSVlVnb0pJMU9JV0k1Y0JMRWQ5NG9fVXROVzZxNG1wNVE5dEpVVTl4UHBBNFM5N2xiVWdLSjMwMkMyTDdkRk5iNjA2dkctMVM0Zmt5bGw1S0FCMkZDUS1heWg5MFdzTXp2OXp2bmwzWFFuOVQyUlQ3TThhcnlncW1GQlRjanE5NjMwYkJMdkpJdGzSAaIBQVVfeXFMUDR3dHZobmR0ZGNNRnZjN0tzYlpFWGZ1MGU4VXVFVlJ6SEtpWXN2Mk1pRTk4Yl9XbTR5NmVpQzZMakY5WnBfaUp2eWR5MHJoZ0gtSTdNMG5Deng0dk96aV9DUURxQ3VhZ0x3YzVtcHdkZXJpVUNJVU1VdVNlVE1ZbTB0RnozUHFfUHVaODJaTENraTRHSzVLeGR1dGpmUmtOc2hB?oc=5",
+      "published": "Thu, 03 Sep 2026 09:05:07 GMT",
+      "source": "Forex Factory",
+      "feed": "Google News Business",
+      "description": "Japan top currency diplomat Mimura declines to comment on whether rate checks were made in the FX market Forex Factory Yen soars as Bank of Japan tipped to raise interest rates theguardian.com Yen jumps to one-month high as traders weigh chance of further intervention CNBC Yen surges as traders bet on Japan interest rate rises Financial Times Why is the Japanese yen rallying today? By Investing.com in.investing.com",
+      "triggers": [
+        "CAPEX",
+        "TRADE"
+      ]
+    },
+    {
+      "title": "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report - kitco.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjFSOFlsdUlVcnAzWHpCdEVwZ0pfR0xMWlhvcm9yajRpNmhCMWNTZ3BZUU8xaDJ1aUJvZVJONllqcHJhVWhuYVNkNEpwRHpHeUFkQ1VETi1QUUNIbUs4LXg2ckdiUzhHQzlzUHVQWHVFYmppMndwMERiak8zQWtKci1ydmpEa2RLc1luLUR0TUNONkpGNkN5MW9maEhyWkVSdzg4Wl9rOHhOdlc0YW9WT09sVQ?oc=5",
+      "published": "Thu, 03 Sep 2026 05:45:45 GMT",
+      "source": "kitco.com",
+      "feed": "Google News Business",
+      "description": "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report kitco.com Gold price prediction today: Will gold, silver prices continue to fall? Check September 2, 2026 outlook timesofindia.indiatimes.com XAU/USD: Gold Slides Below 200-Day Average as Yields Defeat Safe-Haven Demand TradingView Jeera trading range for the day is 20760-21680 - Kedia Advisory Investment Guru India Gold retreats 6.66% from $4,663 peak; can prices hold crucial $4,300 support Moneycontrol.com",
+      "triggers": [
+        "CAPEX",
+        "TRADE",
+        "PRICING"
+      ]
+    },
+    {
+      "title": "Oil near multi-week highs after fresh Iran strikes; Trump says war won’t last long - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjltZFR3WVNwLXdybkRkTmVKcEJBbzJhVWNDbnQzaEN5Nlh0YjJRZjQ3V0J2aFljZVpYYnc2bDFoZkNtRWd6NUk1a0pvMTZPaXhUaC05Q3ZOd2ZUVWp2Tld3ZjRzd2R0X1U2ekZEaUFOQTFsVGZwbDV6RS01T2QwejVSdWpiSmlVSW9rVWlnNlk0QlFXd0M4RUc3RVZ1cV8yS2Z5TkZYNURBWlR0Rnk3aXV4Z1dBbnZhbzZqakdmbGNfbE0?oc=5",
+      "published": "Thu, 03 Sep 2026 01:04:19 GMT",
+      "source": "Investing.com",
+      "feed": "Google News Business",
+      "description": "Oil near multi-week highs after fresh Iran strikes; Trump says war won’t last long Investing.com Oil prices hit fresh 6-week highs on renewed Middle East tensions Reuters Brent Crude at Highest in Six Weeks on Fears U.S.-Iran War Could Drag WSJ Wall Street rises as bond yields ease despite oil spike in US-Iran war India Today Crude oil futures trade lower as US targets Iran’s rocket and radar systems BusinessLine",
       "triggers": [
         "TRADE",
+        "PRICING"
+      ]
+    },
+    {
+      "title": "2026 Tata Curvv Series X Launched At Rs 10 Lakh; Lower And Mid Variants Now Better Equipped - CarDekho",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc1pScnJ2V2lHdGY4cVNJUUxOSEhvVERnVWh4Q0F1aXZpa3VqT3VleHh0WGV4cFZfTi1ha3ZEc1F6OXhhN2UwZzhHOFBacm9fQmNGUkJMazRibFNlSjh5QjFVeXR1RVE4WE1HTUIyX3VRZENySDFacUZ6VnBkaVFseXFNZ2JYU3FKTi1lLWVkUzhiU2xWenA1YjJVTk93Wm9ieERBT3N3MmJ4dzc4NHlMaTlLZ1hNVzc1bTJlRUdUcnJydDlpd3NMS0J6MWYwOWlZakdsNHpJZ9IB3wFBVV95cUxPOHRXQWtySzZrckFSUWRNbHpYb1hSM3U5MGx5enVJOEd3M2pmczFZUGxTQ2laaC1aZl8tNDlJM0RqOUZZd1puSXlfV1JNNW5mVW9LZkhpTzVvX183dzl0cldXTGJGbUNNeWVNeGFncDExQUJtenhqNVB4bFBOVl9ST1p6UEJub2FFZkJIZkJxay0wS0dYOWF4c1pjcHkyTFFOOHdiWDY5TFY5b05zRHlrYm1fMVU4ME40azB5VUhMNEkyaTZ4VE5kOGtCWmxBdjRsNDNyQmhsMEZhek5MQnRr?oc=5",
+      "published": "Thu, 03 Sep 2026 09:43:00 GMT",
+      "source": "CarDekho",
+      "feed": "Google News Business",
+      "description": "2026 Tata Curvv Series X Launched At Rs 10 Lakh; Lower And Mid Variants Now Better Equipped CarDekho Tata Curvv Series X launched at Rs 10 lakh Autocar India Tata Curvv Series X Launched: Variant-Wise Prices And Feature List NDTV Tata Curvv Series X launched at ₹9.99 lakh: Check variants, features and prices The Economic Times Tata Curvv Series X Launched: More Features, New Variants And Prices From Rs 9.99 Lakh Motoroids",
+      "triggers": [
         "PRICING"
       ]
     },
@@ -59,10 +105,33 @@
       "published": "Thu, 03 Sep 2026 04:42:00 GMT",
       "source": "Reuters",
       "feed": "Google News Business",
-      "description": "India's $136 billion dollar haul aids rupee but raises future risks &nbsp;&nbsp; Reuters    Rupee jumps 47 paise to 94.26 against U.S. dollar in early trade &nbsp;&nbsp; The Hindu    Rupee gains to 94.27 vs USD as RBI measures bring in bumper $136 billion &nbsp;&nbsp; ET BFSI    Rupee rises 14 paise to close at 94.59 against US dollar &nbsp;&nbsp; rediff.com    Robust FCNR(B) inflows: Rupee opens ",
+      "description": "India's $136 billion dollar haul aids rupee but raises future risks Reuters Rupee jumps 47 paise to 94.26 against U.S. dollar in early trade thehindu.com Rupee gains to 94.27 vs USD as RBI measures bring in bumper $136 billion ET BFSI Rupee rises 14 paise to close at 94.59 against US dollar Rediff Robust FCNR(B) inflows: Rupee opens 67 paise stronger at 94.30 per USD BusinessLine",
       "triggers": [
         "POLICY",
         "TRADE"
+      ]
+    },
+    {
+      "title": "Tukaram Mundhe's FDA action: Maggi, Lay’s, Kurkure packs found with fake expiry dates in Mumbai were meant for export - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMzhXRGtXWjhHd21pUjRvSFBFNU9ObFRKdGZibndncTBRTG96WlZiX0tyazlDVV9zSU1OWHJ6bEI2cXRyOU1tUzNlRHFVU2N5a0szaHBwNmptdDJuY2VMMlNMdUhpR2FVaV9kVE1jUFE2LWZjSnFKMzBRWnJMM3drU3M2Z2RyTXNxaWNXY21teDY0WjFONmpHNlc4UFFYZDRGUzNZTXQyeFJreEM4ZjN3R2Vxd2sxYlNibW1WdEg1bzBuVlZOTzRlUDZiSWprR2dHUDFYbzFzbWVReGtpd1d6NG5QY3IwUTdZcXJtYkstTFgxeUNvZmtTcVlZMDRId9IBgwJBVV95cUxPejNCREZqR3hQd3RIWUNDQjBYQTdENEFvUnFldDhjMDFkS0NFd0Jka25xYlhUSVdVZXFHR1pxLWdaZVRqVVJZTlh5X0ZVM2hZcXlyWE43ZkVHNXVVZ0ZIMHEzdnZtNmJfV29CdTZLMnI5aGdwMWNiQlJjTDJTcHhlYkw1azdVNEpubVNSSEctRXRDTV92SUM5bmFEYUhFMGxZbUFvQlFFck9XQzdGdFNBaXJpbVVURjRteUxzdWZWMXFqRHdkRTd5VnYtQjNRdFJYeXlaYkRGbmRKY2E5Nk1LTHN1NGQ4RW81R3pPbFVNT3JxcGxlRVVsSUo5TVlST3g3N09z?oc=5",
+      "published": "Wed, 02 Sep 2026 11:14:45 GMT",
+      "source": "Livemint",
+      "feed": "Google News Business",
+      "description": "Tukaram Mundhe's FDA action: Maggi, Lay’s, Kurkure packs found with fake expiry dates in Mumbai were meant for export Livemint Tukaram Mundhe Calls Altered Expiry Dates And Nutrition Labels A 'Breach Of Public Trust' NDTV ‘When a label lies, consumer pays price’: Tukaram Mundhe after FDA busts PepsiCo, Nestle, Coca-Cola products Hindustan Times What’s in your Maggi, Kurkure packets? FDA busts Rs 75-lakh racket in Navi Mumbai The Indian Express Navi Mumbai raid unearths relabelled expired Lay’s, ",
+      "triggers": [
+        "TRADE",
+        "PRICING"
+      ]
+    },
+    {
+      "title": "The bond market rout is global. Here’s what’s driving it - CNN",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IZWR5QkVyVDlUMnhwWk9pNkZpWjhPRkpXVkIyNEg0eVZEQmlqR0g5eVpDSWpBUVI3VFNodHJ6TkhObGZUTENsa2ltMk1hLXUweG52UmRjRDBUVUFIbUVZb3YzbTRnV2NHTUh2QnZtZXY5U0hYNnBhYTNtRQ?oc=5",
+      "published": "Thu, 03 Sep 2026 14:21:32 GMT",
+      "source": "CNN",
+      "feed": "Google News Business",
+      "description": "The bond market rout is global. Here’s what’s driving it CNN The world appears to be entering a higher-rate era. Here’s who will pay the price CNBC The US Treasury Crisis and the Threat to Dollar Hegemony Frontline Magazine The war is raising the price of money. That’s a problem for the global economy CNN Scott Bessent is trying to stabilize America’s debt market as a major buyer pulls back: Chart of the Day Yahoo Finance",
+      "triggers": [
+        "PRICING"
       ]
     },
     {
@@ -71,312 +140,406 @@
       "published": "Thu, 03 Sep 2026 13:29:47 GMT",
       "source": "The Economic Times",
       "feed": "Google News Business",
-      "description": "Aditya Birla Group launches Ultravolt with Rs 1,800 crore bet, debuts as India’s No. 2 wires player by cap &nbsp;&nbsp; The Economic Times    Broker’s Call: UltraTech Cement (Buy) &nbsp;&nbsp; BusinessLine    Polycab, KEI shares fall up to 7% as UltraTech Cement forays into wires and cables segment with production... &nbsp;&nbsp; Moneycontrol.com    Buy Ultratech Cement Ltd For Target 15,210 by Ch",
+      "description": "Aditya Birla Group launches Ultravolt with Rs 1,800 crore bet, debuts as India’s No. 2 wires player by cap The Economic Times ‘Rapid rise of data centres’ to fuel wires and cables boom, says Kumar Mangalam Birla Moneycontrol.com Broker’s Call: UltraTech Cement (Buy) BusinessLine Buy Ultratech Cement Ltd For Target 15,210 by Choice Institutional Equities Ltd Investment Guru India Equirus on UltraTech's cables entry and whether it's time to buy the dip in Polycab, RR Kabel and KEI CNBC TV18",
       "triggers": [
-        "CAPEX",
-        "PRICING"
+        "CAPEX"
       ]
     },
     {
-      "title": "Gold, silver price prediction: Will gold drop to Rs 1.4 lakh/10 gms? Check outlook on September 3, 2026 - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOMGpNbGl2cFVxaVlYeGxIUE9GUUJ4bjZCUmNvcjlKWDltNjFGd2JCcUF2UnpPZlJGVGxIMzJTUnMxaUlpc3Bjck5CdjFacHFMcy11Y1EzY202NFVrb2tqUXc2YUZoX0JiVm1QSWwzSndqdUVnU1J2Sk50VThCTUFmYmRUVjdWc0dVNG43ODMzTVBseVUxdFJBSVZBaXFSMjcxTnUxbWlaRkRSN0E0ZjlvU24xVGQ2TXFZZlFhMHh1Q1d2UmFWUlNleENGQTZfa1N0ZXVwbEVLekQ5bE5iTy10dmFBZjluY0VJdWkxQ082TWZBMkJCV0hGR19td2Frd0VlcUlSa2FYdHRNM0owbjdwb0t3NHVKX2dNX1l1WGRDYlg4cEo3eUQ1UjJ1T050UDEyMXljZE5EODRKX1k?oc=5",
-      "published": "Thu, 03 Sep 2026 05:57:00 GMT",
-      "source": "The Times of India",
+      "title": "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZGR4ZXRRYzBoWlNxekRXdlhUV1Z6V0JDLW0yU0NueXpBZ0ZJVGxKbDZaNkVFYkdjaTlyNm9paVNwdlpEYmdBdTh5NVdrc284d0phTl9tZzIybFZDdTN2WW83M0JSdHhfemVGS09XZGVmdFZ6c2ZqTE52NUFBVHhJWF8xdHI3cHZpQ0N4QzdhS2hBNU1vVnJ4Qk1zdldxVXJyekc4ZlFYQTdkSXpKYmpJWE5RSjJkMnVEaUw1TmFWT0lIOGxuanlxM0E4aGEyWDF1Nm12c2hkZEJBZnFDcFJfa2h3RHEzM1lBZXRacS1Dejg4Zlh5RVdDb3dtRGNhRUJfdFc1T2ZOY3k5X1pnZjJDZng3ckF4b0xTZ0xJeXJxOXlWMGZubVdhTNIBrgJBVV95cUxNQ1cxOW9vZ2gxQlJSTmZOTVpTSklDMlBTOVUxYkhaMU9mV0l1MGNXU3JWYjIwbUFWdS1xVU84SWFXNnRIN2k0TTJUOVpmYk5FcTVzWlhfRS1tdXhoRldzUFVCUWJTVWU4NHR0N2tqbS1QZDQ1NWtaZWQwRERHMG1Sdk9vMGNiSjhxQUN3SVVPcWt0blZZVDNoTGVGa0VtQ29IRmRyeXlUSS10T2xXd3B1a0hRQ2ZJUnNIUG1aS250VnZDT0hubjNIZThBaUo1MmhteVZmN2JZeFZndzNrOWZHcG9zbjY4VHhZYV81T1FkOGxJZV90TTBxd25ncmRHSDNNTlNUYUVRWGFwZVp6WkQ2dGI3eFpTWjFtVm1JRDZrekVvM1ZKSVJ5ZzhIbExVdw?oc=5",
+      "published": "Thu, 03 Sep 2026 10:31:44 GMT",
+      "source": "Business Standard",
       "feed": "Google News Business",
-      "description": "Gold, silver price prediction: Will gold drop to Rs 1.4 lakh/10 gms? Check outlook on September 3, 2026 &nbsp;&nbsp; The Times of India    Gold, Silver prices down &nbsp;&nbsp; News On AIR    LIVE! Gold breaks losing streak, rises to Rs 1.59 lakh/10g &nbsp;&nbsp; rediff.com    Gold Rate Today, September 2: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities &n",
-      "triggers": [
-        "PRICING"
-      ]
-    },
-    {
-      "title": "Lay's, Kurkure, Maggi Expiry Dates Altered In Multi-Crore Racket In Mumbai - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3BQNkpfSTJyV2V3ZU5BajBvdVVMVGpib1NNbHljWFM3Q2w0TTJhbnFkSkJia19ZczVMdno2UEVKSjJUT1QyY21QQzFUQkRxWnhKUVVtYTVDV24yNy10Vk1PZkgzU01TV05xOEYwVHpsZXdvRTYxVFB0aEJ0aE1NN0gzc0NfcUp4cURybHpKWTZSZmJRa214Q2JBelduYUpGQVpjcEVSYkl5M21wZDJqVzhB?oc=5",
-      "published": "Mon, 31 Aug 2026 16:27:58 GMT",
-      "source": "NDTV",
-      "feed": "Google News Business",
-      "description": "Lay's, Kurkure, Maggi Expiry Dates Altered In Multi-Crore Racket In Mumbai &nbsp;&nbsp; NDTV    Tukaram Mundhe Calls Altered Expiry Dates And Nutrition Labels A 'Breach Of Public Trust' &nbsp;&nbsp; NDTV    Canada assesses risks to imports after India raid finds fake labels on food products &nbsp;&nbsp; CTV News    ‘When a label lies, consumer pays price’: Tukaram Mundhe after FDA busts PepsiCo, N",
+      "description": "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform Business Standard Closing Bell: Sensex down 417 points, Nifty below 23,900; IT, FMCG drag, realty, banks shine Moneycontrol.com Stock markets tumble in early trade on escalating tensions in West Asia, higher oil prices thehindu.com India shares lower at close of trade; Nifty 50 down 0.17% in.investing.com Stock Market Today Highlights, Sept 2: Sensex ends 373 pts lower at 76,570, Nifty below 24,0",
       "triggers": [
         "TRADE",
         "PRICING"
       ]
     },
     {
-      "title": "Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5% - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMjVjc2xjM3ZjVXpRT2FwMUdVa1A3a0kybHRaU0hES3J3NzFDZUVoeXhtV1VHS1cwTEsyZWhzbHA5RkZ6TXlPbmFYN0htc003bnliZHBxYzh1XzlFNjFqc0UyNm9nZ2NwcjdPTDZSSC1GMGlCc3h5dDJuWUxqM0MzVnM1ZkVGWkpfN3dFLVpXSGJaVWJrQ3djaUg3Q1p1S0dxaUlXWk01UkZuemVpQ3FZaFZTb2pnRDlKREdDTzJ0TDZ1RldhX09oVERlSHR6emx3Z3NybkI4UC1peTdSSEFxcjVQQmpYU19VckJUQzg1b0d5dHpfWmx4TEdYM3c0dDhYdWh0TE5VUdIBjAJBVV95cUxOMzFJMDMyTFYySXBFLWZaSEpvNHF6YnduSDE5OVZjdnB5ZEJWWDZtdERzRUlkYmVJbWFVclJKa3pxanczNE82cHl4aFVEWlZoOHJseUcwSWt5d0xUb3ZjaThYT3ZKN2wxanNGUFBnT3Y4cVdGR1Z4VENTNzFmOXFVc0s3OGFVb3JlWEt0TDRfeEF5STV3U1loY2pQVVpGU2RXN3hka1ZsVXFDRDY4Q0dlOHRLWFFla1kwMmg1amZkVVRlSVZEU0ltYjRwU2cyYmZWdFFQdGNUNmZ0WkJmRk1UNWJuejQ3bGJ3RlJlVHlIVzJWWmZwNlBvN1JuN2p0NU03elZqVXBScXRXeEJH?oc=5",
-      "published": "Wed, 02 Sep 2026 07:28:02 GMT",
-      "source": "The Economic Times",
+      "title": "India GDP: Q1 growth defies oil shock but data faces credibility questions - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybS1BMjM5bndaZmFDVFlZRDhlTGoxMVNfeGJVOV9PYzZxUjUwcnhHbS1nMVNrcno3NUg3dEhpMG1WZURjYzBaWlk1WkhKMDJnWDBwekpNY3B1UQ?oc=5",
+      "published": "Thu, 03 Sep 2026 07:11:46 GMT",
+      "source": "BBC",
       "feed": "Google News Business",
-      "description": "Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5% &nbsp;&nbsp; The Economic Times    The world appears to be entering a higher-rate era. Here’s who will pay the price &nbsp;&nbsp; CNBC    The US Treasury Crisis and the Threat to Dollar Hegemony &nbsp;&nbsp; Frontline Magazine    The war is raising the price of money. That’s a problem for the ",
+      "description": "India GDP: Q1 growth defies oil shock but data faces credibility questions BBC ‘Ill-educated, egregiously wrong’: World Bank ED Mishra on row over GDP data thehindu.com Congress ups the ante over Modi govt's 7.8% GDP, Adani calls India 'growth story of century' Telegraph India 'Intellectual dishonesty': SBI hits back at 2.6% GDP growth claim, says numbers compared incorrectly timesofindia.indiatimes.com India’s growth story becoming source of confidence, new opportunities for world: Modi The New",
       "triggers": [
         "PRICING"
       ]
     },
     {
-      "title": "Crackdown on Dirty Kitchens Rides Wave of Web Anger in India - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0ZybzdJQjh2OEMyUTlyOFppMnVLbkN0OWxnTDJZOGxJcW52ODl1LUlXYzJ3N3gyTGZraGRSZ0pOTGZ3QzNURnBKcFNDOHRqRTViRDA3cEFfblZWQ19FVjJRQV9rOElvVUhsRTFRNTd1dnoxLVFnT0FlMC1aeXY2a0hrQkRQQUFpdXF3UVo0aGtDRklVTFRTb0dxNVNqLXFPdllIZ1J3NktNSEx2RE5uUUxESlg?oc=5",
-      "published": "Wed, 02 Sep 2026 09:28:42 GMT",
-      "source": "Bloomberg.com",
+      "title": "WhatsApp will soon let you make bill payments in India - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHNYcE96YURpejlnNFFiRU1USWdnekZMTTJoenZJYTNUTmVkZ2NZMlNnM2FKODFQSXdiMmh3ZmZ3VWJ0R0tUTGNLWnduajR6blZvREdPQVpsUDJJdFZIU3BJdHZqUnllS256X28tOV9EYzJzeVMwQTZYTUNlWFFDaHZmOFFZU0xTb2N3RkJxT2xob29vMkNYOXdMMjJuZ2NabUoydnZULXd1cUxNZDhwQzQxcWpQTlnSAbwBQVVfeXFMUG1tbjJGYWRjWVozNWFRRXI2eVBRLVA0MHhaa0hCMkNTRlF5NlAtZVRRdGNNSUt3YmxTdnNiejI5cWE3cDRWNThvUEdicVhYY0JaUng1M3otMU1ubTRBZDFINFptdi1IWjQyM0dqcFJwRENFckxyemYtc3F3M2NBT0loWGhESmdMYXJXemNpOG1VcEtQbkdZNXVPSXY0cHJNT3pwZXprZzNLRkJucGNEMGVsWlphbzBVN1BWSTA?oc=5",
+      "published": "Thu, 03 Sep 2026 06:10:43 GMT",
+      "source": "Moneycontrol.com",
       "feed": "Google News Business",
-      "description": "Crackdown on Dirty Kitchens Rides Wave of Web Anger in India &nbsp;&nbsp; Bloomberg.com    Brands step up kitchen vigil, compliance amid crackdown &nbsp;&nbsp; brandequity.economictimes.indiatimes.com    India’s widening food safety crackdown rides wave of online anger &nbsp;&nbsp; ThePrint    FSSAI raids put restaurants, quick-commerce firms on alert &nbsp;&nbsp; Storyboard18    Crackdown on dirt",
-      "triggers": []
+      "description": "WhatsApp will soon let you make bill payments in India Moneycontrol.com WhatsApp launches bill payments in India to tap into country's UPI craze The Economic Times WhatsApp launches bill payments in India via Bharat Connect network ET BFSI WhatsApp launches bill payments in India with 22,722 billers indiantelevision.com WhatsApp launches bill payments in India: How to pay electricity, gas, water bills on messaging app Hindustan Times",
+      "triggers": [
+        "PRICING"
+      ]
     },
     {
-      "title": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR2RFa1d5YVh1Qkc4RTZFQ0swVnJkeExTZEFXemZzM1VUdFY2Vmo1VWZ6Sl9KZmVHbFJTOENVblhQamZEVG8yT2g5VGVpc1IyVzVpYndpUXBxY0ZLZENtbHdxdi1WLVlobWJMdGxpUFJVLTVhZHFlbThabTZDTFh0dlFxUnRIRXh2UDRpN3B5aXlPWVlDR2FTSHJsQ0s4b3hMbXA4TzA2SUFTNkNxSnBLckJoNDRvV2EwQzhacnNJSDd6MFNFYzJycVdWZzVrQ0xBSG5TZ1BDY3BVd9IB4AFBVV95cUxNMUJ1d1FoODg3MXM1VVhJcWJuM3NkcVFOU1piTXZ3OTRHcmpzSWRZZnFQRjlqamV5QzRaNXA0NU9yQkJSWlR6WWUzN0Y1cDVDOS1lZEVUUmd5Q1U0c19ycW5LNTZFTkQtcmUzOGhJTlNaWGp1d1FPTzFRN3VZZjl4OS1iNUJWX3k2clU5elBQeFk1TjJVOW1GZnlrNkhlYjBIQUk0U1piN1dYWXV4bHpyNnZpYVB1Rk1yYnlkSGQ2aFQ5TlFRazZDWGFEQzZDalppeGV6djI1ZHkwc3RHaWJZcw?oc=5",
-      "published": "Wed, 02 Sep 2026 13:34:19 GMT",
-      "source": "The Hindu",
-      "feed": "Google News Business",
-      "description": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits &nbsp;&nbsp; The Hindu    How India's RBI could tackle a liquidity deluge triggered by dollar deposits &nbsp;&nbsp; Reuters    India RBI Faces About $11 Billion Bill on Foreign Deposits Plan &nbsp;&nbsp; Bloomberg.com    NRIs Pour In $127 Billion As Reserve Bank's Dollar Scheme Beats Targets &",
+      "title": "Iran-US interim peace deal may support India's growth but inflation and fiscal risks remain: RBI - timesofindia.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZl94OFdZcHlfUUNIejZjZEQ2T3hnVXhmU0E0aERGUlZOdE1jc0V4TVQxa2ZyS0NMeU8tTW1ZWnlFMGNCbWxwWnV0amg1LUh1LVgzdV9UWGhMZENleDNKNlpyRmE2RGhFQk1HcV84T2Fzb2RHM0pXb0MxRFJqT3JOVU1UdDRxVlV3VEZTSlZkWWRSLXZEVTlDM1hQOG5OU1U5MVpaZVVOcXJPRS1zY3llRnhVMk1hY3BMTGRYTk9ZR1p3N2FWLWdzTEhMZmc0Ym43ZkVSQjVVV0h6MVptclQzN3NvNlBtQjR3WGJlUDJ5T0h2VDBLQkxLdDhzcnNscENvZmRBckNudTJMQzVx0gGSAkFVX3lxTFBTS3Bodkk2ZWRXNWlCWHg0RV8xQ3IzZTQ4NUNRQ0s5UVBxWU9TR04wT0ZtdXJ3Z3A0bFYxRzJvakc4QjllQnNJNWtUdUVtUUVURjlfRFlwYk5Mb1NQM3lNZll4Um9KZWtwaXhhQ0JxSF9zUUlyVkJOV1RkSDFQVGtJeUt0bHA3SGlibGNmYWw0eTVieEYxRTBBOVA4TkZhRTJRenYzb0NYNUhfTFFWNlRvLW9kd2NoLWZjQkFBWHh2VS1MU1lPMVlWblBTQ21Xby03UmZYWWZWQmRCdnpEYnVRMmgwSExlNmtxbm1yQ2taN0dad3hvUG5BbkpKZHlSVlFERWRkdDA0R1dsT05YZjdsRFE?oc=5",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "source": "timesofindia.indiatimes.com",
+      "feed": "Global Intelligence",
+      "description": "Iran-US interim peace deal may support India's growth but inflation and fiscal risks remain: RBI timesofindia.indiatimes.com",
       "triggers": [
         "POLICY"
       ]
     },
     {
-      "title": "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report - KITCO",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjFSOFlsdUlVcnAzWHpCdEVwZ0pfR0xMWlhvcm9yajRpNmhCMWNTZ3BZUU8xaDJ1aUJvZVJONllqcHJhVWhuYVNkNEpwRHpHeUFkQ1VETi1QUUNIbUs4LXg2ckdiUzhHQzlzUHVQWHVFYmppMndwMERiak8zQWtKci1ydmpEa2RLc1luLUR0TUNONkpGNkN5MW9maEhyWkVSdzg4Wl9rOHhOdlc0YW9WT09sVQ?oc=5",
-      "published": "Thu, 03 Sep 2026 05:45:45 GMT",
-      "source": "KITCO",
-      "feed": "Google News Business",
-      "description": "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report &nbsp;&nbsp; KITCO    Gold gains over 1% as softer dollar, lower yields ease Fed rate hike pressure &nbsp;&nbsp; investing.com    Gold price prediction today: Will gold, silver prices continue to fall? Check September 2, 2026 outlook &nbsp;&nbsp; The Times of India    Jeera trading range for the day is 20760-21680 - Kedia Ad",
+      "title": "India’s energy sector stays resilient amid global turmoil as diversified supplies, coal strength provide sh... - firstpost.com",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQnBOOXdsci10UG5LRUFzaEx4dHIxbjljLUpDUHJJdGxpbGpEaVVVM0xHTG14X1lUUmxWWHltS2o5TG5EdDY4UlhBSXpsRExWd1hzYzNCOUNaQTYtZElqVktnRmVCRFd1TWx4S2wyRmFZZU9kM0NmUDRqRE9rOWJ0OHM3WmRGdHR4MEtEbjdpM0hBYjdaeV91VThQOWlOM1ZDVjkwRzEyc3NtM242S0NzeWJMZjlfOGlnQjk2V0xKYUZJVmhVenFqejdFSUxmWkxPU015YXFQNFV6dGl2UUhGLVgwZGRSSzQ3YW5BanYwdFhmNkhYVFBjYWVLM2NHc2dyRnMzVF9B0gGLAkFVX3lxTE91bVNOdVdCWE44WUlDRU9mREZXX293YXB6bmlKeWJBd2dqYWNQVF9wdkVxVmpBbDVaTXlPSlpHWjBXdGVZa2g4MEN2S2dMdkQ0SHBkVHpzN0g0eldEV0IwSFVNMGVGaEd2elZUWHNvcEJmT0hfT3AtWXlHU1UxTDVvWlg0Qk9zTE41TEtWN3U4eXhma01xeHlZNy1NOExFakY3T1I3TUVZWl8ydjNjY0dNVEhoVkpjMl96X0ZOOWRLbm1ReUpBYklmLVlqT3V4bjRlWGk5OG1idUdqUnhuYTN4elJGOW4tWHA3WmhZOE1mY0xOTjRaeXFsdVpkTktyQVpuSmJUcFE4b3RnZw?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "source": "firstpost.com",
+      "feed": "Global Intelligence",
+      "description": "India’s energy sector stays resilient amid global turmoil as diversified supplies, coal strength provide sh... firstpost.com",
       "triggers": [
-        "CAPEX",
-        "TRADE",
         "PRICING"
       ]
     },
     {
-      "title": "India’s Rs 4 lakh crore data centre bet runs into a power supply, cost squeeze - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGhrWE1YUmpQd05PRVk3MWEtdmZmYWw5c1U5Q2ZQQTBfWURnOWtKQmU5NGVNVTVuNDdyb2ZseEQyNXdFdWZlMXJhLVA3NjlzUmlzenoybWluQWFLNXEySUtrcUJsZlNrWXQ5bGItdV9zcUJtbU9acWlNcXRLUUx0Sl9JY3o1TF9BUFFGUm1GampjVnhRMU9RS0ZqeWZYU244ejFnM2hLeUNWaklmcFBYbi1uQ2pjM3BQZmNwb08tc3NUbkpJUE8yenlCWWRhYXfSAdQBQVVfeXFMTmE4aFFYbFQzbXMyZWI4NVF2STc3ajJHcWhuQnQ1NXNWcThfdFVWRWhsT2h0cFFZQlA2ODhhb0pwNFZsLUY4ZjJKeC0tRndOcTVkbkNYSFZWTkhDMjZqV3lBcUFlOUQyaHBOLUQtT21tVlFicFJrUW9YTU80LXZUYzVUcUM0MkVlSjRiZWtNRjl2V0h5Yk9rbnYzXzZiaWctNzdiNG10U0t5Tk04YXlwVUZXZDJYX1FTX2tvcTJiR011aERScEpTUnhkSzdGaEVrTnRLeWo?oc=5",
-      "published": "Wed, 02 Sep 2026 11:16:35 GMT",
-      "source": "Moneycontrol.com",
-      "feed": "Google News Business",
-      "description": "India’s Rs 4 lakh crore data centre bet runs into a power supply, cost squeeze &nbsp;&nbsp; Moneycontrol.com    India’s data centre boom is colliding with its climate reality &nbsp;&nbsp; The Hindu    India is the world's best location to set up data centres: Piyush Goyal &nbsp;&nbsp; ET Government    Maharashtra govt moves to fast-track AI Innovation City with Tata Group &nbsp;&nbsp; deccanherald",
-      "triggers": [
-        "POLICY",
-        "CAPEX"
-      ]
-    },
-    {
-      "title": "Buy or sell: Gift Nifty hints cautious start | Vaishali Parekh recommends three stocks to buy today — 3 September 2026 - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPclliS0J2allsbUtlTU1Vc0REaHpmWThscEpvc1BzdWgwTUc4UzFVWVdVay1aV0JLSXNzRnR6dlhLeHdZQkZvTVE2ak5IckRqdms2V2xlR1EyTURFc29fUnI0b0FwbURJT2FoeFIxQUotTFJQSzh5ZXV5VXB1Zk96WVo3VC1mbERqNTE4bUZZdl9rWGh0MUhLanFybndMMklyNDZIdmhFRHowZjNfdEwzUnBKbDdFSHY2OC1SZWktSThuRWQwRGdZOGI3cE5GalpPWnFRWFpNSWpIelNpbngtTVR6bFlRRThtUFRDZE1seDRiQjFmRmJrWDlWMTh1eTRObmtSUGxjZ0phR3NNMm43etIBlgJBVV95cUxPVEJYNlh0eE12SmV3aWhTdmFULTBoSVhDeVBXQnRiMHRCR0Rva0tMUnFZLUVGeFlpNGx5Y2Qwcl9fTzJPZmMwZmhsZEVxQkY2MUN4WjMtdjZnZ1NJZm42LUlYSWpYTDlhWFdMZm9QR1ZoNjFRVjlTOHJYemJiVnlQamhKQllHazBfV25jcGRPZUNwUmk5NUZZV1N2c085dUQ4dUxFNGtzTDJGc215cGpCWnZaYkFMbkg2NnpDbDdBUGhaWkhodGM1dWZSWV9kVUVTSU1heGUxT2lGZ0h1dXdocTRTSTNWYlpQcGxpTFBnN05Bb2p6VmRpT0lCN2x4WGpPQjdCdXZ3UnZVUE9uN3dybEdURklSZw?oc=5",
-      "published": "Thu, 03 Sep 2026 02:11:36 GMT",
-      "source": "Livemint",
-      "feed": "Google News Business",
-      "description": "Buy or sell: Gift Nifty hints cautious start | Vaishali Parekh recommends three stocks to buy today — 3 September 2026 &nbsp;&nbsp; Livemint    Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat As Oil Steadies Amid US-Iran War &nbsp;&nbsp; NDTV    Financials lead Indian shares higher after recent decline &nbsp;&nbsp; ET BFSI    Indian Markets Open Higher as Rupee Strengthens and Go",
+      "title": "China Economy & Trade Shifts: How a Global Power Is Reshaping Markets - stl.news",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95Z0w4OTlvSi1ReGlNdEFFd3NwaVVUOU5ka0F5ZXFDWThMSHE2bHdYTlhHNTFVUDJYcVk4NnQwTnJQeldnUlBjVHhwQWlkbzF2dW9QeWRaQTNtdE9sbk1USzFEQnh1aWVJaFF2bDZndE1SSl9WTDNhUw?oc=5",
+      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "source": "stl.news",
+      "feed": "Global Intelligence",
+      "description": "China Economy & Trade Shifts: How a Global Power Is Reshaping Markets stl.news",
       "triggers": [
         "TRADE"
       ]
     },
     {
-      "title": "Oil near multi-week highs after fresh Iran strikes; Trump says war won’t last long - investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjltZFR3WVNwLXdybkRkTmVKcEJBbzJhVWNDbnQzaEN5Nlh0YjJRZjQ3V0J2aFljZVpYYnc2bDFoZkNtRWd6NUk1a0pvMTZPaXhUaC05Q3ZOd2ZUVWp2Tld3ZjRzd2R0X1U2ekZEaUFOQTFsVGZwbDV6RS01T2QwejVSdWpiSmlVSW9rVWlnNlk0QlFXd0M4RUc3RVZ1cV8yS2Z5TkZYNURBWlR0Rnk3aXV4Z1dBbnZhbzZqakdmbGNfbE0?oc=5",
-      "published": "Thu, 03 Sep 2026 01:04:19 GMT",
-      "source": "investing.com",
-      "feed": "Google News Business",
-      "description": "Oil near multi-week highs after fresh Iran strikes; Trump says war won’t last long &nbsp;&nbsp; investing.com    Oil prices hit fresh 6-week highs on renewed Middle East tensions &nbsp;&nbsp; Reuters    Brent Crude at Highest in Six Weeks on Fears U.S.-Iran War Could Drag &nbsp;&nbsp; WSJ    Dow falls more than 400 points, oil rises after new U.S. strikes against Iran &nbsp;&nbsp; CNBC    Wall Str",
+      "title": "Global trade growth continues, but rising fragility weighs on developing economies - UN Trade and Development (UNCTAD)",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbm4yc2paVWNvbXowZG9QU3MxUU1DbzkwcjNtVUotcHNGU3BEVTl2YldUYUFyR0FMLWltdHJkZGFlT0NrM2FaS1VKeVgyNEFpdk9jZUlwSk5rRk9iU2ZteXpJVUstMHpOLUpSWl84MnRGLXRReEU1cC1IUV9ETk91YUJUNVlhRGRvNHVxZjcwcmpWN1RaemRQdDcyY041SGM?oc=5",
+      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "source": "UN Trade and Development (UNCTAD)",
+      "feed": "Global Intelligence",
+      "description": "Global trade growth continues, but rising fragility weighs on developing economies UN Trade and Development (UNCTAD)",
+      "triggers": [
+        "TRADE"
+      ]
+    },
+    {
+      "title": "Middle East war impacts global food security over fertilizer, fuel and freight issues - S&P Global",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY1NJMHNHazZSZDFuY0p5TldLS3dBSlNyajNPN1JjSERiSFRDNTlHZy1WWXIzSWM2eTBxWnk1RThEWnpzaWZlc29CYjVGV01CeERXa2diUkEzQ2xlWkxrN3dwZTNzNVBiYi1jVnVaeUtGbURGY01Ra1pvQnU3cTdxdEVGNHFsS0pkMmgybF9CYVNzLWxyWmY5Y09WdDZ0d1JWemIwclRjNjZVN1RRQTFTSUlZbnZQb0dBQjgyamNkQzVGX1NudlJPWi1kLXJ1eElfZHVhMHdTaEl5MVNZc3RiQmpNZ1d4VjNreVBqR0VkcHRSY1VmRUN3?oc=5",
+      "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "source": "S&P Global",
+      "feed": "Global Intelligence",
+      "description": "Middle East war impacts global food security over fertilizer, fuel and freight issues S&P Global",
       "triggers": [
         "PRICING"
       ]
-    },
-    {
-      "title": "FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlVFRVMzM09SOHpRdy1XOWU4dEQ5TDRZU1BjTkJ3SlBNeWx4LXlQa2FFMmFsbXFEQVQ5eVM0elExelU2a3VqbFJzYkZuMWUtZlIxdnhUMFRMd1VheE9PQW9NRGZQV0lIaTh2bW9uU29LYnJIcDN6N0pzdTZkVzdXQmluM0FwbW1NZ1V3V2VZRTdZM1ROaXRTaXBSbGNmQ0tfUmtmS0RMZWxnWFZaU0htUDZ0U20tY3dJTHNDQTNqMncyU0ZlOWVPcm0wejl0UU5nM2VDMDVmbW7SAd4BQVVfeXFMTnpyQWU4OFZrc2FEWlJxWVBGU01MamJkdVNoTEFRWC1UeGN5T29pWDFVUUpmUVVOZG5VbXZ4REZ0N0J5RDk3SEZtSmxOTGJJdzNEUHFMSXJpcDR4N3Z3bGpPN01mZTVPUE1PZlo2UWpfU3RENXpfNHVZXzUzSkd3N3RFbUc3R3VvcVFITkEwa25ncEdRaDlpdWpZSEVxTUNpLWxaRjNXQk9NZUdoTjBtZVR5SzZCUXhXR1J3dnlNa3pVR0ViOGczYk51NklxMTV0XzR2ZWFuV1hfQmoyTzJR?oc=5",
-      "published": "Thu, 03 Sep 2026 10:37:40 GMT",
-      "source": "Moneycontrol.com",
-      "feed": "Google News Business",
-      "description": "FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities &nbsp;&nbsp; Moneycontrol.com    India's Fly91 orders 40 ATR turboprops in bet on smaller cities &nbsp;&nbsp; Reuters    India's Fly91 nears deal for at least 20 ATR turboprops, sources say &nbsp;&nbsp; ET Infra    Fly91 plane order: Smaller cities emerge as Indian aviation's next frontier as airlines bet on ",
-      "triggers": [
-        "ORDERS"
-      ]
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbFRfenVBWmZXMms3bmQtSzFWc3RqQjBCUFBjODBxcEVIOFdVUUtPd29SX1pqWVhDVzl1cGV3Y2kwNVdjNmRhbzdXdjdwRWRXU3BzOEdqTVJTa2VKb2t0QlRRUm41RVJmZXhjUTh0bVUzVEZkR0VPUGlOMzlONFRpZTZVWWgya3NxdFV2SnFTZ3BTZkhBOFdjMm12WE4wYXhMSlhMblk3Z3JiUGZZdFVVZVFBWEt1bms3?oc=5",
-      "published": "Tue, 01 Sep 2026 21:06:24 GMT",
-      "source": "TechCrunch",
-      "feed": "Google News Business",
-      "description": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems &nbsp;&nbsp; TechCrunch    OpenAI’s new reasoning technique alarms AI safety experts &nbsp;&nbsp; TechCrunch    OpenAI Technique in ‘Astra’ Model Sparks Security Concerns &nbsp;&nbsp; The Information    New AI Models From Tech Giants Raise Safety Concerns &nbsp;&nbsp; rediff.com    OpenAI Is About to Release Its F",
-      "triggers": []
-    },
-    {
-      "title": "‘If there’s a will, there's a way': FSSAI CEO praises Maharashtra FDA's Tukaram Mundhe | India News - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzBmRTNUTEpkaG9XTUItcVlFbVRja09QQ2tlLWQ5SGJPVkVSWmdrV05RTUFNeDdYc214RzFUQWJJUjJXMzlRNUhVckluaWRoa1NTNXJpRnZvVFNWdG51QmdadGhYX1kybU53a01zODdHXzRFa3E0RWVyRWZraW1OUE5kTE9jeDI4TDJTNlpEa3NIYVFNaTQyM2dLbExscWdQZ0JOeVBQanVtelNTcWlrcXdEcEk1U0xhcExIZ093emFURE1N0gHKAUFVX3lxTFBWUTZoTnUwM21tN0lqWUc3bmlON3BQZTVaNm1rM042V1piTVdmbnNVMFNJdHNMenc0d2V4SW1PYURnX0d6dzMwbWdtZVBVR0xOU3FCRHdNTjdmS2FtVTY5dEI4TzhTQmVicDR3RjJrTzVxTkl3TlltWlc2SF9WZlBaMmxJV21aaUx4YS1Xc1JIZXRkVVpsVWRYZ1ZJOEl5VmtoWUFRcnVPdW1HYm9fMWVuMWlQT3I3cXlzaTA1OWlXblE0Y0QtWDYwTXc?oc=5",
-      "published": "Wed, 02 Sep 2026 09:40:19 GMT",
-      "source": "Hindustan Times",
-      "feed": "Google News Business",
-      "description": "‘If there’s a will, there's a way': FSSAI CEO praises Maharashtra FDA's Tukaram Mundhe | India News &nbsp;&nbsp; Hindustan Times    Tukaram Mundhe: Why an officer doing his job feels revolutionary &nbsp;&nbsp; ThePrint    FSSAI chief roots for Tukaram Mundhe, says food safety is not punishment posting &nbsp;&nbsp; India Today    Hard-handed Indian official urges food firms to be ethical amid label",
-      "triggers": []
-    },
-    {
-      "title": "PayPal layoffs: Nearly 6,700 jobs cut amid global restructuring - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORG1rck0wME5QT0s4SVFCdWYweENUMk0zVUdhM1NHc3Mya0VEY3JrZExLWmk1VWIwY1JCOElkRmRWNVNjREV0dEFCMGlqZDR5RWJlQ3ZhTU5ONWlKWlh0NXE4ZDI5RnBuNWhCWlhMUmRhWi03LXBQSnJEcktrRUMzX09uSGhXV3lkR2JtRzUteVVoMzBFVHVVWk1CM2NKTENvTjR4NXN0c3kyTGlBaDl4c3VkNlNCQ28yMlBxRTNSdHluT0xiWkkxRmtyb1VmUmxKTUJ5Y3dqMldFTHhrUnfSAeQBQVVfeXFMUElCTU45WTNzYWFGQ19SMDNXbEdKODZNMllPU0dsZDUwek9EUG9IQ3FFTkRtX05BVndOTUlRUjJaQ241dmNMS2pTNy1qcE9lWkV4LVpSNEtuOVJaRFNiWFViNDF1cGhfbEZkYmRBMWFwNWo3ZS1UczBwWElqa1RJV09ETWNLeU1BM2EzYk4za0doZXUyMGhMWFBJeF9oU0VSVHgyRm56MjV5MnlVU1dkNjMwNDd3XzdGbGtfMHRtX1BDMjQ3NDY3cHdNNTEwRXRkVFhfQ0pTWUJhaFJXMFNYemdaTU5z?oc=5",
-      "published": "Wed, 02 Sep 2026 12:47:45 GMT",
-      "source": "BusinessLine",
-      "feed": "Google News Business",
-      "description": "PayPal layoffs: Nearly 6,700 jobs cut amid global restructuring &nbsp;&nbsp; BusinessLine    PayPal & Oracle layoffs: How severance packages in India are taxed &nbsp;&nbsp; Moneycontrol.com    PayPal lays off 220 employees in India, says it is to simplify global operations for long-term growth &nbsp;&nbsp; India Today    PayPal makes job cuts &nbsp;&nbsp; Payments Dive    PayPal cuts around 220 jo",
-      "triggers": []
     }
   ],
   "opportunities": [
     {
-      "industry": "Auto & Components",
-      "score": 84,
-      "article_count": 9,
-      "trigger_count": 2,
-      "triggers": [
-        "PRICING",
-        "TRADE"
-      ],
-      "evidence": [
-        "Apple's new CEO John Ternus may have just told millions of professionals around the world that LinkedIn i - The Times of India",
-        "WhatsApp will soon let you make bill payments in India - Moneycontrol.com",
-        "‘If there’s a will, there's a way': FSSAI CEO praises Maharashtra FDA's Tukaram Mundhe | India News - Hindustan Times",
-        "PayPal layoffs: Nearly 6,700 jobs cut amid global restructuring - BusinessLine",
-        "2026 Tata Curvv Series X Launched At Rs 10 Lakh; Lower And Mid Variants Now Better Equipped - CarDekho"
-      ],
-      "confidence": "high",
-      "watch": "7–10D WATCH",
-      "reason": "Cross-source PRICING, TRADE signals with 9 source(s).",
-      "source_count": 9
-    },
-    {
       "industry": "Banking & Financials",
-      "score": 75,
-      "article_count": 5,
-      "trigger_count": 3,
-      "triggers": [
-        "POLICY",
-        "PRICING",
-        "TRADE"
-      ],
-      "evidence": [
-        "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform - Business Standard",
-        "India's $136 billion dollar haul aids rupee but raises future risks - Reuters",
-        "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits - The Hindu",
-        "Iran-US interim peace deal may support India's growth but inflation and fiscal risks remain: RBI - The Times of India",
-        "Types of Trade War and Their Impacts for NSE:BANKNIFTY by GlobalWolfStreet - TradingView"
-      ],
-      "confidence": "high",
-      "watch": "7–10D WATCH",
-      "reason": "Cross-source POLICY, PRICING, TRADE signals with 5 source(s).",
-      "source_count": 5
-    },
-    {
-      "industry": "Power & Grid",
-      "score": 72,
+      "score": 82,
       "article_count": 7,
-      "trigger_count": 3,
+      "trigger_count": 11,
       "triggers": [
-        "CAPEX",
         "POLICY",
-        "TRADE"
-      ],
-      "evidence": [
-        "India’s Rs 4 lakh crore data centre bet runs into a power supply, cost squeeze - Moneycontrol.com",
-        "New Kia Sorento to be Launched in India Tomorrow - CarWale",
-        "India’s energy sector stays resilient amid global turmoil as diversified supplies, coal strength provide sh... - Firstpost",
-        "The Global Trade Market Superpower for CME_MINI:MES1! by GlobalWolfStreet - TradingView",
-        "China Economy & Trade Shifts: How a Global Power Is Reshaping Markets - stl.news"
-      ],
-      "confidence": "high",
-      "watch": "7–10D WATCH",
-      "reason": "Cross-source CAPEX, POLICY, TRADE signals with 7 source(s).",
-      "source_count": 7
-    },
-    {
-      "industry": "Rail & Infrastructure",
-      "score": 62,
-      "article_count": 5,
-      "trigger_count": 4,
-      "triggers": [
         "CAPEX",
-        "POLICY",
-        "PRICING",
-        "TRADE"
-      ],
-      "evidence": [
-        "Lay's, Kurkure, Maggi Expiry Dates Altered In Multi-Crore Racket In Mumbai - NDTV",
-        "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report - KITCO",
-        "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability - WSJ",
-        "Roadmap: Transforming Indian healthcare, one specialty at a time - Bessemer Venture Partners",
-        "Iran-US interim peace deal may support India's growth but inflation and fiscal risks remain: RBI - The Times of India"
-      ],
-      "confidence": "high",
-      "watch": "7–10D WATCH",
-      "reason": "Cross-source CAPEX, POLICY, PRICING signals with 5 source(s).",
-      "source_count": 5
-    },
-    {
-      "industry": "Pharma & Healthcare",
-      "score": 52,
-      "article_count": 5,
-      "trigger_count": 1,
-      "triggers": [
-        "TRADE"
-      ],
-      "evidence": [
-        "Roadmap: Transforming Indian healthcare, one specialty at a time - Bessemer Venture Partners",
-        "Geopolitical fragmentation is redirecting private capital flows - Asset Servicing Times",
-        "Financial and capital market updates Q2 2026 - kpmg.com",
-        "China Economy & Trade Shifts: How a Global Power Is Reshaping Markets - stl.news",
-        "From crises to capital: Why political foresight beats reaction in today’s markets - Crain Currency"
-      ],
-      "confidence": "medium",
-      "watch": "7–10D WATCH",
-      "reason": "Cross-source TRADE signals with 5 source(s).",
-      "source_count": 5
-    },
-    {
-      "industry": "Electronics & Semiconductors",
-      "score": 50,
-      "article_count": 5,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [
-        "OpenAI’s Astra model is on the way — and very good at breaking into computer systems - TechCrunch",
-        "India’s Semiconductor Ambitions and Global Competitiveness: Confronting the China Challenge - orfonline.org",
-        "US-China tech rivalry explained: Why the AI and chip war matters - The Economic Times",
-        "Semiconductors and the Arctic: What PM Modi seeks in Europe - Firstpost",
-        "Building resilient semiconductor supply chains amid global tensions - omdia.tech.informa.com"
-      ],
-      "confidence": "medium",
-      "watch": "7–10D WATCH",
-      "reason": "Monitor for repeated sector mentions and leading triggers.",
-      "source_count": 5
-    },
-    {
-      "industry": "Chemicals & Materials",
-      "score": 23,
-      "article_count": 2,
-      "trigger_count": 2,
-      "triggers": [
-        "CAPEX",
+        "TRADE",
         "PRICING"
       ],
       "evidence": [
-        "Aditya Birla Group launches Ultravolt with Rs 1,800 crore bet, debuts as India’s No. 2 wires player by cap - The Economic Times",
-        "Middle East war impacts global food security over fertilizer, fuel and freight issues - S&P Global"
+        {
+          "title": "Flood of dollar deposits drives India bank liquidity surplus to all-time peak - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlFhdTF5STUxYzQycWJGZEZVYkJLaklkb1pMMnRsUWtiNDhmWHFVZV94NXdCS0hHckc2akw5eFg1aFc2QnhNa2hGVkplY1psR1dZRWxlVVhHVmgxVzBTYjYwX1p2b1RldDg2UU9ldTBucm5yUV9qdEN1R0RaekpjQW1zMTc2bW5hWVFrM1lrb1V2WGJOR294RVgzT0Z0UDF1eFBFaXJzRmV6Qkx3alZwSWN5QzJTR1hkby1v?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ]
+        },
+        {
+          "title": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits - thehindu.com",
+          "source": "thehindu.com",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR2RFa1d5YVh1Qkc4RTZFQ0swVnJkeExTZEFXemZzM1VUdFY2Vmo1VWZ6Sl9KZmVHbFJTOENVblhQamZEVG8yT2g5VGVpc1IyVzVpYndpUXBxY0ZLZENtbHdxdi1WLVlobWJMdGxpUFJVLTVhZHFlbThabTZDTFh0dlFxUnRIRXh2UDRpN3B5aXlPWVlDR2FTSHJsQ0s4b3hMbXA4TzA2SUFTNkNxSnBLckJoNDRvV2EwQzhacnNJSDd6MFNFYzJycVdWZzVrQ0xBSG5TZ1BDY3BVd9IB4AFBVV95cUxNMUJ1d1FoODg3MXM1VVhJcWJuM3NkcVFOU1piTXZ3OTRHcmpzSWRZZnFQRjlqamV5QzRaNXA0NU9yQkJSWlR6WWUzN0Y1cDVDOS1lZEVUUmd5Q1U0c19ycW5LNTZFTkQtcmUzOGhJTlNaWGp1d1FPTzFRN3VZZjl4OS1iNUJWX3k2clU5elBQeFk1TjJVOW1GZnlrNkhlYjBIQUk0U1piN1dYWXV4bHpyNnZpYVB1Rk1yYnlkSGQ2aFQ5TlFRazZDWGFEQzZDalppeGV6djI1ZHkwc3RHaWJZcw?oc=5",
+          "triggers": [
+            "POLICY"
+          ]
+        },
+        {
+          "title": "Japan top currency diplomat Mimura declines to comment on whether rate checks were made in the FX market - Forex Factory",
+          "source": "Forex Factory",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHAtSFZQRlRlcGtSVlVnb0pJMU9JV0k1Y0JMRWQ5NG9fVXROVzZxNG1wNVE5dEpVVTl4UHBBNFM5N2xiVWdLSjMwMkMyTDdkRk5iNjA2dkctMVM0Zmt5bGw1S0FCMkZDUS1heWg5MFdzTXp2OXp2bmwzWFFuOVQyUlQ3TThhcnlncW1GQlRjanE5NjMwYkJMdkpJdGzSAaIBQVVfeXFMUDR3dHZobmR0ZGNNRnZjN0tzYlpFWGZ1MGU4VXVFVlJ6SEtpWXN2Mk1pRTk4Yl9XbTR5NmVpQzZMakY5WnBfaUp2eWR5MHJoZ0gtSTdNMG5Deng0dk96aV9DUURxQ3VhZ0x3YzVtcHdkZXJpVUNJVU1VdVNlVE1ZbTB0RnozUHFfUHVaODJaTENraTRHSzVLeGR1dGpmUmtOc2hB?oc=5",
+          "triggers": [
+            "CAPEX",
+            "TRADE"
+          ]
+        },
+        {
+          "title": "India's $136 billion dollar haul aids rupee but raises future risks - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMk85MmIyN2lmb0h4UDlRMDM0Ym1DaTkxdndhUW0tTUEtQ0Fmb1MtQi1QWEhSTDNKZ2d6TTd6NEQ2dmtJSWJxVGtsTmQ3bFhtU0pqS1ljbUpOS2hYRERrRDh4WWhiSkRST2oyUTNDcVB1ZUZSXzNtQlFmU1RJVWs1Qm9Kc2Z5RU1aU2JfYnZlbW43eEVya1U4RzNQMFJKXzRzaW00LTl3SnBmV2NVN0VCWTVvZE5MLUVERGl6YlZCMDh1dC04dVFB?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ]
+        },
+        {
+          "title": "The bond market rout is global. Here’s what’s driving it - CNN",
+          "source": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IZWR5QkVyVDlUMnhwWk9pNkZpWjhPRkpXVkIyNEg0eVZEQmlqR0g5eVpDSWpBUVI3VFNodHJ6TkhObGZUTENsa2ltMk1hLXUweG52UmRjRDBUVUFIbUVZb3YzbTRnV2NHTUh2QnZtZXY5U0hYNnBhYTNtRQ?oc=5",
+          "triggers": [
+            "PRICING"
+          ]
+        }
       ],
-      "confidence": "low",
+      "confidence": "high",
+      "watch": "7–10D WATCH",
+      "reason": "Cross-source POLICY, CAPEX, TRADE; 6 independent sources; 6 recent signals.",
+      "source_count": 6
+    },
+    {
+      "industry": "Power & Grid",
+      "score": 69,
+      "article_count": 6,
+      "trigger_count": 8,
+      "triggers": [
+        "POLICY",
+        "CAPEX",
+        "TRADE",
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "India’s Rs 4 lakh crore data centre bet runs into a power supply, cost squeeze - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGhrWE1YUmpQd05PRVk3MWEtdmZmYWw5c1U5Q2ZQQTBfWURnOWtKQmU5NGVNVTVuNDdyb2ZseEQyNXdFdWZlMXJhLVA3NjlzUmlzenoybWluQWFLNXEySUtrcUJsZlNrWXQ5bGItdV9zcUJtbU9acWlNcXRLUUx0Sl9JY3o1TF9BUFFGUm1GampjVnhRMU9RS0ZqeWZYU244ejFnM2hLeUNWaklmcFBYbi1uQ2pjM3BQZmNwb08tc3NUbkpJUE8yenlCWWRhYXfSAdQBQVVfeXFMTmE4aFFYbFQzbXMyZWI4NVF2STc3ajJHcWhuQnQ1NXNWcThfdFVWRWhsT2h0cFFZQlA2ODhhb0pwNFZsLUY4ZjJKeC0tRndOcTVkbkNYSFZWTkhDMjZqV3lBcUFlOUQyaHBOLUQtT21tVlFicFJrUW9YTU80LXZUYzVUcUM0MkVlSjRiZWtNRjl2V0h5Yk9rbnYzXzZiaWctNzdiNG10U0t5Tk04YXlwVUZXZDJYX1FTX2tvcTJiR011aERScEpTUnhkSzdGaEVrTnRLeWo?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX",
+            "PRICING"
+          ]
+        },
+        {
+          "title": "Aditya Birla Group launches Ultravolt with Rs 1,800 crore bet, debuts as India’s No. 2 wires player by cap - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaUpVcTBGdXNubnY5TEt0Ul85ZVRUTEgya3BlUng1VUx4NUtYakFDeEFMcEdMakJhNmxMN3ZraDFOUnVLalFuaVM2Mk5LWXRrSkl4dTlYUmoweERaSmEwdDllS0czNzVQNV9JMjlpNUt5WWZrZkxId0NhQVowT3NfNzctX2hycHN6RlJESUk3Ui1yeUVaemNNaXNmOVBqUnV2VUZ6bkNiT09tWFJVTUVyTE9YSWMydGliTXhHZjZ0YXNzMnZyUHdvNi1fVlVJVDhFREhDaFViUUJoc0h4bThJejJHM1pNSVJUZEF3QjRvdjhnY0Z5bDRIRWRmQmJCdWstdjZMU0lPQ0ZnTDNsOW15LUkyVkxKQlpVek5qUzlKTjbSAaYCQVVfeXFMTjlwVXBURE15UWVmd0duckdWYkc2b0o5QXVydjZPbVc4MzJ6REowQjRyYzZ0cE1oMnVEZUk1OW5MQjgtWXVzQmZLXzlocFFTZDFDUjBidnpkVk1Tek0wUllLRVhNTmkzd1VlMWFvQXNhNWY5UTJURmcyTjVIZUNjM0VSU29ZTGQzanY5NG1JcTBCSmFJeWUxNlFSR3haYVhzdjk0VFJiMjhqakFLMktMWm1hRGRwOWI3bzZ3a0lIN1R3THFsUDAtRUN0bWFkZ2QtNGV2VmxNaHNwbEhldHcwbFhhUmMxdnd6STJtUFJxZzhZM0hvcENuVTQ2UEROWk16V0VoQmQyVUdPQzhaS0F0ckFFOWtnSE9uMmVxN0VNd3hrSmhKYW5n?oc=5",
+          "triggers": [
+            "CAPEX"
+          ]
+        },
+        {
+          "title": "WhatsApp will soon let you make bill payments in India - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHNYcE96YURpejlnNFFiRU1USWdnekZMTTJoenZJYTNUTmVkZ2NZMlNnM2FKODFQSXdiMmh3ZmZ3VWJ0R0tUTGNLWnduajR6blZvREdPQVpsUDJJdFZIU3BJdHZqUnllS256X28tOV9EYzJzeVMwQTZYTUNlWFFDaHZmOFFZU0xTb2N3RkJxT2xob29vMkNYOXdMMjJuZ2NabUoydnZULXd1cUxNZDhwQzQxcWpQTlnSAbwBQVVfeXFMUG1tbjJGYWRjWVozNWFRRXI2eVBRLVA0MHhaa0hCMkNTRlF5NlAtZVRRdGNNSUt3YmxTdnNiejI5cWE3cDRWNThvUEdicVhYY0JaUng1M3otMU1ubTRBZDFINFptdi1IWjQyM0dqcFJwRENFckxyemYtc3F3M2NBT0loWGhESmdMYXJXemNpOG1VcEtQbkdZNXVPSXY0cHJNT3pwZXprZzNLRkJucGNEMGVsWlphbzBVN1BWSTA?oc=5",
+          "triggers": [
+            "PRICING"
+          ]
+        },
+        {
+          "title": "India’s energy sector stays resilient amid global turmoil as diversified supplies, coal strength provide sh... - firstpost.com",
+          "source": "firstpost.com",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQnBOOXdsci10UG5LRUFzaEx4dHIxbjljLUpDUHJJdGxpbGpEaVVVM0xHTG14X1lUUmxWWHltS2o5TG5EdDY4UlhBSXpsRExWd1hzYzNCOUNaQTYtZElqVktnRmVCRFd1TWx4S2wyRmFZZU9kM0NmUDRqRE9rOWJ0OHM3WmRGdHR4MEtEbjdpM0hBYjdaeV91VThQOWlOM1ZDVjkwRzEyc3NtM242S0NzeWJMZjlfOGlnQjk2V0xKYUZJVmhVenFqejdFSUxmWkxPU015YXFQNFV6dGl2UUhGLVgwZGRSSzQ3YW5BanYwdFhmNkhYVFBjYWVLM2NHc2dyRnMzVF9B0gGLAkFVX3lxTE91bVNOdVdCWE44WUlDRU9mREZXX293YXB6bmlKeWJBd2dqYWNQVF9wdkVxVmpBbDVaTXlPSlpHWjBXdGVZa2g4MEN2S2dMdkQ0SHBkVHpzN0g0eldEV0IwSFVNMGVGaEd2elZUWHNvcEJmT0hfT3AtWXlHU1UxTDVvWlg0Qk9zTE41TEtWN3U4eXhma01xeHlZNy1NOExFakY3T1I3TUVZWl8ydjNjY0dNVEhoVkpjMl96X0ZOOWRLbm1ReUpBYklmLVlqT3V4bjRlWGk5OG1idUdqUnhuYTN4elJGOW4tWHA3WmhZOE1mY0xOTjRaeXFsdVpkTktyQVpuSmJUcFE4b3RnZw?oc=5",
+          "triggers": [
+            "PRICING"
+          ]
+        },
+        {
+          "title": "The Global Trade Market Superpower for CME_MINI:MES1! by GlobalWolfStreet - TradingView",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3VzSUlTQVdJbTNZR2szM0hxSU0tSWxBVTJVMldzdnhaLXpJZjdZQS1TcWpZVnpfSVBLZUI5MUlmSVptZmUxaHlPY1VOYnl2WnpFbXZkR3VyWmcyZGRsTkR4dHRGc18tVEpqS3U5aWlVQjdaaXptbXlfT3pfS3BZMVRvTEhGb1RwamhQTQ?oc=5",
+          "triggers": [
+            "TRADE"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "watch": "7–10D WATCH",
+      "reason": "Cross-source POLICY, CAPEX, TRADE; 5 independent sources; 3 recent signals.",
+      "source_count": 5
+    },
+    {
+      "industry": "Rail & Infrastructure",
+      "score": 68,
+      "article_count": 5,
+      "trigger_count": 9,
+      "triggers": [
+        "POLICY",
+        "CAPEX",
+        "ORDERS",
+        "TRADE",
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "PM Modi Urges Indians To Holiday At Home, Assam CM Says 'Start With Assam' - NDTV",
+          "source": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjI1dlRTSHYtVUVVZXN3Yy14MGEyeUM1RGlMd0swYUQwYjJpbjJ3TXNORlpPbHotejE5dXFxdV9rMUE1ZTFiQzVFVkFHTlBDZXVoRVljR3RWOVh4SC1aQVZjV1N0OEkwR0laZGliWVFxVlh0LXRla2NmSVpHZ2otdHJ1bW53Y0hSYmVfcHRKdDBjZEVhbDBrdXBxR0YxYWh1c0hBY1o3Nmw1Z2Fi0gG0AUFVX3lxTE1sQU1GRjhLanhVVzJEalpEYzJweVEtNzNFZVkwaTM4MktMUTRBZ3h2WUN3N1ZGNkR2QlU2QXFDYk52QlNQdzhEVGxLYklHeUI1Q3I5ZDZJaWhURDF5Vnd2cGFscXJmLTFObVFENUVjNE5rWnlCd1BhTmthTGxKVG5oWG1NYjVvSjBFV0VMQXBVZWpGWFpQa1I2eFRQQ25PdUwxcFMtXzB5OXd3Q1N4ajJBZF9CaQ?oc=5",
+          "triggers": [
+            "ORDERS",
+            "TRADE"
+          ]
+        },
+        {
+          "title": "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report - kitco.com",
+          "source": "kitco.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjFSOFlsdUlVcnAzWHpCdEVwZ0pfR0xMWlhvcm9yajRpNmhCMWNTZ3BZUU8xaDJ1aUJvZVJONllqcHJhVWhuYVNkNEpwRHpHeUFkQ1VETi1QUUNIbUs4LXg2ckdiUzhHQzlzUHVQWHVFYmppMndwMERiak8zQWtKci1ydmpEa2RLc1luLUR0TUNONkpGNkN5MW9maEhyWkVSdzg4Wl9rOHhOdlc0YW9WT09sVQ?oc=5",
+          "triggers": [
+            "CAPEX",
+            "TRADE",
+            "PRICING"
+          ]
+        },
+        {
+          "title": "Tukaram Mundhe's FDA action: Maggi, Lay’s, Kurkure packs found with fake expiry dates in Mumbai were meant for export - Livemint",
+          "source": "Livemint",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMzhXRGtXWjhHd21pUjRvSFBFNU9ObFRKdGZibndncTBRTG96WlZiX0tyazlDVV9zSU1OWHJ6bEI2cXRyOU1tUzNlRHFVU2N5a0szaHBwNmptdDJuY2VMMlNMdUhpR2FVaV9kVE1jUFE2LWZjSnFKMzBRWnJMM3drU3M2Z2RyTXNxaWNXY21teDY0WjFONmpHNlc4UFFYZDRGUzNZTXQyeFJreEM4ZjN3R2Vxd2sxYlNibW1WdEg1bzBuVlZOTzRlUDZiSWprR2dHUDFYbzFzbWVReGtpd1d6NG5QY3IwUTdZcXJtYkstTFgxeUNvZmtTcVlZMDRId9IBgwJBVV95cUxPejNCREZqR3hQd3RIWUNDQjBYQTdENEFvUnFldDhjMDFkS0NFd0Jka25xYlhUSVdVZXFHR1pxLWdaZVRqVVJZTlh5X0ZVM2hZcXlyWE43ZkVHNXVVZ0ZIMHEzdnZtNmJfV29CdTZLMnI5aGdwMWNiQlJjTDJTcHhlYkw1azdVNEpubVNSSEctRXRDTV92SUM5bmFEYUhFMGxZbUFvQlFFck9XQzdGdFNBaXJpbVVURjRteUxzdWZWMXFqRHdkRTd5VnYtQjNRdFJYeXlaYkRGbmRKY2E5Nk1LTHN1NGQ4RW81R3pPbFVNT3JxcGxlRVVsSUo5TVlST3g3N09z?oc=5",
+          "triggers": [
+            "TRADE",
+            "PRICING"
+          ]
+        },
+        {
+          "title": "India GDP: Q1 growth defies oil shock but data faces credibility questions - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybS1BMjM5bndaZmFDVFlZRDhlTGoxMVNfeGJVOV9PYzZxUjUwcnhHbS1nMVNrcno3NUg3dEhpMG1WZURjYzBaWlk1WkhKMDJnWDBwekpNY3B1UQ?oc=5",
+          "triggers": [
+            "PRICING"
+          ]
+        },
+        {
+          "title": "Iran-US interim peace deal may support India's growth but inflation and fiscal risks remain: RBI - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZl94OFdZcHlfUUNIejZjZEQ2T3hnVXhmU0E0aERGUlZOdE1jc0V4TVQxa2ZyS0NMeU8tTW1ZWnlFMGNCbWxwWnV0amg1LUh1LVgzdV9UWGhMZENleDNKNlpyRmE2RGhFQk1HcV84T2Fzb2RHM0pXb0MxRFJqT3JOVU1UdDRxVlV3VEZTSlZkWWRSLXZEVTlDM1hQOG5OU1U5MVpaZVVOcXJPRS1zY3llRnhVMk1hY3BMTGRYTk9ZR1p3N2FWLWdzTEhMZmc0Ym43ZkVSQjVVV0h6MVptclQzN3NvNlBtQjR3WGJlUDJ5T0h2VDBLQkxLdDhzcnNscENvZmRBckNudTJMQzVx0gGSAkFVX3lxTFBTS3Bodkk2ZWRXNWlCWHg0RV8xQ3IzZTQ4NUNRQ0s5UVBxWU9TR04wT0ZtdXJ3Z3A0bFYxRzJvakc4QjllQnNJNWtUdUVtUUVURjlfRFlwYk5Mb1NQM3lNZll4Um9KZWtwaXhhQ0JxSF9zUUlyVkJOV1RkSDFQVGtJeUt0bHA3SGlibGNmYWw0eTVieEYxRTBBOVA4TkZhRTJRenYzb0NYNUhfTFFWNlRvLW9kd2NoLWZjQkFBWHh2VS1MU1lPMVlWblBTQ21Xby03UmZYWWZWQmRCdnpEYnVRMmgwSExlNmtxbm1yQ2taN0dad3hvUG5BbkpKZHlSVlFERWRkdDA0R1dsT05YZjdsRFE?oc=5",
+          "triggers": [
+            "POLICY"
+          ]
+        }
+      ],
+      "confidence": "high",
+      "watch": "7–10D WATCH",
+      "reason": "Cross-source POLICY, CAPEX, ORDERS; 5 independent sources; 4 recent signals.",
+      "source_count": 5
+    },
+    {
+      "industry": "Auto & Components",
+      "score": 38,
+      "article_count": 3,
+      "trigger_count": 3,
+      "triggers": [
+        "ORDERS",
+        "TRADE",
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "2026 Tata Curvv Series X Launched At Rs 10 Lakh; Lower And Mid Variants Now Better Equipped - CarDekho",
+          "source": "CarDekho",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc1pScnJ2V2lHdGY4cVNJUUxOSEhvVERnVWh4Q0F1aXZpa3VqT3VleHh0WGV4cFZfTi1ha3ZEc1F6OXhhN2UwZzhHOFBacm9fQmNGUkJMazRibFNlSjh5QjFVeXR1RVE4WE1HTUIyX3VRZENySDFacUZ6VnBkaVFseXFNZ2JYU3FKTi1lLWVkUzhiU2xWenA1YjJVTk93Wm9ieERBT3N3MmJ4dzc4NHlMaTlLZ1hNVzc1bTJlRUdUcnJydDlpd3NMS0J6MWYwOWlZakdsNHpJZ9IB3wFBVV95cUxPOHRXQWtySzZrckFSUWRNbHpYb1hSM3U5MGx5enVJOEd3M2pmczFZUGxTQ2laaC1aZl8tNDlJM0RqOUZZd1puSXlfV1JNNW5mVW9LZkhpTzVvX183dzl0cldXTGJGbUNNeWVNeGFncDExQUJtenhqNVB4bFBOVl9ST1p6UEJub2FFZkJIZkJxay0wS0dYOWF4c1pjcHkyTFFOOHdiWDY5TFY5b05zRHlrYm1fMVU4ME40azB5VUhMNEkyaTZ4VE5kOGtCWmxBdjRsNDNyQmhsMEZhek5MQnRr?oc=5",
+          "triggers": [
+            "PRICING"
+          ]
+        },
+        {
+          "title": "Global trade growth continues, but rising fragility weighs on developing economies - UN Trade and Development (UNCTAD)",
+          "source": "UN Trade and Development (UNCTAD)",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbm4yc2paVWNvbXowZG9QU3MxUU1DbzkwcjNtVUotcHNGU3BEVTl2YldUYUFyR0FMLWltdHJkZGFlT0NrM2FaS1VKeVgyNEFpdk9jZUlwSk5rRk9iU2ZteXpJVUstMHpOLUpSWl84MnRGLXRReEU1cC1IUV9ETk91YUJUNVlhRGRvNHVxZjcwcmpWN1RaemRQdDcyY041SGM?oc=5",
+          "triggers": [
+            "TRADE"
+          ]
+        },
+        {
+          "title": "An Evolving BRICS and the Shifting World Order - Boston Consulting Group",
+          "source": "Boston Consulting Group",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYkJsTEltTlZNQlQ4YWdsNmtuQ0xDRkV6QXZKMUNkUzhCWC1mcXBnMjRPTjZjazNBeXVNQ0MwWGpsZ3o3cF9mMFJWUlIwdm9UYk5xRzgxNmhmQzJ5UngwekM3LUNZN0hWZVc3Zm5scnJibFFOaTBIaTdjd3BBdU90UWp6eWswcEk?oc=5",
+          "triggers": [
+            "ORDERS"
+          ]
+        }
+      ],
+      "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-source CAPEX, PRICING signals with 2 source(s).",
+      "reason": "Cross-source ORDERS, TRADE, PRICING; 3 independent sources; 1 recent signals.",
+      "source_count": 3
+    },
+    {
+      "industry": "Electronics & Semiconductors",
+      "score": 28,
+      "article_count": 2,
+      "trigger_count": 3,
+      "triggers": [
+        "TRADE",
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "Oil near multi-week highs after fresh Iran strikes; Trump says war won’t last long - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjltZFR3WVNwLXdybkRkTmVKcEJBbzJhVWNDbnQzaEN5Nlh0YjJRZjQ3V0J2aFljZVpYYnc2bDFoZkNtRWd6NUk1a0pvMTZPaXhUaC05Q3ZOd2ZUVWp2Tld3ZjRzd2R0X1U2ekZEaUFOQTFsVGZwbDV6RS01T2QwejVSdWpiSmlVSW9rVWlnNlk0QlFXd0M4RUc3RVZ1cV8yS2Z5TkZYNURBWlR0Rnk3aXV4Z1dBbnZhbzZqakdmbGNfbE0?oc=5",
+          "triggers": [
+            "TRADE",
+            "PRICING"
+          ]
+        },
+        {
+          "title": "Building resilient semiconductor supply chains amid global tensions - Omdia",
+          "source": "Omdia",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDZSVTROTWhUMXduRzRETlFfdjBOUWJPT0xQM2NwMDFET0E4azFwR0ZmX1Q2LTFoMUZlVUJ0R0NzdUhvR29zenMtZnZLM1NiX2NXbnFKMjhaZ1EzVWJINnA1UUZlTmo2anJGOGd1VjhBb2RDd1ViNEg0RjlaaUI0VFgtRU8xZk1WS0VuMXlXblEtVy0zbFgtX3dSbE4tYlJrZUphcUhqMlNVTnRCMEdMZnpDOA?oc=5",
+          "triggers": [
+            "TRADE"
+          ]
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-source TRADE, PRICING; 2 independent sources; 1 recent signals.",
       "source_count": 2
     },
     {
-      "industry": "Defence & Aerospace",
-      "score": 9,
+      "industry": "Chemicals & Materials",
+      "score": 12,
       "article_count": 1,
       "trigger_count": 1,
       "triggers": [
-        "ORDERS"
+        "PRICING"
       ],
       "evidence": [
-        "FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities - Moneycontrol.com"
+        {
+          "title": "Middle East war impacts global food security over fertilizer, fuel and freight issues - S&P Global",
+          "source": "S&P Global",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY1NJMHNHazZSZDFuY0p5TldLS3dBSlNyajNPN1JjSERiSFRDNTlHZy1WWXIzSWM2eTBxWnk1RThEWnpzaWZlc29CYjVGV01CeERXa2diUkEzQ2xlWkxrN3dwZTNzNVBiYi1jVnVaeUtGbURGY01Ra1pvQnU3cTdxdEVGNHFsS0pkMmgybF9CYVNzLWxyWmY5Y09WdDZ0d1JWemIwclRjNjZVN1RRQTFTSUlZbnZQb0dBQjgyamNkQzVGX1NudlJPWi1kLXJ1eElfZHVhMHdTaEl5MVNZc3RiQmpNZ1d4VjNreVBqR0VkcHRSY1VmRUN3?oc=5",
+          "triggers": [
+            "PRICING"
+          ]
+        }
       ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-source ORDERS signals with 1 source(s).",
+      "reason": "Cross-source PRICING.",
       "source_count": 1
+    },
+    {
+      "industry": "Defence & Aerospace",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant current evidence in the monitored feeds.",
+      "source_count": 0
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant current evidence in the monitored feeds.",
+      "source_count": 0
     },
     {
       "industry": "Sugar & Ethanol",
@@ -387,7 +550,7 @@
       "evidence": [],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Monitor for repeated sector mentions and leading triggers.",
+      "reason": "No sufficiently relevant current evidence in the monitored feeds.",
       "source_count": 0
     }
   ]
