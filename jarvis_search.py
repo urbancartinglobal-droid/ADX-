@@ -5,9 +5,8 @@ import asyncio
 import logging
 from dotenv import load_dotenv
 from livekit.agents import function_tool
-from datetime import datetime  
+from datetime import datetime
 
-# Setup logging for console output
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - [%(levelname)s] %(message)s"
@@ -15,31 +14,34 @@ logging.basicConfig(
 
 load_dotenv()
 
-# ✅ Correct way to get keys (you can later replace with os.getenv)
-GOOGLE_SEARCH_API_KEY = .............
-SEARCH_ENGINE_ID = .........
+# Keep credentials out of source code. Put them in environment variables.
+GOOGLE_SEARCH_API_KEY = os.getenv("GOOGLE_SEARCH_API_KEY", "")
+SEARCH_ENGINE_ID = os.getenv("SEARCH_ENGINE_ID", "")
+
 
 @function_tool
 async def search_internet(query: str) -> str:
-    """
-    Perform a Google Custom Search for the given query and return the top 3 results.
-    """
+    """Perform a Google Custom Search and return the top 3 results."""
     if not GOOGLE_SEARCH_API_KEY or not SEARCH_ENGINE_ID:
-        logging.error("Google Search API credentials not found in .env")
-        return "Google Search API credentials not found in .env"
+        logging.error("Google Search API credentials not found in environment.")
+        return "Google Search API credentials not found in environment."
 
-    url = (
-        f"https://www.googleapis.com/customsearch/v1"
-        f"?key={GOOGLE_SEARCH_API_KEY}&cx={SEARCH_ENGINE_ID}&q={query}"
-    )
+    url = "https://www.googleapis.com/customsearch/v1"
+    params = {
+        "key": GOOGLE_SEARCH_API_KEY,
+        "cx": SEARCH_ENGINE_ID,
+        "q": query,
+    }
 
     try:
-        # Run blocking requests.get() safely in async mode
-        response = await asyncio.to_thread(requests.get, url, timeout=10)
+        response = await asyncio.to_thread(
+            requests.get, url, params=params, timeout=10
+        )
+        response.raise_for_status()
         data = response.json()
 
         if "items" not in data:
-            logging.warning(f"No results found for query: {query}")
+            logging.warning("No results found for query: %s", query)
             return f"No results found for: {query}"
 
         results = []
@@ -47,27 +49,24 @@ async def search_internet(query: str) -> str:
             title = item.get("title", "No title")
             snippet = item.get("snippet", "")
             link = item.get("link", "")
-            results.append(f"{title}\n{snippet}\n{link}\n")
-
-        # Print results in console
-        logging.info(f"Search results for '{query}':\n" + "\n".join(results))
+            results.append(f"{title}\n{snippet}\n{link}")
 
         return "\n\n".join(results)
 
     except Exception as e:
-        logging.error(f"Error performing search: {e}")
+        logging.error("Error performing search: %s", e)
         return f"Error performing search: {e}"
 
+
+# Compatibility names used by the rest of the project.
+google_search = search_internet
 
 
 @function_tool
 async def get_formatted_datetime() -> str:
-    """
-    Get the current date and time in a human-readable formatted string.
-    Example: "Thursday, November 13, 2025 - 07:25 PM"
-    """
+    """Return the current date and time in a human-readable format."""
     now = datetime.now()
-    formatted = now.strftime("%A, %B %d, %Y - %I:%M %p")
+    return now.strftime("%A, %B %d, %Y - %I:%M %p")
 
-    return formatted
 
+get_current_datetime = get_formatted_datetime
