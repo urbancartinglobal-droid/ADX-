@@ -31,6 +31,15 @@ from keyboard_mouse_CTRL import (
     press_hotkey_tool,
     control_volume_tool,
 )
+from adx_features import (
+    set_adx_mode,
+    get_adx_status,
+    request_action_confirmation,
+    resolve_action_confirmation,
+    detect_wake_word,
+    plan_task,
+    set_adx_status,
+)
 
 load_dotenv()
 logging.basicConfig(level=logging.INFO)
@@ -63,6 +72,13 @@ class Assistant(Agent):
                 press_hotkey_tool,
                 control_volume_tool,
                 swipe_gesture_tool,
+                set_adx_mode,
+                get_adx_status,
+                request_action_confirmation,
+                resolve_action_confirmation,
+                detect_wake_word,
+                plan_task,
+                set_adx_status,
             ],
         )
 
@@ -76,7 +92,7 @@ async def entrypoint(ctx: agents.JobContext):
     while retry_count < max_retries:
         try:
             print(
-                f"\n🚀 Starting agent session "
+                f"\n🚀 Starting ADX agent session "
                 f"(attempt {retry_count + 1}/{max_retries})..."
             )
 
@@ -94,7 +110,7 @@ async def entrypoint(ctx: agents.JobContext):
             )
 
             await ctx.connect()
-            print("✅ Connected to room, waiting for audio input...")
+            print("✅ ADX connected to room, waiting for audio input...")
 
             instructions = Reply_prompts
 
@@ -113,11 +129,11 @@ async def entrypoint(ctx: agents.JobContext):
 
             print("📡 Sending instructions to LLM...")
             await session.generate_reply(instructions=instructions)
-            print("✅ Session completed successfully")
+            print("✅ ADX session completed successfully")
             break
 
         except KeyboardInterrupt:
-            print("\n⛔ Agent stopped by user")
+            print("\n⛔ ADX stopped by user")
             break
         except Exception as e:
             retry_count += 1
