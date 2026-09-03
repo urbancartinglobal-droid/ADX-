@@ -1,8 +1,8 @@
-# 🤖 JARVIS – Advanced Real-Time AI Personal Assistant (Python)
+# 🤖 ADX – Advanced Real-Time AI Personal Assistant (Python)
 
-JARVIS is a powerful **real-time AI personal assistant** built in Python, capable of **answering live queries, controlling Windows OS, executing keyboard commands, opening files, storing memory, and performing system automation** — inspired by Iron Man’s JARVIS.
+ADX is a real-time AI personal assistant built in Python, capable of answering live queries, controlling Windows OS, executing keyboard commands, opening files, storing memory, and performing system automation.
 
-This project is designed for **automation, speed, extensibility, and real-world usage**.
+This project is designed for automation, speed, extensibility, and real-world usage.
 
 ---
 
@@ -48,11 +48,11 @@ This project is designed for **automation, speed, extensibility, and real-world 
 
 ## 🧠 Use Cases
 
-- Personal desktop assistant  
-- Productivity automation  
-- AI system controller  
-- Smart command executor  
-- Learning & experimentation with AI agents  
+- Personal desktop assistant
+- Productivity automation
+- AI system controller
+- Smart command executor
+- Learning & experimentation with AI agents
 
 ---
 
@@ -60,7 +60,7 @@ This project is designed for **automation, speed, extensibility, and real-world 
 
 - **Python 3.10+**
 - AsyncIO
-- AI APIs (OpenAI / Gemini / others)
+- AI APIs (Gemini / others)
 - Windows Automation APIs
 - Keyboard & Mouse Control Libraries
 - Environment-based Configuration
@@ -69,3 +69,4 @@ This project is designed for **automation, speed, extensibility, and real-world 
 
 ## 📂 Project Structure
 
+ADX is organized as a modular Python desktop assistant. See the repository files for individual components.
