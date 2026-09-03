@@ -18,88 +18,149 @@ jobs:
         run: |
           import json, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
           from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
           from pathlib import Path
 
-          HEADERS={'User-Agent':'ADXmug/2.0'}
+          HEADERS={'User-Agent':'ADXmug/3.0'}
+          BASE='https://news.google.com/rss'
+          PARAMS='&hl=en-IN&gl=IN&ceid=IN:en'
           feeds=[
-            ('Google News Business','https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en'),
-            ('Corporate Intelligence','https://news.google.com/rss/search?q='+urllib.parse.quote('India corporate order capex expansion acquisition partnership results')+'&hl=en-IN&gl=IN&ceid=IN:en'),
-            ('Macro Intelligence','https://news.google.com/rss/search?q='+urllib.parse.quote('India government policy RBI budget regulation import export subsidy tender')+'&hl=en-IN&gl=IN&ceid=IN:en'),
-            ('Global Intelligence','https://news.google.com/rss/search?q='+urllib.parse.quote('global trade geopolitics commodities semiconductor energy India impact')+'&hl=en-IN&gl=IN&ceid=IN:en')
+            ('Google News Business',BASE+'/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en'),
+            ('Corporate Intelligence',BASE+'/search?q='+urllib.parse.quote('India corporate order capex expansion acquisition partnership results')+PARAMS),
+            ('Macro Intelligence',BASE+'/search?q='+urllib.parse.quote('India government policy RBI budget regulation import export subsidy tender')+PARAMS),
+            ('Global Intelligence',BASE+'/search?q='+urllib.parse.quote('global trade geopolitics commodities semiconductor energy India impact')+PARAMS)
           ]
 
           industries={
-            'Defence & Aerospace':['defence','defense','military','missile','navy','aircraft','drdo','shipbuilding','fighter','procurement','aerospace'],
-            'Electronics & Semiconductors':['semiconductor','chip','electronics','ems','display','fab','assembly','testing','silicon','data center','electronics manufacturing'],
-            'Power & Grid':['power','grid','transmission','electricity','transformer','renewable','solar','storage','battery','wind','energy'],
-            'Rail & Infrastructure':['rail','metro','highway','infrastructure','capex','construction','epc','tender','road','port','airport'],
-            'Banking & Financials':['rbi','bank','credit','loan','deposit','insurance','finance','liquidity','nbfc'],
-            'Auto & Components':['auto','automobile','ev','vehicle','battery','component','mobility','two-wheeler'],
-            'Pharma & Healthcare':['pharma','drug','medicine','hospital','healthcare','api','biotech','medical'],
-            'Chemicals & Materials':['chemical','specialty chemical','cement','steel','aluminium','commodity','material','fertilizer'],
-            'Sugar & Ethanol':['sugar','ethanol','molasses','distillery','cane','biofuel']
+            'Defence & Aerospace':['defence','defense','military','missile','navy','aircraft','drdo','shipbuilding','fighter','procurement','aerospace','helicopter','drone'],
+            'Electronics & Semiconductors':['semiconductor','chip','electronics','ems','display','fab','assembly','testing','silicon','foundry','electronics manufacturing'],
+            'Power & Grid':['power','grid','transmission','electricity','transformer','renewable','solar','storage','battery','wind','energy','data centre','datacenter'],
+            'Rail & Infrastructure':['rail','railway','metro','highway','infrastructure','construction','epc','tender','road','port','airport','freight corridor'],
+            'Banking & Financials':['rbi','bank','banking','credit','loan','deposit','insurance','finance','liquidity','nbfc','forex','fc nr','swap facility'],
+            'Auto & Components':['auto','automobile','vehicle','ev','electric vehicle','component','tyre','tire','battery','mobility','passenger car','commercial vehicle','tractor'],
+            'Pharma & Healthcare':['pharma','pharmaceutical','drug','medicine','hospital','healthcare','api','biotech','medical device','vaccine'],
+            'Chemicals & Materials':['chemical','specialty chemical','fertilizer','cement','steel','aluminium','aluminum','material','polymer','petrochemical','urea','ammonia'],
+            'Sugar & Ethanol':['sugar','ethanol','molasses','distillery','cane','sugarcane','biofuel','sugar mill','ethanol blending']
           }
           trigger_groups={
-            'POLICY':['policy','regulation','approval','scheme','subsidy','quota','government','ministry','rbi','tariff'],
-            'CAPEX':['capex','investment','expansion','capacity','plant','factory','manufacturing'],
-            'ORDERS':['order','orders','contract','tender','procurement','award'],
-            'TRADE':['import','export','tariff','quota','shipment','trade'],
-            'PRICING':['price','prices','shortage','surplus','production','inventory'],
-            'CORPORATE':['acquisition','partnership','localisation','localization','joint venture','guidance','earnings']
+            'POLICY':['policy','regulation','rule','notification','approval','scheme','subsidy','quota','government','ministry','rbi','tariff','duty'],
+            'CAPEX':['capex','investment','expansion','capacity','plant','factory','manufacturing','project'],
+            'ORDERS':['order','orders','contract','tender','procurement','award','purchase','delivery'],
+            'TRADE':['import','imports','export','exports','tariff','quota','shipment','trade','supply chain'],
+            'PRICING':['price','prices','pricing','cost','margin','commodity','freight','oil','gas','inventory','shortage','surplus'],
+            'CORPORATE':['acquisition','partnership','localisation','localization','joint venture','guidance','earnings','results','filing']
           }
+          noise=['share price','stock market','sensex','nifty','buy today','sell today','target price','brokerage call','technical analysis','market prediction']
 
           def clean(s):
-            return re.sub(r'<[^>]+>',' ',s or '').replace('&amp;','&').strip()
+            s=s or ''
+            s=re.sub(r'<[^>]+>',' ',s)
+            return re.sub(r'\s+',' ',s.replace('&amp;','&').replace('&nbsp;',' ')).strip()
 
           seen=set(); articles=[]
           for feed_name,url in feeds:
             try:
               req=urllib.request.Request(url,headers=HEADERS)
               root=ET.fromstring(urllib.request.urlopen(req,timeout=30).read())
-              for item in root.findall('./channel/item')[:30]:
+              for item in root.findall('./channel/item')[:35]:
                 title=(item.findtext('title') or '').strip()
                 link=(item.findtext('link') or '').strip()
                 pub=(item.findtext('pubDate') or '').strip()
                 source=(item.findtext('source') or feed_name).strip()
                 desc=clean(item.findtext('description'))
-                key=(title.lower(),source.lower())
+                key=re.sub(r'[^a-z0-9]+',' ',title.lower()).strip()
                 if not title or key in seen: continue
                 seen.add(key)
                 text=(title+' '+desc).lower()
                 triggers=[g for g,words in trigger_groups.items() if any(w in text for w in words)]
-                articles.append({'title':title,'link':link,'published':pub,'source':source,'feed':feed_name,'description':desc[:400],'triggers':triggers})
+                articles.append({'title':title,'link':link,'published':pub,'source':source,'feed':feed_name,'description':desc[:500],'triggers':triggers})
             except Exception as e:
               print('feed error',feed_name,e)
 
-          articles=articles[:80]
-          rows=[]
-          for name,keys in industries.items():
-            hits=[]; trigger_set=set(); sources=set(); score=0
-            for a in articles:
-              text=(a['title']+' '+a['description']).lower()
-              k=sum(1 for x in keys if x in text)
-              tg=a.get('triggers',[])
-              if k:
-                hits.append(a['title']); sources.add(a['source'])
-                trigger_set.update(tg)
-                score += min(18,k*7) + min(12,len(tg)*2)
-            score += min(15,max(0,len(sources)-1)*5)
-            score=min(99,score)
-            confidence='high' if score>=60 and len(sources)>=2 else ('medium' if score>=30 else 'low')
-            watch='7–10D WATCH' if score>=30 else 'MONITOR'
-            reason='Cross-source '+', '.join(sorted(trigger_set)[:3])+' signals with '+str(len(sources))+' source(s).' if trigger_set else 'Monitor for repeated sector mentions and leading triggers.'
-            rows.append({'industry':name,'score':score,'article_count':len(hits),'trigger_count':len(trigger_set),'triggers':sorted(trigger_set),'evidence':hits[:5],'confidence':confidence,'watch':watch,'reason':reason,'source_count':len(sources)})
-          rows.sort(key=lambda x:(x['score'],x['source_count']),reverse=True)
+          now=datetime.now(timezone.utc)
+          for a in articles:
+            try: a['_dt']=parsedate_to_datetime(a['published']).astimezone(timezone.utc)
+            except Exception: a['_dt']=now
+            a['_age_h']=max(0,(now-a['_dt']).total_seconds()/3600)
 
-          payload={'updated_utc':datetime.now(timezone.utc).isoformat(),'source':'Google News multi-feed · Business + Corporate + Macro + Global','method':'Evidence clustering heuristic; not a price prediction','articles':articles[:20],'opportunities':rows[:9]}
+          # Assign each article to the most relevant sector only when sector evidence is
+          # genuinely present. Generic market headlines cannot create a sector signal.
+          ranked=[]
+          for a in articles:
+            text=(a['title']+' '+a['description']).lower()
+            best=None
+            for name,cfg in industries.items():
+              keys=[w for w in cfg if w in text] if isinstance(cfg,list) else []
+              if not keys: continue
+              leading=[w for w in trigger_groups['POLICY']+trigger_groups['CAPEX']+trigger_groups['ORDERS']+trigger_groups['TRADE']+trigger_groups['PRICING']+trigger_groups['CORPORATE'] if w in text]
+              noise_hits=[w for w in noise if w in text]
+              recency=max(0.20,1-(a['_age_h']/240))
+              relevance=min(45,len(keys)*9)+min(30,len(leading)*4)-min(20,len(noise_hits)*4)
+              # Require either two sector terms or one strong sector term plus a leading trigger.
+              strong=len(keys)>=2 or (len(keys)>=1 and len(leading)>=1)
+              if not strong: continue
+              value=relevance*recency
+              if best is None or value>best[0]: best=(value,name,keys,leading)
+            if best:
+              a['_sector']=best[1]; a['_relevance']=round(best[0],1); ranked.append(a)
+
+          opportunities=[]
+          for name in industries:
+            rel=[a for a in ranked if a.get('_sector')==name]
+            rel.sort(key=lambda x:x.get('_relevance',0),reverse=True)
+            if not rel:
+              opportunities.append({'industry':name,'score':0,'article_count':0,'trigger_count':0,'triggers':[],'evidence':[],'confidence':'low','watch':'MONITOR','reason':'No sufficiently relevant current evidence in the monitored feeds.','source_count':0})
+              continue
+            sources={a['source'] for a in rel if a.get('source')}
+            trigger_counts={g:sum(1 for a in rel if g in a.get('triggers',[])) for g in trigger_groups}
+            active=[g for g,n in trigger_counts.items() if n>=1]
+            independent=max(0,len(sources))
+            recent=sum(1 for a in rel if a['_age_h']<=72)
+            cross_source=min(28,independent*4)
+            evidence=min(30,len(rel)*3)
+            trigger_score=min(25,sum(trigger_counts.values())*2 + len(active)*3)
+            freshness=min(17,recent*2)
+            score=min(99,round(cross_source+evidence+trigger_score+freshness))
+            confidence='high' if independent>=4 and len(active)>=2 else ('medium' if independent>=2 else 'low')
+            if score>=65 and independent>=3 and len(active)>=2: watch='7–10D WATCH'
+            elif score>=42 and independent>=2: watch='WATCH'
+            else: watch='MONITOR'
+            reason_bits=[]
+            if active: reason_bits.append('Cross-source '+', '.join(active[:3]))
+            if independent>=2: reason_bits.append(str(independent)+' independent sources')
+            if recent: reason_bits.append(str(recent)+' recent signals')
+            reason='; '.join(reason_bits)+'.' if reason_bits else 'Relevant evidence detected; verify further.'
+            evidence=[{'title':a['title'],'source':a['source'],'link':a['link'],'triggers':a.get('triggers',[])} for a in rel[:5]]
+            opportunities.append({'industry':name,'score':score,'article_count':len(rel),'trigger_count':sum(trigger_counts.values()),'triggers':active,'evidence':evidence,'confidence':confidence,'watch':watch,'reason':reason,'source_count':independent})
+
+          opportunities.sort(key=lambda x:(x['score'],x['source_count']),reverse=True)
+
+          # Top 20 is selected for sector relevance + leading-trigger density, not generic popularity.
+          ranked.sort(key=lambda a:(a.get('_relevance',0),len(a.get('triggers',[])), -a.get('_age_h',9999)),reverse=True)
+          top=[]; used=set()
+          for a in ranked:
+            k=re.sub(r'[^a-z0-9]+',' ',a['title'].lower()).strip()
+            if k in used: continue
+            used.add(k)
+            top.append({k:v for k,v in a.items() if not k.startswith('_')})
+            if len(top)>=20: break
+
+          payload={
+            'updated_utc':now.isoformat(),
+            'source':'Google News Business + Corporate + Macro + Global RSS search feeds',
+            'engine':'ADXmug Signal Engine v3 — sector relevance + leading triggers + source diversity + recency + noise suppression',
+            'articles':top,
+            'opportunities':opportunities[:9]
+          }
           Path('adxmug').mkdir(exist_ok=True)
           Path('adxmug/news.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
-          print('articles:',len(articles),'opportunities:',len(rows))
+          print('selected articles:',len(top))
+          print('opportunities:',[(x['industry'],x['score'],x['source_count'],x['watch']) for x in opportunities])
 
       - name: Commit intelligence data
         run: |
           git config user.name 'ADXmug Intelligence Bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add adxmug/news.json
-          git diff --cached --quiet || git commit -m 'Update ADXmug intelligence feed'
+          git diff --cached --quiet || git commit -m 'Update ADXmug signal intelligence feed'
           git push
