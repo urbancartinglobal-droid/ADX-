@@ -21,6 +21,7 @@ from memory_store import (
 from jarvis_get_whether import get_weather
 from Jarvis_window_CTRL import open_file, list_folder_items, run_application_or_media
 from ADX_file_opner import Play_file
+from adxmug import open_adxmug
 from keyboard_mouse_CTRL import (
     move_cursor_tool,
     mouse_click_tool,
@@ -59,6 +60,7 @@ class Assistant(Agent):
                 open_file,
                 list_folder_items,
                 run_application_or_media,
+                open_adxmug,
                 load_memory,
                 save_memory,
                 get_recent_conversations,
