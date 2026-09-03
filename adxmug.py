@@ -1,15 +1,15 @@
 """ADXmug business-intelligence module.
 
-Independent implementation inspired by the workflow shown in the user's
-reference screenshots: Corporate, Macro and Global intelligence streams,
-source filtering, impact mapping and concise decision-ready briefs.
-
-This module does not depend on any paid third-party research subscription.
-It uses ADX's configured web-search capability when credentials are available.
+Independent implementation inspired by the requested workflow: Corporate,
+Macro and Global intelligence streams, source filtering, impact mapping and
+concise decision-ready briefs. No paid Gigamug subscription is required.
 """
 
 import asyncio
 import logging
+import os
+import subprocess
+import sys
 from typing import Dict, List
 
 from livekit.agents import function_tool
@@ -58,21 +58,18 @@ async def _search_unit(unit: str, topic: str) -> str:
 
 @function_tool
 async def adxmug_intelligence(topic: str = "India industry opportunities") -> str:
-    """Scan Corporate, Macro and Global intelligence streams and produce an ADXmug brief."""
+    """Scan Corporate, Macro and Global intelligence streams."""
     topic = _clean_text(topic) or "India industry opportunities"
-
     corporate, macro, global = await asyncio.gather(
         _search_unit("corporate", topic),
         _search_unit("macro", topic),
         _search_unit("global", topic),
     )
-
     raw: Dict[str, str] = {
         "Corporate Intelligence": corporate,
         "Macro Intelligence": macro,
         "Global Intelligence": global,
     }
-
     ranked: List[tuple] = []
     for name, text in raw.items():
         clean = _clean_text(text)
@@ -86,26 +83,24 @@ async def adxmug_intelligence(topic: str = "India industry opportunities") -> st
         "THREE INTELLIGENCE UNITS",
         "1) Corporate Intelligence — companies, capex, orders, earnings and business changes.",
         "2) Macro Intelligence — RBI, ministries, regulation, policy and domestic demand.",
-        "3) Global Intelligence — major economies, trade, commodities and geopolitical/business spillovers.",
+        "3) Global Intelligence — major economies, trade, commodities and global spillovers.",
         "",
         "PRIORITISED SIGNALS",
     ]
-
     for score, name, text in ranked:
         excerpt = text[:900] if text else "No usable search result."
         lines.append(f"[{name}] Signal priority: {score}/100")
         lines.append(excerpt)
         lines.append("")
-
     lines.extend([
         "DECISION FILTER",
         "• Prefer developments with a credible path from trigger → business impact → earnings.",
         "• Separate confirmed facts from interpretation; do not invent numbers or catalysts.",
         "• For Indian equity analysis, restrict company discussion to NSE/BSE-listed names when possible.",
-        "• This is research/education, not a buy/sell/hold recommendation or price target.",
+        "• Research/education only: no buy/sell/hold recommendation or price target.",
         "",
         "NEXT STEP",
-        "Use the strongest signal above for a full 7DIO.EL sectoral story: hidden trigger, value chain, earnings translation, timeline and Bull/Base/Bear cases.",
+        "Use the strongest signal for the full 7DIO.EL sectoral story: hidden trigger, value chain, earnings translation, timeline and Bull/Base/Bear cases.",
     ])
     return "\n".join(lines)
 
@@ -120,3 +115,16 @@ async def adxmug_find_industry_opportunity() -> str:
 async def get_adxmug_status() -> str:
     """Return ADXmug module status and intelligence units."""
     return "ADXmug: ACTIVE | Units: Corporate, Macro, Global | Mode: research and signal discovery"
+
+
+@function_tool
+def open_adxmug() -> str:
+    """Open ADXmug as an integrated mode of the ADX desktop UI."""
+    try:
+        dashboard = os.path.join(os.path.dirname(__file__), "jarvis_ui.py")
+        env = os.environ.copy()
+        env["ADX_MUG_MODE"] = "1"
+        subprocess.Popen([sys.executable, dashboard], env=env)
+        return "ADXmug Command Center खोल दिया गया है।"
+    except Exception as exc:
+        return f"ADXmug खोलने में समस्या हुई: {exc}"
