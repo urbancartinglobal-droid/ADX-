@@ -19,50 +19,7 @@
       "signal_score": 21.0
     }
   ],
-  "landed": [
-    {
-      "title": "Single-Component Gas Standards Market Growth to Accelerate by 2035 on Semiconductor Fab Expansion and Emissions Mandates - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjNXeUVZTDhLcEhTbVB2ZUZvXzhwVDlXTXIxb01oaDhDUnE1LW80QWt4SWd3SGpEWTV6R0hXZDYtcUhGZHJNSE9DZk1uTVNfS0pWQ3VKN21IYXdrUGxSQ0Fobmp0OTFzNFBkbHZvYXRYQ1hRa1NCa1V6NlhwQWtzb0s2U2h4RnB4SW5NWnJjMzQ2OUdWOEZJOTNQQ3VVUG9vMXVpeWY0bi1ubHBKanVWMUpQWjdTRjNNR0lZUU1ueHlIYUFoOHhrRFpIajJnOEdqRXhYYmdXZjhqZ2FxVjdDVnE5UDU?oc=5",
-      "published": "Thu, 03 Sep 2026 18:46:18 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.6
-    },
-    {
-      "title": "Banking system liquidity surplus touches a record high of Rs 9.71 lakh cr on FCNR (B) flows - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR3duSDRGeHFwUnIwUmxkOXZPd1dLazFQbTNpWmhjM3l0SlNHcmNGOW1WU2lMVmY3dzdKTFZONlQ1UzZFMlZtU0ZKTExrS0kzM0JmczdMQjE5eWlYVHhQaDNfWTJ6bEtYRGRCMWpadUtZbjlIZFpKMmtmcmVWaWtHVVA2Tm0zMDd6X3JxUF80eExqY0N6UzZoYUVyLTJZd2FuUUp4enBMclkxUGtkRDFtU1JCaUw1NTZDT2U4Ym9MM2ZyTHBIWVB2ekZlR2ZtVzVVZklHSGZicGFUakZiVTI1VnFLeTRoNGM?oc=5",
-      "published": "Thu, 03 Sep 2026 17:34:53 GMT",
-      "source": "TradingView",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.8
-    },
-    {
-      "title": "US FDA approves Ionis Pharma's therapy to treat rare brain disorder - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOEY3cUliaWZpa0d5UkpjQTdGZnNMNlFjX09yTmJOUHhrc2VoNnM0ZENubGFCcGZWYndnX3pETDE0dWVlRkxfVGxGU2t3VU9HY1plaE1IZUl1ZmNsZFZTdlJxTnNSd1JVZGpTcEs3eXFkWktxbkxtdUpmM0xfR09wcE1jLWU2ZEJsOVAyWlk4WGxfMWJfU19pMERnajRqUzA0UGhoUUtNd2pWY1liU1V6cnlmSGFsbUU?oc=5",
-      "published": "Thu, 03 Sep 2026 20:29:43 GMT",
-      "source": "Reuters",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 0.8
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -421,5 +378,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-03T21:20:36.311348+00:00"
+  "landed_updated_utc": "2026-09-03T22:20:30.680447+00:00"
 }
