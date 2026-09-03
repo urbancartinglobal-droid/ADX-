@@ -83,8 +83,8 @@ def load_gif_safe(gif_path, fallback_frames=10):
             frames.append(surf)
         return frames
 
-gif_path = os.path.join(script_dir, 'jarvisgui', 'im.gif')
-pico_gif_path = os.path.join(script_dir, 'jarvisgui', 'picogram.gif')
+gif_path = os.path.join(script_dir, 'im.gif')
+pico_gif_path = os.path.join(script_dir, 'picogram.gif')
 frame_surfaces = load_gif_safe(gif_path)
 pico_surfaces = load_gif_safe(pico_gif_path)
 
@@ -110,6 +110,7 @@ def get_volume(data):
     shorts = struct.unpack(format_str, data)
     sum_squares = sum(s**2 for s in shorts)
     return (sum_squares / count)**0.5
+
 
 def load_todo_tasks():
     if os.path.exists(todo_file_path):
