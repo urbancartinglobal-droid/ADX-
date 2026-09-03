@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build multi-source intelligence feed
+
+      - name: Build ADXmug Signal Engine v4
         shell: python
         run: |
           import json, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
@@ -21,59 +22,102 @@ jobs:
           from email.utils import parsedate_to_datetime
           from pathlib import Path
 
-          HEADERS={'User-Agent':'ADXmug/3.0'}
-          BASE='https://news.google.com/rss'
+          HEADERS={'User-Agent':'ADXmug/4.0'}
+          BASE='https://news.google.com/rss/search?q='
           PARAMS='&hl=en-IN&gl=IN&ceid=IN:en'
-          feeds=[
-            ('Google News Business',BASE+'/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en'),
-            ('Corporate Intelligence',BASE+'/search?q='+urllib.parse.quote('India corporate order capex expansion acquisition partnership results')+PARAMS),
-            ('Macro Intelligence',BASE+'/search?q='+urllib.parse.quote('India government policy RBI budget regulation import export subsidy tender')+PARAMS),
-            ('Global Intelligence',BASE+'/search?q='+urllib.parse.quote('global trade geopolitics commodities semiconductor energy India impact')+PARAMS)
-          ]
 
-          industries={
-            'Defence & Aerospace':['defence','defense','military','missile','navy','aircraft','drdo','shipbuilding','fighter','procurement','aerospace','helicopter','drone'],
-            'Electronics & Semiconductors':['semiconductor','chip','electronics','ems','display','fab','assembly','testing','silicon','foundry','electronics manufacturing'],
-            'Power & Grid':['power','grid','transmission','electricity','transformer','renewable','solar','storage','battery','wind','energy','data centre','datacenter'],
-            'Rail & Infrastructure':['rail','railway','metro','highway','infrastructure','construction','epc','tender','road','port','airport','freight corridor'],
-            'Banking & Financials':['rbi','bank','banking','credit','loan','deposit','insurance','finance','liquidity','nbfc','forex','fc nr','swap facility'],
-            'Auto & Components':['auto','automobile','vehicle','ev','electric vehicle','component','tyre','tire','battery','mobility','passenger car','commercial vehicle','tractor'],
-            'Pharma & Healthcare':['pharma','pharmaceutical','drug','medicine','hospital','healthcare','api','biotech','medical device','vaccine'],
-            'Chemicals & Materials':['chemical','specialty chemical','fertilizer','cement','steel','aluminium','aluminum','material','polymer','petrochemical','urea','ammonia'],
-            'Sugar & Ethanol':['sugar','ethanol','molasses','distillery','cane','sugarcane','biofuel','sugar mill','ethanol blending']
+          # v4 is intentionally stricter: an article must contain a real sector entity
+          # and a meaningful change/impact signal. Generic market headlines cannot
+          # promote an industry to the 7-10D research watch.
+          sectors={
+            'Defence & Aerospace': {
+              'terms':['defence','defense','military','missile','navy','air force','drdo','shipbuilding','fighter jet','fighter aircraft','aerospace','helicopter','drone','uav','aircraft order','defence order'],
+              'strong':['missile','shipbuilding','drdo','fighter jet','fighter aircraft','defence order','military procurement','aircraft order'],
+              'companies':['hindustan aeronautics','hal','bharat dynamics','bdl','mazagon dock','cochin shipyard','garden reach','grse','bharat electronics','bel']},
+            'Electronics & Semiconductors': {
+              'terms':['semiconductor','semiconductors','chip','chips','fab','foundry','ems','electronics manufacturing','assembly testing','display','wafer','packaging','silicon','chip design'],
+              'strong':['semiconductor','fab','foundry','wafer','assembly testing','chip design','electronics manufacturing'],
+              'companies':['tata electronics','tata semiconductor','kaynes technology','dixon technologies','cg power','polymatech','moschip','syrma sgs']},
+            'Power & Grid': {
+              'terms':['power grid','electricity grid','transmission','substation','transformer','power plant','renewable power','solar power','wind power','battery storage','energy storage','data centre power','data center power','grid capacity'],
+              'strong':['transmission','substation','transformer','power plant','grid capacity','data centre power','data center power','energy storage'],
+              'companies':['power grid corporation','powergrid','ntpc','nhpc','tata power','jsw energy','adani green','siemens energy','hitachi energy','abb india']},
+            'Rail & Infrastructure': {
+              'terms':['railway','railways','rail project','metro rail','freight corridor','highway project','expressway','road project','port project','airport project','epc project','infrastructure project','rail tender','rail order'],
+              'strong':['rail project','metro rail','freight corridor','highway project','expressway','rail tender','rail order','infrastructure project'],
+              'companies':['rvnl','ircon','rail vikas nigam','titagarh rail','texmaco rail','bhel','larsen','larsen & toubro','nbcc','ashoka buildcon']},
+            'Banking & Financials': {
+              'terms':['rbi','reserve bank','banking','bank loan','credit growth','deposit growth','nbfc','liquidity','forex swap','fc nr','insurance','financial inclusion','capital adequacy','bank merger'],
+              'strong':['rbi','reserve bank','credit growth','deposit growth','nbfc','liquidity','forex swap','fc nr','bank merger'],
+              'companies':['hdfc bank','icici bank','sbi','state bank of india','axis bank','kotak mahindra bank','bank of baroda','canara bank','bajaj finance']},
+            'Auto & Components': {
+              'terms':['automobile','automotive','passenger vehicle','commercial vehicle','two wheeler','three wheeler','tractor','auto component','auto components','tyre','tire','electric vehicle','ev sales','vehicle production','vehicle exports'],
+              'strong':['passenger vehicle','commercial vehicle','two wheeler','tractor','auto component','vehicle production','vehicle exports','ev sales'],
+              'companies':['maruti suzuki','tata motors','mahindra','bajaj auto','hero motocorp','eicher motors','ashok leyland','motherson','bharat forge','bosch india']},
+            'Pharma & Healthcare': {
+              'terms':['pharmaceutical','pharma','drug approval','drug regulator','medicine','api manufacturing','active pharmaceutical ingredient','medical device','hospital chain','healthcare','biotech','vaccine','usfda','fda approval'],
+              'strong':['drug approval','drug regulator','api manufacturing','active pharmaceutical ingredient','medical device','usfda','fda approval'],
+              'companies':['sun pharma','dr reddy','cipla','divis laboratories','aurobindo pharma','lupin','zydus lifesciences','torrent pharma','apollo hospitals']},
+            'Chemicals & Materials': {
+              'terms':['specialty chemical','chemical plant','fertilizer','urea','ammonia','petrochemical','polymer','cement capacity','steel capacity','aluminium smelter','aluminum smelter','industrial material','chemical exports','chemical imports'],
+              'strong':['specialty chemical','chemical plant','fertilizer','urea','ammonia','petrochemical','polymer','cement capacity','steel capacity','chemical exports','chemical imports'],
+              'companies':['pidilite','aarti industries','sr f','deepak nitrite','upl','coromandel international','gnfc','tatva chintan','ultratech cement']},
+            'Sugar & Ethanol': {
+              'terms':['sugar','sugarcane','sugar cane','molasses','ethanol','distillery','sugar mill','ethanol blending','raw sugar','sugar quota','sugar import','sugar export','sugar stock','cane price','fair remunerative price'],
+              'strong':['ethanol','sugar quota','sugar import','sugar export','sugar stock','cane price','fair remunerative price','sugarcane','molasses'],
+              'companies':['balrampur chini','triveni engineering','dalmia bharat sugar','shree renuka sugars','e i d parry','dwarikesh sugar','bajaj hindusthan sugar','uttam sugar']}
           }
+
           trigger_groups={
-            'POLICY':['policy','regulation','rule','notification','approval','scheme','subsidy','quota','government','ministry','rbi','tariff','duty'],
-            'CAPEX':['capex','investment','expansion','capacity','plant','factory','manufacturing','project'],
-            'ORDERS':['order','orders','contract','tender','procurement','award','purchase','delivery'],
-            'TRADE':['import','imports','export','exports','tariff','quota','shipment','trade','supply chain'],
-            'PRICING':['price','prices','pricing','cost','margin','commodity','freight','oil','gas','inventory','shortage','surplus'],
-            'CORPORATE':['acquisition','partnership','localisation','localization','joint venture','guidance','earnings','results','filing']
+            'POLICY':['policy','regulation','rule','notification','approval','scheme','subsidy','quota','government','ministry','rbi','tariff','duty','restriction','stock limit','stock-limit','mandate'],
+            'CAPEX':['capex','investment','expansion','capacity','plant','factory','manufacturing','project','commissioning'],
+            'ORDERS':['order','orders','contract','tender','procurement','award','purchase','delivery','agreement'],
+            'TRADE':['import','imports','export','exports','tariff','quota','shipment','trade','supply chain','sourcing','localisation','localization'],
+            'PRICING':['price','prices','pricing','cost','margin','commodity','freight','oil','gas','inventory','shortage','surplus','premium','discount'],
+            'CORPORATE':['acquisition','partnership','joint venture','guidance','earnings','results','filing','promoter','capacity addition']
           }
-          noise=['share price','stock market','sensex','nifty','buy today','sell today','target price','brokerage call','technical analysis','market prediction']
+          noise=['share price','stock market','sensex','nifty','gift nifty','buy today','sell today','target price','brokerage call','technical analysis','market prediction','price target','stocks to buy','stocks to sell']
+          contradiction_positive=['increase','raises','higher','growth','expansion','approval','award','order','surge in demand','shortage','tight supply','favourable','favorable','quota increase']
+          contradiction_negative=['cut','cuts','reduce','reduced','decline','lower','ban','restriction','delay','cancelled','canceled','oversupply','weak demand','shutdown','recall','loss','penalty']
 
           def clean(s):
             s=s or ''
             s=re.sub(r'<[^>]+>',' ',s)
             return re.sub(r'\s+',' ',s.replace('&amp;','&').replace('&nbsp;',' ')).strip()
 
-          seen=set(); articles=[]
-          for feed_name,url in feeds:
+          def words(text, terms):
+            return [t for t in terms if t in text]
+
+          def fingerprint(title):
+            stop={'india','indian','new','latest','today','says','say','will','may','could','for','the','and','with','from','after','before','into','over','on','of'}
+            toks=re.findall(r'[a-z0-9]+',title.lower())
+            return ' '.join(t for t in toks if t not in stop)[:180]
+
+          # Sector-focused Google News queries give v4 much better recall than a
+          # generic Business feed while keeping the Business feed as a discovery layer.
+          queries=[
+            ('Business Discovery','India business policy capex orders trade supply pricing corporate'),
+            ('Macro Discovery','India government policy RBI ministry regulation import export quota tariff'),
+            ('Global Transmission','global trade geopolitics commodity energy semiconductor supply chain India impact')
+          ]
+          for sector,cfg in sectors.items():
+            queries.append((sector, ' '.join(cfg['strong'][:5])+' India'))
+
+          seen_links=set(); articles=[]
+          for feed_name,q in queries:
+            url=BASE+urllib.parse.quote(q)+PARAMS
             try:
               req=urllib.request.Request(url,headers=HEADERS)
               root=ET.fromstring(urllib.request.urlopen(req,timeout=30).read())
-              for item in root.findall('./channel/item')[:35]:
+              for item in root.findall('./channel/item')[:30]:
                 title=(item.findtext('title') or '').strip()
                 link=(item.findtext('link') or '').strip()
                 pub=(item.findtext('pubDate') or '').strip()
                 source=(item.findtext('source') or feed_name).strip()
                 desc=clean(item.findtext('description'))
-                key=re.sub(r'[^a-z0-9]+',' ',title.lower()).strip()
-                if not title or key in seen: continue
-                seen.add(key)
-                text=(title+' '+desc).lower()
-                triggers=[g for g,words in trigger_groups.items() if any(w in text for w in words)]
-                articles.append({'title':title,'link':link,'published':pub,'source':source,'feed':feed_name,'description':desc[:500],'triggers':triggers})
+                if not title or not link or link in seen_links: continue
+                seen_links.add(link)
+                articles.append({'title':title,'link':link,'published':pub,'source':source,'feed':feed_name,'description':desc[:700]})
             except Exception as e:
               print('feed error',feed_name,e)
 
@@ -82,85 +126,157 @@ jobs:
             try: a['_dt']=parsedate_to_datetime(a['published']).astimezone(timezone.utc)
             except Exception: a['_dt']=now
             a['_age_h']=max(0,(now-a['_dt']).total_seconds()/3600)
+            a['_text']=(a['title']+' '+a['description']).lower()
+            a['_noise']=words(a['_text'],noise)
 
-          # Assign each article to the most relevant sector only when sector evidence is
-          # genuinely present. Generic market headlines cannot create a sector signal.
-          ranked=[]
+          # Build independent sector evidence.
+          assignments=[]
           for a in articles:
-            text=(a['title']+' '+a['description']).lower()
             best=None
-            for name,cfg in industries.items():
-              keys=[w for w in cfg if w in text] if isinstance(cfg,list) else []
-              if not keys: continue
-              leading=[w for w in trigger_groups['POLICY']+trigger_groups['CAPEX']+trigger_groups['ORDERS']+trigger_groups['TRADE']+trigger_groups['PRICING']+trigger_groups['CORPORATE'] if w in text]
-              noise_hits=[w for w in noise if w in text]
-              recency=max(0.20,1-(a['_age_h']/240))
-              relevance=min(45,len(keys)*9)+min(30,len(leading)*4)-min(20,len(noise_hits)*4)
-              # Require either two sector terms or one strong sector term plus a leading trigger.
-              strong=len(keys)>=2 or (len(keys)>=1 and len(leading)>=1)
-              if not strong: continue
-              value=relevance*recency
-              if best is None or value>best[0]: best=(value,name,keys,leading)
+            for sector,cfg in sectors.items():
+              sector_hits=words(a['_text'],cfg['terms'])
+              strong_hits=words(a['_text'],cfg['strong'])
+              trigger_hits={g:words(a['_text'],ts) for g,ts in trigger_groups.items()}
+              active=[g for g,v in trigger_hits.items() if v]
+              company_hits=words(a['_text'],cfg['companies'])
+              if not sector_hits: continue
+
+              # Generic terms alone are not enough. Require either a strong sector
+              # entity or multiple sector terms, plus a change/impact trigger.
+              sector_strength=min(40,len(strong_hits)*12 + max(0,len(sector_hits)-len(strong_hits))*5)
+              entity_bonus=min(16,len(company_hits)*8)
+              trigger_strength=min(28,len(active)*6 + sum(len(v) for v in trigger_hits.values())*2)
+              noise_penalty=min(30,len(a['_noise'])*7)
+              recency=max(0.15,1-(a['_age_h']/168))
+              qualifies=(len(strong_hits)>=1 and len(active)>=1) or (len(sector_hits)>=2 and len(active)>=1)
+              if not qualifies: continue
+              raw=sector_strength+entity_bonus+trigger_strength-noise_penalty
+              value=raw*recency
+              if best is None or value>best['value']:
+                best={'sector':sector,'sector_hits':sector_hits,'strong_hits':strong_hits,'company_hits':company_hits,'active':active,'value':value,'raw':raw}
             if best:
-              a['_sector']=best[1]; a['_relevance']=round(best[0],1); ranked.append(a)
+              a['_assignment']=best
+              assignments.append(a)
+
+          # Story clusters: similar headlines from different sources count as one story,
+          # while independent sources strengthen confidence instead of inflating evidence.
+          clusters={}
+          for a in assignments:
+            fp=fingerprint(a['title'])
+            if not fp: continue
+            sector=a['_assignment']['sector']
+            key=sector+'|'+fp[:120]
+            clusters.setdefault(key,[]).append(a)
 
           opportunities=[]
-          for name in industries:
-            rel=[a for a in ranked if a.get('_sector')==name]
-            rel.sort(key=lambda x:x.get('_relevance',0),reverse=True)
+          for sector,cfg in sectors.items():
+            rel=[a for a in assignments if a['_assignment']['sector']==sector]
             if not rel:
-              opportunities.append({'industry':name,'score':0,'article_count':0,'trigger_count':0,'triggers':[],'evidence':[],'confidence':'low','watch':'MONITOR','reason':'No sufficiently relevant current evidence in the monitored feeds.','source_count':0})
+              opportunities.append({'industry':sector,'score':0,'article_count':0,'trigger_count':0,'triggers':[],'evidence':[],'confidence':'low','watch':'MONITOR','reason':'No sufficiently relevant sector-changing evidence in the monitored feeds.','source_count':0,'companies':[],'connections':[]})
               continue
-            sources={a['source'] for a in rel if a.get('source')}
-            trigger_counts={g:sum(1 for a in rel if g in a.get('triggers',[])) for g in trigger_groups}
-            active=[g for g,n in trigger_counts.items() if n>=1]
-            independent=max(0,len(sources))
-            recent=sum(1 for a in rel if a['_age_h']<=72)
-            cross_source=min(28,independent*4)
-            evidence=min(30,len(rel)*3)
-            trigger_score=min(25,sum(trigger_counts.values())*2 + len(active)*3)
-            freshness=min(17,recent*2)
-            score=min(99,round(cross_source+evidence+trigger_score+freshness))
-            confidence='high' if independent>=4 and len(active)>=2 else ('medium' if independent>=2 else 'low')
-            if score>=65 and independent>=3 and len(active)>=2: watch='7–10D WATCH'
-            elif score>=42 and independent>=2: watch='WATCH'
-            else: watch='MONITOR'
-            reason_bits=[]
-            if active: reason_bits.append('Cross-source '+', '.join(active[:3]))
-            if independent>=2: reason_bits.append(str(independent)+' independent sources')
-            if recent: reason_bits.append(str(recent)+' recent signals')
-            reason='; '.join(reason_bits)+'.' if reason_bits else 'Relevant evidence detected; verify further.'
-            evidence=[{'title':a['title'],'source':a['source'],'link':a['link'],'triggers':a.get('triggers',[])} for a in rel[:5]]
-            opportunities.append({'industry':name,'score':score,'article_count':len(rel),'trigger_count':sum(trigger_counts.values()),'triggers':active,'evidence':evidence,'confidence':confidence,'watch':watch,'reason':reason,'source_count':independent})
 
-          opportunities.sort(key=lambda x:(x['score'],x['source_count']),reverse=True)
+            # De-duplicate same-story evidence by fingerprint, but preserve source count.
+            cluster_list=[]
+            seen_cluster=set()
+            for a in sorted(rel,key=lambda x:x['_assignment']['value'],reverse=True):
+              fp=fingerprint(a['title']); ck=sector+'|'+fp[:120]
+              if ck in seen_cluster: continue
+              seen_cluster.add(ck); cluster_list.append((ck,clusters.get(ck,[a])))
 
-          # Top 20 is selected for sector relevance + leading-trigger density, not generic popularity.
-          ranked.sort(key=lambda a:(a.get('_relevance',0),len(a.get('triggers',[])), -a.get('_age_h',9999)),reverse=True)
-          top=[]; used=set()
-          for a in ranked:
-            k=re.sub(r'[^a-z0-9]+',' ',a['title'].lower()).strip()
-            if k in used: continue
-            used.add(k)
+            sources=set(); active=set(); trigger_total=0; recent=0; quality=0; positive=0; negative=0; companies=set()
+            evidence=[]
+            for ck,items in cluster_list[:10]:
+              for a in items:
+                sources.add(a['source']); active.update(a['_assignment']['active']); trigger_total += len(a['_assignment']['active'])
+                if a['_age_h']<=72: recent+=1
+                if a['_assignment']['company_hits']: companies.update(a['_assignment']['company_hits'])
+                quality += 2 if a['source'].lower() not in ('business discovery','macro discovery','global transmission') else 0
+                positive += sum(1 for x in contradiction_positive if x in a['_text'])
+                negative += sum(1 for x in contradiction_negative if x in a['_text'])
+              lead=max(items,key=lambda x:x['_assignment']['value'])
+              evidence.append({'title':lead['title'],'source':lead['source'],'link':lead['link'],'triggers':lead['_assignment']['active'],'sector_hits':lead['_assignment']['strong_hits'],'companies':lead['_assignment']['company_hits']})
+
+            independent=len(sources)
+            cluster_count=len(cluster_list)
+            signal_types=len(active)
+            contradiction=positive>0 and negative>0 and abs(positive-negative)<=2
+
+            # v4 score emphasizes independent story clusters, not raw headline count.
+            score=0
+            score += min(30,independent*6)
+            score += min(24,cluster_count*6)
+            score += min(22,signal_types*6 + min(10,trigger_total))
+            score += min(14,recent*2)
+            score += min(10,quality)
+            if contradiction: score -= 12
+            score=max(0,min(99,round(score)))
+
+            # 7-10D watch requires multiple independent story clusters AND signal types.
+            watch='MONITOR'
+            if score>=68 and independent>=3 and cluster_count>=2 and signal_types>=2 and recent>=2 and not contradiction:
+              watch='7–10D WATCH'
+            elif score>=45 and independent>=2 and cluster_count>=1 and signal_types>=1:
+              watch='WATCH'
+
+            confidence='high' if independent>=4 and cluster_count>=2 and signal_types>=2 else ('medium' if independent>=2 else 'low')
+            reasons=[]
+            if signal_types: reasons.append('Cross-signal '+', '.join(sorted(active)[:4]))
+            if cluster_count>=2: reasons.append(str(cluster_count)+' distinct story clusters')
+            if independent>=2: reasons.append(str(independent)+' independent sources')
+            if recent: reasons.append(str(recent)+' recent evidence items')
+            if contradiction: reasons.append('mixed positive/negative evidence')
+            reason='; '.join(reasons)+'.'
+
+            # Hidden connection hypothesis: summarize the strongest connection between
+            # sector entity + trigger types + affected companies. This is a research lead,
+            # not a price prediction.
+            conn=[]
+            if 'POLICY' in active and 'TRADE' in active: conn.append('Policy change may alter import/export or domestic supply conditions.')
+            if 'CAPEX' in active and 'ORDERS' in active: conn.append('Capacity spending plus orders can indicate a real demand/capacity cycle.')
+            if 'PRICING' in active and ('TRADE' in active or 'POLICY' in active): conn.append('Pricing pressure is linked with a trade/policy change and needs verification.')
+            if 'CORPORATE' in active and ('CAPEX' in active or 'ORDERS' in active): conn.append('Corporate action is reinforced by capacity or order evidence.')
+            if not conn: conn.append('Repeated sector-specific evidence warrants deeper company and policy verification.')
+
+            opportunities.append({'industry':sector,'score':score,'article_count':len(rel),'trigger_count':trigger_total,'triggers':sorted(active),'evidence':evidence[:5],'confidence':confidence,'watch':watch,'reason':reason,'source_count':independent,'story_clusters':cluster_count,'companies':sorted(companies)[:8],'connections':conn[:3]})
+
+          opportunities.sort(key=lambda x:(x['score'],x['source_count'],x.get('story_clusters',0)),reverse=True)
+
+          # Top 20 = emerging intelligence signals. Exclude pure market commentary and
+          # generic articles that do not carry a sector-changing trigger.
+          top_candidates=[]
+          for a in assignments:
+            if a['_noise'] and not a['_assignment']['strong_hits']: continue
+            if not a['_assignment']['active']: continue
+            signal_score=a['_assignment']['value']
+            top_candidates.append((signal_score,a))
+          top_candidates.sort(key=lambda z:z[0],reverse=True)
+          top=[]; seen_fp=set()
+          for score,a in top_candidates:
+            fp=fingerprint(a['title'])
+            if fp in seen_fp: continue
+            seen_fp.add(fp)
             top.append({k:v for k,v in a.items() if not k.startswith('_')})
             if len(top)>=20: break
 
           payload={
             'updated_utc':now.isoformat(),
-            'source':'Google News Business + Corporate + Macro + Global RSS search feeds',
-            'engine':'ADXmug Signal Engine v3 — sector relevance + leading triggers + source diversity + recency + noise suppression',
+            'source':'Google News RSS · Business + Macro + Global + sector-focused discovery',
+            'engine':'ADXmug Signal Engine v4 — entity relevance + story clusters + hidden connections + source diversity + contradiction checks + 7–10D research watch',
+            'method':'News → entity → sector → trigger → story cluster → cross-source verification → hidden connection → company mapping → research watch',
             'articles':top,
             'opportunities':opportunities[:9]
           }
           Path('adxmug').mkdir(exist_ok=True)
           Path('adxmug/news.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
-          print('selected articles:',len(top))
-          print('opportunities:',[(x['industry'],x['score'],x['source_count'],x['watch']) for x in opportunities])
+          print('v4 selected intelligence signals:',len(top))
+          print('v4 opportunities:')
+          for x in opportunities:
+            print(x['industry'],x['score'],x['source_count'],x.get('story_clusters',0),x['watch'])
 
       - name: Commit intelligence data
         run: |
           git config user.name 'ADXmug Intelligence Bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add adxmug/news.json
-          git diff --cached --quiet || git commit -m 'Update ADXmug signal intelligence feed'
+          git diff --cached --quiet || git commit -m 'Update ADXmug v4 intelligence feed'
           git push
