@@ -1,0 +1,147 @@
+name: ADXmug Landed Feed Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  landed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build fresh LANDED IN THE FEED TODAY
+        shell: python
+        run: |
+          import json, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
+          from pathlib import Path
+
+          BASE='https://news.google.com/rss/search?q='
+          PARAMS='&hl=en-IN&gl=IN&ceid=IN:en'
+          HEADERS={'User-Agent':'ADXmug-Landed/1.0'}
+          NOW=datetime.now(timezone.utc)
+
+          lanes={
+            'MACRO': [
+              'India government policy regulation ministry RBI industry investment when:1d',
+              'India capex infrastructure policy government order when:1d'
+            ],
+            'GLOBAL': [
+              'India global trade tariff supply chain commodity technology when:1d',
+              'India US trade tariff global supply chain when:1d'
+            ],
+            'GIGA+': [
+              'India semiconductor electronics manufacturing materials capacity when:1d',
+              'India industrial localisation manufacturing capex technology when:1d'
+            ]
+          }
+
+          sectors={
+            'Sugar & Ethanol':['sugar','sugarcane','ethanol','molasses','sugar import','sugar export','sugar stock','E20'],
+            'Defence & Aerospace':['defence','defense','missile','aircraft','aerospace','shipbuilding','drone','military'],
+            'Electronics & Semiconductors':['semiconductor','chip','chips','fab','foundry','wafer','electronics manufacturing','OSAT','packaging'],
+            'Power & Grid':['transmission','substation','transformer','power grid','grid capacity','power plant','battery storage','data centre'],
+            'Rail & Infrastructure':['railway','rail project','metro rail','freight corridor','highway project','port project','airport project','infrastructure project'],
+            'Banking & Financials':['RBI','reserve bank','banking','liquidity','credit growth','deposit growth','NBFC','forex'],
+            'Auto & Components':['automobile','automotive','passenger vehicle','commercial vehicle','tractor','auto component','vehicle production','electric vehicle'],
+            'Pharma & Healthcare':['pharma','pharmaceutical','drug approval','USFDA','API','medical device','healthcare','vaccine'],
+            'Chemicals & Materials':['chemical','fertilizer','urea','ammonia','petrochemical','polymer','cement','steel capacity','industrial material']
+          }
+          changes=['approves','approved','announces','announced','clears','cleared','awards','awarded','orders','signed','signs','launches','launched','opens','opened','allows','allowed','eases','eased','tightens','tightened','cuts','cut','raises','raised','reduces','reduced','restricts','restricted','bans','banned','prohibits','prohibited','invests','investment','expands','expansion','shortage','surplus','record','tariff','quota','mandate']
+          noise=['share price','stocks to buy','stocks to sell','target price','brokerage call','technical analysis','buy today','sell today','sensex','nifty']
+
+          def clean(s):
+            return re.sub(r'\s+',' ',re.sub(r'<[^>]+>',' ',s or '')).strip()
+          def fetch(q):
+            try:
+              u=BASE+urllib.parse.quote(q)+PARAMS
+              root=ET.fromstring(urllib.request.urlopen(urllib.request.Request(u,headers=HEADERS),timeout=25).read())
+              out=[]
+              for it in root.findall('./channel/item')[:25]:
+                title=(it.findtext('title') or '').strip(); link=(it.findtext('link') or '').strip()
+                if not title or not link: continue
+                pub=(it.findtext('pubDate') or '').strip(); src=(it.findtext('source') or 'Google News').strip()
+                try: dt=parsedate_to_datetime(pub).astimezone(timezone.utc)
+                except: continue
+                age=(NOW-dt).total_seconds()/3600
+                if age<0 or age>24: continue
+                desc=clean(it.findtext('description'))
+                text=(title+' '+desc).lower()
+                if any(n in text for n in noise): continue
+                if not any(c in text for c in changes): continue
+                matched=[]
+                for s,terms in sectors.items():
+                  hits=[t for t in terms if t.lower() in text]
+                  if len(hits)>=1: matched.append((s,hits))
+                if not matched: continue
+                matched.sort(key=lambda x:len(x[1]),reverse=True)
+                sector,hits=matched[0]
+                out.append({'title':title,'link':link,'published':pub,'source':src,'sector':sector,'hits':hits,'age':age,'description':desc[:300]})
+              return out
+            except Exception as e:
+              print('feed error',q,e); return []
+
+          candidates=[]
+          for lane,qs in lanes.items():
+            for q in qs:
+              for a in fetch(q):
+                a['label']=lane
+                # Score materiality + sector specificity + freshness.
+                a['score']=len(a['hits'])*12 + max(0,20-a['age'])
+                candidates.append(a)
+
+          # Add sector-focused fresh searches so important industry signals are not missed
+          # by broad Macro/Global/Giga+ queries.
+          for sector,terms in sectors.items():
+            q='India '+ ' '.join(terms[:4]) +' when:1d'
+            for a in fetch(q):
+              a['label']='MACRO' if sector in ('Sugar & Ethanol','Banking & Financials','Rail & Infrastructure') else ('GLOBAL' if sector in ('Pharma & Healthcare','Chemicals & Materials') else 'GIGA+')
+              a['score']=len(a['hits'])*12 + max(0,20-a['age'])
+              candidates.append(a)
+
+          # Deduplicate the same story appearing through multiple RSS queries.
+          unique=[]
+          seen=set()
+          for a in sorted(candidates,key=lambda x:x['score'],reverse=True):
+            key=re.sub(r'[^a-z0-9]','',a['title'].lower())[:120]
+            if key in seen: continue
+            seen.add(key); unique.append(a)
+
+          landed=[]
+          used_labels=set()
+          used_sectors=set()
+          for a in unique:
+            # Prefer one card per lane and sector for the Gigamug-style three-card strip.
+            if a['label'] in used_labels or a['sector'] in used_sectors: continue
+            landed.append({
+              'title':a['title'],'link':a['link'],'published':a['published'],'source':a['source'],
+              'sector':a['sector'],'triggers':['MATERIAL CHANGE'],
+              'label':a['label'],
+              'why':'Fresh '+a['sector']+' signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.',
+              'impact':'Hidden connection: fresh change → '+a['sector']+' operating conditions → company-level research candidate.',
+              'freshness_hours':round(a['age'],1)
+            })
+            used_labels.add(a['label']); used_sectors.add(a['sector'])
+            if len(landed)>=3: break
+
+          path=Path('adxmug/news.json')
+          data=json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+          data['landed']=landed
+          data['landed_updated_utc']=NOW.isoformat()
+          path.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
+          print('ADXmug landed cards:',len(landed))
+          for x in landed: print(x['label'],x['sector'],x['title'])
+
+      - name: Commit landed feed
+        run: |
+          git config user.name 'ADXmug Intelligence Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add adxmug/news.json
+          git diff --cached --quiet || git commit -m 'Refresh ADXmug landed feed'
+          git push
