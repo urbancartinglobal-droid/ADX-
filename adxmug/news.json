@@ -1,211 +1,394 @@
 {
-  "updated_utc": "2026-09-03T14:26:22.050894+00:00",
-  "source": "Google News Business RSS",
+  "updated_utc": "2026-09-03T15:39:11.066413+00:00",
+  "source": "Google News multi-feed · Business + Corporate + Macro + Global",
+  "method": "Evidence clustering heuristic; not a price prediction",
   "articles": [
     {
-      "title": "Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXBJSnozUXVWWHEwOThJZnplT19kTUNiUzZBTTVPbl9QV0lPTWpGWjNld2t1aG9GWk9HQm5zYlJ1R3ViY2JWVmQxUDFRZWJGQ0dpdVp2bERIVDI5ZHp4RVNNd08yYjJnWTR3VFFicWluclFEcXdOU0QyRFRMenE4Zmc0TGQ5WXROUFFRMWVxXzBDeEdrS0VidDRlZXZ1enFGVENBZUR6X0oyZEM0ZXd3QV9mWG5QUGtXcS12NUQ1b1hZR0NT?oc=5",
-      "published": "Thu, 03 Sep 2026 03:00:00 GMT",
-      "source": "Reuters",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXBJSnozUXVWWHEwOThJZnplT19kTUNiUzZBTTVPbl9QV0lPTWpGWjNld2t1aG9GWk9HQm5zYlJ1R3ViY2JWVmQxUDFRZWJGQ0dpdVp2bERIVDI5ZHp4RVNNd08yYjJnWTR3VFFicWluclFEcXdOU0QyRFRMenE4Zmc0TGQ5WXROUFFRMWVxXzBDeEdrS0VidDRlZXZ1enFGVENBZUR6X0oyZEM0ZXd3QV9mWG5QUGtXcS12NUQ1b1hZR0NT?oc=5\" target=\"_blank\">Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0k4SktwakkxQVlWeWJTX0RPbGpfbVc5Y05ERzRIdkYwdVg5YVlQQUVGX0dZcS1KNWRlTzN6M291SzZXTk42blpJQWZTRnlBMkwzcF9YSWFJQ3A1eS02UnFkQ3pfeFN1ZTRQYkdGejlMOXphc2w1MDlla0Z5cnpaR3A5ODduazdPUlZSVUZnTlVGR2dHSm40RE1Zek1BSFgyN3lGb0s1bEhpaVFuZjF6NnR5cFl3TG9zS2JGc0FDM3ZwYVBGRmlWMU4tTGY?oc=5\" target=\"_blank\">Rupee gains to 94.27 vs USD as RBI measures bring in bumper $136 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET BFSI</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObjJwckwtMklabUJVX0d4VHhBOTBCUk9fN1FjcjhyT3ROV0Z3eG5zYlE1LXk0aHJXUlk2UFNVWVRpbEliSFljRUZpSF93QnVrd0t1dnAxR3JTc2o4aTZDWVZzYTIySEJ5WmlOZDVFLU04Z2VVck5WSVdERmNhUm5vREg1TXdfdkZjWDlWOG9paTV5Wm14bUZQY0tsOUNiSEROUHBtMHFoeGEyVkxiU2lnenBaZW9nNjEyTEd1Qg?oc=5\" target=\"_blank\">Rupee Surges As RBI Intervention And Foreign Bank Dollar Flows Support Gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObTlWeVU1dERiSVNOTVFIb3JEYTNZZHNMb19HWno2V2hUcHlpWTBnN3FuV2R3QjhrLXN0TVh1aTFIeV9Vb2lCUF9ZSndsUWJHcENxb29HT0l4UXhxczZiM2pNY0ZrRTExU0hYOF9LUW92YUllU2pIMmJHaWFjSGhGREJlV1BBd053MzV5dzRNWjFCTWxqWWx4ajFsNnlXanc?oc=5\" target=\"_blank\">Rupee Ends Marginally Lower at 94.97 Against US Dollar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rising Kashmir</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTjBwSGotLWpBR3k2VnNkM29fMWJiZWhhWFhjR2dFZ0x4TDRJaFk5X1ZkYVZBRjdSd0ZURHVoMGtjMXp1MWFsS0ZPamRVNnVxbkZnUnVSTUhucmJSbHY0T3RsSDRwOEZ3aTdmS1RhMkg1dm95Q19iMk11MlJOdFNVbUsySzljWThIaTVfYkc4NmxrOGJDakgxTWI3aHdrLVhGN2NtcXN0M1NuVTFYb3I2UzZnclVBNW1fQmFCbGtmdnhqWkVxa2p2dy1OaEFFRGJRakFBM2tPRmRrdkJ6eC1MWFlqTk_SAeoBQVVfeXFMTlZGT2RDUk1oSDZPaG12TzJFQXJMd0lGRHFKTC1BWGhmbzFpUHFhQm9jSWluMENtU2NZcHZSaW5LUEFHTWVZanp3bVhwem1RU1NaOU56YlFRd0Nhb0dBa2lFekp2Njc1OEtnQWMyV1NiQmxhTDlSQnVZSE5IcDllM2xab0dkX1FpbmdROFNBcEJYQnpoUGYzeGtPM1ByQ3Q2TFhpYWI1YmlTS3M1MnpYN0dObVd0Ukp4S052bVE0UVh0eXZQYngwdlR5NXMyUzVnRVpWTlpBSVNURkpyRG5ORE5ESkw4YzVjWTlB?oc=5\" target=\"_blank\">Rupee hits 2-month high of 94.30 against dollar on FCNR-B inflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font></li></ol>"
+      "title": "India GDP: Q1 growth defies oil shock but data faces credibility questions - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybS1BMjM5bndaZmFDVFlZRDhlTGoxMVNfeGJVOV9PYzZxUjUwcnhHbS1nMVNrcno3NUg3dEhpMG1WZURjYzBaWlk1WkhKMDJnWDBwekpNY3B1UQ?oc=5",
+      "published": "Thu, 03 Sep 2026 07:11:46 GMT",
+      "source": "BBC",
+      "feed": "Google News Business",
+      "description": "India GDP: Q1 growth defies oil shock but data faces credibility questions &nbsp;&nbsp; BBC    \"Transparent On Data Sources\": Top Official Explains 7.8 Per Cent GDP Figure &nbsp;&nbsp; NDTV    'Intellectual dishonesty': SBI hits back at 2.6% GDP growth claim, says numbers compared incorrectly &nbsp;&nbsp; The Times of India    Surjit Bhalla writes: GDP data critics protest too much &nbsp;&nbsp; Th",
+      "triggers": []
     },
     {
-      "title": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
-      "published": "Thu, 03 Sep 2026 13:18:06 GMT",
-      "source": "Reuters",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5\" target=\"_blank\">Nvidia to buy Hugging Face for $13 billion in big bet on open AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB4U19tUkNIUFBOOW96VnRBTjB6VWRiUTdJQzVNMnYtYzRrelZWcGItUDdlV280U2dGd21jTWhTRjhDTThjMDM3b0JMNnhDTkdxVmFLWmpoMHREYUNOZ2lXdl9HcWtZbG5Fa3dDR2FXZnA?oc=5\" target=\"_blank\">Nvidia acquires Hugging Face in $12.9 billion deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHJpcy1QaHp5UENkd0xZdW9DYkZTTzNlV0xjS24wY2FsR3p0NVowbzZRSXBTN2IzNy1VY0VaUG5VbEg0MC1zSi1TS3ZCZF9QazdMNndXUlByTnR6V3FKSlpuYzRIYlVlNXhKM241N25hQVBrTF9jYzM2UlZBRzRFUlV0SUxlUnhhVS1PeVBvSE5pMGxSV1lGVDVGMUhlbnVaYzNyYVNLeDlsZldf0gGyAUFVX3lxTE1TRFJqRmQ3N0ZNWEZOTURILVNiYThTZFBaaGVJRjh2SnpmX2VVWVo5Sl9YTWR1TjJhZWxVZWdRU2x4SzlPZVZDczhLdl9uLVVjLTBPc1ppZGVkdndGRUNXaHBUVngtMS1aM0FyQ0dKN3YtZnpseGZCT2hrcmFrSlowRHhUY2RvVXR2WkMxNHQ0LU1DYlBUV1h6aHZsSFhOT3pfVzR5cmRySE9GZUZsU1lkRlE?oc=5\" target=\"_blank\">Nvidia nears $14 billion Hugging Face deal this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdUpWeVh2RnZRaHhUR0RaQnpwZ0JPbmRCckUzbVpiVTlPbDZrTGkxMDA1cGM3ek9SalFrUGNMM3pKbUhfZlZWU2hzckNHX2R5dU5pYmpMNzRkZDNVMEt0ZHNxQmY2QmJwRDVPT2JXbDkwM0FnZHpxbjJyZi03ZzRCZHZiS3NGeEpTYUs0bGR0UDkzejI0XzJN?oc=5\" target=\"_blank\">Nvidia confirms it will buy Hugging Face for $12.9 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSk51bTNob3BJWnFDM2tidEl2aFd6aXRGaVU5V2R4MmNhazZMME1Hc0ZIVmJqVm1QbUxyTjYzdWpnQWNYeXh2VHBzX3dFamEzUFd6NlNGX05HUmJMTmRycGhzWk5nLUFFVXZqNWR0MVNUNHBDeTNhM2VzRFhRQ2R3b2tYMDlEY0R3ZkRYcVdFTU01ZkprSTlucEJGbDVVbThfVmc?oc=5\" target=\"_blank\">Nvidia To Acquire Hugging Face</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font></li></ol>"
+      "title": "Apple's new CEO John Ternus may have just told millions of professionals around the world that LinkedIn i - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNVWhpTDlqWjFzdEl1R1pFcVVkckZMcUlCRzNNTjJQX2N4ZzV4am5nVVM3cUZjVzNxYkk3b3VFNDc0ejZ5NDUxMWlrVTFBUE56Skg4dGs0czdWNm1zRmtLY1J4dWhmUWJ4MW1nOFJiV3pGREp1Z2hJemdXMjY1OHZ2bEhWVVVIZ1hUVHk2aGRSRXFZMmdHWllJeWMzS2VkV1F6RkthXzRDb1NHbmg5cEZBQ2x6Umc5RkZRMHNwcWVWbUdnZk5INXVNNnZUR2w3eHZGMXNfNFBRdERlbHJObVNMNkFHMVNYd0s2ZUVGdkEwb1dEX3U0bS1ZcUdqdW9RVzZHYWVzRmFqUnNveDM1YVA0ekY3MmZHTk9rNGw4dnpuSnVGQlUyUml3M2NIVFJ6d3kzN3FyZkh2VW5RT2lF0gHCAkFVX3lxTE1kZ3pYcGxELU5vZ0JkMS0tSzMzdkQxM3ZrOGF3bEczN2pJWnhFaGpmME5jWjQzZjM2cnltZERhRlJKakhQR1Z1VkNERG04OW81dm5FVFJmM3NMOUhTWFNYSXQzaDZOZnVtOTBoZUdGOGNPUGIxVjJOZXhpUUtYUC1OcWFpRDZPb0lWTGZQcGhWZjltNzF5WFVFajRRT1p2cVR5R24wYWEyTXZ4Rkl5WFRZczRYcmtsNlVsR3NGcDhZbEVfYVAzS2xaZjhHdmY2QjNrYURPRzBsS29zVFQyWk9oTVdRdGJQR1RkZUNhZ3MzSlUyelh0SVp0cHl5bkZIMUI2TmxxVVlzOVV6UEpPZEFmUzBfYzZJVU1ocnJuLS1JanV4TGs2UlB1b2FGdVlyUGZhNmFKWlZVT0t2ekVvdElia0E?oc=5",
+      "published": "Thu, 03 Sep 2026 04:40:00 GMT",
+      "source": "The Times of India",
+      "feed": "Google News Business",
+      "description": "Apple's new CEO John Ternus may have just told millions of professionals around the world that LinkedIn i &nbsp;&nbsp; The Times of India    John Ternus takes over Apple from Tim Cook &nbsp;&nbsp; The Hindu    Tim Cook shares the letters that he has been reading every single day since past 15 years: Every morning ... &nbsp;&nbsp; The Times of India    New Apple CEO joins Chinese social media &nbsp",
+      "triggers": []
     },
     {
-      "title": "WhatsApp launches bill payments in India to tap into country's UPI craze - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSXdTN2hQNFp1ZDdJRXgzUE5RLXMtWlJTNjVEVnpaTWtsUnJfdF9FdGNCM01lME0yejNNUUszb0F5LUJzdDRjWG5hd0pjV295eVBzQmMxOV9Sb1BOR3g3S29TUXZkdk9rVTdGSVFOUWk5X0JTUGd2bFJEcmZqTzB4dEQtVXpUVFNJaXNJQ3ZHU1hobklhSE1IUk13LTJqN2lHb2xPWmljc2JQM2tUSk5ZSFdBcHlCSTljY1Npc1F4cTc0bWtYNXZNRExmU2ZOMVJ1d1ROejh6bUZFUUs3a29SYWtpWmoxb0NsVi10TXZHUWsxMG1BbkQ0TNIB_gFBVV95cUxPanl6UEl5WU1sTmJ0dWkzMDFfTFZ4NjhidWhEXzlxUnFJUWM5bnc3QnFzQ1dVeFlwZjlFLXAtQ1VxMkkyWFVLSVZnVEttS0kxOVpMTGVCSldNYklfYW1XNXltYW10YzdoVjgxcktDT1FlbmxMZ1dobmV4T21RNVZBb0pQT01GdmtpMzR2alJBZVhwS0dhcFRBT0I1QmhlYjJRWFJiSFFBT1ZXY1VuZ2FMYVdPUm1DSXRsOV81N2F3RFpzaGZQRHFCMnlrYWZ2U25maHJOelBTeHUyeUxMb3IxOHdPVTgwUFpZQkc4TjBpQmJ4YzdNUmtnUnZtSmdDZw?oc=5",
-      "published": "Thu, 03 Sep 2026 10:43:43 GMT",
-      "source": "The Economic Times",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSXdTN2hQNFp1ZDdJRXgzUE5RLXMtWlJTNjVEVnpaTWtsUnJfdF9FdGNCM01lME0yejNNUUszb0F5LUJzdDRjWG5hd0pjV295eVBzQmMxOV9Sb1BOR3g3S29TUXZkdk9rVTdGSVFOUWk5X0JTUGd2bFJEcmZqTzB4dEQtVXpUVFNJaXNJQ3ZHU1hobklhSE1IUk13LTJqN2lHb2xPWmljc2JQM2tUSk5ZSFdBcHlCSTljY1Npc1F4cTc0bWtYNXZNRExmU2ZOMVJ1d1ROejh6bUZFUUs3a29SYWtpWmoxb0NsVi10TXZHUWsxMG1BbkQ0TNIB_gFBVV95cUxPanl6UEl5WU1sTmJ0dWkzMDFfTFZ4NjhidWhEXzlxUnFJUWM5bnc3QnFzQ1dVeFlwZjlFLXAtQ1VxMkkyWFVLSVZnVEttS0kxOVpMTGVCSldNYklfYW1XNXltYW10YzdoVjgxcktDT1FlbmxMZ1dobmV4T21RNVZBb0pQT01GdmtpMzR2alJBZVhwS0dhcFRBT0I1QmhlYjJRWFJiSFFBT1ZXY1VuZ2FMYVdPUm1DSXRsOV81N2F3RFpzaGZQRHFCMnlrYWZ2U25maHJOelBTeHUyeUxMb3IxOHdPVTgwUFpZQkc4TjBpQmJ4YzdNUmtnUnZtSmdDZw?oc=5\" target=\"_blank\">WhatsApp launches bill payments in India to tap into country's UPI craze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxORFVFUjRDc3ljSFBQOU1nblowZl81UWFXYTlDRUVjVFR0S090SkN2ZE1uXzVDTjFUeHFxR3Q3bGhvWmpFYU1HNTVwbFpfTV9hQUVFandBRWlfcHh5YnBEamdJOThocWdiOFk5aUR1M0VEaDNfSnh1NlpvU3BfTS0zVE5ybUxJTWpNM0YxLXE0eHBieGRETTRKSjNYLVBjVVFORmxubjlwdnVzR09laDEtaFoxcVpfX1ZibnZIaklUVzZDSFdtZGFF0gHMAUFVX3lxTFBvVmVTZFY1Smx4enh5eGNwOUxQR0o2RXNnRUJTbnN1V0NFTjB2ZTJ4WEhKbG9MNXp5N09DbTJkeUlQZ0JFOEozdXQ0RlpLSVFJWmlPWm81OGxvRWZySnI0UURrb1hVRnUyQl9xTm9FYzZQUmozb3FkeHZ5X2tIcmZ2RHZjcExGSzhlMWdMc3dQZUg4czNNdGlnTldTNzNKMlVuT05udTRzbFZZTmJNQUdvaDB1Y0xDREswSjR2N0Q1c1UzMS1sZ3g3UktDcQ?oc=5\" target=\"_blank\">WhatsApp launches bill payments in India via Bharat Connect network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET BFSI</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzB4Qm9odTlmZ3VvemVOS2N0LUx2QWZ1ZEE1b2N1ektwUWxsTm1tMWlzZnpDRG5kNldkenpsVVpNbTNhVTJIU0hyTjJzd0hpaXVmYlhOMFd1LUNHYnRoemZ6cl90cGo1cDJjSWtKejJoTGVvUkRfUUpIVU1objZiRlhCR2NXM20yUXlMV0pFeGVUdnUtVjQyaTRvRnk?oc=5\" target=\"_blank\">WhatsApp launches bill payments in India with 22,722 billers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Television Dot Com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEtSUGtRamxrYllyT1N3MW1ubEhWeUo1Tm9mZDRpdC0teG5uZl9VR0ZEQ3pFTzZQbDVzbjhJbzdpMGtQeDNGaWU1Zk5TN0Y2QWhSMHNCcEx5UWVfR1lpa2dKcUJ3SWNEWFFIWEFSWTVPNURmWi0xV1BnZ2F4ZnpoQ2tmNDRDN1hYNi1oQUtOcElNS3JjZXlCTFBmT1BUd204cVhKanFxb3hrSmszX2c?oc=5\" target=\"_blank\">WhatsApp launches bill payments in India: How to pay electricity, gas and other bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVF2Qnd0U2Q0d3poQ0ZudE1seXZvUFVTTFB1TDRZUi1aSldDUGgwcFhMRkhPNnd1TTd1cEUzWXY4Q05aUGhwZXRlbTd0VlFGR1FJbFNfR1JKWlRILW5kVXBqZnJKNG41SUhIb25jTFQtdTVuMHpGa2dVaTNQVXRLQW1zVVlJbU9CMG1OMkwxdkFfS2NfWUhBWF9iRVktQUF5QzdoOGJ0UGt2TldrLWJwaFhocWNaT2lpdC1RWUhYbUotSmM?oc=5\" target=\"_blank\">Meta (META) has launched WhatsApp bill payments in India, which will integrate 22,722 billers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsquawk</font></li></ol>"
-    },
-    {
-      "title": "FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlVFRVMzM09SOHpRdy1XOWU4dEQ5TDRZU1BjTkJ3SlBNeWx4LXlQa2FFMmFsbXFEQVQ5eVM0elExelU2a3VqbFJzYkZuMWUtZlIxdnhUMFRMd1VheE9PQW9NRGZQV0lIaTh2bW9uU29LYnJIcDN6N0pzdTZkVzdXQmluM0FwbW1NZ1V3V2VZRTdZM1ROaXRTaXBSbGNmQ0tfUmtmS0RMZWxnWFZaU0htUDZ0U20tY3dJTHNDQTNqMncyU0ZlOWVPcm0wejl0UU5nM2VDMDVmbW7SAd4BQVVfeXFMTnpyQWU4OFZrc2FEWlJxWVBGU01MamJkdVNoTEFRWC1UeGN5T29pWDFVUUpmUVVOZG5VbXZ4REZ0N0J5RDk3SEZtSmxOTGJJdzNEUHFMSXJpcDR4N3Z3bGpPN01mZTVPUE1PZlo2UWpfU3RENXpfNHVZXzUzSkd3N3RFbUc3R3VvcVFITkEwa25ncEdRaDlpdWpZSEVxTUNpLWxaRjNXQk9NZUdoTjBtZVR5SzZCUXhXR1J3dnlNa3pVR0ViOGczYk51NklxMTV0XzR2ZWFuV1hfQmoyTzJR?oc=5",
-      "published": "Thu, 03 Sep 2026 10:37:40 GMT",
+      "title": "WhatsApp will soon let you make bill payments in India - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHNYcE96YURpejlnNFFiRU1USWdnekZMTTJoenZJYTNUTmVkZ2NZMlNnM2FKODFQSXdiMmh3ZmZ3VWJ0R0tUTGNLWnduajR6blZvREdPQVpsUDJJdFZIU3BJdHZqUnllS256X28tOV9EYzJzeVMwQTZYTUNlWFFDaHZmOFFZU0xTb2N3RkJxT2xob29vMkNYOXdMMjJuZ2NabUoydnZULXd1cUxNZDhwQzQxcWpQTlnSAbwBQVVfeXFMUG1tbjJGYWRjWVozNWFRRXI2eVBRLVA0MHhaa0hCMkNTRlF5NlAtZVRRdGNNSUt3YmxTdnNiejI5cWE3cDRWNThvUEdicVhYY0JaUng1M3otMU1ubTRBZDFINFptdi1IWjQyM0dqcFJwRENFckxyemYtc3F3M2NBT0loWGhESmdMYXJXemNpOG1VcEtQbkdZNXVPSXY0cHJNT3pwZXprZzNLRkJucGNEMGVsWlphbzBVN1BWSTA?oc=5",
+      "published": "Thu, 03 Sep 2026 06:10:43 GMT",
       "source": "Moneycontrol.com",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlVFRVMzM09SOHpRdy1XOWU4dEQ5TDRZU1BjTkJ3SlBNeWx4LXlQa2FFMmFsbXFEQVQ5eVM0elExelU2a3VqbFJzYkZuMWUtZlIxdnhUMFRMd1VheE9PQW9NRGZQV0lIaTh2bW9uU29LYnJIcDN6N0pzdTZkVzdXQmluM0FwbW1NZ1V3V2VZRTdZM1ROaXRTaXBSbGNmQ0tfUmtmS0RMZWxnWFZaU0htUDZ0U20tY3dJTHNDQTNqMncyU0ZlOWVPcm0wejl0UU5nM2VDMDVmbW7SAd4BQVVfeXFMTnpyQWU4OFZrc2FEWlJxWVBGU01MamJkdVNoTEFRWC1UeGN5T29pWDFVUUpmUVVOZG5VbXZ4REZ0N0J5RDk3SEZtSmxOTGJJdzNEUHFMSXJpcDR4N3Z3bGpPN01mZTVPUE1PZlo2UWpfU3RENXpfNHVZXzUzSkd3N3RFbUc3R3VvcVFITkEwa25ncEdRaDlpdWpZSEVxTUNpLWxaRjNXQk9NZUdoTjBtZVR5SzZCUXhXR1J3dnlNa3pVR0ViOGczYk51NklxMTV0XzR2ZWFuV1hfQmoyTzJR?oc=5\" target=\"_blank\">FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxON3drLUU4UXQyaFNLV3lrQkkwRXJNZVprMzY2V1hYYVpjWjVOeWNlX2V5S0xUT0dNTWQ0RjVOa1NhdXFPQUZQcXRWVzIxcGZmSk9SR1pkSnQwdDhuTXQwYkdyLWQwTmlzaERSU2NUY0RFZTFHSnNyWkVReHhBQUZjWDRxMVFMQXNjZENBMkZDb3RGMm9QRUxnRGMtMlR4TW1lcnowbE1ZT2d4Qk16MXlfWEV2dUFSUHFhWm9uV1hHbTNQYjJHYWRjVUJ1NGE2TWU2dnVzaUpkRE5lSzNVTEdpVDdtMDJEckdpcXQyeG1xTEZURHNRczJZOHZDX2doQUlwWTZiTG5wc2w5UQ?oc=5\" target=\"_blank\">FLY91 orders 40 ATR aircraft at $1 bn list price; largest order globally by a regional carrier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWtuNC1tRFZKZU1xQWRlTUh1ZUNaSkMwMGU1N2hydHZGLVNxWTJSd2F5V3hmNnBFd0NNU3dfMEN3TFFFTmNscDMtZmFqYmtOVEhQdElQd1lsWHNHdjJwV1dybGNJaXFWWFVwblFIbEFDVkMyZnN5SUFzYVRfS1NxSzFTN2NNd3JNUUVKT182WUR2QVl0QjAzc0R1WjdXS1FMZU9Yc3ExQklsOElrWGFZcA?oc=5\" target=\"_blank\">India's Fly91 close to ordering at least 20 ATR turboprops, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgJBVV95cUxQTmtnQUVTWU1BbkhwMWtCMG4wa1V1WHQyWXBwTUg0MXRCZWs5WWFIUS1GeTJOaUFGb0RaMnpEVzBYYUNkeFg1a3FGd2N0RmJKWmdWQUt2cHRpMTlwTWNnSmlqZTZGcGpDd2xfMldzR2N5dFo3QUx1SF9abDd5RVhxSUVMSEdnanVWVWcwdXduZkJEcllncF8wYTZndzQ1V3lCNWgtTTBEanliMkFZN2RzRzRyZUpiMWlheFl6R3NaRC1HT2E0OU9jMmdoYXJCQ3lFcmhMbDB2TWFNNzdOcVlPR2pMWGRrZlUydjhwYjhSVWR1MGVBazRWMzZvTWR6NGF6eHJGbVp2T1U5X2ZkelNJM0Z0NzRvMDlMTDFGRXhWNDRBVmlCQVhMWXZIcVFjbDBnY0dqeDRKeDdwNVc1SEY4dzlR0gHHAkFVX3lxTE5XeHpZUW9LUW9xVHZZMVhZS3BrTGhhd240dG80M0FyWGRmaGphZWNTdEJXcWZxbUw4alpBNWlKbVNFRUZHaG5SU3RNMEFQZUdlcE05WmFJdVNVR2NtSnV0QmNrM1VwdlIxVVpfVTBkaUlwSGtWTFo3V1BvZHl5MDQ2U3dNa2padXdZOEVlLXE3MXdQTEhKX1gyeDN0alNBY3lfOGkzeEZmQ1hfUlBhLUc5d3hkUm1BeWVza1hwdkJZa05rTW9wV0JWZUFwVjlfQm9DVmVUVENRaGR1R2ozTC1mRk41VWZjQmJuSDBYWHhpVUdUUUNYb2ZFVmtVYUFYQVRReGlJZlRwTHNZTVR5UVpTTmpuTjMzVThzV3IwWS1vSm5mUnlrUTBmdjAxUlBKN2FwSm01ak1kQjJlQWFCSmRyVFg0ZENfSQ?oc=5\" target=\"_blank\">Fly91 plane order: Smaller cities emerge as Indian aviation's next frontier as airlines bet on deeper, wid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZUpSblpJdFZBeDVtb09GOXdEZzI1V0E0Z0xHUlRyMjZ0aFN1eFB1czZEeVd2RElzeFg5Rk5lbzJhTDFxY1MzZi1TZHg5YWxfSDR3OXNnYWY3RjR6M1ZMX0h1a1Y2dVY5SHRmTlpNSWFsNVZmc1JPZWJpX01NcEdKaWkyUkNWVWYzTlc2V1dIcGxjQ0xkSWpUY2FWZGF3WUQ2VXQ1WWg3dTRuTEV2NGI2em5RZnQybGM2bU9Rc01BU3ZCUDZ2aTNwOTZwT0pYT0xfWVhsUTNBQXZONXRKQUHSAeMBQVVfeXFMUFhkUzl5OE15ejB0ZUdvRHFUVzRZb2pmbXY2U3p6cHQ3djFiTjd5ZjNoai1OTFVPS21ib09MTnV4VEp0S3FlZHQzN2JQdVAtd3h5Ml9IU2FqT1lFT2s0R3RETFliYVF1NlZ1WFlSc2ZCLTNhZEJGV1hCV1A4Nld4Y3hyZGk1WFJRV19qTk9rZy1hV0hfS29HY0ZGY09HQnFYdXdEd3I4b3RBeWpzMjZZT29vaHZWTmNrd3pNeC14NDVJODduWGdMU2xQa2toYmNzVlIwWktfWndnU0ZGbWN0UUtXOWc?oc=5\" target=\"_blank\">From 6 aircraft to 46: FLY91 plans order for 40 planes from ATR to expand regional network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font></li></ol>"
+      "feed": "Google News Business",
+      "description": "WhatsApp will soon let you make bill payments in India &nbsp;&nbsp; Moneycontrol.com    WhatsApp launches bill payments in India to tap into country's UPI craze &nbsp;&nbsp; The Economic Times    WhatsApp launches bill payments in India via Bharat Connect network &nbsp;&nbsp; ET BFSI    WhatsApp launches bill payments in India with 22,722 billers &nbsp;&nbsp; Indian Television Dot Com    WhatsApp ",
+      "triggers": []
+    },
+    {
+      "title": "Stock Market Today: Major Indexes Surge as Treasury Yields Decline; Snowflake Shares Soar; Nvidia Buys Hugging Face for $13 Billion - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0xCa2RGdFZHWkxScHduVkhkYXhFMFVsRnE1d0ZiU21kSXB0cXhxTVpoNVdTcFJ5OV8xR1ZLaDIxVzE0YjdqUDNrdmJ6NFlXRE5aV1VHZzUtTjVMNHVadWxDeFplaWtwOTNPSjJEbm9wTU16OTlEMXhDMzkzei16OFE3TkVNekZUNktCaGtwTUQ?oc=5",
+      "published": "Thu, 03 Sep 2026 13:36:42 GMT",
+      "source": "Investopedia",
+      "feed": "Google News Business",
+      "description": "Stock Market Today: Major Indexes Surge as Treasury Yields Decline; Snowflake Shares Soar; Nvidia Buys Hugging Face for $13 Billion &nbsp;&nbsp; Investopedia    Stock futures rise as falling Treasury yields signal less pressure on Fed to hike rates: Live updates &nbsp;&nbsp; CNBC    S&P 500, Dow futures tick up as oil prices and Treasury yields continue to let up &nbsp;&nbsp; investing.com    Stoc",
+      "triggers": [
+        "PRICING"
+      ]
     },
     {
       "title": "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZGR4ZXRRYzBoWlNxekRXdlhUV1Z6V0JDLW0yU0NueXpBZ0ZJVGxKbDZaNkVFYkdjaTlyNm9paVNwdlpEYmdBdTh5NVdrc284d0phTl9tZzIybFZDdTN2WW83M0JSdHhfemVGS09XZGVmdFZ6c2ZqTE52NUFBVHhJWF8xdHI3cHZpQ0N4QzdhS2hBNU1vVnJ4Qk1zdldxVXJyekc4ZlFYQTdkSXpKYmpJWE5RSjJkMnVEaUw1TmFWT0lIOGxuanlxM0E4aGEyWDF1Nm12c2hkZEJBZnFDcFJfa2h3RHEzM1lBZXRacS1Dejg4Zlh5RVdDb3dtRGNhRUJfdFc1T2ZOY3k5X1pnZjJDZng3ckF4b0xTZ0xJeXJxOXlWMGZubVdhTNIBrgJBVV95cUxNQ1cxOW9vZ2gxQlJSTmZOTVpTSklDMlBTOVUxYkhaMU9mV0l1MGNXU3JWYjIwbUFWdS1xVU84SWFXNnRIN2k0TTJUOVpmYk5FcTVzWlhfRS1tdXhoRldzUFVCUWJTVWU4NHR0N2tqbS1QZDQ1NWtaZWQwRERHMG1Sdk9vMGNiSjhxQUN3SVVPcWt0blZZVDNoTGVGa0VtQ29IRmRyeXlUSS10T2xXd3B1a0hRQ2ZJUnNIUG1aS250VnZDT0hubjNIZThBaUo1MmhteVZmN2JZeFZndzNrOWZHcG9zbjY4VHhZYV81T1FkOGxJZV90TTBxd25ncmRHSDNNTlNUYUVRWGFwZVp6WkQ2dGI3eFpTWjFtVm1JRDZrekVvM1ZKSVJ5ZzhIbExVdw?oc=5",
       "published": "Thu, 03 Sep 2026 10:31:44 GMT",
       "source": "Business Standard",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZGR4ZXRRYzBoWlNxekRXdlhUV1Z6V0JDLW0yU0NueXpBZ0ZJVGxKbDZaNkVFYkdjaTlyNm9paVNwdlpEYmdBdTh5NVdrc284d0phTl9tZzIybFZDdTN2WW83M0JSdHhfemVGS09XZGVmdFZ6c2ZqTE52NUFBVHhJWF8xdHI3cHZpQ0N4QzdhS2hBNU1vVnJ4Qk1zdldxVXJyekc4ZlFYQTdkSXpKYmpJWE5RSjJkMnVEaUw1TmFWT0lIOGxuanlxM0E4aGEyWDF1Nm12c2hkZEJBZnFDcFJfa2h3RHEzM1lBZXRacS1Dejg4Zlh5RVdDb3dtRGNhRUJfdFc1T2ZOY3k5X1pnZjJDZng3ckF4b0xTZ0xJeXJxOXlWMGZubVdhTNIBrgJBVV95cUxNQ1cxOW9vZ2gxQlJSTmZOTVpTSklDMlBTOVUxYkhaMU9mV0l1MGNXU3JWYjIwbUFWdS1xVU84SWFXNnRIN2k0TTJUOVpmYk5FcTVzWlhfRS1tdXhoRldzUFVCUWJTVWU4NHR0N2tqbS1QZDQ1NWtaZWQwRERHMG1Sdk9vMGNiSjhxQUN3SVVPcWt0blZZVDNoTGVGa0VtQ29IRmRyeXlUSS10T2xXd3B1a0hRQ2ZJUnNIUG1aS250VnZDT0hubjNIZThBaUo1MmhteVZmN2JZeFZndzNrOWZHcG9zbjY4VHhZYV81T1FkOGxJZV90TTBxd25ncmRHSDNNTlNUYUVRWGFwZVp6WkQ2dGI3eFpTWjFtVm1JRDZrekVvM1ZKSVJ5ZzhIbExVdw?oc=5\" target=\"_blank\">Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwJBVV95cUxPTG9UWnllTzZMQnZsaTdFNnkwVXlLRE9aclg3OTRhZDV6SjVJXzBCMkJ5OGptT2VGdEZCZEFjOTdLYmU4T3pZaTFaOEYyTXg5dkpGMG5jdEZvSEpMYk5EeTN3UzRkcm5obVFLNFdibFhqa295S281ZTRnZ2tscGJSU2V4VWp1T3dYVld5MTVnMHg1d2lVNC1DUWtGeldISkh4dGVQS0h4cS1xVVNmckZ2OU1OeG11bWdKS25WWGVHTWtGWjVnWmRoZFc4WDg4N1ZqWDFuQ2pvMGktWGRNcnJMUkNuYTFRbnFyT0VzR2JNNno5ZnR1TUkycHZMcTlkdkFfTnI3N3B6NU4za2ZabEhkTWV0NklUZG9GZjZIMnJJejd5RzJ5cGM3RWYtQ3R3TG9tWS1lUG9wUQ?oc=5\" target=\"_blank\">Stock Market Today Highlights: BSE Sensex plunges over 400 points, NSE Nifty50 closes below 24,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPV1VqeEdDY1R2VTF2ekllRFhDYXFmOGdiUWZSM09QSlB2QmdLU25ma1VxektRLTA0aVNYQ2Y5cVBlWFFOQlFBSnZWQVRKbXFwQW9VTHVlX3A0WjhsRGhfT1Y0ZWZXN2cyaVFGSlpVT0JsUXp0a3B4RXc3bUppVk5UVmUwMzd1WFZ5LXdKb3VSWWhRejAzck1Cbko1MEU5eS1vY2dyVGU1dTVIU0loSXNlY1dNNVNtUDFNMmV2amFTeU1jRklsSlVqUFJaYUVBLUJQSHlnNGFURi1Rb0NfYzA3Z3Q5UGdJWV9FR0lDZjBGcUJVWU44NUhONmJOV2NNb0h0NzYtUHBGQWIwc2VZbUtpQ21MLUfSAZoCQVVfeXFMTlhRTHJXNWVIQ1FhYmEwdDZSd2xpcXlycmxvdENpUEhDUlhGX0tMamg3aFI5cjQyZkhoc2xMai1ZS0JOYkl6TndGMHVtNnNROFFxVmp3TV9HODZ3VlExaWVYWVZ3Mkl5c0Z4SlFMV2E1WW1UV1FNZHAyYVFsNEZCUmNTTTc4NFlpWXdNT0o1OG41MXEzS09lZXRPSkZzMnlCOE5sZDM1YjdkdGk0SXplUWNUc2V2elF5bzFfSVJudlFlYllCQ29HNVlTQWpZeC03dFo3VW9iMGZ0NU9OYjJiSndLcVFMNm5WNXNBV0hmTUhVMGpCSmVmVWE0N3V4WEpoSkpFZFVjTlo5czNCMGN5MzFqZGNCc1BraXRB?oc=5\" target=\"_blank\">Sensex Today | Nifty 50 | Stock Market Highlights: Sensex swings during CAS, falls over 400 points from 3...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaFRVOTBJVUJBRlNXSXdKMFBqNjlqOXRkSU9nNy1hVE9JY2tUdjBha0tUTGVkd3NSVWt0WjZTU3dYNUVULXFxcDY3dlJid0tJMG1rdFNEZ1o1MzRvckxhT0steFRNVUhjLW9MTzJNV2xEdG5hNVVsbG9ITkxrd214b01PcG9jUWNzQzBuLTIyUkZxR2VWZ1lGYy1fT05EWGhMMkh3dUlGc2xpa0xQNjRyMWZDUWNqTThnOUhlY3hjNE9xMHBWVldnUGx2LXFQUU1xMmZJTDZXYVVaVEEwOUVMbXZaTkJPUdIB7AFBVV95cUxPbkUxaGZ4VGJfc3dGODM3Tk8xSFZHS1d4eWxUVDVjbmhZLUNiS296bmFfWE94c1NXZlNmZXdsYzFKRWFKcjMyZ2E3WmpHWEZBdWptNXkzeEpwNmVyMWNodExnMWdyWTU4STZGY1lucGVhM0FYS0dJUWNnM3RnS2c4ejF0a3NmVGtrY2U4enN6NF9EUW1BOE82elZscjlQU1c3alFzZmdVT1hqU2pYdnpyajdTNUNIM2NaZmwyTzhodzhlZ0VseEY4R2lqbTJ0VTJRSWdEcE5WSnNaSXY2TWFTbHBqSTAzSllLSExuaw?oc=5\" target=\"_blank\">Stock markets tumble in early trade on escalating tensions in West Asia, higher oil prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2R5N0pnamhaQ093bURULWFIZ1U0TUVtMEM2S2YyLUJoQUN2ZjVUUEZyZXV0VmVub2Y3NVFOZ2FMcVlaWDl2R1JrMWVLa3dNSEhodjgzUUdKNDFsVV9VR2VjR3BvVDNqaVhxeElnUExBWFowRGxzYUw3NDR0RzBDWGcwTGhQMTRCT2RSdmtuSmdNNklfTC1RYXoyOFI0RWpDMk9XaW9iWjh2RnVWRFE0?oc=5\" target=\"_blank\">India shares lower at close of trade; Nifty 50 down 0.17%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font></li></ol>"
+      "feed": "Google News Business",
+      "description": "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform &nbsp;&nbsp; Business Standard    Stock Market Today Highlights: BSE Sensex plunges over 400 points, NSE Nifty50 closes below 24,000 &nbsp;&nbsp; The Times of India    Closing Bell: Sensex down 417 points, Nifty below 23,900; IT, FMCG drag, realty, banks shine &nbsp;&nbsp; Moneycontrol.com    Stock",
+      "triggers": [
+        "TRADE",
+        "PRICING"
+      ]
     },
     {
-      "title": "\"Transparent On Data Souces\": Top Official Explains 7.8 Per Cent GDP Figure - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ3JBVlA3M2hiOFAwYmM4ZWdzNWg2VkpHOVZTa2lCbVZKTEFpN2R0RjA0ZDRMR3ZHYmkyOVZCVmg1NWt3UmhLc0xVT0oxNW9SZ19wY09wNjZWQ3Q5S21CX2NBajdYanMtbFVfNkxkS1pMWnFNYXFKRnVtQzNXUmwtVnVIQmJfLVB3VlB2b2otSVFTSzJPVDk2eWRaN3ZnWmgxZDdLS1ZfeDJTaDQtd2YxUFVkSQ?oc=5",
-      "published": "Thu, 03 Sep 2026 13:10:20 GMT",
-      "source": "NDTV",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ3JBVlA3M2hiOFAwYmM4ZWdzNWg2VkpHOVZTa2lCbVZKTEFpN2R0RjA0ZDRMR3ZHYmkyOVZCVmg1NWt3UmhLc0xVT0oxNW9SZ19wY09wNjZWQ3Q5S21CX2NBajdYanMtbFVfNkxkS1pMWnFNYXFKRnVtQzNXUmwtVnVIQmJfLVB3VlB2b2otSVFTSzJPVDk2eWRaN3ZnWmgxZDdLS1ZfeDJTaDQtd2YxUFVkSQ?oc=5\" target=\"_blank\">\"Transparent On Data Souces\": Top Official Explains 7.8 Per Cent GDP Figure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTFwUndieHBCOUFmY0MtUkJpSUxyM0JpWExiZ3VLODQ2dGtzbkxQNmU1blhfMGZibk8tS29BQmFjVmhZaVBzZzBPT1pWQVRpZGotdkh4dDVBTGtkVHFIbzluSXJjRHNXdnlFaEw2U1k5aXAyTDJjcmoyZXdsZjBvdVBIbERyXzU3d3d5bFBQVEswbUhLaS13V2dBa0t0R2JEV2I0TDRETjVlam8?oc=5\" target=\"_blank\">Surjit Bhalla writes: GDP data critics protest too much</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmh2LXhHQmRCMHpHb21LNTN1UVhNaDZ4X2U2ZmFHT3J2MmwyenZtTG9fYWRZUHIyY09Nbkw0dkZudFpOZ3NITVhFb09mTk9ZZlZPYXQyYU5haHJ2QzJXM0xFRHJGRF9jVjl6akxGcjVhTmRZaTdva3RJZ01mRm50UWJ3dkw2c3M2UDNtU1ktdWp1OEVFZUwxZ01YTm5aT3lJRl8w?oc=5\" target=\"_blank\">Explained | Why India's strong GDP growth is raising eyebrows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbHM2SXdOZnhFZWJ6UjJkZUVVS2RjYVlINlVFUXpDT010Z3hlQjlYSHkwTURucTZHdjVFYlhvVWdDWnl3RGhONXdRVWNQMGZOMl9yM1gxLWk0V01CcEhqS1ZPUEZWNWZ6V0tqQUp3blhjb2JnYlJhX1lWZVRhVFFFSV9HcktlcVdtcFE0NWpzSEdEVGNCVGhjUDVMSHBpcTQ1ZjFIZHdfTXRNS3hoLUlTR2tINTExcVc5eS14T0h4ZkFJUlE2WEJaZw?oc=5\" target=\"_blank\">World Bank's Neelkanth Mishra backs strong GDP momentum, calls critics ill-educated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQckF2VFhIZmNfZmpHbVdBdHRJSTlzR0Q0OHBPNUpmaHJQY2xLUkpRX2dPVTduUzBEVXdGRFNHR0hxVUJkRXJVTDNUdFRqbVRSSDAxbFBwdm5HXzhGV09wRnRzQ2UtejRzZXhDb0V5Z1lsMk9zU0pUYV9xT3k0ZzhQQWNRY3NnbVR6cXlkNGQzQk83WkJSQ09TQWw0ZTByWV92YlN3VmFwRUpUdkpOZnBueE50c2M0Z09BdWtDRzBNd3pKdGhjY001Q2hOTEw4RDJsa0xiakQ3SE1wVnPSAeABQVVfeXFMUFNxQmlNaENMM1Y1SWNiS2VTOTFMMHBGVVYtZ3lwNmdXZS1UQkJjblZoblRJWGxhejk5U05DWlFRejBkUFMwWFB0aWR4cU4zcktVS2ctTFIwNW5DckFiam12dTN1ZkFwSkJjWFVEZXdqbUdGc0NMdzBmSjc5enlTQ2czNWZvNkJJZ0o4OXdfWVR6ZDlmSGtnOUVYcnItcXJhOWxuT3NWRnIyU1RwWkpWNVppdFlhTEVSS3laTUo0SmRRdkFtT2hHQUtBdU5uZE13QVhGUUlDZ05RSU1zSGUxcUk?oc=5\" target=\"_blank\">7.8% GDP ‘puzzle’: Why does headline growth look so different from lived economic reality?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font></li></ol>"
-    },
-    {
-      "title": "Billionaire Birla unit’s buyout loan draws $2.5 billion in bids - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSklvd21adUNYRklWd3NqeGc4OWFtbDgzbmpQcHdDVHVLd3JRLURLQ3k2LXU3ZnozRXdYTEZRald0YnBsakZGUUxfUEhGaHdDZGttdXc3U3RxanI2dDhWWk14R3lOZlBodGhmSllMTEFlNnpUdC1iR2VHS3dKSGx1VlJ4dWd5U04wV2c0SE5JejktVmM1UmVuZ1N6MjhtcENRaFdBOTdRa0xDdzBlTTZvY0xvTk14YU5tR3dFeGZfMXRVZ0pLalk5VdIBzgFBVV95cUxNd3ROWWZjX0xzY0ttR2w2OXEta0U0RVFxbHVMQk5GWkp1UzNTS0lfQkZmMjZHR0hTaVEwb3otMTBoNnVISmVMYmpfcVZYSTZPNUw1d3lGQXgxQW1GSnA5VEFDU1BxX3JFbmg2dlAxMGRZMkxQRVZ2bndQdkpLX0FFYlpXTlRCeXlBYVV5MTM3MWt2QVVaZ3BHanpqc25aeURTUW5PeXlRdW5oTDNtazQ5bHc2b3U1YVRHYjBjdk5OV3I3dmVKWXhWNTl4WW1QQQ?oc=5",
-      "published": "Thu, 03 Sep 2026 09:49:00 GMT",
-      "source": "Moneycontrol.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSklvd21adUNYRklWd3NqeGc4OWFtbDgzbmpQcHdDVHVLd3JRLURLQ3k2LXU3ZnozRXdYTEZRald0YnBsakZGUUxfUEhGaHdDZGttdXc3U3RxanI2dDhWWk14R3lOZlBodGhmSllMTEFlNnpUdC1iR2VHS3dKSGx1VlJ4dWd5U04wV2c0SE5JejktVmM1UmVuZ1N6MjhtcENRaFdBOTdRa0xDdzBlTTZvY0xvTk14YU5tR3dFeGZfMXRVZ0pLalk5VdIBzgFBVV95cUxNd3ROWWZjX0xzY0ttR2w2OXEta0U0RVFxbHVMQk5GWkp1UzNTS0lfQkZmMjZHR0hTaVEwb3otMTBoNnVISmVMYmpfcVZYSTZPNUw1d3lGQXgxQW1GSnA5VEFDU1BxX3JFbmg2dlAxMGRZMkxQRVZ2bndQdkpLX0FFYlpXTlRCeXlBYVV5MTM3MWt2QVVaZ3BHanpqc25aeURTUW5PeXlRdW5oTDNtazQ5bHc2b3U1YVRHYjBjdk5OV3I3dmVKWXhWNTl4WW1QQQ?oc=5\" target=\"_blank\">Billionaire Birla unit’s buyout loan draws $2.5 billion in bids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pwZ3Y3MUVSRWNuaUNUUjh5Sm5DZ0FQAQ?hl=en-IN&gl=IN&ceid=IN:en&oc=5\" target=\"_blank\">See more headlines and perspectives on Google News</a></strong>"
-    },
-    {
-      "title": "Tata Sons clears 10k crore for Air India, with conditions attached - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVZodmg0RW1yMEw0OFZKelB2dnFsZUhMd204b2g3Z3NxX2haOWNYSVhGZEd5RTBfTkVLNXRUejZWOWdiYlJUS09YR05fSjFuUWRxZ1czSVlNZDd0aGpPX3c0WHlwc2haRm1CbjBmcUlTeFlwYUVObEtYSnBDUUdzOWp1bGE3dG8tRDJfRTRvLS1PRFBvRVNHOG50NS1OR3RyVHpUNkJPWTNYYWoyUDUxNzdnWDlkMWdkYjhyUkd5YzJrVENsQlVVLVRRMnNVdUl3MVZ5ZXlkaGc?oc=5",
-      "published": "Thu, 03 Sep 2026 03:02:00 GMT",
-      "source": "The Times of India",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVZodmg0RW1yMEw0OFZKelB2dnFsZUhMd204b2g3Z3NxX2haOWNYSVhGZEd5RTBfTkVLNXRUejZWOWdiYlJUS09YR05fSjFuUWRxZ1czSVlNZDd0aGpPX3c0WHlwc2haRm1CbjBmcUlTeFlwYUVObEtYSnBDUUdzOWp1bGE3dG8tRDJfRTRvLS1PRFBvRVNHOG50NS1OR3RyVHpUNkJPWTNYYWoyUDUxNzdnWDlkMWdkYjhyUkd5YzJrVENsQlVVLVRRMnNVdUl3MVZ5ZXlkaGc?oc=5\" target=\"_blank\">Tata Sons clears 10k crore for Air India, with conditions attached</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcW5EcTdfUU9HMHllTzFqYXlTSVJSbVBGTjl6Rkt4RnlmdnFPOGVxRzVWUW9IVDEtMDRCeU1LVVhnQTVIRDZJXzFucFhFLVBLam9mX092WTBuT0IxTVVUSFlBeXV5cGV5NHdRSTNlRFJmT1h0QVdyUTVoam5OdV8tczRjOUE0eTl4TnRVblJjR2laQ01Odks0a3lRTWFUbV82czVJcFJVUlM4ZDNmMENnam4zcFEyaTVqQUdtOUg3WlpRdkx2TTJvMVNJaFhkRDly?oc=5\" target=\"_blank\">Tata Sons approves ₹10,000 crore-plus capital infusion into Air India: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET BFSI</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQY09kbVd1dU1SQ3ZpUUV3ckJHU05DU3NWclhCbGpnd0JOM1R3S2tOWUZUMEFrUDNSZ1Nkb3A3ZWNtWGRlSDE3U3BDVWwxaWVJMTdNclh2ZzFaWUJ5MTRNeTRnQU10MGRzNDY4d0k2MjJrdjFacFRaWjhaM05BSlpQQllMMXU0MmxXTjdKb2tvWDZPNGU1OG9kWG9UN1pTNHc?oc=5\" target=\"_blank\">CNA Explains: Why is SIA staying invested in loss-making Air India, and can its long-term bet pay off?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUxQZW10X0ppY0t2WDFxU2Nldm1CWVdoZ2RuT1c1OWY4RS13QUVpUi1TQ2V3RlZrcTU3NDNxeTNrR0hDVEFxOURkdDJrSWxBYlI1Zl9MVjB2TlZSVXdKanVBMkZuSnBRcWtPRElseXhEb1pXYVRma3puYkxFUy13X1h5aVhLaG4tcGJQanc3cW9sWk84RXhtY2c2cl8wVDNIaG0zMlh2ZW9kUkhadUZSdUF3SV9LSFFXaUFwNy1Wb01KZHFVcHI2cHN3?oc=5\" target=\"_blank\">Temasek backs Singapore Airlines' Air India investment amid growing scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnBOQjBGR0hYeEVXLUxwYmR0em8tTDFaVHFfZHhoU3JJbHhnM05yLS1qMVZEQVVMX0tSVTVUS19JNnR5VXktNUZtTERYQWdiRjJYVUhDcHhKN29tM1pUM2FlZVBpYkwzNnNVbjBSaGVlYm5FTm9xeEhlV05oRHVjV0VZVERFa191VlRlVE5uTWt4a2xYSmlJcHpXUmNhM2Z6V3QwSTdfU044UFVkZk91RWFIWWZiUkRqTVZCWkhXM1Q5S0x3M2s1VEgyMUFUX2xQY1BQRWo0cW7SAd4BQVVfeXFMUGZFYlBFVmNPUFYwUkpyNjBIVmhyQXJVc1o1a3lqSUlITFhBU2VuQndkLS0wTWd0NWUtRFRjSEFNajBRSUQ5RTJBSFc2WU5TTFQ0Skk2Z0E2dmMyRUZ3Sk5fVlJIVlZieGotNnlBd3h0UUlfRDM3YndZODJUN0lUQXFPVjlZUFlNVGRza19WRGdma1F0NGlzdlduSUYtbUZia1k3b0g2SkNLNnJrUkFvUlJjY3BtLURTSmNqX0hMNXowaHNtLS0xRXZLU2s1WFl4UGxsbEo2UkQ3U01GTWV3?oc=5\" target=\"_blank\">No one owes Air India a living: Singapore MP on Air India seeking billions from Singapore Airlines | 'SIA must bet on Air India on its own 2 feet' | Inshorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inshorts</font></li></ol>"
-    },
-    {
-      "title": "Gold Rate Today: Check 24K, 22K Gold Prices in Mumbai, Delhi, Chennai, Kolkata, Bengaluru on September 3 - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMkpIMEZkcll4ZGdONlU0dW1fczhUaFBzVDhCdEs4akNtdTVpQ215ZjZNeWRSdG1VN2Vqd25aVENxNXhoSFp0UGVBeTRVWGRJSTNKOENQVFZRRE9md0g3M0NlWUhuVmc4MzU1WG5CMHZhQXBGVjVoV1FsYnEzdnNkRHBXeGQtUng0a0p1U3JwMmhfRmhmeTVINjZMMjVnZ0NmaVZkeEtzbEIyQzhkQVVTNWRnakprcC1sUEFQcV9rbHQyR3J2RlliNGR0Ym5pcWZWM0JvelY2cUU4QdIB4gFBVV95cUxNWDBOcUE1QU1PdDItcjFENmlHbWdmX3ZZLTJFVjI3WW9PNUM4TmN0Q1lkXzE3dHZiZm9xeWROZWVFbktkRk13Q2w0ZWdvM2gyeF9yUEF2TkFHSWs2WS1ZdFRiNm9WMHA4WUxELXNlRUp1cm5qRExPLVBxNUNQU1ZEN2NWVS1xaW1aR2dOWVM5ZGk2VGpXdTdsY0pzVjNDS2pIaWlDcS1QSjdNRFZsamV1dk1XU1owOHJudDVFaG53WlNTZzZuYWQ1Q0dEeFJVS204eGhHdlpEZEdTNnBSMGpfTnlB?oc=5",
-      "published": "Thu, 03 Sep 2026 02:06:37 GMT",
-      "source": "NDTV Profit",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMkpIMEZkcll4ZGdONlU0dW1fczhUaFBzVDhCdEs4akNtdTVpQ215ZjZNeWRSdG1VN2Vqd25aVENxNXhoSFp0UGVBeTRVWGRJSTNKOENQVFZRRE9md0g3M0NlWUhuVmc4MzU1WG5CMHZhQXBGVjVoV1FsYnEzdnNkRHBXeGQtUng0a0p1U3JwMmhfRmhmeTVINjZMMjVnZ0NmaVZkeEtzbEIyQzhkQVVTNWRnakprcC1sUEFQcV9rbHQyR3J2RlliNGR0Ym5pcWZWM0JvelY2cUU4QdIB4gFBVV95cUxNWDBOcUE1QU1PdDItcjFENmlHbWdmX3ZZLTJFVjI3WW9PNUM4TmN0Q1lkXzE3dHZiZm9xeWROZWVFbktkRk13Q2w0ZWdvM2gyeF9yUEF2TkFHSWs2WS1ZdFRiNm9WMHA4WUxELXNlRUp1cm5qRExPLVBxNUNQU1ZEN2NWVS1xaW1aR2dOWVM5ZGk2VGpXdTdsY0pzVjNDS2pIaWlDcS1QSjdNRFZsamV1dk1XU1owOHJudDVFaG53WlNTZzZuYWQ1Q0dEeFJVS204eGhHdlpEZEdTNnBSMGpfTnlB?oc=5\" target=\"_blank\">Gold Rate Today: Check 24K, 22K Gold Prices in Mumbai, Delhi, Chennai, Kolkata, Bengaluru on September 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WRWw5T2MyRGtRbXlJT3VRbFZlekZGSzdsRXhrM2VDdks3N0FVTGlTMEs1QkNzUHpsWHEwMnJ3XzhPN0c3ZWFLUC1NWERBRGJuNVRJZjR4ekoyXzJnd29XRQ?oc=5\" target=\"_blank\">Gold, Silver prices down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsonair.gov.in</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3ejJ2RFFMUFNxVTF0SkVMYnlzVklwaFZyQjFqdmRUTUpEOEpHTnVPajk4Mjk3QnhRR2JxY3A3a0kwY0twMnlVY01vQ3lXb3F1RUR5bnRXa29wZzdlLUx4M2ZfUFVCa2JvUllRb2RvTHJ2UQ?oc=5\" target=\"_blank\">LIVE! Gold breaks losing streak, rises to Rs 1.59 lakh/10g</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPaml2U2FjZ3RXdC05cW9vcWNwS3FNcTFxODZEMjdha3M3X2FsNWhSV05KclZrSDNBa3RlZjB2WkkyeVA2WHNnXy1qSnNFaGZlT0lMcktLc2pzemFFb2lVNlZ2dUJfMXNERVNDbHhSOVVwaUh3b3V2OGFzYldnbkFSbFhOb3UwUHcwVFRVYmJmbGY2bnpHOURJZXZ5aDF0TjRFXzUxalpvVHJpT2owbHJxclBlUGlWYW5IYnVuYmVSc0hNakdOcEJCTW9DenNvbFZDMXo5MGF1dldISG9uZ3pXV1IyU2M2b0hvQXF3R3JqZUJ2Ny1hZ3BQeU5HemIwd1FNX1l2RGtON0s5UdIBjwJBVV95cUxOUWUxeDFpUF9DdlFvM1pYWG5NdzQyRDcxR2g3YWlNMUduWkMtM1V1ZEY5Q1hMVEZVQ1U2ejZNU0draGNsX3JMa0xnRmFaU0ZEalZDS3lkVkdwVnVNekRBVWw4UXZtdldJUDdCaU5RM0ZILXZUenBqcG5vQTJYYlBGTmI1eW9pbWhTVEQ3bjhTMWtrT2xXVFoyZ1Q1bEZxQjZLbFpZMHAtZ1dmakp5d0xyckk1cjNVTU9aVEFRT1k3clhUTE0xNGNKSGozQ0dVMTEzZVV6ZEZ1dFktX1NBWDJvMmhKQkZnZ1Q1Ymg4aTVaVmJqNjM0ZEM2Z3hJQ0w2bmpCOHg5dzBGLUNfOURfSGFV?oc=5\" target=\"_blank\">Gold and silver price today, September 3: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGg5Mk01VFFkbFNGM3J2cmpWbWp5elB4ME9tdkVIZzZTMjlMR3lPQTAwalZ1UUNOZ19jRFlueUVVU3YyVXRpUVQ3dWpXcnFTdGJnMlpFLUFPZ1kzNzl5TW1ISFYyOUVVcWtxM3AwTXRiOXFFVExSME1FaGlfazdHdjBZVWZ1Z3RQMUlNUkFDVlpvLVBjRjQ0ZUNxNkstdUlhSUZ3MlNIQU9fUVFGRGVQVVhkb2tyQdIBuwFBVV95cUxPZlhSWFcyanhEQk10MmU4ZzRZUWJud1pscEhRWUdKLTJnSmdRVEFOcVc3R2FqdVVQU2FjY0wwSlpjZk00VDJzbFF6S2J6bWhZcDVXZUJOTUtGRWJUNzBLVnZadUtxMVhpUlpIRHdSUmpXLXdRQ1haVE9xeVlBY0dMOFdwOS1icnlPUDVKMk85OXlIQlZTb092bmUzSE1tZC15R1hkZlBtLWZvMERBZVZxN2FRQUNXYjdRT01V?oc=5\" target=\"_blank\">Gold Rises Rs 1,029, Silver Gains Rs 1,862 In Futures Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font></li></ol>"
-    },
-    {
-      "title": "Tukaram Mundhe's FDA action: Maggi, Lay’s, Kurkure packs found with fake expiry dates in Mumbai were meant for export - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMzhXRGtXWjhHd21pUjRvSFBFNU9ObFRKdGZibndncTBRTG96WlZiX0tyazlDVV9zSU1OWHJ6bEI2cXRyOU1tUzNlRHFVU2N5a0szaHBwNmptdDJuY2VMMlNMdUhpR2FVaV9kVE1jUFE2LWZjSnFKMzBRWnJMM3drU3M2Z2RyTXNxaWNXY21teDY0WjFONmpHNlc4UFFYZDRGUzNZTXQyeFJreEM4ZjN3R2Vxd2sxYlNibW1WdEg1bzBuVlZOTzRlUDZiSWprR2dHUDFYbzFzbWVReGtpd1d6NG5QY3IwUTdZcXJtYkstTFgxeUNvZmtTcVlZMDRId9IBgwJBVV95cUxPejNCREZqR3hQd3RIWUNDQjBYQTdENEFvUnFldDhjMDFkS0NFd0Jka25xYlhUSVdVZXFHR1pxLWdaZVRqVVJZTlh5X0ZVM2hZcXlyWE43ZkVHNXVVZ0ZIMHEzdnZtNmJfV29CdTZLMnI5aGdwMWNiQlJjTDJTcHhlYkw1azdVNEpubVNSSEctRXRDTV92SUM5bmFEYUhFMGxZbUFvQlFFck9XQzdGdFNBaXJpbVVURjRteUxzdWZWMXFqRHdkRTd5VnYtQjNRdFJYeXlaYkRGbmRKY2E5Nk1LTHN1NGQ4RW81R3pPbFVNT3JxcGxlRVVsSUo5TVlST3g3N09z?oc=5",
-      "published": "Wed, 02 Sep 2026 11:14:45 GMT",
-      "source": "Livemint",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMzhXRGtXWjhHd21pUjRvSFBFNU9ObFRKdGZibndncTBRTG96WlZiX0tyazlDVV9zSU1OWHJ6bEI2cXRyOU1tUzNlRHFVU2N5a0szaHBwNmptdDJuY2VMMlNMdUhpR2FVaV9kVE1jUFE2LWZjSnFKMzBRWnJMM3drU3M2Z2RyTXNxaWNXY21teDY0WjFONmpHNlc4UFFYZDRGUzNZTXQyeFJreEM4ZjN3R2Vxd2sxYlNibW1WdEg1bzBuVlZOTzRlUDZiSWprR2dHUDFYbzFzbWVReGtpd1d6NG5QY3IwUTdZcXJtYkstTFgxeUNvZmtTcVlZMDRId9IBgwJBVV95cUxPejNCREZqR3hQd3RIWUNDQjBYQTdENEFvUnFldDhjMDFkS0NFd0Jka25xYlhUSVdVZXFHR1pxLWdaZVRqVVJZTlh5X0ZVM2hZcXlyWE43ZkVHNXVVZ0ZIMHEzdnZtNmJfV29CdTZLMnI5aGdwMWNiQlJjTDJTcHhlYkw1azdVNEpubVNSSEctRXRDTV92SUM5bmFEYUhFMGxZbUFvQlFFck9XQzdGdFNBaXJpbVVURjRteUxzdWZWMXFqRHdkRTd5VnYtQjNRdFJYeXlaYkRGbmRKY2E5Nk1LTHN1NGQ4RW81R3pPbFVNT3JxcGxlRVVsSUo5TVlST3g3N09z?oc=5\" target=\"_blank\">Tukaram Mundhe's FDA action: Maggi, Lay’s, Kurkure packs found with fake expiry dates in Mumbai were meant for export</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQdkFoZFo1WGRlSjhickRvcUhXVldORHc0RHNvWnBVYzhOVVB5RmF1YjZuV0tZa0p5a2NWNllNN3g4b1NYMGpPYlV0V0FkNHpHd2pzYzFtZ2RNUVVCN1NlU0hVQVI0blB1Rm82Nkt6XzdrZTRvTklPX3lQR2NLYzhCMVJmcTN3TDgtZmN6M0pyaldqc0w4bnZuWExSZWRzWTF6VzEwQ1lOZVpCaHRVRFc0c19WcmlxWHFMWUtDemhlNGVMNkZxVmlOR0FKbw?oc=5\" target=\"_blank\">Canada assesses risks to imports after India raid finds fake labels on food products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFNkSHNWZHJ1c0dkVjBldHNoMFg0bGstOWpKWUo3ekxJY1pLZWFBRHVqZUVNYTRSaU1zRUlzb0Q3TWl2bk5OWGoxV3llU3FBUkt3SDg4N0h6enhaZ0czejlqT0JWanNOY1pjXzRoRTUwSXY2WFZxMDU2R1lQSHNVYk1FTDEtSi1vSHRfalowYUJiUUc3S3p1Y1VCSWdRclktcG9vOGFaVkhDdkEwTnMzRGZMSXY1SmRjN2R1NTNGMNIBxwFBVV95cUxQUTNUc0M2V3Y3ZnE2ZlNVVm8tX0MzTUt5emU4Sk80M09qVktrdnRKaFViTVZKOFg4U0pYclBBX18ydVBnRFV3VlY1LURhUjZTdEJrNXNGZGQ5QnA3TEtLcmpHWlZuTGFyd1FvZGxSR3hDUC00Z1NPRkVCdVBBazF1bGJjMkFzejQtN3RGRHl2c3haM25ncnRuRW9Vbm1xU016bVdjUkVZYVg3M3BESFEycWNVNjloaWhlMXdUS3NOXzVxSk9HMjUw?oc=5\" target=\"_blank\">Tukaram Mundhe Calls Altered Expiry Dates And Nutrition Labels A 'Breach Of Public Trust'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxORGk0azNWT09QelNYVTE4MEptU0h4WldXSHRBOVJmLU5qNmVoc3hPck1fY1lDVkxzbm1ueWVHdVFkc0lfcWdLUDFzSkxkbUd1ZE4zRC1wRlJSOW5RdTg4ZHN6Vy0tNjRBV1prN3liWDZTY3lzYmVoclpOVFFoREhvX2JlcENVU3pITEZXYUZuT3lsVVI5QmRaaE41UEFDcF8wY0VJLTR4QXRjNnh2Z2haemRNV3FnM0NkMXprakJMOU9STWpZcTFpb2RteUhSNjR6bWQw?oc=5\" target=\"_blank\">FDA busts food expiry date tampering racket in Navi Mumbai; Rs 76 lakh goods seized</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNakdINXFSZWtvTUhkYll2U203WVZEYXBBZEN5aWxMZ1R6cTJLTWhTQmZiMXR5MEVfYzdkX0o4N1hvX3ZIakNvYTVEZEF6VTBkYkhWY0YwZlRINTVla0VHR21aS0NXVUxKNnY4ZXFmWUptZ3VhRHp6Y0tBY2xuN3dQdjFfVUxkbHA2ZnRjSnE4Y1NHdGs3UGE0WjFhVE00LXQ0QjNfb0VpaVFaNjVQc1RsTlFEN1plb1RjVkxYVjBrWHdzT2E5N25oTlp0U2RnYzdKUlo4ZA?oc=5\" target=\"_blank\">What’s in your Maggi, Kurkure packets? FDA busts Rs 75-lakh racket in Navi Mumbai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font></li></ol>"
-    },
-    {
-      "title": "Byju's vs. Byju's K3: NCLT freezes Byju’s auctioned assets after K3 claims ₹150 crore goods sold for ₹16 crore - Bar and Bench",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNDdVSHc5SWhuNTM4QUNNLTc5RUU5M3RUQ2EzeWJXbG1YbzlpbG5FYXpualRYQ0RlTk5GMVptZE52Zi1XQW50TGtoVHNaQXA5Mnp2SmVZbHVlRlNjNGlfR3NuOExqUTNPS2J2YTJiZG14TklEOHdlNzFqT3pYR3dXRDkxcUU0REk1SU9rX3lscXpFOUVqMlpyRmdFTDZPdm8wOGpmaUlrVFlBVkwwZzFFV3cycEVQUXMtbXFDRnJ2X09MYTZ3WFFVQnMtVlBuSzVUcnVVWFBuajZXcFVyTWJHdw?oc=5",
-      "published": "Wed, 02 Sep 2026 14:44:10 GMT",
-      "source": "Bar and Bench",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNDdVSHc5SWhuNTM4QUNNLTc5RUU5M3RUQ2EzeWJXbG1YbzlpbG5FYXpualRYQ0RlTk5GMVptZE52Zi1XQW50TGtoVHNaQXA5Mnp2SmVZbHVlRlNjNGlfR3NuOExqUTNPS2J2YTJiZG14TklEOHdlNzFqT3pYR3dXRDkxcUU0REk1SU9rX3lscXpFOUVqMlpyRmdFTDZPdm8wOGpmaUlrVFlBVkwwZzFFV3cycEVQUXMtbXFDRnJ2X09MYTZ3WFFVQnMtVlBuSzVUcnVVWFBuajZXcFVyTWJHdw?oc=5\" target=\"_blank\">Byju's vs. Byju's K3: NCLT freezes Byju’s auctioned assets after K3 claims ₹150 crore goods sold for ₹16 crore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bar and Bench</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlJBU25tbUJ4VVQ1X0dGYS0weGxJN2JQcHRGWW1JSHFLQldrbFNLQjBvQjRvZzdRTXZBVXNhVXd6S1Zub2gwVk5uVnNmM041bVAxdGlnRHItUVQzSURtbzJYY2JWMGlOY0xXeTV1RVlrei00TVF0cFpRYm1FaDdtbFQ4Q3doWTVSQjNaTHl5RFVtUTRfWEFSSmlGRUV3a290Z2xZNEdUX2NBLVp5ZWpPbVBPNHBfcXhfT3pqb3IwWDhzdUF5QlN6OTVydTZYTjVWNGtMYjRB?oc=5\" target=\"_blank\">NCLT orders RP of BYJU's parent company to halt further disposal of auctioned assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMVFjLTVaN0RkY25fc1RLRld2d2RyM1NhSzZkZHJmT2hEc0xnVVV1Um5Ua1hLQ1R4UmhLYTBNZ1dFbkN3MXZyWmc3bmdqdG1fVkp6eFh6Um1JaExiTVMzaGZBQlYtUm1JcjdzOG9ib2RjOFAxRVdSeXR3cjExUEZVV2wxWm1uQjg2V2xtR2FybW1MZVRrR3JoLTRjN1B4eUVLV0pmV1IybkM0cllUdHgtbEZpWFFVWmZhN3VxZFlPZW1jVUUyZkhqNm5KV3ktRnk4RUpURjJpTl9lQVl3RVJic9IB5gFBVV95cUxNU0hqbTNsSUE5ZjFTb3ZRZko4Zl9ISnpLYjQ5QmFFbFpNUFBBckJqcjI5NXlJYTVHVXJsQUx4a3NfN1UtRG1CVTYtRHkxN3FNbm9UZkVvN0NuMHMxUnZpRlA0R1B3bjJhdzQ3aXlfdldfd2c2TFpfRFVuZGZRdW1KZ0t6aUt5OEVsOGtwSjlRd255V2tvSk9tQ3hzMk91U0hzRkdMQTZZdFFueDMzWlZGaGRhbGV5SVdYZmg4LURkcFNBdXphX25naE4yZEdVRG5ndWxGTUwtdVphVl85emhqNVhlUW9iUQ?oc=5\" target=\"_blank\">NCLT Bengaluru Orders Status Quo After Claims That Byju's Assets Worth ₹150 Crore Were Auctioned for ₹16...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveLawBiz</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZW5HN0RJd1BOdzltRkljcHpJU21qeC0yX2xBU2VIbC1xVlA1clRhOVRsaTdkOThnTWRLSk9WTXZOTkNlUlNaQl9kN2JXRkdWTHhZVFdjQmU2Y2FEaHZYUlFheklReW8zSXZtdDV0Z0tfRTdEaXF0X3NUcGctYnlhaE1wMlM5c3VubndTODczSkVsam5BdlFIQ2drcWVnX1M2Q3dnWnFuNXZQTWl3UldJN0haQWFmSHFKaGxfNkZJNFozMGZlVXZ4QQ?oc=5\" target=\"_blank\">Karnataka HC Directs RP to Approach NCLT in Dispute Concerning Sale of Byju’s K3 Assets [Read Order]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Taxscan</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkhLVUwyQkhPcVVvMjFIdjJBcU5CTl9rblYxWjVsZjR6UFFyNDB4TDF2UUF2NUFSQVR2VnFfNXlRRkY5dG9SeFlWUjIxTkN5aE4wVmNieVpxd2stdENNV1lSODlGU1hqLTZ2d3lUM2N0aV9Rb0RLNlNPcmg0S0JIcm5hZ3BSUmxpQnFvLWpKaw?oc=5\" target=\"_blank\">NCLT Orders Status Quo On BYJU’S Assets Sold For ₹16 Cr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inc42.com</font></li></ol>"
-    },
-    {
-      "title": "Oracle India Reports Second Layoff Wave: Bangalore Engineers Wait for 6 AM Email Again - techtimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcllaYVhvZXFZUjRvN0F0UFdXNWxjVGtUWkRzWVNLeHdQNzZhVVRKcG9DNWhUTEV5VkM0a3laM3MwZ3AwbEJkeTVNM3NzRW1wb1hXX050UHdCQnh5MWVIcF93Ml90MzlNNUY4TldqdVJjMV8yMnlTRGhjX2lQUVo5Ym1Lem12OW43ajU2LVk4RmV2ZVhoa0VhR3doamZvZWVNQlBvY2Utb3NCeWZadXVnaG42MkVzSkRodlcwNHozelhBcWN1MFREdW1CQTdud3Y5NGc?oc=5",
-      "published": "Tue, 01 Sep 2026 11:36:23 GMT",
-      "source": "techtimes.com",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcllaYVhvZXFZUjRvN0F0UFdXNWxjVGtUWkRzWVNLeHdQNzZhVVRKcG9DNWhUTEV5VkM0a3laM3MwZ3AwbEJkeTVNM3NzRW1wb1hXX050UHdCQnh5MWVIcF93Ml90MzlNNUY4TldqdVJjMV8yMnlTRGhjX2lQUVo5Ym1Lem12OW43ajU2LVk4RmV2ZVhoa0VhR3doamZvZWVNQlBvY2Utb3NCeWZadXVnaG42MkVzSkRodlcwNHozelhBcWN1MFREdW1CQTdud3Y5NGc?oc=5\" target=\"_blank\">Oracle India Reports Second Layoff Wave: Bangalore Engineers Wait for 6 AM Email Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techtimes.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVXZ1NjluVEp0bi1nZ3NYMXNxLTBGYk9uUHpNV1pnS2pKdHBOSWxzanNwdU1ZbEktOVRtSDFLTnFjRU03WjVXVEVGbGFzQzlxUlhUZTZDa1hJdm9BWEJwcVBBODdtaVlsdnM5alA0UEhoaFlpbkN6dzF0REF3cXhfLUdLaUM3NHpFY2ZyUzlvdVpPZF94bUZMMTFDZndQWlNhVmRRaXNuQUJKaV9SUDM0QnhWclFvaDkyMHFDQXkzT3NJYlF2LVV3anZORHo3aUtLWmtqV1lpcmUtWXM?oc=5\" target=\"_blank\">Nearly 500 Microsoft India employees could be placed under PIP, may lose their jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxPa21rdjdUUldvelV6V1RyVHBzbGZsWmgwczlVbUtPX1hpV2pWM3IyM3ZrbF96Zmc5QnJmQjZxa2VzdFJjc29Pd1RHamRQaVBYT241UmhtSnRDd3hIUGF0ZjhLTUhQS3BHRUZROWgydnZUTUctbG1MMDEtTW51d0lfZmEzWEtlU3YwU2ZJZWROejJoSnhHNHBFRUtBZmE5U21SU29XQ1JDYUMyYmRUMGV5UUhPY3pkY1dEMUhIRFAtWGRTYkdwNmlTOEtUcVFpVkRKZERnZ3RUbHNRejNXLUdubmhKMHVQXzJnWE9KcThHalQzRzdCQ21NLWJmdS1peXpUbVhHaXhSMERpdWwzbkUtUGY2VmNHMjVfbFVWX05Ya2JKVHlseUlPWENkRUg1WWVhcmNXS2hR0gG7AkFVX3lxTFBic0x6Tkt6cno0ZTJob3RUbTV2NWcwaU1jdGRadUh2WU01TDF2dEFVZ3hsUUpIUGhNbUY1QjVCYUcxaVBpeWJvaGpKazVoM3FlMGI3aWFXSmNULXMzTUoxRm1KRTlfOVFUanVwaVVfNVZJX2oyQW1MUkdMTlZ5dVE0ZUxUbHVob0VyYXlqajFsUmt5c3d1VnR0bnpqcDVBTTJCVVNKQnhuVFA4TWt6OFZNMWdyd3JfQjhqbjIxOVBYNTV3WVVWYktUVS01VUVWMjl1RWNaNU9BM1VnSGh4TDd0MkVWc1R4NU5heUJlc0FVTFJYZEtLcE1DWS1RZ3RyUmMzTTdyZnc5QU1DSjhMR2NHb2lwM3NUU1pIOFRhYkhkTFFuRkxVOG1yUWJfTW9aYllMb1dOQlBFQ2FoTQ?oc=5\" target=\"_blank\">Oracle layoffs 2026 September 1 update: US employees ‘watch’ Slack counts after no 6 AM job-cut email — wh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWo2SU1IWVhIRFJfM2hSd25aM1hLb0VDYmpxaUNCWS1iTzFHT0JwNC1QNWN4blI3TFhiZjVMeEFSUUpxcmpDdG42aEpINmlYOGF0Zmk2TnRCTGJoNnpnSnZPa1Z6U1ZqQlVsbUxFQ1JaZXBQT3ExNFFtVEJXRkttdnhyVlpHbzI4MEVCajBvc1ozWXhReVVfVHNnOTFQVkZoVXZIUzQ0bzQ2aVRxVWQzMU1feDNYWUlyazl4MFk2WGYxcTBPdThWU2xvX1RfVmZrVkxhVVpjVHlmU2FsQUh2MkdjZE1QS1Ny?oc=5\" target=\"_blank\">Tech layoffs 2026: Tracking the job losses across Uber, Apple, TikTok, Meta, Microsoft, Oracle and others</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObURPem1BVUl4QTFxUTE5b1lfOVVrVzZNOTBoTTFoczFENEdGbzRqVHRVbENzYXRXNk02VzFXV0FpQTI2SXVocHRFdnRQUmZXQ0FvU1RuQ21UaFFEZnJtZDRYaVI0NDU4OHNPRjUzUUxPQUhhNVNmVmY1Y3VXTTlEZXZlejc5OFV1RkdOV1dLU0dEN0c2NVRIQ1hrZ1I3OXBwR0pVOHlKbnN2WEV4aTROTmJ5YWoyQ2hP0gHGAUFVX3lxTE9lNmkwTkJ4b3YxUTFSU2wycU1ZVExRNlBfc3lBUDRTSTFyelJkTEl4dFJIa2h0aVZheU9sYUhfZ1BfWDZSSWQ1bk1HSkNVcDlQbDFxWkN6RF9PODRudFF0OGVtamtBOG5sVnF2RHk0RnpYb1pOT0dURnRWM28wTUszNUhWWTByUGNPQUt3ZHFpZmJndUlPb09memRxbkx5eFUxdGlXNVBpU3FwRHdvMXJybGVUWkVJX1JoUUVDT2tfTzZRWlVGZw?oc=5\" target=\"_blank\">Why Are Uber, PayPal And Others Cutting Jobs? Over 6,300 Roles Gone In 10 Days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">outlookbusiness.com</font></li></ol>"
-    },
-    {
-      "title": "Ambani uses ₹10 power again for the next disruption in a hot Indian market - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVFUwcEZCNm1ram5WSVRMbElteFQtWXE4Y24xc3dMUGFvQ2FRMlBxeGVJdEp0cUZuZk4zRjVmSWRCaEY5REFWVnJRbHMyc0hPLTJubnpsZnZPaDVraVdGRF9oOFMtU2xfMnpDRnRiYVlHc2swMEJBVXUxY1hBTHczQlA2bGllZnFuQVc3TjdKUlc1U2FRenY0QWJPU3V1alFtTDRrblFsNmxpSkFKblJXN3BvTjMxMlluck5KajhNamU0b09yRWdLaS1LY0gxWFh2ZzhkeU0tZWc1UG80cktnY3J3T1hHNmdHRS1nVjdZRGtsQ1YxaUdpZWFnVENNcC1scFVR?oc=5",
-      "published": "Wed, 02 Sep 2026 06:54:14 GMT",
-      "source": "The Economic Times",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOVFUwcEZCNm1ram5WSVRMbElteFQtWXE4Y24xc3dMUGFvQ2FRMlBxeGVJdEp0cUZuZk4zRjVmSWRCaEY5REFWVnJRbHMyc0hPLTJubnpsZnZPaDVraVdGRF9oOFMtU2xfMnpDRnRiYVlHc2swMEJBVXUxY1hBTHczQlA2bGllZnFuQVc3TjdKUlc1U2FRenY0QWJPU3V1alFtTDRrblFsNmxpSkFKblJXN3BvTjMxMlluck5KajhNamU0b09yRWdLaS1LY0gxWFh2ZzhkeU0tZWc1UG80cktnY3J3T1hHNmdHRS1nVjdZRGtsQ1YxaUdpZWFnVENNcC1scFVR?oc=5\" target=\"_blank\">Ambani uses ₹10 power again for the next disruption in a hot Indian market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOZHlTLUE4NG5ES1hrYXdRRkRZOU5fR0Faa296ZldKUDloLTJ1bGtSeERMN0lVVnhrV2FVNjJGVFhHZzVkSEFWeWthU0J0ZnVvOUlmdXc1OTNUMjJBTmwwenc1QnVEMzAxUTdkVVI3ZG9WR3lEM3NHanAwUm5KY0w2b09KWjdvS2lUa21qS1cwSUM5V0lfU2NxRWQweWI1QmxobU1xZ3Y3V0l3Z2Q3SG14MXdWSWRVZThXNnNYaWVnUUZHNl9HS2lxcWZxd0Y?oc=5\" target=\"_blank\">After cola, Ambani enters ice cream market with Bombay Creamery; products start at Rs 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPNU14UlBBV3Rfd0VfWUpHS1F3Znh6UmJ5LXE1UGc1SlFDVm1aSlBueGN4V1JRUFhYbnhMWW5icno0Z0h3MWg5WHFuVnpRYWM5b3dNa2x2M0E3Y1JQeUNfU1U3Zl90OGhSdHdyZ3FmZHNRZURlcTl0QjFDWGhsM2U0cF9ONG1CVTJZT0FYU25ERHd0b1k2?oc=5\" target=\"_blank\">Reliance Enters Ice Cream Market With Rs 10 Bombay Creamery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Retailer</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGpFdmxxci1nU1lpT0tKVURFUURxNTFaby11SWJVQ1FUN0RvS3lRZnpIYVN6Qk5WRkRqbGREZDZuUU9hMFFtemdlUUpmUXB0NDRvWWlUTjVHbTdBcGt6bWpYTlhURVNXOVJDdlNmVDd0cHV1eWk4RzB4U3JTUF9GejhkaHBxcG9HMHFaMjJlZVRFRkgwSUlRbWgway1tN2g3bEdzQXFFTC1kMDNNU013S0w1ZG9jTjBPb2Y0S0t3SWVRT2JwaGRYcUtBN1YxazA?oc=5\" target=\"_blank\">Reliance forays into ice-cream space Rs 10 packs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHBmSW5CZTNYLTRzcC15RVd1bUdkVlZnRUdrQXcxTmJpODhQdE83TV9fT0E4bUZnZUY5YTRxSzNjTGZyT3VVMzJuWWhTNk5rMUZGRG9WWHFneV95OUdZTTBPamp2dDFCaWY0dVlvM09CYlNjMmY1TnFDbFI5WXk2ZVRhWVUzODFCY21MeHF5RGgxUHVyLV9CZnBSNHhfQ0V2UldZMTNHRGoybThnampYQg?oc=5\" target=\"_blank\">Why Reliance wants a bigger slice of India’s ice-cream pie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bureaucrats India</font></li></ol>"
-    },
-    {
-      "title": "Markets News, Sept. 2, 2026: Stocks Snap 3-Session Skid as Oil Prices, Bond Yields Remain Elevated; Nvidia, Dell Among Top Gainers - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1pRYnl2SFk2am02a0taMWJpR0QyNVBod3Z3MkdSM09ZMzJhODUzSWhXZVMtaldHN3RCN3BjX2h2bFNjRjJUYTYwZmJ1UThFYkJGVXVPX0hCN0hOc09CbW5lS1RJeFlJX0hoZExUR2QwVzREUXhGeUUtX2pxeEZ3dUVVa05jVGJBMTVmLVZlYjA?oc=5",
-      "published": "Wed, 02 Sep 2026 21:14:54 GMT",
-      "source": "Investopedia",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1pRYnl2SFk2am02a0taMWJpR0QyNVBod3Z3MkdSM09ZMzJhODUzSWhXZVMtaldHN3RCN3BjX2h2bFNjRjJUYTYwZmJ1UThFYkJGVXVPX0hCN0hOc09CbW5lS1RJeFlJX0hoZExUR2QwVzREUXhGeUUtX2pxeEZ3dUVVa05jVGJBMTVmLVZlYjA?oc=5\" target=\"_blank\">Markets News, Sept. 2, 2026: Stocks Snap 3-Session Skid as Oil Prices, Bond Yields Remain Elevated; Nvidia, Dell Among Top Gainers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUdabU83WGZ0SlI5MFIyLXpfd094QWVxdktrYWJJa3lsX2RJY2ZIYVp2bHhZMkMxVjdzMFM5emxUbDNHaVhCdHZOMmNiVmtTRndQam5mbXdfaVhWaDBjYzB2anNhZ3dPT2RQOXR1TklIY1lYc2lJQXMxY0lMMGxLb29CaHIzMEJIT1dLMzA5SXZTVUU0N3ltbUxLVGFkbzhmalRoZHlNMjNXUGZUOXF1Z0F4V3R2R3NLQjVnVWMzZ3E?oc=5\" target=\"_blank\">Stock Market Today: Dow, S&P 500, Nasdaq open higher as Treasury yields retreat after Fed governor Waller remarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5\" target=\"_blank\">Stocks climb and US yields ease; yen jumps against dollar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9fYmc5aklBNDFsTzFfLUh5WkxJa2NmVFJ3ZFVhWkg0ZEVGazgzMDMxVWEyd3ZXSXo4QVB1UEl2TEtGenE1d3lGRW1NbTd0aklnOUhFN3VjSzY3a1lySUM1R1dXSzY1UkFCR3lQRkFOVllMSkhDc0U00gF8QVVfeXFMTXdGR0lqMFJJMXFuWWVRR0lqbDU0aTMwYzltbTlpWVpVeHRmV1ItZUtiT0lQeDRhNzNaSy0zRVQzQmtEa094X3lkS3hBMHloOXpXNERIdkNFclJCZWotNUEtUjBBZGwyYndVb2U3Y0c1UTJrMC16VHRJYklIMQ?oc=5\" target=\"_blank\">Dow rises nearly 300 points to snap three-day slide as Treasury yields cool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXctcnVGX1dZRXpzLVoxeVhrUWxzVDFPQVROMVY1b2oxN1FFc1RyR0ZFcWFMZ0FlYklFajlRc0YzSzFEX0ZMdFp2eE1sTjV4RjRwcHFqTFl2RzRYOGRmTzdWMUh3N09KRTlHRkhsUXE2My16MTlycmgzVlJWSzNoUTN0VUhuV0YwR1ZUMkZHaWItMGxOWnlHbl8wQXp2UUZNTGhLNWhVdWhUM1FLcUNVaGdR?oc=5\" target=\"_blank\">Stock market today: Dow, S&P 500, Nasdaq edge higher as bond yields pause climb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>"
-    },
-    {
-      "title": "‘Stratospheric’ $127 Billion From India’s Diaspora to Aid Rupee - bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnhLZ3o2RGY4TUZadGxqZ05VOFBTeXc4bUEzRlZDWWZaSmp4R2NyRmJCYm81UjZ1UnllTGR5U1U4RlpWVTExWWc1ZFViMDRhQjUzMEQ0MWE0Y1I5UnNXZ2xLMjh3aHlSUFMzWVAzVWRIbEw4cHZDSF9wR3RwaVFwTXpVU1NXWmRUazh6c2RpVG9mUXFpdlJVYXNCYTVMM29jTVhPRnZ5YlVrT3A5WV9pVFRvdUw?oc=5",
-      "published": "Wed, 02 Sep 2026 12:50:21 GMT",
-      "source": "bloomberg.com",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnhLZ3o2RGY4TUZadGxqZ05VOFBTeXc4bUEzRlZDWWZaSmp4R2NyRmJCYm81UjZ1UnllTGR5U1U4RlpWVTExWWc1ZFViMDRhQjUzMEQ0MWE0Y1I5UnNXZ2xLMjh3aHlSUFMzWVAzVWRIbEw4cHZDSF9wR3RwaVFwTXpVU1NXWmRUazh6c2RpVG9mUXFpdlJVYXNCYTVMM29jTVhPRnZ5YlVrT3A5WV9pVFRvdUw?oc=5\" target=\"_blank\">‘Stratospheric’ $127 Billion From India’s Diaspora to Aid Rupee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlNHSWl5SU8wd0VKWFQ1UHNVUGxmYTVjWFlkZl92NGdtd0w1dkx1WGJjZ1J5V1lMeXg0SVNXZUZ1Yl9mcjB2dlkwcm5rMFM5dTh3dmh1WHZoY2hRbW41bjJhWnVvT1BtZUFKazNMQUFBNW9kVWZ4ZEdjdERPYzhMR1E2Rm5OT0tKQkxMbjZPcmlDWkV1aVJnTG03T1BoUUVWekUxNEZqSUNwcWhzNWI00gG3AUFVX3lxTFB2Nmh0VlpzbWE3Y2p5cWNGQ1ExOGdGSWZyZXFReFhhQkxyOS1kUjhRVFhDOEJXTjNZVmdYVTVmYkZqNjcyd3lfZWZjN1dJQ05kZXNqemN1ajQ4N1B5TElQOGw4Sm9KUHh1aE1ZcG1tN0FmTTdhYVZQRTZhdTRVYUI1WnpfOFBvVHRxTG1HajREREFkbDlHdEMtaEc1UWxBQTh4RW5GUUJsbjFfWVNUd0d4ZXZfODVudw?oc=5\" target=\"_blank\">NRIs Pour In $127 Billion As Reserve Bank's Dollar Scheme Beats Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeXZPN3NEZFlQMW5xX2RqS2cxZ3NqZjJKWTdPT3pWUzJvdDRKWGxXTWQ3dTJTVVNVWHpYektRcmZBQV9IVEFLN1haM1JRSXlKOW13cEhwMmdYbzlrWE1yUVE4ZWwtMzlycHFYZkw1RjB0d1JaVVJ1TVdnYTJfQ0I3bzlEdE9DdFdqMmhEay1wdHdWTGFJRVp0eFBjYTA1XzdKRy0wQzJaZW1OcndxaHR0WWJ3aXhFamd0TjVZNzNBUVN3WGdNOHhZZU0wVUlpVkhQLWZtV0o3bmN4Zk5Dcy1PQ2M1RXhlSEpNNW1samlSTjdpcGFV0gH6AUFVX3lxTE5BY3k4a0w5cU5ya0p0VXVGY21oQkdoMzFESExRWThmTDJBZmszYXJuVmhrMkhqOXVtOXFUVGJhVFhoUnVhRGc4MFRXeVlvLXI0R2tfSktDWnVycmVPeFpkdkZKdUw1TFZNbHRxRGNidUdRd2Z3TUxvdzZRRXJ3RDFKeG9XMVhZM2VocFlLTlhGbUo0OFAwVFllUGRYZmZmYmZOMjRlQk9iR0toYnh0MTFlNmExcXdpb0Z2a1I5TlBvSk5oSXZ2NHctS0VObl9KVTNrNjFQZjdnSGhIMWh2bnVyU1Ewczg4a1g3YU5md1N2bHo4RTdEalQyRHc?oc=5\" target=\"_blank\">Explained: What $127 billion FCNR(B) inflows mean for ICICI Bank, HDFC Bank, other bank stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDV5emxCVlFGcmgtWW51aER5aVBhaGJNVm9ITXFaQzktV1MyaVRUaGwyenQ3WXlZRzBpY3hZZ3V5UmdJRHQwRFVWQ0F2c3FQOE93ZzM0MjBLdlp2LVZHLWdTdkYtTmE2X3pJLVFzOFZ3YlVXN2FOcjJCN3lTeGdMUUQ5VmN5VDB1UnNpc2N0RmhmNTDSAZgBQVVfeXFMUGpxWE5RT1F1S2djNmV2U2pYUm45UVBGSnktOTB2WV85ckFwYjVuZGZFRjdrOURteXB3MzlBSkprMkpBVTZGRlQydlNzc0xIRVpaTWFUR1AtLUpZcnFxZHl6RE15eTZSMUNwZ2RIWmFCZUVzVDhDcUF5M1E3VmpmQnJwSGVKWldMREFHTE5GWGxNVldOY3R0blM?oc=5\" target=\"_blank\">India draws $136 billion in forex inflows, will strengthen ability to defend rupee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scroll.in</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQT1czb21zN0U5ZWRqVHdBRnlCcmFkVTNycGljcGp5QUJSVVROQWVnY2QxQzRTa19HRnUxUjZLeFdpeWp1YUFpY3ZVQ0V5TE92d2NGOGFmWVRLbkpheFN5WGdkM2JBTGp5b2dNajdlSHhqR0pZMzFmZlJsTjJPazVUQ2lGY1dpckk1ajZwTWJRZFhlRHV6Y1dHbUozV3dxZ9IBowFBVV95cUxQbURZTDNLXzdZMFZhYVNlMV9NZFJwZ2ZkU1p4NkRQa3YxMmtMYUxZaFVmRGhwYzl6MmlBbklPRXBjSW9HSzZXa3pwOS0zZEdNRUlkRTd1bjNfZ3l4Q1NhZWFLclRzOGwzR3V5dXZBM2dTZ1NJWlNXNGNza0JNMy1EenhYTS1WOWsybmJaUUlxNmJnNkdGcVZjU012LVc2dThBR3dR?oc=5\" target=\"_blank\">India draws record USD 127 bn forex deposit in special drive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font></li></ol>"
-    },
-    {
-      "title": "CAS chaos returns: Sensex puts explode up to 400% as fag-end slide jolts traders - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNkhFZlBmMGNOcXhNYURhbHZWclJtMjU1ZnFQTFFZSjlnX3ZyeWFXdDFLMkdFN3kwZHdZUG9DdTU5RlplNlpzSXJtREdFNmJONWs5UWFEM3NFeVdQc2lqOFpORV9seFNlbXA2VHhHQmhiaTUyVFN0TmF6MUk5OFE4RHEtcDFzUTJPWFVteGJHRmxMaHJZVE1iU2VLYkVvX0tVRE1WVy1jSUVIVjVuQWNMbll1cEhMOUNkSFFqSGhFcXBKT24zRlo4ZWNYRDktRldNaEpxUVRILTFla2hyWjE0WGNPQkg4Qnc?oc=5",
-      "published": "Thu, 03 Sep 2026 12:07:37 GMT",
-      "source": "The Economic Times",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNkhFZlBmMGNOcXhNYURhbHZWclJtMjU1ZnFQTFFZSjlnX3ZyeWFXdDFLMkdFN3kwZHdZUG9DdTU5RlplNlpzSXJtREdFNmJONWs5UWFEM3NFeVdQc2lqOFpORV9seFNlbXA2VHhHQmhiaTUyVFN0TmF6MUk5OFE4RHEtcDFzUTJPWFVteGJHRmxMaHJZVE1iU2VLYkVvX0tVRE1WVy1jSUVIVjVuQWNMbll1cEhMOUNkSFFqSGhFcXBKT24zRlo4ZWNYRDktRldNaEpxUVRILTFla2hyWjE0WGNPQkg4Qnc?oc=5\" target=\"_blank\">CAS chaos returns: Sensex puts explode up to 400% as fag-end slide jolts traders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWF2WDNNUDM1WnFUeFQzV1o4ZUo2WV9WWnRkSTlrTjFzcEtpRXpxUGMwTTJfQ2ROS1VfOUpjSF8zTC16Z2RnQWhKbENWbGt3dlpGMWJXOW13c09jdmtwWWYyRUNsWlN2Z2VaN3loN0J3V25mQmpwUVctWXVJdnkzbXVQaGpCdVd2QlR3YVVXQmNJeXV6ckthYlIxU0hpRmhteFNiam5Kb3F3U245amJ0ejlJX1FmcE5RZWY5a29VbHFXX1YtMlhYa1FHSzV4amJxUTN2YUZqMlJBeVVO0gHiAUFVX3lxTE5HT1ZfbU5KUXhqMm9SUHNOVkZSOG1PVkEtdFhRVEtNbFVITzBCVnpGY0NpaTQtd0ltQXRVWmxmS3FTaE4wRVlmMC11TkdSbEE5TGpLRU13T285Qm9FaFFwTUlTSk5SOVBxS2dTTVdySWpYaU14OFh4RFNBTEdPUFRDdXg2dFExcl9tOHp3RlFmWmNzVDdFN3VkNFVpZThiTVhYNmdITVp5Y2xvUm1lTnliMTF5Y1A4N1JjaTJleEJoZE5iWE1ibmRIRGxwOFZFM0FzYzRaeTB3T3J1SlBsTWJhRWc?oc=5\" target=\"_blank\">BSE shares fall over 4% from day's high as exchange says CAS led to lower volumes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmhSc3JldDFDSTR0MHpaTTMyczFuclNiZ2J0Q3pGM0VkNVNLb2pwdnQxX1Z5S3FNOWZnaEZ6YzVfNllsYWhUSlI2dDdUS3RmdW1Mb0V6WENIb0RpRmVLcFR6OENWT0c5eG9zWW9PQXFFNUQtTEZSVVFrSkxsRWlmQ19BLWNwdEcwa1psVTE0S0hIYXN0dTJHWlp6d200ZHpHTTlod3RySDhSQQ?oc=5\" target=\"_blank\">SEBI’s closing auction norms run into derivatives wall, trigger chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Morning Context</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQczFhWHZaRVdrWXcwNTEtcFZnQkZDM0FBb05ld2QzVlpRVjVlZTBkajlyV1BrQ3lEMjNpOU5PNjlEWVFoSlEtbEhjT3ZnNmNFSlF6NU9vM1JMU29fUHg2MW1YYzY5NEU0Yk00NmVkbEgzT1dTby05SVVJR3NBZEhWVmlDd0VxdmtNcFEzOTUtTU84bVlGTjEyQnlkaGJBUUIxY1luSmFKSGM5VkhNa25ZTGpONmlnZkpwb1FTYUFTcmd5RHpL?oc=5\" target=\"_blank\">Closing auction yet to find its feet, a month after rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmNwb0RGbXE1QmpjQ01ZZUZFTDFGLV8wSTZ0RFdYRWlCa3hzTnJobUJ6SmVsNWIyNl9QQzAzUW5VenZfZElFWnpubGJQZFNQaGpZdkY5ZGJoWEdzSDJQXzIxUHZqZU15Nm5HS3RoZl9LZ1kweGVod0pmekstaUYwckZNN0U0SlhYaWd4S3pja2Q0NWw5LVdlM3lraTNQY19YdTNLR1J4WW0za3ZFdmfSAbMBQVVfeXFMUFlQUFBNYUsycm1sMk1TSHFlb05YcTd3cmJtQTd3SnZrQVJISGZTYTN3UF83RGFDSWlkeDZhcTQyaUhHQ1dlQ21wY0NuN1V0TlVuUjlneFhsR0ZxTnVoSGQtYk04OUlxYjlya2VKM0VYTkppcDdSZDhTa1k3MW5aVnBySlpyMmJLQk5kUTBJN2ZnSVZzclpqREZldkhCcDJyY0E0NEd6T2t4ZEE5Vm5RaElScXc?oc=5\" target=\"_blank\">CAS rollout hits trading volumes; BSE seeks fixes with regulators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font></li></ol>"
-    },
-    {
-      "title": "Gold advances on softer US dollar, bond yields ahead of payrolls report - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5",
-      "published": "Thu, 03 Sep 2026 02:41:00 GMT",
+      "title": "India's $136 billion dollar haul aids rupee but raises future risks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMk85MmIyN2lmb0h4UDlRMDM0Ym1DaTkxdndhUW0tTUEtQ0Fmb1MtQi1QWEhSTDNKZ2d6TTd6NEQ2dmtJSWJxVGtsTmQ3bFhtU0pqS1ljbUpOS2hYRERrRDh4WWhiSkRST2oyUTNDcVB1ZUZSXzNtQlFmU1RJVWs1Qm9Kc2Z5RU1aU2JfYnZlbW43eEVya1U4RzNQMFJKXzRzaW00LTl3SnBmV2NVN0VCWTVvZE5MLUVERGl6YlZCMDh1dC04dVFB?oc=5",
+      "published": "Thu, 03 Sep 2026 04:42:00 GMT",
       "source": "Reuters",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5\" target=\"_blank\">Gold advances on softer US dollar, bond yields ahead of payrolls report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnFGSzhmd3BoNjF5SDMxMlVIYlBXdWxleDc0bWs5ZTVGenF0UlpaX0ppb0xMaVBFSHV6WWVHa3NDcmV3QlNhRWlqZDhWS1BsZEo5Z21VMmI0WENPeXIxZjlUVWZheTdPZm1GeUktNXRDTk0zdlJuX1RPeFdEaF96cWVFNzRRbnJMcmpIUHpNWXZldVNTZC1iazdVWVpVZl8wanQyNm1oMklsdmMyQVlSSHExUHRMWTF2cXdEVw?oc=5\" target=\"_blank\">Gold price nears $4,500 as jobs data, Waller ease yield pressure - Kitco AM Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KITCO</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxQNzJJRVc0dG85ZXJxRDFkS3lqbmZaNGpwdnZUTTRUNnA3WXozbUJJYnRMQUtPdGNDUUVWblB1LVdEUHItVlVmV1R3WDd3RGxqR0UwcUZoTndPc3d2Ml8wdnljb3pINXZZVTNQR1FCUzR5TmFhQkxZaDFIRjBISjdITkE1QmZ5d2R5UVBsVk1fS1pJNnlfT1FiSTVSRWJicURyRjBIeVFweE5wYURaRGM2S1NOVlpyY3lIQlFEdGh4OUZaYlYycEEyME02ZkZmS3cybnlTeFZzbGpndlJJY1pPVngxQUhrZjljTWVXZW8tazlHUERjeUtmQ0ZzaDlOTXlXM3phdFI5MHdINldycmRVaWI5V05EeHdDNVZXVnBYWEZjdXFsS204OG9iU0xLSE1haXVBY1A0X1lCNU9tS3RuazFVTnVCYXVwMFZIT2w0SHY?oc=5\" target=\"_blank\">Gold price prediction today: Will gold, silver prices continue to fall? Check September 2, 2026 outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVNVd1dBNUJtUFF0eG5ra2xoNVZlbUV2bElmejY5UzNURjR2SzAwaVEwZWpsMEVsRTltZllwOV9IZVQyQUUzN3ZnZzBERkl4LUo1b3NJSWN6V3BHRkc5U3hlOFlzanhpU0RoS1ZDSEpCdzNGQmdDRGl1UEFEcm5SVUFCa2xaWXBDRTRqcGEydVpHSy1BRGZSLVUtQ3VVUGpvUUowaEFuVm02ck1ZakRHVmlPc1kzQ0VhMWc?oc=5\" target=\"_blank\">Gold Tests Psychological Resistance at $4,444 as Last Candles Turn Decisive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjI2YjZCS3BxRGF0SFhjeUZ1Q0VPVWtxOHRDMUlLeEhqUklDMUV2Rk5Sb0V0dUpFQWRZaHRxVVBVNnRRNWFNdmtFbnRuRnByX2FPb2ZRVE9VQnlnX0RXN1pvT2s0XzFxTnN4MzM0ekhxcTk3RGdKUk9GdU5ZUERBZW44QTVRNUdqUlpweWFYZDhZcGlOZkhsMW5xakxVWUVlWEZCdWZtZXBFNFZEclNRajZ3?oc=5\" target=\"_blank\">Jeera trading range for the day is 20760-21680 - Kedia Advisory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investmentguruindia.com</font></li></ol>"
+      "feed": "Google News Business",
+      "description": "India's $136 billion dollar haul aids rupee but raises future risks &nbsp;&nbsp; Reuters    Rupee jumps 47 paise to 94.26 against U.S. dollar in early trade &nbsp;&nbsp; The Hindu    Rupee gains to 94.27 vs USD as RBI measures bring in bumper $136 billion &nbsp;&nbsp; ET BFSI    Rupee rises 14 paise to close at 94.59 against US dollar &nbsp;&nbsp; rediff.com    Robust FCNR(B) inflows: Rupee opens ",
+      "triggers": [
+        "POLICY",
+        "TRADE"
+      ]
     },
     {
-      "title": "Oil pulls back, Broadcom disappoints - what’s moving markets - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFNsb0JIR2FIaGx5NHZnYWlIS2pkTGp6dERFNWhSX2gwREV4cFE3clBkZGMzdVBEdDQwZXljTzlzeTZORFpLYlJJR3RTdXItaGo2Mm83Z1NRY1dkZ1BTVmlGSy0zNjRTTDRrM0EwV1dsWE5CZGNRNy1CWWZFNDJkVjMxOHlDamNQdnZCQWlDeWdJLTlabE05bkxZdmRqVXpXQnhaSGVfWlV3ZU1wRFE?oc=5",
-      "published": "Thu, 03 Sep 2026 08:00:51 GMT",
-      "source": "Investing.com",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFNsb0JIR2FIaGx5NHZnYWlIS2pkTGp6dERFNWhSX2gwREV4cFE3clBkZGMzdVBEdDQwZXljTzlzeTZORFpLYlJJR3RTdXItaGo2Mm83Z1NRY1dkZ1BTVmlGSy0zNjRTTDRrM0EwV1dsWE5CZGNRNy1CWWZFNDJkVjMxOHlDamNQdnZCQWlDeWdJLTlabE05bkxZdmRqVXpXQnhaSGVfWlV3ZU1wRFE?oc=5\" target=\"_blank\">Oil pulls back, Broadcom disappoints - what’s moving markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5vakhhby03N0RCUHNMTU1jY1F4OGdsMmt2cThTLW5hU0VNM181YUVwYW1wSlJsbGoweDQtd3ROSTFfMDhUSGpWMHI5WG9qeTByTGJpVTRZaER0dGlwZ1BULXVRUzlPemRSOC1ranltaDQ0QjJ4OWMwWTRrNjJ6eDdkaExIMjFiVDJlbUxZcTU2Sk1DRE1uNTR5SkdPM0VJanktVUI1RkNpcXoxRkxBN1lkUDRnUQ?oc=5\" target=\"_blank\">Oil prices hit fresh 6-week highs on renewed Middle East tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5\" target=\"_blank\">Brent Crude at Highest in Six Weeks on Fears U.S.-Iran War Could Drag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZDBMbzQ5SzRadGdXQU94c3NHcnpxdWk3RUxDUXdnMXhlcGo4TDlHcXpzeDRselRzSUNucHBIeXUxcFRmdnVSbjNqMjkxelR0VU9Pb2VhZ0tNODRFQ2tnZDZVckZtdU50clhLUWJueWtCVUIydWJvc2MwdVJhQ0VqTWdod2FEcjFocllRdUVwdjZZRWY4eERRTXhkLVhQU2tST29LRllDZGJsMHkxd3VqRHNpUERQd213ZjZ5dEN3T2xJOFIzc0JNUG1RYlVCNElaZGJTYmZVSzBmRWowLVZGRlUzbzZaQ2tYZTJtSQ?oc=5\" target=\"_blank\">Oil prices jump 1% as US-Iran strikes deepen fears of supply disruption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZGVFUmwtRWYwWk5lbXlBS1FpcEhRV3hvWVFLWGxpb3NmQkdLOG9ESjhVQy1tYTh4VU5iYm9GWE92VndLbzNZY0hfQlRsX0I0VFFYdDVHQnhVbzVxMG5QdVBjVU1JTjNkWnZKZjh1eW9GWk05UmRycmRvMWhBVVRxMkE4UzhOYmRhZmk4UzVELXBUNUJFek1lSlRwRHdEWmhDRVJKWnd4aFYyOXV0ajlLUXlhU3lXbERHR0ViWDN6bjhNR3p4OWdNd24xSTJUR0xHZVBqUmZ3cldMVXNuUWM1Z3Jja29JQdIB7AFBVV95cUxOVVhWVU5wTjVYWEE2V290ck9oeHIydkJJVm5UTlFuSmhjb3dqSEVRYnFLMjdQNDEwMFlIRUpsdXd6XzFZVWRJMjJ6UmhaOHVIbDhZRXA4LTNEMkpJZ3ZiWXlvVm55dGxQLWlJWllIenRxREdLdkljTk9uVFlRM0ZtT3JOdk5WWDRaanVnYnFULS00S2VreFBVVXYxWHZxUV9fX0dLbDBNckVNc3ZsRU01dlZ3QVJpdkpVY0tpb2YzX0JvLVNNeUktN01HNExqbTZoc0JUYTdGb3VBeGtqTTI0cTlFNjBCVm1FM1VHRw?oc=5\" target=\"_blank\">Crude oil futures trade lower as US targets Iran’s rocket and radar systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessLine</font></li></ol>"
+      "title": "Aditya Birla Group launches Ultravolt with Rs 1,800 crore bet, debuts as India’s No. 2 wires player by cap - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaUpVcTBGdXNubnY5TEt0Ul85ZVRUTEgya3BlUng1VUx4NUtYakFDeEFMcEdMakJhNmxMN3ZraDFOUnVLalFuaVM2Mk5LWXRrSkl4dTlYUmoweERaSmEwdDllS0czNzVQNV9JMjlpNUt5WWZrZkxId0NhQVowT3NfNzctX2hycHN6RlJESUk3Ui1yeUVaemNNaXNmOVBqUnV2VUZ6bkNiT09tWFJVTUVyTE9YSWMydGliTXhHZjZ0YXNzMnZyUHdvNi1fVlVJVDhFREhDaFViUUJoc0h4bThJejJHM1pNSVJUZEF3QjRvdjhnY0Z5bDRIRWRmQmJCdWstdjZMU0lPQ0ZnTDNsOW15LUkyVkxKQlpVek5qUzlKTjbSAaYCQVVfeXFMTjlwVXBURE15UWVmd0duckdWYkc2b0o5QXVydjZPbVc4MzJ6REowQjRyYzZ0cE1oMnVEZUk1OW5MQjgtWXVzQmZLXzlocFFTZDFDUjBidnpkVk1Tek0wUllLRVhNTmkzd1VlMWFvQXNhNWY5UTJURmcyTjVIZUNjM0VSU29ZTGQzanY5NG1JcTBCSmFJeWUxNlFSR3haYVhzdjk0VFJiMjhqakFLMktMWm1hRGRwOWI3bzZ3a0lIN1R3THFsUDAtRUN0bWFkZ2QtNGV2VmxNaHNwbEhldHcwbFhhUmMxdnd6STJtUFJxZzhZM0hvcENuVTQ2UEROWk16V0VoQmQyVUdPQzhaS0F0ckFFOWtnSE9uMmVxN0VNd3hrSmhKYW5n?oc=5",
+      "published": "Thu, 03 Sep 2026 13:29:47 GMT",
+      "source": "The Economic Times",
+      "feed": "Google News Business",
+      "description": "Aditya Birla Group launches Ultravolt with Rs 1,800 crore bet, debuts as India’s No. 2 wires player by cap &nbsp;&nbsp; The Economic Times    Broker’s Call: UltraTech Cement (Buy) &nbsp;&nbsp; BusinessLine    Polycab, KEI shares fall up to 7% as UltraTech Cement forays into wires and cables segment with production... &nbsp;&nbsp; Moneycontrol.com    Buy Ultratech Cement Ltd For Target 15,210 by Ch",
+      "triggers": [
+        "CAPEX",
+        "PRICING"
+      ]
     },
     {
-      "title": "Waller urges giving disinflation a chance, says Fed can wait one meeting - Forex Factory",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHc2bjFfdE5RVzNkajNZV19NNFc0YUdkS3hoZGVYY19MRlk4T0VHSEtMRXFjNVZxR3RSdFMwMTRsbUR5eHl0bW9yWFlxVTBCQUNYdk4zRG1YaS1vT0d0Z0ttd0JOMWtlUVJaMVdFUk93ZENuaXNYcGVzSUNKeVVVdTMwcFROUW9TWjZ6bjd2U0QtLUwtOUZV0gGcAUFVX3lxTE90eTVQT1dIWTZVbmswMEdqYUdaWjlMQnFWVWVITUNFSC1QODBYUWQxVkNicjNVaGFDMVk1UTk4NHJoXzBmdG5oRXJIaU1fTUw1OXRpaE94MHJGQjFzYXB3VFhoSmZqWmRsbWtnMy1hMFZ0cDdOMktwY2NNSWJnSXJHZzFZbUVJMnNXeWpkbGJxcl93djdLV3Z4YV9tTw?oc=5",
-      "published": "Thu, 03 Sep 2026 12:53:12 GMT",
-      "source": "Forex Factory",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHc2bjFfdE5RVzNkajNZV19NNFc0YUdkS3hoZGVYY19MRlk4T0VHSEtMRXFjNVZxR3RSdFMwMTRsbUR5eHl0bW9yWFlxVTBCQUNYdk4zRG1YaS1vT0d0Z0ttd0JOMWtlUVJaMVdFUk93ZENuaXNYcGVzSUNKeVVVdTMwcFROUW9TWjZ6bjd2U0QtLUwtOUZV0gGcAUFVX3lxTE90eTVQT1dIWTZVbmswMEdqYUdaWjlMQnFWVWVITUNFSC1QODBYUWQxVkNicjNVaGFDMVk1UTk4NHJoXzBmdG5oRXJIaU1fTUw1OXRpaE94MHJGQjFzYXB3VFhoSmZqWmRsbWtnMy1hMFZ0cDdOMktwY2NNSWJnSXJHZzFZbUVJMnNXeWpkbGJxcl93djdLV3Z4YV9tTw?oc=5\" target=\"_blank\">Waller urges giving disinflation a chance, says Fed can wait one meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forex Factory</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDUtSG5oUElfekFjZnAxYzFCWlpublh6VVhtY3lVUm90TExIVzdIbmJOT0E5VFpsa0FXOExJajhTazhBOF9mZGtNRmhWbi01MEtOVlNIWUw0YVhYanVhWmh0UkpRb2RISjNQMWtkcVhVTFN6NHFKdGdEM21qZHBHNTlObk1kUTNFYUMtcDV1ZzduUDE5S3FLbDRTZF9jX0ozcEJDQjdKUmdicHhvRy1ETl9TcmlNRG8?oc=5\" target=\"_blank\">US Stock Futures Rise as Traders Parse Fedspeak, Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">advisorperspectives.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXVsaU9pQmNmVUxITjhCTXNrM0RhU0EtdFhFb1llUnBQWTdRTnIxQ1JtcXpxdHpJQlRVWE1wZk9EYW14MU9xUEstNzlKN0s3LTN0RDBjMWZFMGNzUHRQd0xqTDgzRkhtWERyeER3bmFXLVdQcm9OcnYxSGFoUEZjYmxnTGFRS0NuSHBaTTJrcmVQaDFGczMxWmxQb05EeHE3cFdPemxrYnE3N3FTZmxIUGVadFg?oc=5\" target=\"_blank\">Fed’s Waller open to September rate hold—if disinflation holds up By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPYjJxWERQQi0xdEE0S01lSjFIdzJYSFNlaVhVbzA2S0NoQ2xwR0hhMU82bVYxTTNOV2ZuMEF0UjhOUXRxR2V1U1FEczVfZFhzX25nUkQtZTVvSkhKaldkYnFGY0VIcHZaMDRTV1JpM25rZUtuc0RhdWMxUk9wS0EwYWdXTzFoQVJXamVvejUwMHNWSnVOZEE?oc=5\" target=\"_blank\">Fed's Waller leans toward holding rates steady amid signs of disinflation, pending inflation data.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUDJiblRIRzEtX1E4M3BmOWhnLS15NDVqSHpqX0pnam5tZnFUaXJOWE5kWXJ4dW5nazN5UDFOZ2JUUmRqNjF2d05ZVVpqdkdWdnVqaEhzaGoxLTVZY3BXWHJpVXJjSTJiOUxuWm5VdVBWTllFR2pqNEpTZ2FGeE5fZUFYbFFiUlc0U2kxbE9XVXhxRndCZ0R5LUpDOVJ2b1JVakhOdkRoaElfNDUwdDF6LTJNaUwyWmdySzhZR2dEaHdkcDVPR25BS2JsR2ZDd3pWbl9fSUdKRnBQV1ls?oc=5\" target=\"_blank\">Fed's Waller open to leaving rates unchanged this month if inflation cools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font></li></ol>"
+      "title": "Gold, silver price prediction: Will gold drop to Rs 1.4 lakh/10 gms? Check outlook on September 3, 2026 - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOMGpNbGl2cFVxaVlYeGxIUE9GUUJ4bjZCUmNvcjlKWDltNjFGd2JCcUF2UnpPZlJGVGxIMzJTUnMxaUlpc3Bjck5CdjFacHFMcy11Y1EzY202NFVrb2tqUXc2YUZoX0JiVm1QSWwzSndqdUVnU1J2Sk50VThCTUFmYmRUVjdWc0dVNG43ODMzTVBseVUxdFJBSVZBaXFSMjcxTnUxbWlaRkRSN0E0ZjlvU24xVGQ2TXFZZlFhMHh1Q1d2UmFWUlNleENGQTZfa1N0ZXVwbEVLekQ5bE5iTy10dmFBZjluY0VJdWkxQ082TWZBMkJCV0hGR19td2Frd0VlcUlSa2FYdHRNM0owbjdwb0t3NHVKX2dNX1l1WGRDYlg4cEo3eUQ1UjJ1T050UDEyMXljZE5EODRKX1k?oc=5",
+      "published": "Thu, 03 Sep 2026 05:57:00 GMT",
+      "source": "The Times of India",
+      "feed": "Google News Business",
+      "description": "Gold, silver price prediction: Will gold drop to Rs 1.4 lakh/10 gms? Check outlook on September 3, 2026 &nbsp;&nbsp; The Times of India    Gold, Silver prices down &nbsp;&nbsp; News On AIR    LIVE! Gold breaks losing streak, rises to Rs 1.59 lakh/10g &nbsp;&nbsp; rediff.com    Gold Rate Today, September 2: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities &n",
+      "triggers": [
+        "PRICING"
+      ]
+    },
+    {
+      "title": "Lay's, Kurkure, Maggi Expiry Dates Altered In Multi-Crore Racket In Mumbai - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3BQNkpfSTJyV2V3ZU5BajBvdVVMVGpib1NNbHljWFM3Q2w0TTJhbnFkSkJia19ZczVMdno2UEVKSjJUT1QyY21QQzFUQkRxWnhKUVVtYTVDV24yNy10Vk1PZkgzU01TV05xOEYwVHpsZXdvRTYxVFB0aEJ0aE1NN0gzc0NfcUp4cURybHpKWTZSZmJRa214Q2JBelduYUpGQVpjcEVSYkl5M21wZDJqVzhB?oc=5",
+      "published": "Mon, 31 Aug 2026 16:27:58 GMT",
+      "source": "NDTV",
+      "feed": "Google News Business",
+      "description": "Lay's, Kurkure, Maggi Expiry Dates Altered In Multi-Crore Racket In Mumbai &nbsp;&nbsp; NDTV    Tukaram Mundhe Calls Altered Expiry Dates And Nutrition Labels A 'Breach Of Public Trust' &nbsp;&nbsp; NDTV    Canada assesses risks to imports after India raid finds fake labels on food products &nbsp;&nbsp; CTV News    ‘When a label lies, consumer pays price’: Tukaram Mundhe after FDA busts PepsiCo, N",
+      "triggers": [
+        "TRADE",
+        "PRICING"
+      ]
+    },
+    {
+      "title": "Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5% - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMjVjc2xjM3ZjVXpRT2FwMUdVa1A3a0kybHRaU0hES3J3NzFDZUVoeXhtV1VHS1cwTEsyZWhzbHA5RkZ6TXlPbmFYN0htc003bnliZHBxYzh1XzlFNjFqc0UyNm9nZ2NwcjdPTDZSSC1GMGlCc3h5dDJuWUxqM0MzVnM1ZkVGWkpfN3dFLVpXSGJaVWJrQ3djaUg3Q1p1S0dxaUlXWk01UkZuemVpQ3FZaFZTb2pnRDlKREdDTzJ0TDZ1RldhX09oVERlSHR6emx3Z3NybkI4UC1peTdSSEFxcjVQQmpYU19VckJUQzg1b0d5dHpfWmx4TEdYM3c0dDhYdWh0TE5VUdIBjAJBVV95cUxOMzFJMDMyTFYySXBFLWZaSEpvNHF6YnduSDE5OVZjdnB5ZEJWWDZtdERzRUlkYmVJbWFVclJKa3pxanczNE82cHl4aFVEWlZoOHJseUcwSWt5d0xUb3ZjaThYT3ZKN2wxanNGUFBnT3Y4cVdGR1Z4VENTNzFmOXFVc0s3OGFVb3JlWEt0TDRfeEF5STV3U1loY2pQVVpGU2RXN3hka1ZsVXFDRDY4Q0dlOHRLWFFla1kwMmg1amZkVVRlSVZEU0ltYjRwU2cyYmZWdFFQdGNUNmZ0WkJmRk1UNWJuejQ3bGJ3RlJlVHlIVzJWWmZwNlBvN1JuN2p0NU03elZqVXBScXRXeEJH?oc=5",
+      "published": "Wed, 02 Sep 2026 07:28:02 GMT",
+      "source": "The Economic Times",
+      "feed": "Google News Business",
+      "description": "Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5% &nbsp;&nbsp; The Economic Times    The world appears to be entering a higher-rate era. Here’s who will pay the price &nbsp;&nbsp; CNBC    The US Treasury Crisis and the Threat to Dollar Hegemony &nbsp;&nbsp; Frontline Magazine    The war is raising the price of money. That’s a problem for the ",
+      "triggers": [
+        "PRICING"
+      ]
+    },
+    {
+      "title": "Crackdown on Dirty Kitchens Rides Wave of Web Anger in India - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0ZybzdJQjh2OEMyUTlyOFppMnVLbkN0OWxnTDJZOGxJcW52ODl1LUlXYzJ3N3gyTGZraGRSZ0pOTGZ3QzNURnBKcFNDOHRqRTViRDA3cEFfblZWQ19FVjJRQV9rOElvVUhsRTFRNTd1dnoxLVFnT0FlMC1aeXY2a0hrQkRQQUFpdXF3UVo0aGtDRklVTFRTb0dxNVNqLXFPdllIZ1J3NktNSEx2RE5uUUxESlg?oc=5",
+      "published": "Wed, 02 Sep 2026 09:28:42 GMT",
+      "source": "Bloomberg.com",
+      "feed": "Google News Business",
+      "description": "Crackdown on Dirty Kitchens Rides Wave of Web Anger in India &nbsp;&nbsp; Bloomberg.com    Brands step up kitchen vigil, compliance amid crackdown &nbsp;&nbsp; brandequity.economictimes.indiatimes.com    India’s widening food safety crackdown rides wave of online anger &nbsp;&nbsp; ThePrint    FSSAI raids put restaurants, quick-commerce firms on alert &nbsp;&nbsp; Storyboard18    Crackdown on dirt",
+      "triggers": []
+    },
+    {
+      "title": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR2RFa1d5YVh1Qkc4RTZFQ0swVnJkeExTZEFXemZzM1VUdFY2Vmo1VWZ6Sl9KZmVHbFJTOENVblhQamZEVG8yT2g5VGVpc1IyVzVpYndpUXBxY0ZLZENtbHdxdi1WLVlobWJMdGxpUFJVLTVhZHFlbThabTZDTFh0dlFxUnRIRXh2UDRpN3B5aXlPWVlDR2FTSHJsQ0s4b3hMbXA4TzA2SUFTNkNxSnBLckJoNDRvV2EwQzhacnNJSDd6MFNFYzJycVdWZzVrQ0xBSG5TZ1BDY3BVd9IB4AFBVV95cUxNMUJ1d1FoODg3MXM1VVhJcWJuM3NkcVFOU1piTXZ3OTRHcmpzSWRZZnFQRjlqamV5QzRaNXA0NU9yQkJSWlR6WWUzN0Y1cDVDOS1lZEVUUmd5Q1U0c19ycW5LNTZFTkQtcmUzOGhJTlNaWGp1d1FPTzFRN3VZZjl4OS1iNUJWX3k2clU5elBQeFk1TjJVOW1GZnlrNkhlYjBIQUk0U1piN1dYWXV4bHpyNnZpYVB1Rk1yYnlkSGQ2aFQ5TlFRazZDWGFEQzZDalppeGV6djI1ZHkwc3RHaWJZcw?oc=5",
+      "published": "Wed, 02 Sep 2026 13:34:19 GMT",
+      "source": "The Hindu",
+      "feed": "Google News Business",
+      "description": "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits &nbsp;&nbsp; The Hindu    How India's RBI could tackle a liquidity deluge triggered by dollar deposits &nbsp;&nbsp; Reuters    India RBI Faces About $11 Billion Bill on Foreign Deposits Plan &nbsp;&nbsp; Bloomberg.com    NRIs Pour In $127 Billion As Reserve Bank's Dollar Scheme Beats Targets &",
+      "triggers": [
+        "POLICY"
+      ]
+    },
+    {
+      "title": "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report - KITCO",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjFSOFlsdUlVcnAzWHpCdEVwZ0pfR0xMWlhvcm9yajRpNmhCMWNTZ3BZUU8xaDJ1aUJvZVJONllqcHJhVWhuYVNkNEpwRHpHeUFkQ1VETi1QUUNIbUs4LXg2ckdiUzhHQzlzUHVQWHVFYmppMndwMERiak8zQWtKci1ydmpEa2RLc1luLUR0TUNONkpGNkN5MW9maEhyWkVSdzg4Wl9rOHhOdlc0YW9WT09sVQ?oc=5",
+      "published": "Thu, 03 Sep 2026 05:45:45 GMT",
+      "source": "KITCO",
+      "feed": "Google News Business",
+      "description": "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report &nbsp;&nbsp; KITCO    Gold gains over 1% as softer dollar, lower yields ease Fed rate hike pressure &nbsp;&nbsp; investing.com    Gold price prediction today: Will gold, silver prices continue to fall? Check September 2, 2026 outlook &nbsp;&nbsp; The Times of India    Jeera trading range for the day is 20760-21680 - Kedia Ad",
+      "triggers": [
+        "CAPEX",
+        "TRADE",
+        "PRICING"
+      ]
+    },
+    {
+      "title": "India’s Rs 4 lakh crore data centre bet runs into a power supply, cost squeeze - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGhrWE1YUmpQd05PRVk3MWEtdmZmYWw5c1U5Q2ZQQTBfWURnOWtKQmU5NGVNVTVuNDdyb2ZseEQyNXdFdWZlMXJhLVA3NjlzUmlzenoybWluQWFLNXEySUtrcUJsZlNrWXQ5bGItdV9zcUJtbU9acWlNcXRLUUx0Sl9JY3o1TF9BUFFGUm1GampjVnhRMU9RS0ZqeWZYU244ejFnM2hLeUNWaklmcFBYbi1uQ2pjM3BQZmNwb08tc3NUbkpJUE8yenlCWWRhYXfSAdQBQVVfeXFMTmE4aFFYbFQzbXMyZWI4NVF2STc3ajJHcWhuQnQ1NXNWcThfdFVWRWhsT2h0cFFZQlA2ODhhb0pwNFZsLUY4ZjJKeC0tRndOcTVkbkNYSFZWTkhDMjZqV3lBcUFlOUQyaHBOLUQtT21tVlFicFJrUW9YTU80LXZUYzVUcUM0MkVlSjRiZWtNRjl2V0h5Yk9rbnYzXzZiaWctNzdiNG10U0t5Tk04YXlwVUZXZDJYX1FTX2tvcTJiR011aERScEpTUnhkSzdGaEVrTnRLeWo?oc=5",
+      "published": "Wed, 02 Sep 2026 11:16:35 GMT",
+      "source": "Moneycontrol.com",
+      "feed": "Google News Business",
+      "description": "India’s Rs 4 lakh crore data centre bet runs into a power supply, cost squeeze &nbsp;&nbsp; Moneycontrol.com    India’s data centre boom is colliding with its climate reality &nbsp;&nbsp; The Hindu    India is the world's best location to set up data centres: Piyush Goyal &nbsp;&nbsp; ET Government    Maharashtra govt moves to fast-track AI Innovation City with Tata Group &nbsp;&nbsp; deccanherald",
+      "triggers": [
+        "POLICY",
+        "CAPEX"
+      ]
     },
     {
       "title": "Buy or sell: Gift Nifty hints cautious start | Vaishali Parekh recommends three stocks to buy today — 3 September 2026 - Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPclliS0J2allsbUtlTU1Vc0REaHpmWThscEpvc1BzdWgwTUc4UzFVWVdVay1aV0JLSXNzRnR6dlhLeHdZQkZvTVE2ak5IckRqdms2V2xlR1EyTURFc29fUnI0b0FwbURJT2FoeFIxQUotTFJQSzh5ZXV5VXB1Zk96WVo3VC1mbERqNTE4bUZZdl9rWGh0MUhLanFybndMMklyNDZIdmhFRHowZjNfdEwzUnBKbDdFSHY2OC1SZWktSThuRWQwRGdZOGI3cE5GalpPWnFRWFpNSWpIelNpbngtTVR6bFlRRThtUFRDZE1seDRiQjFmRmJrWDlWMTh1eTRObmtSUGxjZ0phR3NNMm43etIBlgJBVV95cUxPVEJYNlh0eE12SmV3aWhTdmFULTBoSVhDeVBXQnRiMHRCR0Rva0tMUnFZLUVGeFlpNGx5Y2Qwcl9fTzJPZmMwZmhsZEVxQkY2MUN4WjMtdjZnZ1NJZm42LUlYSWpYTDlhWFdMZm9QR1ZoNjFRVjlTOHJYemJiVnlQamhKQllHazBfV25jcGRPZUNwUmk5NUZZV1N2c085dUQ4dUxFNGtzTDJGc215cGpCWnZaYkFMbkg2NnpDbDdBUGhaWkhodGM1dWZSWV9kVUVTSU1heGUxT2lGZ0h1dXdocTRTSTNWYlpQcGxpTFBnN05Bb2p6VmRpT0lCN2x4WGpPQjdCdXZ3UnZVUE9uN3dybEdURklSZw?oc=5",
       "published": "Thu, 03 Sep 2026 02:11:36 GMT",
       "source": "Livemint",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPclliS0J2allsbUtlTU1Vc0REaHpmWThscEpvc1BzdWgwTUc4UzFVWVdVay1aV0JLSXNzRnR6dlhLeHdZQkZvTVE2ak5IckRqdms2V2xlR1EyTURFc29fUnI0b0FwbURJT2FoeFIxQUotTFJQSzh5ZXV5VXB1Zk96WVo3VC1mbERqNTE4bUZZdl9rWGh0MUhLanFybndMMklyNDZIdmhFRHowZjNfdEwzUnBKbDdFSHY2OC1SZWktSThuRWQwRGdZOGI3cE5GalpPWnFRWFpNSWpIelNpbngtTVR6bFlRRThtUFRDZE1seDRiQjFmRmJrWDlWMTh1eTRObmtSUGxjZ0phR3NNMm43etIBlgJBVV95cUxPVEJYNlh0eE12SmV3aWhTdmFULTBoSVhDeVBXQnRiMHRCR0Rva0tMUnFZLUVGeFlpNGx5Y2Qwcl9fTzJPZmMwZmhsZEVxQkY2MUN4WjMtdjZnZ1NJZm42LUlYSWpYTDlhWFdMZm9QR1ZoNjFRVjlTOHJYemJiVnlQamhKQllHazBfV25jcGRPZUNwUmk5NUZZV1N2c085dUQ4dUxFNGtzTDJGc215cGpCWnZaYkFMbkg2NnpDbDdBUGhaWkhodGM1dWZSWV9kVUVTSU1heGUxT2lGZ0h1dXdocTRTSTNWYlpQcGxpTFBnN05Bb2p6VmRpT0lCN2x4WGpPQjdCdXZ3UnZVUE9uN3dybEdURklSZw?oc=5\" target=\"_blank\">Buy or sell: Gift Nifty hints cautious start | Vaishali Parekh recommends three stocks to buy today — 3 September 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ25vTU1rOWwxTHEtM0lzTG9sYmxTOEZLSENtQXQ0QkJtcTV6NzZIenJSMllzMDVFeE0yZXdKSEVDbEZ5VVdFVzFZckozOGtFMEJsdzNyTFU1RGhJV181cXE5QVVPT0hkVzhXU3dlcHpucXBvVXB2NTRLTVJheHlWR1VLT21NLV9VV09ac2lHUGVRb0QtTkFMNGlqTGpVOHdNQWxBQXlqbHlsdDh1WkktczVqTm9XWVJkQmhZUkhnMlViT1owRkg2aGthaHpnTzhLQ1HSAdoBQVVfeXFMT3kxT1BhTDdXRlhIU1h6R0tKU2pXNHNXU09VM3J4Z1k2THRFUGhUTlhLTnprdjg0X2RVbG8xV2ZpWHdJZTlrYlhwaHY0QWI4amM3RWQzLTN1cTFoV1lmX0h3Y2pSRV9rVTROX1VLeHVxcTgwRmxzUnlLdExOZ3k5TmxITi1pOTVkUDdNNFJkc0tfOGhXREZUSkxZMlY2TGFQSHp1X0dTMTQtSElzekdkRER1OU8tY2xOV0Fpa2NDR0NTNHpNbGt1MGt6TEJiQnd2a0lDaTdMdWtrdkE?oc=5\" target=\"_blank\">Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat As Oil Steadies Amid US-Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcmx3QkFTaFk1c3FWdUxtSDZiU2tlRUdLM1RHUHc0OXNUVmI4ZzBIZElpdGF4QXc2RW5kY0VnclVfTF9DLXFza2k5LU5vN3NaNy12Yzh4aEFfU2w2c0VwZXlJNm1Gc2RtYnk4LUg0enZfWUJUSktOQ3pQMHBYTTNDOW8wdUJwcWVRM0JIbFAwWVVpS1ZDZ1dXY1NPSHBacDdmd2h0RS1Sa1h5Rm1ZbmloSFJfbmMyQkp5VE5CNGNTX2pxZ1l2d3JpMGdhQ1lnWXVndElxYmtlQXFZbDdNcngxb1pyQ3IxLWw2YmdMbWFGTnVJUTTSAb8BQVVfeXFMTVRtS2FPN29BRVZHaHlmbXFOYTFDZnFEMXBDbWQ1ZFFTblEtc0dLdlh3TnZVMWRNRVpaYTdDeFdZLU8xeTB6aUV6ZTZLRjYwQ1FNQXVZdkpRQ0s1XzF6cXpjNFBBYThEVm8zcFFiWUNfV0l1RlUyNHQ5blMxOU9VbFlZNTFFaXd5bm5LN01IcGRNNV9VU0dFZTE5bUY4b3JtWV83dkRJRzNzVGdmRGJCZjYzdkFHdXNHSjdQaVVHSWs?oc=5\" target=\"_blank\">Financials lead Indian shares higher after recent decline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET BFSI</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnFaZmZiRmwtcUdaNEpFY2piMG1HSDlvY0k5ODJHZ1IzQkxTSGU5RDQzWnN0cm1OSTNYRDdJU3B1Mi1JUjZJTk9rZGJXa3FDMldZMXRfZkMzdkdtNmJiZklET21BOFRQdEZuSmtBOGxfQVVtMFVweDRERnlBVVdjMEJoWGxGQUlhbXR3T2czREF4SUNlN0ktdkNfS0w4Z1lwZDNScTUzdnZBV1g3d2RZU1lxbzlBa1hGaHdKMG130gHDAUFVX3lxTE41cFkzRzdhQ2JWODFuaEppZUFONVJJTUpVbDY2TjJDQUV5M3RYaEtVc09Kc3BFVmVncl9oMXNHTmtMRUhrVnJSbV8wSWhLUEdRQlhHMWNsTzZLTW5FSXdya0dmc1hfb0luMDRReUdWcWMzcFVxX0V3WmdRZmk5U1kyWnA0LTBzM2duT19mcU5uNkF6eXZNMi1YLUlPZWliUTVZVUswMVdSLWY4QXBweHBwckVWX0M5eHNhX0lVT2hxTDZDcw?oc=5\" target=\"_blank\">First Tick: Top global cues to watch in today's trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPWTJRMEVXN3NRQUFwdThQb3dqdFlnaUl6MWVBRWZuZTZQdExqTjZUbUJlc0pjbHdqakxqZGVLOEFnWWVYdWRXZUN3NXpabFgtOC10V3hjVlF3TF93ei0xOTY3OEZfVEtGc0puZnZBTWxkU1ZILVdWWGNoSWJTelN2VkNubFlnRXNZRWpsMHRZYlhrQWZpeHpKWGVIRmtBT2dwb29ubmt1ZmFEY3pBMDExd2lBSzE0SG13OW5hZjg4TDJwMC1OdnVHdFFfN21nQdIB0wFBVV95cUxNb0kzMkNYZ3pTN0Q2elJ1Vi1FVV9ka1F2b2RnUjFjSEtKWFZFRmczaGZtNjhuNlJvR19BeG1Cc0E3am5fdXUwYlpSZU9oTmxXRUlZZnVudzJSS3V4bTllWkY0cTgyQ1JXb2NMbVE1RDZUSXhQNWd4bEJZT3VmbmM5bTVrSTZaaFVWdHIxTWVlbGxIQUpDQmhkcTJkNVgtcThTNmZPMk5lYk1LUEZ0dy1CU0ZwTC0yUEVwaFAyZUdSUXFDQnFkNVZneHBmQXVxbVNGZU00?oc=5\" target=\"_blank\">Stock Markets Today: Sensex, Nifty Gain on Bank Stocks, Global Cues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font></li></ol>"
+      "feed": "Google News Business",
+      "description": "Buy or sell: Gift Nifty hints cautious start | Vaishali Parekh recommends three stocks to buy today — 3 September 2026 &nbsp;&nbsp; Livemint    Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat As Oil Steadies Amid US-Iran War &nbsp;&nbsp; NDTV    Financials lead Indian shares higher after recent decline &nbsp;&nbsp; ET BFSI    Indian Markets Open Higher as Rupee Strengthens and Go",
+      "triggers": [
+        "TRADE"
+      ]
+    },
+    {
+      "title": "Oil near multi-week highs after fresh Iran strikes; Trump says war won’t last long - investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjltZFR3WVNwLXdybkRkTmVKcEJBbzJhVWNDbnQzaEN5Nlh0YjJRZjQ3V0J2aFljZVpYYnc2bDFoZkNtRWd6NUk1a0pvMTZPaXhUaC05Q3ZOd2ZUVWp2Tld3ZjRzd2R0X1U2ekZEaUFOQTFsVGZwbDV6RS01T2QwejVSdWpiSmlVSW9rVWlnNlk0QlFXd0M4RUc3RVZ1cV8yS2Z5TkZYNURBWlR0Rnk3aXV4Z1dBbnZhbzZqakdmbGNfbE0?oc=5",
+      "published": "Thu, 03 Sep 2026 01:04:19 GMT",
+      "source": "investing.com",
+      "feed": "Google News Business",
+      "description": "Oil near multi-week highs after fresh Iran strikes; Trump says war won’t last long &nbsp;&nbsp; investing.com    Oil prices hit fresh 6-week highs on renewed Middle East tensions &nbsp;&nbsp; Reuters    Brent Crude at Highest in Six Weeks on Fears U.S.-Iran War Could Drag &nbsp;&nbsp; WSJ    Dow falls more than 400 points, oil rises after new U.S. strikes against Iran &nbsp;&nbsp; CNBC    Wall Str",
+      "triggers": [
+        "PRICING"
+      ]
+    },
+    {
+      "title": "FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlVFRVMzM09SOHpRdy1XOWU4dEQ5TDRZU1BjTkJ3SlBNeWx4LXlQa2FFMmFsbXFEQVQ5eVM0elExelU2a3VqbFJzYkZuMWUtZlIxdnhUMFRMd1VheE9PQW9NRGZQV0lIaTh2bW9uU29LYnJIcDN6N0pzdTZkVzdXQmluM0FwbW1NZ1V3V2VZRTdZM1ROaXRTaXBSbGNmQ0tfUmtmS0RMZWxnWFZaU0htUDZ0U20tY3dJTHNDQTNqMncyU0ZlOWVPcm0wejl0UU5nM2VDMDVmbW7SAd4BQVVfeXFMTnpyQWU4OFZrc2FEWlJxWVBGU01MamJkdVNoTEFRWC1UeGN5T29pWDFVUUpmUVVOZG5VbXZ4REZ0N0J5RDk3SEZtSmxOTGJJdzNEUHFMSXJpcDR4N3Z3bGpPN01mZTVPUE1PZlo2UWpfU3RENXpfNHVZXzUzSkd3N3RFbUc3R3VvcVFITkEwa25ncEdRaDlpdWpZSEVxTUNpLWxaRjNXQk9NZUdoTjBtZVR5SzZCUXhXR1J3dnlNa3pVR0ViOGczYk51NklxMTV0XzR2ZWFuV1hfQmoyTzJR?oc=5",
+      "published": "Thu, 03 Sep 2026 10:37:40 GMT",
+      "source": "Moneycontrol.com",
+      "feed": "Google News Business",
+      "description": "FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities &nbsp;&nbsp; Moneycontrol.com    India's Fly91 orders 40 ATR turboprops in bet on smaller cities &nbsp;&nbsp; Reuters    India's Fly91 nears deal for at least 20 ATR turboprops, sources say &nbsp;&nbsp; ET Infra    Fly91 plane order: Smaller cities emerge as Indian aviation's next frontier as airlines bet on ",
+      "triggers": [
+        "ORDERS"
+      ]
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbFRfenVBWmZXMms3bmQtSzFWc3RqQjBCUFBjODBxcEVIOFdVUUtPd29SX1pqWVhDVzl1cGV3Y2kwNVdjNmRhbzdXdjdwRWRXU3BzOEdqTVJTa2VKb2t0QlRRUm41RVJmZXhjUTh0bVUzVEZkR0VPUGlOMzlONFRpZTZVWWgya3NxdFV2SnFTZ3BTZkhBOFdjMm12WE4wYXhMSlhMblk3Z3JiUGZZdFVVZVFBWEt1bms3?oc=5",
+      "published": "Tue, 01 Sep 2026 21:06:24 GMT",
+      "source": "TechCrunch",
+      "feed": "Google News Business",
+      "description": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems &nbsp;&nbsp; TechCrunch    OpenAI’s new reasoning technique alarms AI safety experts &nbsp;&nbsp; TechCrunch    OpenAI Technique in ‘Astra’ Model Sparks Security Concerns &nbsp;&nbsp; The Information    New AI Models From Tech Giants Raise Safety Concerns &nbsp;&nbsp; rediff.com    OpenAI Is About to Release Its F",
+      "triggers": []
+    },
+    {
+      "title": "‘If there’s a will, there's a way': FSSAI CEO praises Maharashtra FDA's Tukaram Mundhe | India News - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzBmRTNUTEpkaG9XTUItcVlFbVRja09QQ2tlLWQ5SGJPVkVSWmdrV05RTUFNeDdYc214RzFUQWJJUjJXMzlRNUhVckluaWRoa1NTNXJpRnZvVFNWdG51QmdadGhYX1kybU53a01zODdHXzRFa3E0RWVyRWZraW1OUE5kTE9jeDI4TDJTNlpEa3NIYVFNaTQyM2dLbExscWdQZ0JOeVBQanVtelNTcWlrcXdEcEk1U0xhcExIZ093emFURE1N0gHKAUFVX3lxTFBWUTZoTnUwM21tN0lqWUc3bmlON3BQZTVaNm1rM042V1piTVdmbnNVMFNJdHNMenc0d2V4SW1PYURnX0d6dzMwbWdtZVBVR0xOU3FCRHdNTjdmS2FtVTY5dEI4TzhTQmVicDR3RjJrTzVxTkl3TlltWlc2SF9WZlBaMmxJV21aaUx4YS1Xc1JIZXRkVVpsVWRYZ1ZJOEl5VmtoWUFRcnVPdW1HYm9fMWVuMWlQT3I3cXlzaTA1OWlXblE0Y0QtWDYwTXc?oc=5",
+      "published": "Wed, 02 Sep 2026 09:40:19 GMT",
+      "source": "Hindustan Times",
+      "feed": "Google News Business",
+      "description": "‘If there’s a will, there's a way': FSSAI CEO praises Maharashtra FDA's Tukaram Mundhe | India News &nbsp;&nbsp; Hindustan Times    Tukaram Mundhe: Why an officer doing his job feels revolutionary &nbsp;&nbsp; ThePrint    FSSAI chief roots for Tukaram Mundhe, says food safety is not punishment posting &nbsp;&nbsp; India Today    Hard-handed Indian official urges food firms to be ethical amid label",
+      "triggers": []
+    },
+    {
+      "title": "PayPal layoffs: Nearly 6,700 jobs cut amid global restructuring - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORG1rck0wME5QT0s4SVFCdWYweENUMk0zVUdhM1NHc3Mya0VEY3JrZExLWmk1VWIwY1JCOElkRmRWNVNjREV0dEFCMGlqZDR5RWJlQ3ZhTU5ONWlKWlh0NXE4ZDI5RnBuNWhCWlhMUmRhWi03LXBQSnJEcktrRUMzX09uSGhXV3lkR2JtRzUteVVoMzBFVHVVWk1CM2NKTENvTjR4NXN0c3kyTGlBaDl4c3VkNlNCQ28yMlBxRTNSdHluT0xiWkkxRmtyb1VmUmxKTUJ5Y3dqMldFTHhrUnfSAeQBQVVfeXFMUElCTU45WTNzYWFGQ19SMDNXbEdKODZNMllPU0dsZDUwek9EUG9IQ3FFTkRtX05BVndOTUlRUjJaQ241dmNMS2pTNy1qcE9lWkV4LVpSNEtuOVJaRFNiWFViNDF1cGhfbEZkYmRBMWFwNWo3ZS1UczBwWElqa1RJV09ETWNLeU1BM2EzYk4za0doZXUyMGhMWFBJeF9oU0VSVHgyRm56MjV5MnlVU1dkNjMwNDd3XzdGbGtfMHRtX1BDMjQ3NDY3cHdNNTEwRXRkVFhfQ0pTWUJhaFJXMFNYemdaTU5z?oc=5",
+      "published": "Wed, 02 Sep 2026 12:47:45 GMT",
+      "source": "BusinessLine",
+      "feed": "Google News Business",
+      "description": "PayPal layoffs: Nearly 6,700 jobs cut amid global restructuring &nbsp;&nbsp; BusinessLine    PayPal & Oracle layoffs: How severance packages in India are taxed &nbsp;&nbsp; Moneycontrol.com    PayPal lays off 220 employees in India, says it is to simplify global operations for long-term growth &nbsp;&nbsp; India Today    PayPal makes job cuts &nbsp;&nbsp; Payments Dive    PayPal cuts around 220 jo",
+      "triggers": []
     }
   ],
   "opportunities": [
     {
       "industry": "Auto & Components",
-      "score": 99,
-      "article_count": 19,
-      "evidence": [
-        "Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows - Reuters",
-        "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models - Reuters",
-        "WhatsApp launches bill payments in India to tap into country's UPI craze - The Economic Times",
-        "FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities - Moneycontrol.com"
+      "score": 84,
+      "article_count": 9,
+      "trigger_count": 2,
+      "triggers": [
+        "PRICING",
+        "TRADE"
       ],
-      "watch": "7–10D WATCH"
+      "evidence": [
+        "Apple's new CEO John Ternus may have just told millions of professionals around the world that LinkedIn i - The Times of India",
+        "WhatsApp will soon let you make bill payments in India - Moneycontrol.com",
+        "‘If there’s a will, there's a way': FSSAI CEO praises Maharashtra FDA's Tukaram Mundhe | India News - Hindustan Times",
+        "PayPal layoffs: Nearly 6,700 jobs cut amid global restructuring - BusinessLine",
+        "2026 Tata Curvv Series X Launched At Rs 10 Lakh; Lower And Mid Variants Now Better Equipped - CarDekho"
+      ],
+      "confidence": "high",
+      "watch": "7–10D WATCH",
+      "reason": "Cross-source PRICING, TRADE signals with 9 source(s).",
+      "source_count": 9
     },
     {
       "industry": "Banking & Financials",
-      "score": 62,
-      "article_count": 7,
+      "score": 75,
+      "article_count": 5,
+      "trigger_count": 3,
+      "triggers": [
+        "POLICY",
+        "PRICING",
+        "TRADE"
+      ],
       "evidence": [
-        "Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows - Reuters",
         "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform - Business Standard",
-        "\"Transparent On Data Souces\": Top Official Explains 7.8 Per Cent GDP Figure - NDTV",
-        "Billionaire Birla unit’s buyout loan draws $2.5 billion in bids - Moneycontrol.com"
+        "India's $136 billion dollar haul aids rupee but raises future risks - Reuters",
+        "RBI's forex swap facility draws over $136 billion; more than $127 billion mobilised via FCNR (B) deposits - The Hindu",
+        "Iran-US interim peace deal may support India's growth but inflation and fiscal risks remain: RBI - The Times of India",
+        "Types of Trade War and Their Impacts for NSE:BANKNIFTY by GlobalWolfStreet - TradingView"
       ],
-      "watch": "7–10D WATCH"
-    },
-    {
-      "industry": "Rail & Infrastructure",
-      "score": 18,
-      "article_count": 2,
-      "evidence": [
-        "Gold advances on softer US dollar, bond yields ahead of payrolls report - Reuters",
-        "Oil pulls back, Broadcom disappoints - what’s moving markets - Investing.com"
-      ],
-      "watch": "LOW SIGNAL"
-    },
-    {
-      "industry": "Electronics & Semiconductors",
-      "score": 14,
-      "article_count": 2,
-      "evidence": [
-        "Ambani uses ₹10 power again for the next disruption in a hot Indian market - The Economic Times",
-        "Oil pulls back, Broadcom disappoints - what’s moving markets - Investing.com"
-      ],
-      "watch": "LOW SIGNAL"
-    },
-    {
-      "industry": "Defence & Aerospace",
-      "score": 12,
-      "article_count": 1,
-      "evidence": [
-        "FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities - Moneycontrol.com"
-      ],
-      "watch": "LOW SIGNAL"
+      "confidence": "high",
+      "watch": "7–10D WATCH",
+      "reason": "Cross-source POLICY, PRICING, TRADE signals with 5 source(s).",
+      "source_count": 5
     },
     {
       "industry": "Power & Grid",
-      "score": 12,
-      "article_count": 2,
-      "evidence": [
-        "WhatsApp launches bill payments in India to tap into country's UPI craze - The Economic Times",
-        "Ambani uses ₹10 power again for the next disruption in a hot Indian market - The Economic Times"
+      "score": 72,
+      "article_count": 7,
+      "trigger_count": 3,
+      "triggers": [
+        "CAPEX",
+        "POLICY",
+        "TRADE"
       ],
-      "watch": "LOW SIGNAL"
+      "evidence": [
+        "India’s Rs 4 lakh crore data centre bet runs into a power supply, cost squeeze - Moneycontrol.com",
+        "New Kia Sorento to be Launched in India Tomorrow - CarWale",
+        "India’s energy sector stays resilient amid global turmoil as diversified supplies, coal strength provide sh... - Firstpost",
+        "The Global Trade Market Superpower for CME_MINI:MES1! by GlobalWolfStreet - TradingView",
+        "China Economy & Trade Shifts: How a Global Power Is Reshaping Markets - stl.news"
+      ],
+      "confidence": "high",
+      "watch": "7–10D WATCH",
+      "reason": "Cross-source CAPEX, POLICY, TRADE signals with 7 source(s).",
+      "source_count": 7
+    },
+    {
+      "industry": "Rail & Infrastructure",
+      "score": 62,
+      "article_count": 5,
+      "trigger_count": 4,
+      "triggers": [
+        "CAPEX",
+        "POLICY",
+        "PRICING",
+        "TRADE"
+      ],
+      "evidence": [
+        "Lay's, Kurkure, Maggi Expiry Dates Altered In Multi-Crore Racket In Mumbai - NDTV",
+        "Gold, silver rebound as soft ADP tempers Fed-hike trade - Kitco AM Report - KITCO",
+        "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability - WSJ",
+        "Roadmap: Transforming Indian healthcare, one specialty at a time - Bessemer Venture Partners",
+        "Iran-US interim peace deal may support India's growth but inflation and fiscal risks remain: RBI - The Times of India"
+      ],
+      "confidence": "high",
+      "watch": "7–10D WATCH",
+      "reason": "Cross-source CAPEX, POLICY, PRICING signals with 5 source(s).",
+      "source_count": 5
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 52,
+      "article_count": 5,
+      "trigger_count": 1,
+      "triggers": [
+        "TRADE"
+      ],
+      "evidence": [
+        "Roadmap: Transforming Indian healthcare, one specialty at a time - Bessemer Venture Partners",
+        "Geopolitical fragmentation is redirecting private capital flows - Asset Servicing Times",
+        "Financial and capital market updates Q2 2026 - kpmg.com",
+        "China Economy & Trade Shifts: How a Global Power Is Reshaping Markets - stl.news",
+        "From crises to capital: Why political foresight beats reaction in today’s markets - Crain Currency"
+      ],
+      "confidence": "medium",
+      "watch": "7–10D WATCH",
+      "reason": "Cross-source TRADE signals with 5 source(s).",
+      "source_count": 5
+    },
+    {
+      "industry": "Electronics & Semiconductors",
+      "score": 50,
+      "article_count": 5,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [
+        "OpenAI’s Astra model is on the way — and very good at breaking into computer systems - TechCrunch",
+        "India’s Semiconductor Ambitions and Global Competitiveness: Confronting the China Challenge - orfonline.org",
+        "US-China tech rivalry explained: Why the AI and chip war matters - The Economic Times",
+        "Semiconductors and the Arctic: What PM Modi seeks in Europe - Firstpost",
+        "Building resilient semiconductor supply chains amid global tensions - omdia.tech.informa.com"
+      ],
+      "confidence": "medium",
+      "watch": "7–10D WATCH",
+      "reason": "Monitor for repeated sector mentions and leading triggers.",
+      "source_count": 5
+    },
+    {
+      "industry": "Chemicals & Materials",
+      "score": 23,
+      "article_count": 2,
+      "trigger_count": 2,
+      "triggers": [
+        "CAPEX",
+        "PRICING"
+      ],
+      "evidence": [
+        "Aditya Birla Group launches Ultravolt with Rs 1,800 crore bet, debuts as India’s No. 2 wires player by cap - The Economic Times",
+        "Middle East war impacts global food security over fertilizer, fuel and freight issues - S&P Global"
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-source CAPEX, PRICING signals with 2 source(s).",
+      "source_count": 2
+    },
+    {
+      "industry": "Defence & Aerospace",
+      "score": 9,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "ORDERS"
+      ],
+      "evidence": [
+        "FLY91 orders 40 ATR aircraft in nearly $1 billion deal, bets big on smaller Indian cities - Moneycontrol.com"
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-source ORDERS signals with 1 source(s).",
+      "source_count": 1
+    },
+    {
+      "industry": "Sugar & Ethanol",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Monitor for repeated sector mentions and leading triggers.",
+      "source_count": 0
     }
   ]
 }
