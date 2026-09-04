@@ -19,7 +19,50 @@
       "signal_score": 19.4
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Single-Component Gas Standards Market Growth to Accelerate by 2035 on Semiconductor Fab Expansion and Emissions Mandates - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjNXeUVZTDhLcEhTbVB2ZUZvXzhwVDlXTXIxb01oaDhDUnE1LW80QWt4SWd3SGpEWTV6R0hXZDYtcUhGZHJNSE9DZk1uTVNfS0pWQ3VKN21IYXdrUGxSQ0Fobmp0OTFzNFBkbHZvYXRYQ1hRa1NCa1V6NlhwQWtzb0s2U2h4RnB4SW5NWnJjMzQ2OUdWOEZJOTNQQ3VVUG9vMXVpeWY0bi1ubHBKanVWMUpQWjdTRjNNR0lZUU1ueHlIYUFoOHhrRFpIajJnOEdqRXhYYmdXZjhqZ2FxVjdDVnE5UDU?oc=5",
+      "published": "Thu, 03 Sep 2026 18:46:18 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 12.6
+    },
+    {
+      "title": "India's record diaspora inflows leave RBI facing potential $10.6 bn bill - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFlobF91cDlLV0tTM3c3c25jZENFa20yd0pjSkxTcVk2UmRCUmtFY0FtQjBzNzcxa2dBRHhZOGptSk1OR05kcUVSMXBJZzdRRmhQdElmNHMwSEJrVVhsSF9FQmVrakdqWXJIeXliWE1xTVppWU1jTjdxTXNROFNXcnVvUWx0Q296NnQycE5vVExkOTFiR05qbVptSlZHaFFPcjhVMEcyOEJjYmNvUzczZWQ0aHlaUVliekh2UFBVM21PMXlFaTFjOHdnQ2NpVVNwaXVmR9IB2gFBVV95cUxObGNaQ1hlSUVSOWdVQkJlOEY1dy14dmwyS25CX1BFYkxXcGhPdHBobS04a1JGLU5fRy1fZmlLc3d2YzZwWHlVSG9aR1BlVDFWRVpwd0E0em05QnBDQzhWVmViSUkxU251Y2R4QUJPa0Z3RTNUMnM3MTJRYm1BRU1XekRUekVLdU9Mei1aU1dFM2Vvc0t5ZV9zZFRqOUxQVy1NZmh4cGtJVzM4NnRvS3RxTjRpYV82YjlIeU44NzJZM2JEcHZTWXVWcm5QbE5HcDA1LXc1S3NSMXN6Zw?oc=5",
+      "published": "Fri, 04 Sep 2026 06:39:49 GMT",
+      "source": "Business Standard",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.7
+    },
+    {
+      "title": "Ionis Pharma's drug becomes first FDA-approved treatment for rare brain disorder - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOEY3cUliaWZpa0d5UkpjQTdGZnNMNlFjX09yTmJOUHhrc2VoNnM0ZENubGFCcGZWYndnX3pETDE0dWVlRkxfVGxGU2t3VU9HY1plaE1IZUl1ZmNsZFZTdlJxTnNSd1JVZGpTcEs3eXFkWktxbkxtdUpmM0xfR09wcE1jLWU2ZEJsOVAyWlk4WGxfMWJfU19pMERnajRqUzA0UGhoUUtNd2pWY1liU1V6cnlmSGFsbUU?oc=5",
+      "published": "Thu, 03 Sep 2026 22:07:43 GMT",
+      "source": "Reuters",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 9.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -397,5 +440,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-04T07:21:26.246379+00:00"
 }
