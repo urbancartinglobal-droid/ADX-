@@ -21,20 +21,6 @@
   ],
   "landed": [
     {
-      "title": "India's record diaspora inflows leave RBI facing potential $10.6 bn bill - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFlobF91cDlLV0tTM3c3c25jZENFa20yd0pjSkxTcVk2UmRCUmtFY0FtQjBzNzcxa2dBRHhZOGptSk1OR05kcUVSMXBJZzdRRmhQdElmNHMwSEJrVVhsSF9FQmVrakdqWXJIeXliWE1xTVppWU1jTjdxTXNROFNXcnVvUWx0Q296NnQycE5vVExkOTFiR05qbVptSlZHaFFPcjhVMEcyOEJjYmNvUzczZWQ0aHlaUVliekh2UFBVM21PMXlFaTFjOHdnQ2NpVVNwaXVmR9IB2gFBVV95cUxObGNaQ1hlSUVSOWdVQkJlOEY1dy14dmwyS25CX1BFYkxXcGhPdHBobS04a1JGLU5fRy1fZmlLc3d2YzZwWHlVSG9aR1BlVDFWRVpwd0E0em05QnBDQzhWVmViSUkxU251Y2R4QUJPa0Z3RTNUMnM3MTJRYm1BRU1XekRUekVLdU9Mei1aU1dFM2Vvc0t5ZV9zZFRqOUxQVy1NZmh4cGtJVzM4NnRvS3RxTjRpYV82YjlIeU44NzJZM2JEcHZTWXVWcm5QbE5HcDA1LXc1S3NSMXN6Zw?oc=5",
-      "published": "Fri, 04 Sep 2026 06:39:49 GMT",
-      "source": "Business Standard",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.7
-    },
-    {
       "title": "Automotive industry continues to be key driver of India's economic growth: SIAM - Investment Guru",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHY4bC1wS3lTX3FGNHpyMDItX25helhRUlEyai12ZXFBYjFFYlBTbGhrYTlacUdGQzRSWmo3WElqWXR3NkJHQTNLeXlzdWp2Y1dWTVo3WnJ4X2JmOWx1ajhWbFA1UEQwLUJwSnJGSDEzVEQ4OF9WV0ptRlJpYURLTDNwQjg0WDNBUVhIYWQ5QlFJd1FoekJzTWMtSWpZeU1RMlpBY2V3bF9keWRKZE5vTWxEQlhNOWx3OU5JZkJlUVFOOW9fTnc?oc=5",
       "published": "Fri, 04 Sep 2026 06:33:48 GMT",
@@ -46,7 +32,21 @@
       "label": "GIGA+",
       "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 1.8
+      "freshness_hours": 2.8
+    },
+    {
+      "title": "RBI meets banks as liquidity surplus nears Rs 10 lakh crore - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOGNJQU9jWi12NXdIc3d3VXRfQVotUnJKTXlyQzF3V1ZjUXRRTUJ0YlVQUTYxQVNmc3dRdXd0RFgyRWVNTUdMTW95Rk96ejlJRHVmMmhlbFVsNTdSX1F3SF84aHFsQmVGU205aWZpQkhuUFRadGlYU05xUTAxQW03S0huZkk1T29ld2M1a2o4MEt1cE5fR0lfQkMwaXZ5Q2RheHlXc0lDX2p3TWdqTkVsbTU2MUgyWDVYWjEzU2NKNmYyU1lL0gHLAUFVX3lxTE5HOE1WTnJ0T1B3VDRJOXBhN1p1Y0Z5MG9ibGE1ZjJJblpzZ2t6b0dUTy1sSmJFTEEtaW50LVVyOXpMLUc1R3Y1S0RpSF8tWGppNGFQNHVzRGExUFROdnpIUkN4VUhHd3dLSkJoZWx0RjBhLXJldnFRYUJKRzUwZDV0ZjNPLS1zY3Y2SjZzNV9zTVlCV2JVUS1oOS1EQU5FLWNBeVcydTF3dzMzS0RRTE9SR1lTSUxiQ3dOYkdHdG5MQXlLdUd5TjFjdXVB?oc=5",
+      "published": "Thu, 03 Sep 2026 18:25:42 GMT",
+      "source": "financialexpress.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 14.9
     },
     {
       "title": "Ionis Pharma's drug becomes first FDA-approved treatment for rare brain disorder - Reuters",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 10.3
+      "freshness_hours": 11.2
     }
   ],
   "opportunities": [
@@ -441,5 +441,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-04T08:23:33.900326+00:00"
+  "landed_updated_utc": "2026-09-04T09:22:20.590382+00:00"
 }
