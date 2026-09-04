@@ -21,10 +21,10 @@
   ],
   "landed": [
     {
-      "title": "RBI absorbs Rs 6.02 lakh crore via 2 VRRRs as banking system liquidity surplus hits record high - cfo.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSldWQjFHUGp4SHhZVER2Y1lhUVRISFFrRm14SEZfYXZCbE1uMUV5a3hiclFrSTRadzZvUjc1bjdOX1E1TGpSemtQNGdvWFpjbm5fMTFMbU5VSzliTlNONWp5OFdzOE54dl93R0RsUHZlWHBIRWJ0WE9Bb2tlSVFCbEtEUU55YVBnUXVYdXdobV9mblA3OWNCQ000c2o1SUJDcFg0Ny1GaEVNT3huSTl0TXBBMEFXSFBQZHluVHMwLW1SVXllc0dmQVdMWXpEQ2pDa3hvN2NPeWx3YThrX3ZPQngtRFlXSV9lSE82UXY0NjhCa0pa0gH0AUFVX3lxTE5KV1ZCMUdQanhIeFlURHZjWWFRVEhIUWtGbXhIRl9hdkJsTW4xRXlreGJyUWtJNFp3Nm9SNzVuN05fUTVMalJ6a1A0Z29YWmNubl8xMUxtTlVLOWJOU041ank4V3M4Tnh2X3dHRGxQdmVYcEhFYnRYT0Fva2VJUUJsS0RRTnlhUGdRdVh1d2htX2ZuUDc5Y0JDTTRzajVJQkNwWDQ3LUZoRU1PeG5JOXRNcEEwQVdIUFBkeW5UczAtbVJVeWVzR2ZBV0xZekRDakNreG83Y095bHdhOGtfdk9CeC1EWVdJX2VITzZRdjQ2OEJrSlo?oc=5",
-      "published": "Fri, 04 Sep 2026 12:30:00 GMT",
-      "source": "cfo.economictimes.indiatimes.com",
+      "title": "RBI absorbs ₹6.02 lakh crore via 2 VRRRs as banking system liquidity surplus hits record high - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWm9kdGlhMmZKTkhvclFrOWdBMS1uWEVPeTJrRlZJc0dXOWFZV213NVFhMF9vSnJMXzlSRVBoa0d1c2psR2tiblBKS080azNfU0VveHdOeWJhNjdnMFBpN2Z4cFJxRXROQWJSeVBYcm5WdzFpSlgtS1QyZWYtTHBHa2R4dDlDVXJqaTd4NkFWcVVSTVYwOVdmNUtSeXRweF9EZEN2NlFVcXlSLW90c29Zb2dPZ2RDaTJ6SXE4STl0Q3VXSUk2R1hRWlQxQ21ZalA4WXB6NTNBeGrSAd4BQVVfeXFMUFBYVG5XZ1ZtNHRFSTlBRG5nbWswMHZhc2tuOHk1X3d1c0owdWRLMFZIa05NbEx2aXVHOGRTenpZV0dPUzYzek9TRlZjWFFXR09FSUs4eTY4X0dzS3JvVEhYXy1HWmZDdXJBQkxIVkZYdGh6VXQ3eE5SYkk5Y2xTNldXMkRzdFQ5MnhVWmROSG5JcHNPUHNacU1hSGw1ZHhjTmxidl9VbGJWaVRZRlNUNEkyaFY1STFVc214eHZBUUl0Z1pPTTNBSlYwVzg2c1lENVFIYXJGdXQzelBVRHR3?oc=5",
+      "published": "Fri, 04 Sep 2026 14:57:03 GMT",
+      "source": "CNBC TV18",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.9
+      "freshness_hours": 0.4
     },
     {
       "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
@@ -46,7 +46,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.2
+      "freshness_hours": 3.2
     },
     {
       "title": "Ionis Pharma's drug becomes first FDA-approved treatment for rare brain disorder - Reuters",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 16.2
+      "freshness_hours": 17.2
     }
   ],
   "opportunities": [
@@ -432,5 +432,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-04T14:21:13.333561+00:00"
+  "landed_updated_utc": "2026-09-04T15:22:11.892280+00:00"
 }
