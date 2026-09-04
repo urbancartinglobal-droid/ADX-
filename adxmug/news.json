@@ -21,10 +21,10 @@
   ],
   "landed": [
     {
-      "title": "Single-Component Gas Standards Market Growth to Accelerate by 2035 on Semiconductor Fab Expansion and Emissions Mandates - IndexBox",
+      "title": "Single-Component Gas Standards Market Growth to Accelerate by 2035 on Semiconductor Fab Expansion and Emissions Mandates - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjNXeUVZTDhLcEhTbVB2ZUZvXzhwVDlXTXIxb01oaDhDUnE1LW80QWt4SWd3SGpEWTV6R0hXZDYtcUhGZHJNSE9DZk1uTVNfS0pWQ3VKN21IYXdrUGxSQ0Fobmp0OTFzNFBkbHZvYXRYQ1hRa1NCa1V6NlhwQWtzb0s2U2h4RnB4SW5NWnJjMzQ2OUdWOEZJOTNQQ3VVUG9vMXVpeWY0bi1ubHBKanVWMUpQWjdTRjNNR0lZUU1ueHlIYUFoOHhrRFpIajJnOEdqRXhYYmdXZjhqZ2FxVjdDVnE5UDU?oc=5",
       "published": "Thu, 03 Sep 2026 18:46:18 GMT",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -32,7 +32,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.5
+      "freshness_hours": 5.7
     },
     {
       "title": "RBI meets banks as liquidity surplus nears Rs 10 lakh crore - financialexpress.com",
@@ -46,12 +46,12 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.9
+      "freshness_hours": 6.1
     },
     {
-      "title": "US FDA approves Ionis Pharma's therapy to treat rare brain disorder - Reuters",
+      "title": "Ionis Pharma's drug becomes first FDA-approved treatment for rare brain disorder - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOEY3cUliaWZpa0d5UkpjQTdGZnNMNlFjX09yTmJOUHhrc2VoNnM0ZENubGFCcGZWYndnX3pETDE0dWVlRkxfVGxGU2t3VU9HY1plaE1IZUl1ZmNsZFZTdlJxTnNSd1JVZGpTcEs3eXFkWktxbkxtdUpmM0xfR09wcE1jLWU2ZEJsOVAyWlk4WGxfMWJfU19pMERnajRqUzA0UGhoUUtNd2pWY1liU1V6cnlmSGFsbUU?oc=5",
-      "published": "Thu, 03 Sep 2026 20:29:43 GMT",
+      "published": "Thu, 03 Sep 2026 22:07:43 GMT",
       "source": "Reuters",
       "sector": "Pharma & Healthcare",
       "triggers": [
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 2.8
+      "freshness_hours": 2.4
     }
   ],
   "opportunities": [
@@ -421,5 +421,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-03T23:18:45.580681+00:00"
+  "landed_updated_utc": "2026-09-04T00:29:03.467038+00:00"
 }
