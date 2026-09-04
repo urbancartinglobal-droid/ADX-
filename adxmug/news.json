@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.4
+      "freshness_hours": 3.4
     },
     {
       "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
@@ -46,13 +46,13 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.1
+      "freshness_hours": 6.2
     },
     {
-      "title": "Ionis Pharma's drug becomes first FDA-approved treatment for rare brain disorder - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOEY3cUliaWZpa0d5UkpjQTdGZnNMNlFjX09yTmJOUHhrc2VoNnM0ZENubGFCcGZWYndnX3pETDE0dWVlRkxfVGxGU2t3VU9HY1plaE1IZUl1ZmNsZFZTdlJxTnNSd1JVZGpTcEs3eXFkWktxbkxtdUpmM0xfR09wcE1jLWU2ZEJsOVAyWlk4WGxfMWJfU19pMERnajRqUzA0UGhoUUtNd2pWY1liU1V6cnlmSGFsbUU?oc=5",
-      "published": "Thu, 03 Sep 2026 22:07:43 GMT",
-      "source": "Reuters",
+      "title": "Ionis Pharma's drug becomes first FDA-approved treatment for rare brain disorder - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQT09EMngxVFJwenZyN2E2VnU4SUJvcklUSVFVUDgxSjNlQzA2aThteEJZS2cteHNsNVdWMnJrVXowbFVrMmMtTGR2Y0F5VkNhTFBncnV5cWQ5ZGZZR1hsRlE1R1M1ZmhZNkx2cVhmV1lKaG1fdVZZMnozMDVoWGZsSXYzZkFPSVdVbTBvNTgtVGIyeFU0RGlRbXJ1b0duRGY2QTZVbG90QzJfT3JNcmtWQXF1MkVYbkhxMkczRUptSnZTSVMxSkFBTVFBU0VfN3B1aDIwQ05weVFEbzJBSTc4WDg5U0tQZG42TTZYUnhmZUpHcU5aZFNNS25oQXZubTjSAf8BQVVfeXFMUE9PRDJ4MVRScHp2cjdhNlZ1OElCb3JJVElRVVA4MUozZUMwNmk4bXhCWUtnLXhzbDVXVjJya1V6MGxVazJjLUxkdmNBeVZDYUxQZ3J1eXFkOWRmWUdYbEZRNUdTNWZoWTZMdnFYZldZSmhtX3VWWTJ6MzA1aFhmbEl2M2ZBT0lXVW0wbzU4LVRiMnhVNERpUW1ydW9HbkRmNkE2VWxvdEMyX09yTXJrVkFxdTJFWG5IcTJHM0VKbUp2U0lTMUpBQU1RQVNFXzdwdWgyMENOcHlRRG8yQUk3OFg4OVNLUGRuNk02WFJ4ZmVKR3FOWmRTTUtuaEF2bm04?oc=5",
+      "published": "Thu, 03 Sep 2026 23:06:51 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 19.2
+      "freshness_hours": 19.3
     }
   ],
   "opportunities": [
@@ -432,5 +432,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-04T17:19:34.337162+00:00"
+  "landed_updated_utc": "2026-09-04T18:22:23.774223+00:00"
 }
