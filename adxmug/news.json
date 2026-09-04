@@ -32,7 +32,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.5
+      "freshness_hours": 7.6
     },
     {
       "title": "RBI meets banks as liquidity surplus nears Rs 10 lakh crore - financialexpress.com",
@@ -46,7 +46,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.9
+      "freshness_hours": 7.9
     },
     {
       "title": "Ionis Pharma's drug becomes first FDA-approved treatment for rare brain disorder - Reuters",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
+      "freshness_hours": 4.2
     }
   ],
   "opportunities": [
@@ -468,5 +468,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-04T01:18:02.966091+00:00"
+  "landed_updated_utc": "2026-09-04T02:21:01.394834+00:00"
 }
