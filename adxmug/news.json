@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.4
+      "freshness_hours": 2.4
     },
     {
       "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
@@ -46,7 +46,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.2
+      "freshness_hours": 5.1
     },
     {
       "title": "Ionis Pharma's drug becomes first FDA-approved treatment for rare brain disorder - Reuters",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 18.2
+      "freshness_hours": 19.2
     }
   ],
   "opportunities": [
@@ -432,5 +432,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-04T16:22:28.488715+00:00"
+  "landed_updated_utc": "2026-09-04T17:19:34.337162+00:00"
 }
