@@ -32,21 +32,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.0
+      "freshness_hours": 6.0
     },
     {
-      "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT081T3Z0US1GbG1nNExDZUNEWEVWTDVfWVJsOXMxV3dWdm9zWFlGUlA4U0RqeGR3TEVTajFMcWJva3JXR1RjOGNvWHZDV2x5cUlXTlFmcjRYV0djVVoyY08tdmFQZThyNkpOblpNNllhUzhGU1R5YmdZeWN2dnAtckFDM0QzS0NqUy1ZT1R0enM5QXRPU3BMeGhoTDdsT2JGQVFpNXBUVWFGVnVic0FZZ21xeXVIbHRKV29BcXRqbW1BcFVfbTJVMUp5VE5JNWFvaUVmcW5TZ3YzYzFNY3VLX29CRzk?oc=5",
-      "published": "Sat, 05 Sep 2026 05:32:28 GMT",
-      "source": "Whalesbook",
-      "sector": "Pharma & Healthcare",
+      "title": "Cotton Filter Media Market Growth to Accelerate by 2035 on Semiconductor Fab Expansion and Biodegradable Substrate Shift - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPODJnWmRVaHpxWE5YQ0hzSEJCNEhBRTg1M3lBeUJ0ZU1vdUw2ZkZ5bjg1VlVjaWl0N3p4anE2OUduaS1BZ3dMTWVPcFh2bS1wdXVWRy1CME9xVUZWZGRLb09acE1MYnJXSmUxc2QzcGhNUVRBalJCVHBIdEdHTWt1Y2g3TGxsakhTYXJTSnZLRUx5Vlozd0dnUUQzRTI0Z3V1RlpIaFdyWUczcHBSVHJVeVlxRTk3di1ONWVQVGs0anpNOURIY2JTUnkzeFBlODlqMmw5ZXo4NTVvWEk0MlhXOFdmWlA?oc=5",
+      "published": "Sat, 05 Sep 2026 13:31:10 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.8
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 0.8
     }
   ],
   "opportunities": [
@@ -436,5 +436,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-05T13:19:32.954235+00:00"
+  "landed_updated_utc": "2026-09-05T14:19:25.177562+00:00"
 }
