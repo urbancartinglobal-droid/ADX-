@@ -32,13 +32,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 8.0
+      "freshness_hours": 9.0
     },
     {
-      "title": "Soffit Ventilation Inlets Market to Reach 5.8% CAGR by 2035 on Semiconductor Fab Cleanroom Expansion - indexbox.io",
+      "title": "Soffit Ventilation Inlets Market to Reach 5.8% CAGR by 2035 on Semiconductor Fab Cleanroom Expansion - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOam80dE1YM2Y5VTZhZXJQX1V1QnZQdE40U2otNlVsRV9EekUyTk5JZGkweFA2clVSQWxXVmNJOGMxN2J0NS1UUllKVzJxU29JcXZKc21tMll6eURKVnJVZnRybTlZcGV3aWdIdVpiYk9qY0g5ejRfRk4zV0EyNnBxY0JJZEgtSS1tbG5NTEdhTWFZUFdsR3dwRE9HN3h2QmI5UHlxc05kSFZaaHRDUG1ZcUYxWFVNTDdJMG5RZVNqbHQ5Zmk3WHJDMQ?oc=5",
       "published": "Sat, 05 Sep 2026 14:41:19 GMT",
-      "source": "indexbox.io",
+      "source": "IndexBox",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -46,7 +46,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.7
+      "freshness_hours": 2.6
     },
     {
       "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 10.8
+      "freshness_hours": 11.8
     }
   ],
   "opportunities": [
@@ -450,5 +450,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-05T16:20:40.748692+00:00"
+  "landed_updated_utc": "2026-09-05T17:18:37.804845+00:00"
 }
