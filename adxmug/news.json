@@ -19,7 +19,36 @@
       "signal_score": 15.6
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Rate Hike Chances Rise As Banking System Liquidity Surplus Hits Record ₹10.3 Trillion - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVc3WGNvQTNuaEt4b1QzR3lYT1o4SE54eUxkTkRFeS1Fd29Sbml0aW1EaTZWNVotakM4NGlkZzJnemtfdFQxNTRreHhCOFNSTjJVWmt6bWZrV0xULTVMTWQ4MC1hVERHcndwMlh1Q3g3Z21fSlNqOXg4S25OZjVRczdTc0JiQW0xNE5Ma01ReVhDQkNMcmlwazVHZlhoV2I5ZmJtNHFzLVNRUThFdjJVTHdBVW9ZTHR6M1BhMTdvQjloZ3dVSHlmN0dNdFXSAcwBQVVfeXFMTWlXN1hjb0EzbmhLeG9UM0d5WE9aOEhOeHlMZE5ERXktRXdvUm5pdGltRGk2VjVaLWpDODRpZGcyZ3prX3RUMTU0a3h4QjhTUk4yVVprem1ma1dMVC01TE1kODAtYVRER3J3cDJYdUN4N2dtX0pTajl4OEtuTmY1UXM3U3NCYkFtMTROTGtNUXlYQ0JDTHJpcGs1R2ZYaFdiOWZibTRxcy1TUVE4RXYyVUx3QVVvWUx0ejNQYTE3b0I5aGd3VUh5ZjdHTXRV?oc=5",
+      "published": "Sat, 05 Sep 2026 08:18:08 GMT",
+      "source": "Free Press Journal",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.0
+    },
+    {
+      "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT081T3Z0US1GbG1nNExDZUNEWEVWTDVfWVJsOXMxV3dWdm9zWFlGUlA4U0RqeGR3TEVTajFMcWJva3JXR1RjOGNvWHZDV2x5cUlXTlFmcjRYV0djVVoyY08tdmFQZThyNkpOblpNNllhUzhGU1R5YmdZeWN2dnAtckFDM0QzS0NqUy1ZT1R0enM5QXRPU3BMeGhoTDdsT2JGQVFpNXBUVWFGVnVic0FZZ21xeXVIbHRKV29BcXRqbW1BcFVfbTJVMUp5VE5JNWFvaUVmcW5TZ3YzYzFNY3VLX29CRzk?oc=5",
+      "published": "Sat, 05 Sep 2026 05:32:28 GMT",
+      "source": "Whalesbook",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 7.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -406,5 +435,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-05T13:19:32.954235+00:00"
 }
