@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 14.0
+      "freshness_hours": 15.0
     },
     {
       "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
@@ -46,7 +46,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 13.1
+      "freshness_hours": 14.2
     },
     {
       "title": "AGF Nitrogen May Cut Ammonia Output as Gas and Carbon Costs Surge - ChemAnalyst",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.7
+      "freshness_hours": 14.7
     }
   ],
   "opportunities": [
@@ -450,5 +450,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-05T01:19:15.369357+00:00"
+  "landed_updated_utc": "2026-09-05T02:20:36.429588+00:00"
 }
