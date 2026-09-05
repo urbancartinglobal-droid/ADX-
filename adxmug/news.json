@@ -22,7 +22,7 @@
   "landed": [
     {
       "title": "RBI Rate Hike Chances Rise As Banking System Liquidity Surplus Hits Record ₹10.3 Trillion - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0FGczd5cnZxNlYxcnN4YURUdFhFdldGaGEzX2VDMktTUDZ4YkR5a0hiY0o4YkV0VWdkSS1zdFIyRWpwbFhWU09uSjZzUFdTTW5BQ3BVT0VEVFpjanJxTmpsVUVXTnF0Ymo3MFd3SEpSUGlHQnIydEdhQ2cwZWJ6amxoX09SWTZSTHBDVEItOHNzeTJaMHdzYUtSWnZXVUdfV0lHMExGdWFpR1FLOXpYU1FsNUFZcUQ2TEhOV19VeEVFX1AxVDA00gHMAUFVX3lxTE1pVzdYY29BM25oS3hvVDNHeVhPWjhITnh5TGROREV5LUV3b1JuaXRpbURpNlY1Wi1qQzg0aWRnMmd6a190VDE1NGt4eEI4U1JOMlVaa3ptZmtXTFQtNUxNZDgwLWFUREdyd3AyWHVDeDdnbV9KU2o5eDhLbk5mNVFzN1NzQmJBbTE0TkxrTVF5WENCQ0xyaXBrNUdmWGhXYjlmYm00cXMtU1FROEV2MlVMd0FVb1lMdHozUGExN29COWhnd1VIeWY3R010VQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVc3WGNvQTNuaEt4b1QzR3lYT1o4SE54eUxkTkRFeS1Fd29Sbml0aW1EaTZWNVotakM4NGlkZzJnemtfdFQxNTRreHhCOFNSTjJVWmt6bWZrV0xULTVMTWQ4MC1hVERHcndwMlh1Q3g3Z21fSlNqOXg4S25OZjVRczdTc0JiQW0xNE5Ma01ReVhDQkNMcmlwazVHZlhoV2I5ZmJtNHFzLVNRUThFdjJVTHdBVW9ZTHR6M1BhMTdvQjloZ3dVSHlmN0dNdFXSAcwBQVVfeXFMTWlXN1hjb0EzbmhLeG9UM0d5WE9aOEhOeHlMZE5ERXktRXdvUm5pdGltRGk2VjVaLWpDODRpZGcyZ3prX3RUMTU0a3h4QjhTUk4yVVprem1ma1dMVC01TE1kODAtYVRER3J3cDJYdUN4N2dtX0pTajl4OEtuTmY1UXM3U3NCYkFtMTROTGtNUXlYQ0JDTHJpcGs1R2ZYaFdiOWZibTRxcy1TUVE4RXYyVUx3QVVvWUx0ejNQYTE3b0I5aGd3VUh5ZjdHTXRV?oc=5",
       "published": "Sat, 05 Sep 2026 08:18:08 GMT",
       "source": "Free Press Journal",
       "sector": "Banking & Financials",
@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.0
+      "freshness_hours": 3.0
     },
     {
       "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
@@ -46,7 +46,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 4.8
+      "freshness_hours": 5.8
     },
     {
       "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
@@ -60,7 +60,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 22.1
+      "freshness_hours": 23.1
     }
   ],
   "opportunities": [
@@ -450,5 +450,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-05T10:19:29.047562+00:00"
+  "landed_updated_utc": "2026-09-05T11:19:18.162140+00:00"
 }
