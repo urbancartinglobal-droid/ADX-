@@ -21,10 +21,10 @@
   ],
   "landed": [
     {
-      "title": "RBI Moves To Mop Up Record Cash Glut, Plans To Lock Away ₹7 Lakh Crore Of Excess Banking Liquidity for 30 - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeXJWbkZxMHE4R0hpdTdFUEhUZHZpbTJzclNUVXpyQ21LcldnVjQzVzg4dWM4TTFEdm90a2tDOTR3OUstSXIzTnRqbUFxOFQyVDlKdy1ENVNlSFVJM2xRWHpVc29ZamN5WHhWQU1VMFdHdU5SekJFYS13ME1DeE5ZczRSUXZLTzBfbktqT3RSRERQMVJ1TVNqU3c2S0E2TzZNc1otcWhZWW9Gbm1rbV9VRmczV0ZIUHBWRVV5TVN5U2NkUmtRY0ktTFRCRlBHNVhrX1Fhd2VGMEdUODM5OTVnUE5XNNIB6AFBVV95cUxQU1N4MGdTa3M0WmgyQ2tpQWo2UlYtODRXVmNUWWNCaU1oLTRGNThtMHhKRXRsaUhieVY1LXhaRF9OOWRIaWVPdS1ueTdBbEk0eG9ucDVaMVZlajBObWdDRXI0SjV4RC16dDdQOFlvTEVXQ3B6Vm5xa0N4SVBjT1lGNWJGNGpiMncxZ0RKV1NRZmRIOU5ZSnU1ejhfdU1OeUxmZ09IWl9nNGVCd0Q3ZVhsbzhNOWpYYkJJdlZOODJsT0ZmamFrdzVDcUpHVjdKUXlvQkNSRjcwcGlmdExPVTNzRU5GYmJnTGJk?oc=5",
-      "published": "Sat, 05 Sep 2026 05:02:01 GMT",
-      "source": "Free Press Journal",
+      "title": "RBI steps up measures to absorb surplus liquidity in banking system; to lock Rs 7 lakh crore for 30 days - Mid-Day",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbXZBcEpVQ0dJbWxBY2VQMnRBRktsMTdiQmNXNFNUZzhTM1dNemZOclNqRGtWWU5CZFllMkVfNHpBcWpwNmdGbUVQYzNUX05ObkxGd2Rmd0xmRUdBdkhNdF9Ia2pOTTM3bnQxUmphU1ZoMjVxc2dzSFVwdW1aeExrT3VpUnVYN3JEUy1mZGRiTFBROVVwbUlWUm5hY1lESktVeF9DSzhLWXd1Z05pQm1NSGg3NzhJR0NfajNFSmdxUVdaa3diZnZIekN2czJaU1o5WWxwVVdDeE5ydmxUaG5GMmNaY0dGamJDZjYxX182QVR5SG5rQXZaWjRJc9IBgAJBVV95cUxQMFF2TUdSTkxDR3lCZ2dpaFQ0YVZDdEY5Y1hycUE3WXBtbnFaN1FadGtmTGQ2aFhjX0F3NjRUTDFHQlFiQW11cWtuUC00c0pWZWxaaEM0QjE2SHZITUZybzVxck0zbnlhTTNTb3lWbFhRZXpWLVF0akY4YW5yNFR2M3VkOFlfbnVhd3BxZkhJZnZaaEhCVDJLQTN0eXVWZWN5NkhsbG41ekZnZFVrNE1MVFBrX3FZdXNjTHVoQlVkajhlNHh5ZTFsal93MExrb0NTS0pzVUtJNnJGeFMyeUtIS3BZVlM1bHNyUnhNODVDYjJ2aVBVbWJoNzZ2X09iSkho?oc=5",
+      "published": "Sat, 05 Sep 2026 05:34:00 GMT",
+      "source": "Mid-Day",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -32,7 +32,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.3
+      "freshness_hours": 0.8
+    },
+    {
+      "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT081T3Z0US1GbG1nNExDZUNEWEVWTDVfWVJsOXMxV3dWdm9zWFlGUlA4U0RqeGR3TEVTajFMcWJva3JXR1RjOGNvWHZDV2x5cUlXTlFmcjRYV0djVVoyY08tdmFQZThyNkpOblpNNllhUzhGU1R5YmdZeWN2dnAtckFDM0QzS0NqUy1ZT1R0enM5QXRPU3BMeGhoTDdsT2JGQVFpNXBUVWFGVnVic0FZZ21xeXVIbHRKV29BcXRqbW1BcFVfbTJVMUp5VE5JNWFvaUVmcW5TZ3YzYzFNY3VLX29CRzk?oc=5",
+      "published": "Sat, 05 Sep 2026 05:32:28 GMT",
+      "source": "Whalesbook",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 0.9
     },
     {
       "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
@@ -46,21 +60,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 17.1
-    },
-    {
-      "title": "AGF Nitrogen May Cut Ammonia Output as Gas and Carbon Costs Surge - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTFHSTc4akhMbkwzeG5QeFdmZ1RGb1Jsek5mMWljb2ZHcGtuYnFnRGEzRDQ3YzdKbVVrVGVrZFd4dUVqTnlIVklLQnQ2dVRUREFvUjRVVGtJZnRPT2N2cVlJVm9OWkF1TDd1c0h2TWF1Z1ZoVGdKZ0RrQkdrNVgxa01uZTlqVjNtTjhpaFpVMW05R0RCd1k2WmtReEtpdzBEY0ZR?oc=5",
-      "published": "Fri, 04 Sep 2026 11:37:35 GMT",
-      "source": "ChemAnalyst",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 17.7
+      "freshness_hours": 18.2
     }
   ],
   "opportunities": [
@@ -450,5 +450,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-05T05:19:24.844064+00:00"
+  "landed_updated_utc": "2026-09-05T06:24:29.419595+00:00"
 }
