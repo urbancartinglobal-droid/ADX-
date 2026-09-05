@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-05T12:30:03.609885+00:00",
+  "updated_utc": "2026-09-05T18:27:31.106582+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -16,53 +16,10 @@
         "POLICY",
         "PRICING"
       ],
-      "signal_score": 15.6
+      "signal_score": 14.8
     }
   ],
-  "landed": [
-    {
-      "title": "RBI Rate Hike Chances Rise As Banking System Liquidity Surplus Hits Record ₹10.3 Trillion - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVc3WGNvQTNuaEt4b1QzR3lYT1o4SE54eUxkTkRFeS1Fd29Sbml0aW1EaTZWNVotakM4NGlkZzJnemtfdFQxNTRreHhCOFNSTjJVWmt6bWZrV0xULTVMTWQ4MC1hVERHcndwMlh1Q3g3Z21fSlNqOXg4S25OZjVRczdTc0JiQW0xNE5Ma01ReVhDQkNMcmlwazVHZlhoV2I5ZmJtNHFzLVNRUThFdjJVTHdBVW9ZTHR6M1BhMTdvQjloZ3dVSHlmN0dNdFXSAcwBQVVfeXFMTWlXN1hjb0EzbmhLeG9UM0d5WE9aOEhOeHlMZE5ERXktRXdvUm5pdGltRGk2VjVaLWpDODRpZGcyZ3prX3RUMTU0a3h4QjhTUk4yVVprem1ma1dMVC01TE1kODAtYVRER3J3cDJYdUN4N2dtX0pTajl4OEtuTmY1UXM3U3NCYkFtMTROTGtNUXlYQ0JDTHJpcGs1R2ZYaFdiOWZibTRxcy1TUVE4RXYyVUx3QVVvWUx0ejNQYTE3b0I5aGd3VUh5ZjdHTXRV?oc=5",
-      "published": "Sat, 05 Sep 2026 08:18:08 GMT",
-      "source": "Free Press Journal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 10.1
-    },
-    {
-      "title": "Soffit Ventilation Inlets Market to Reach 5.8% CAGR by 2035 on Semiconductor Fab Cleanroom Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOam80dE1YM2Y5VTZhZXJQX1V1QnZQdE40U2otNlVsRV9EekUyTk5JZGkweFA2clVSQWxXVmNJOGMxN2J0NS1UUllKVzJxU29JcXZKc21tMll6eURKVnJVZnRybTlZcGV3aWdIdVpiYk9qY0g5ejRfRk4zV0EyNnBxY0JJZEgtSS1tbG5NTEdhTWFZUFdsR3dwRE9HN3h2QmI5UHlxc05kSFZaaHRDUG1ZcUYxWFVNTDdJMG5RZVNqbHQ5Zmk3WHJDMQ?oc=5",
-      "published": "Sat, 05 Sep 2026 14:41:19 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.7
-    },
-    {
-      "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT081T3Z0US1GbG1nNExDZUNEWEVWTDVfWVJsOXMxV3dWdm9zWFlGUlA4U0RqeGR3TEVTajFMcWJva3JXR1RjOGNvWHZDV2x5cUlXTlFmcjRYV0djVVoyY08tdmFQZThyNkpOblpNNllhUzhGU1R5YmdZeWN2dnAtckFDM0QzS0NqUy1ZT1R0enM5QXRPU3BMeGhoTDdsT2JGQVFpNXBUVWFGVnVic0FZZ21xeXVIbHRKV29BcXRqbW1BcFVfbTJVMUp5VE5JNWFvaUVmcW5TZ3YzYzFNY3VLX29CRzk?oc=5",
-      "published": "Sat, 05 Sep 2026 05:32:28 GMT",
-      "source": "Whalesbook",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 12.8
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -76,8 +33,8 @@
       ],
       "evidence": [
         {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-          "source": "A2Z Taxcorp LLP",
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - a2ztaxcorp.net",
+          "source": "a2ztaxcorp.net",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
           "triggers": [
             "POLICY",
@@ -96,8 +53,8 @@
           "companies": []
         },
         {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
-          "source": "ChiniMandi",
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - chinimandi.com",
+          "source": "chinimandi.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
           "triggers": [
             "POLICY",
@@ -116,8 +73,8 @@
           "companies": []
         },
         {
-          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
-          "source": "Global Agriculture",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - global-agriculture.com",
+          "source": "global-agriculture.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
             "TRADE"
@@ -141,8 +98,8 @@
     {
       "industry": "Banking & Financials",
       "score": 64,
-      "article_count": 6,
-      "trigger_count": 12,
+      "article_count": 7,
+      "trigger_count": 14,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -170,9 +127,19 @@
           "companies": []
         },
         {
-          "title": "RBI sees liquidity surplus peaking in September before normal absorption - business-standard.com",
-          "source": "business-standard.com",
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
+          "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI's CRR cut may provide 3-4 bps relief to banks on margins front ; liquidity challenges remain - ET BFSI",
+          "source": "ET BFSI",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWtvTTVGMXhTSTZCSHVNQ2tqMmZ2MDYtQUdvT2ZZREoyTVpTbTNQS3hHUjltN0x1R3pveWQ2TkhYZzhGYWl2MVBBNmVvM21tSUdXdVNzcmpPTVg5UEdHQjlSYmQySVVrOEZ6cGowYmkwNmVMbmZUMTBReDFPWnRnTTd5b2JIZUxVVjNaREtPOEdfOEpNQUh2YnV2NUx4bE1HblRvTzB3a2ZGOTZ1RlFKN3NPeXdHanoxakk0T0FYdWw5dURDZFVUNXk1VDFXb2VkV3BnOE1FNkVKcDlWNWlfNmtkRTBvY1k4cHM0ZnNB0gHzAUFVX3lxTE1oQnJndDFFT1BPV2RfcnAwRDV6OG1qdHBOd2s2ZXMxVUFnMTl0Z3VudUJnbWVTbVpoVmh2NV84TEEyN09keDFDTDBkUmM3OGFicmpFNmRybHlZYWNqRlh0RXc1YjFBb05yOXdVZXk5aUVlWWtUV3V5c1FyOUI0YU9yZjBDVWctNjR1ZUpsNGg0X2pZOE1URjR4ZDB1eEtzSGxGQ1JKTk1lcEFTQkR4M2ZwbFFUZ19vUlVzQzh4djFZbDczeHhiNnpxTWFzNkpnS1dXcGdQa3F5QkVxTXJ0NlRrT2NQWVJvOGpmYlZEQTNtczlONA?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
@@ -188,23 +155,13 @@
             "TRADE"
           ],
           "companies": []
-        },
-        {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - business-standard.com",
-          "source": "business-standard.com",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 7 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 6,
+      "story_clusters": 7,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -294,8 +251,8 @@
           "companies": []
         },
         {
-          "title": "NFL opens new Bio-fertilizers bottling plant in Madhya Pradesh - indianchemicalnews.com",
-          "source": "indianchemicalnews.com",
+          "title": "NFL opens new Bio-fertilizers bottling plant in Madhya Pradesh - Indian Chemical News",
+          "source": "Indian Chemical News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVh2cUJJSDAzWkM5aTNhWkRhbnhhZUswYVlma1BPa0V6Nl8xYTIyZThET05WYjVxd0otMTBQNmpsN0lqRll1eUp3NUN5QjllbW1lcWUySndtejFTMmxNUVdvWXdMSEFWbldPZUl4akFDS1lJZzZLZEhpUFpnSkh2TXl3TlBEdFhLU011cWVTRFRuV3lWVVFpYnNkU1ZUZVd4emNMcEo2WllmWHNLcXpUZ9IBtwFBVV95cUxOUFV4VUFKRWtWQ3RUUFdQaUl1aHMyOHBCX2RoVEtSQUlBZTE0V2NPX2dCd0dVSkc2TGMwamM0cHhObkRZY3ZNM0h0ay1udmpxWTk0UWZrZldIWE1fZHdrUWZza0NOd3NKZEZrQ25mLTJtd1drN0Q5cnFDYTNXRjJpSG9WUHYzRWpoUUhtbWphNHd2anRmYjJZT2ZIcDFVdV82WWIzbjMwbmFlcWl6SEQ0bjVydHhra28?oc=5",
           "triggers": [
             "CAPEX"
@@ -363,8 +320,8 @@
       ],
       "evidence": [
         {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
-          "source": "POWER Magazine",
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - powermag.com",
+          "source": "powermag.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
           "triggers": [
             "PRICING"
@@ -393,8 +350,8 @@
       ],
       "evidence": [
         {
-          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - autocarpro.in",
-          "source": "autocarpro.in",
+          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
+          "source": "Autocar Professional",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
           "triggers": [
             "POLICY"
@@ -449,6 +406,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-05T18:22:15.104125+00:00"
+  ]
 }
