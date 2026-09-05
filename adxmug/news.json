@@ -21,10 +21,10 @@
   ],
   "landed": [
     {
-      "title": "RBI absorbs ₹6.02 lakh crore via 2 VRRRs as banking system liquidity surplus hits record high - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZzVSbHRpWGlZT2RZbjNiQk8yNzdXV2N3ZUtKQlpNX2FYQXpJb0xVY2NlbmxzaHVTVlVRZjhrVWdtSWNRNEY4SFE4dWx6YVF4S2xROGQ1c3hudEFOTVVwdWVUWmlSOWp1NVp1ajA0Zl9Ib002LUN5Q0ozbjdvUHpMS2VFUnh5YVdOaGpHQ2dnWHc5VzNsb2lkVmM4Vm9xWXI3WFkwTkE0SlM0bkYtR0FScEFiRFp5WWpDN1huWDZYMlFCaFdFWklIemw5SWpfXzRVb0JPMGUxVWhXR3MwNzRpTEZtaFNpU3RFc3gwbGkzdE5zZWVsVEhkZm9B0gGAAkFVX3lxTFAzUlZyaC1CbzBNSFY5YTBpVm9TTm5yM1NEVWhiXzNmcVFJSGJyck5jeUtlVExSWjlrUFVJZW96enoyLUE1eGdaU3UtdGhtQkJMQk9qOWpXd2JMeWJFQzlSSTh4UkxPTU9FcVpXYUFKOFZUVWViWnVYR0w0SzNTcEh0WGtkVU5oUHROSDRKWVZ5cmM2aS10LVBZZmhDNkE0QXBrS0pMbmlIX0NWa0xLZ2lSLUhBVmVIcnNJb3pyeEhxQWZpSlNJWlJRSVZBUW9KdFZydXNmaE80VEY0R1Z0YVpTcjhHUlA2ZUJLZDlYR1hVU25jS25Oa1RmYjZaZFpWUnM?oc=5",
-      "published": "Fri, 04 Sep 2026 11:20:38 GMT",
-      "source": "BusinessLine",
+      "title": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUFicVEtQ3R6UGZkM2piODFxLTViU1lPQ2NSZkZNaF9CX3JlZndUTDR3c0Y5ZDdwSDI2eHlTUU5SY0dPeFZJM2hZelZ2ZTIxN2NiQzhSUGV4clE0NlZOWmtnTkRsbDJxTmlmRG9Nc0lscjFxRkVpUTlEUzR2WlRLRVJkYzM1MkhQTjBJUHcxc0tjSFh5V0NGUmMtanhRM25KdldhSU4yaEp0NjRZRFB2aEVEZUM5MEVyUEZ6V0FNaDR3OUpxanBrZ05kcm52VnhJeWc?oc=5",
+      "published": "Sat, 05 Sep 2026 03:14:06 GMT",
+      "source": "Social News XYZ",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.0
+      "freshness_hours": 1.1
     },
     {
       "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
@@ -46,7 +46,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 15.2
+      "freshness_hours": 16.2
     },
     {
       "title": "AGF Nitrogen May Cut Ammonia Output as Gas and Carbon Costs Surge - ChemAnalyst",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.7
+      "freshness_hours": 16.7
     }
   ],
   "opportunities": [
@@ -450,5 +450,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-05T03:20:44.303873+00:00"
+  "landed_updated_utc": "2026-09-05T04:20:52.051336+00:00"
 }
