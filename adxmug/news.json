@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-05T00:36:05.890305+00:00",
+  "updated_utc": "2026-09-05T06:30:06.065990+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -16,53 +16,10 @@
         "POLICY",
         "PRICING"
       ],
-      "signal_score": 17.1
+      "signal_score": 16.3
     }
   ],
-  "landed": [
-    {
-      "title": "RBI steps up measures to absorb surplus liquidity in banking system; to lock Rs 7 lakh crore for 30 days - Mid-Day",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbXZBcEpVQ0dJbWxBY2VQMnRBRktsMTdiQmNXNFNUZzhTM1dNemZOclNqRGtWWU5CZFllMkVfNHpBcWpwNmdGbUVQYzNUX05ObkxGd2Rmd0xmRUdBdkhNdF9Ia2pOTTM3bnQxUmphU1ZoMjVxc2dzSFVwdW1aeExrT3VpUnVYN3JEUy1mZGRiTFBROVVwbUlWUm5hY1lESktVeF9DSzhLWXd1Z05pQm1NSGg3NzhJR0NfajNFSmdxUVdaa3diZnZIekN2czJaU1o5WWxwVVdDeE5ydmxUaG5GMmNaY0dGamJDZjYxX182QVR5SG5rQXZaWjRJc9IBgAJBVV95cUxQMFF2TUdSTkxDR3lCZ2dpaFQ0YVZDdEY5Y1hycUE3WXBtbnFaN1FadGtmTGQ2aFhjX0F3NjRUTDFHQlFiQW11cWtuUC00c0pWZWxaaEM0QjE2SHZITUZybzVxck0zbnlhTTNTb3lWbFhRZXpWLVF0akY4YW5yNFR2M3VkOFlfbnVhd3BxZkhJZnZaaEhCVDJLQTN0eXVWZWN5NkhsbG41ekZnZFVrNE1MVFBrX3FZdXNjTHVoQlVkajhlNHh5ZTFsal93MExrb0NTS0pzVUtJNnJGeFMyeUtIS3BZVlM1bHNyUnhNODVDYjJ2aVBVbWJoNzZ2X09iSkho?oc=5",
-      "published": "Sat, 05 Sep 2026 05:34:00 GMT",
-      "source": "Mid-Day",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.8
-    },
-    {
-      "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT081T3Z0US1GbG1nNExDZUNEWEVWTDVfWVJsOXMxV3dWdm9zWFlGUlA4U0RqeGR3TEVTajFMcWJva3JXR1RjOGNvWHZDV2x5cUlXTlFmcjRYV0djVVoyY08tdmFQZThyNkpOblpNNllhUzhGU1R5YmdZeWN2dnAtckFDM0QzS0NqUy1ZT1R0enM5QXRPU3BMeGhoTDdsT2JGQVFpNXBUVWFGVnVic0FZZ21xeXVIbHRKV29BcXRqbW1BcFVfbTJVMUp5VE5JNWFvaUVmcW5TZ3YzYzFNY3VLX29CRzk?oc=5",
-      "published": "Sat, 05 Sep 2026 05:32:28 GMT",
-      "source": "Whalesbook",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
-    },
-    {
-      "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcjZrMHB1d1E2dXRaa1BXRE5pY1dsbjV2cjF3MUpuUGliTVVCX09oN2ZZRGNJU0I0TEFOU2kzXzZEM2Z0LVhoMnRRa2FzZDBBVmhseElkYk1OT1M2aDRyVWN1bk1EZ0htU2hNZGF6anVNVThZNjFCdXRqMG9rQUw5S3lUUTFPa0YwQXJTa2dhdGp4UlhaYWNrNFd5LXo4T05BMlpNVWRkTjFwYTdRTXBNcFhyRlJ5d0xZbmFnY0xjeGNRX1kwNjJqTg?oc=5",
-      "published": "Fri, 04 Sep 2026 12:11:20 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 18.2
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -76,8 +33,8 @@
       ],
       "evidence": [
         {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-          "source": "A2Z Taxcorp LLP",
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - a2ztaxcorp.net",
+          "source": "a2ztaxcorp.net",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
           "triggers": [
             "POLICY",
@@ -141,8 +98,8 @@
     {
       "industry": "Banking & Financials",
       "score": 64,
-      "article_count": 5,
-      "trigger_count": 10,
+      "article_count": 6,
+      "trigger_count": 12,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -180,6 +137,16 @@
           "companies": []
         },
         {
+          "title": "RBI's CRR cut may provide 3-4 bps relief to banks on margins front ; liquidity challenges remain - ET BFSI",
+          "source": "ET BFSI",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWtvTTVGMXhTSTZCSHVNQ2tqMmZ2MDYtQUdvT2ZZREoyTVpTbTNQS3hHUjltN0x1R3pveWQ2TkhYZzhGYWl2MVBBNmVvM21tSUdXdVNzcmpPTVg5UEdHQjlSYmQySVVrOEZ6cGowYmkwNmVMbmZUMTBReDFPWnRnTTd5b2JIZUxVVjNaREtPOEdfOEpNQUh2YnV2NUx4bE1HblRvTzB3a2ZGOTZ1RlFKN3NPeXdHanoxakk0T0FYdWw5dURDZFVUNXk1VDFXb2VkV3BnOE1FNkVKcDlWNWlfNmtkRTBvY1k4cHM0ZnNB0gHzAUFVX3lxTE1oQnJndDFFT1BPV2RfcnAwRDV6OG1qdHBOd2s2ZXMxVUFnMTl0Z3VudUJnbWVTbVpoVmh2NV84TEEyN09keDFDTDBkUmM3OGFicmpFNmRybHlZYWNqRlh0RXc1YjFBb05yOXdVZXk5aUVlWWtUV3V5c1FyOUI0YU9yZjBDVWctNjR1ZUpsNGg0X2pZOE1URjR4ZDB1eEtzSGxGQ1JKTk1lcEFTQkR4M2ZwbFFUZ19vUlVzQzh4djFZbDczeHhiNnpxTWFzNkpnS1dXcGdQa3F5QkVxTXJ0NlRrT2NQWVJvOGpmYlZEQTNtczlONA?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
           "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
           "source": "scanx.trade",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
@@ -188,23 +155,13 @@
             "TRADE"
           ],
           "companies": []
-        },
-        {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 5,
+      "story_clusters": 6,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -225,8 +182,8 @@
       ],
       "evidence": [
         {
-          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
-          "source": "Construction World",
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - constructionworld.in",
+          "source": "constructionworld.in",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
           "triggers": [
             "CAPEX",
@@ -245,8 +202,8 @@
           "companies": []
         },
         {
-          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - Construction World",
-          "source": "Construction World",
+          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - constructionworld.in",
+          "source": "constructionworld.in",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWDBlWFVHakdaOHFWcm9VSThiTEEzSTdua2RHazBZMk5pTzUzRWVLMF84NXZ0cWliXzliV2VXTHFuS2psbTh1d3dKWHNOb1Atc0NrZ0tNX2dOcUVYSHRodjVOcE04eVB2ZXlfUzNndXE4MTdzRHBxcFIyN3Y4cFgzRXc2NmNhQUREUE9NUEZTZUFUWE9QcUttOXBTQnZ0WGxnTmtJOTlDZ28yeFBKYU9YNklnOTRTM1VTbF9pRmQ1RGRMUnBzRmxGVGY4c3Y1MWJNTk8zUk5YT3h6eXRSWHF0VkNWV05lcDQtQWpkTDdWbkJjZ0NQSThMTlpn?oc=5",
           "triggers": [
             "CAPEX"
@@ -254,8 +211,8 @@
           "companies": []
         },
         {
-          "title": "Rs 18 Billion Rail Project Cleared for Northeast Region - Construction World",
-          "source": "Construction World",
+          "title": "Rs 18 Billion Rail Project Cleared for Northeast Region - constructionworld.in",
+          "source": "constructionworld.in",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbWpLWndRUUdEQkVnS0lad0ZJU05UWl9oa1JWZXdsT3ZJb1RuZG1adjlBQVNSd3ctYnYwRWd2Vi1wamYwbllYb2hDejN3UmhLdjcza01oZnptZTZhXzZaZXZQaUppM2dUQ201b1FzYncyU0RYTVE5cER0bW9FREtRaU1XbmcxLXlmc1RYQ2RfRmNtWDZ0UGNnWGpheE5FdWFKTnRhYTNhVzBhdkl0cEM2TFE5Mzk4Wk94d2NLRVp1RjFLbUI3ei1BUlB0a3c3bjNfWjgtQU5hdjBpNzRZT1VNRG4za19ydXZCTWQtZWljUQ?oc=5",
           "triggers": [
             "CAPEX"
@@ -449,6 +406,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-05T06:24:29.419595+00:00"
+  ]
 }
