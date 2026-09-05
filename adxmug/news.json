@@ -21,10 +21,10 @@
   ],
   "landed": [
     {
-      "title": "RBI steps up measures to absorb surplus liquidity in banking system; to lock Rs 7 lakh crore for 30 days - Mid-Day",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbXZBcEpVQ0dJbWxBY2VQMnRBRktsMTdiQmNXNFNUZzhTM1dNemZOclNqRGtWWU5CZFllMkVfNHpBcWpwNmdGbUVQYzNUX05ObkxGd2Rmd0xmRUdBdkhNdF9Ia2pOTTM3bnQxUmphU1ZoMjVxc2dzSFVwdW1aeExrT3VpUnVYN3JEUy1mZGRiTFBROVVwbUlWUm5hY1lESktVeF9DSzhLWXd1Z05pQm1NSGg3NzhJR0NfajNFSmdxUVdaa3diZnZIekN2czJaU1o5WWxwVVdDeE5ydmxUaG5GMmNaY0dGamJDZjYxX182QVR5SG5rQXZaWjRJc9IBgAJBVV95cUxQMFF2TUdSTkxDR3lCZ2dpaFQ0YVZDdEY5Y1hycUE3WXBtbnFaN1FadGtmTGQ2aFhjX0F3NjRUTDFHQlFiQW11cWtuUC00c0pWZWxaaEM0QjE2SHZITUZybzVxck0zbnlhTTNTb3lWbFhRZXpWLVF0akY4YW5yNFR2M3VkOFlfbnVhd3BxZkhJZnZaaEhCVDJLQTN0eXVWZWN5NkhsbG41ekZnZFVrNE1MVFBrX3FZdXNjTHVoQlVkajhlNHh5ZTFsal93MExrb0NTS0pzVUtJNnJGeFMyeUtIS3BZVlM1bHNyUnhNODVDYjJ2aVBVbWJoNzZ2X09iSkho?oc=5",
-      "published": "Sat, 05 Sep 2026 05:34:00 GMT",
-      "source": "Mid-Day",
+      "title": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut - ET BFSI",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcmtyZlEwc1NxY2dUS3NacGJ3MjVERzhjbExwSld1TlJjUVdyaWdUQ2hJSlJZOG1ER2tWSE5VdW9kQ2J0VDZLMnZyZWV3aHU5Z0p0UDRpNC11ckFtVWc4XzlLZU9IMVVyOFhvZ0NKLU9OaHpzVGx0TzYtdnR1NVQtbDJjd0pUQ0g0bWZZS1F1NVdDZi1BRDRIanlqRFVFbGllSTNsQjRYV0VlSEszeUt4LWE0V2dCTmF4MjI5c1BjdjNxek45b3pYcG1DN3RSRHdpTWw0WXZyR3NCdEFoM3NiaG5iWC1yR0FUVHVScklqd3htcWhnMWJMalNB0gH6AUFVX3lxTE5ya3JmUTBzU3FjZ1RLc1pwYncyNURHOGNsTHBKV3VOUmNRV3JpZ1RDaElKUlk4bURHa1ZITlV1b2RDYnRUNksydnJlZXdodTlnSnRQNGk0LXVyQW1VZzhfOUtlT0gxVXI4WG9nQ0otT05oenNUbHRPNi12dHU1VC1sMmN3SlRDSDRtZllLUXU1V0NmLUFENEhqeWpEVUVsaWVJM2xCNFhXRWVISzN5S3gtYTRXZ0JOYXgyMjlzUGN2M3F6TjlvelhwbUM3dFJEd2lNbDRZdnJHc0J0QWgzc2JobmJYLXJHQVRUdVJySWp3eG1xaGcxYkxqU0E?oc=5",
+      "published": "Sat, 05 Sep 2026 07:00:13 GMT",
+      "source": "ET BFSI",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.8
+      "freshness_hours": 1.4
     },
     {
       "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
@@ -46,7 +46,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 1.8
+      "freshness_hours": 2.8
     },
     {
       "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
@@ -60,7 +60,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 19.1
+      "freshness_hours": 20.2
     }
   ],
   "opportunities": [
@@ -450,5 +450,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-05T07:19:22.966382+00:00"
+  "landed_updated_utc": "2026-09-05T08:21:13.455091+00:00"
 }
