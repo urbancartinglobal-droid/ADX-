@@ -19,7 +19,50 @@
       "signal_score": 16.3
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI steps up measures to absorb surplus liquidity in banking system; to lock Rs 7 lakh crore for 30 days - Mid-Day",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbXZBcEpVQ0dJbWxBY2VQMnRBRktsMTdiQmNXNFNUZzhTM1dNemZOclNqRGtWWU5CZFllMkVfNHpBcWpwNmdGbUVQYzNUX05ObkxGd2Rmd0xmRUdBdkhNdF9Ia2pOTTM3bnQxUmphU1ZoMjVxc2dzSFVwdW1aeExrT3VpUnVYN3JEUy1mZGRiTFBROVVwbUlWUm5hY1lESktVeF9DSzhLWXd1Z05pQm1NSGg3NzhJR0NfajNFSmdxUVdaa3diZnZIekN2czJaU1o5WWxwVVdDeE5ydmxUaG5GMmNaY0dGamJDZjYxX182QVR5SG5rQXZaWjRJc9IBgAJBVV95cUxQMFF2TUdSTkxDR3lCZ2dpaFQ0YVZDdEY5Y1hycUE3WXBtbnFaN1FadGtmTGQ2aFhjX0F3NjRUTDFHQlFiQW11cWtuUC00c0pWZWxaaEM0QjE2SHZITUZybzVxck0zbnlhTTNTb3lWbFhRZXpWLVF0akY4YW5yNFR2M3VkOFlfbnVhd3BxZkhJZnZaaEhCVDJLQTN0eXVWZWN5NkhsbG41ekZnZFVrNE1MVFBrX3FZdXNjTHVoQlVkajhlNHh5ZTFsal93MExrb0NTS0pzVUtJNnJGeFMyeUtIS3BZVlM1bHNyUnhNODVDYjJ2aVBVbWJoNzZ2X09iSkho?oc=5",
+      "published": "Sat, 05 Sep 2026 05:34:00 GMT",
+      "source": "Mid-Day",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 1.8
+    },
+    {
+      "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT081T3Z0US1GbG1nNExDZUNEWEVWTDVfWVJsOXMxV3dWdm9zWFlGUlA4U0RqeGR3TEVTajFMcWJva3JXR1RjOGNvWHZDV2x5cUlXTlFmcjRYV0djVVoyY08tdmFQZThyNkpOblpNNllhUzhGU1R5YmdZeWN2dnAtckFDM0QzS0NqUy1ZT1R0enM5QXRPU3BMeGhoTDdsT2JGQVFpNXBUVWFGVnVic0FZZ21xeXVIbHRKV29BcXRqbW1BcFVfbTJVMUp5VE5JNWFvaUVmcW5TZ3YzYzFNY3VLX29CRzk?oc=5",
+      "published": "Sat, 05 Sep 2026 05:32:28 GMT",
+      "source": "Whalesbook",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 1.8
+    },
+    {
+      "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcjZrMHB1d1E2dXRaa1BXRE5pY1dsbjV2cjF3MUpuUGliTVVCX09oN2ZZRGNJU0I0TEFOU2kzXzZEM2Z0LVhoMnRRa2FzZDBBVmhseElkYk1OT1M2aDRyVWN1bk1EZ0htU2hNZGF6anVNVThZNjFCdXRqMG9rQUw5S3lUUTFPa0YwQXJTa2dhdGp4UlhaYWNrNFd5LXo4T05BMlpNVWRkTjFwYTdRTXBNcFhyRlJ5d0xZbmFnY0xjeGNRX1kwNjJqTg?oc=5",
+      "published": "Fri, 04 Sep 2026 12:11:20 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 19.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -406,5 +449,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-05T07:19:22.966382+00:00"
 }
