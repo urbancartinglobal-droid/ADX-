@@ -19,7 +19,50 @@
       "signal_score": 17.1
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI absorbs ₹6.02 lakh crore via 2 VRRRs as banking system liquidity surplus hits record high - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZzVSbHRpWGlZT2RZbjNiQk8yNzdXV2N3ZUtKQlpNX2FYQXpJb0xVY2NlbmxzaHVTVlVRZjhrVWdtSWNRNEY4SFE4dWx6YVF4S2xROGQ1c3hudEFOTVVwdWVUWmlSOWp1NVp1ajA0Zl9Ib002LUN5Q0ozbjdvUHpMS2VFUnh5YVdOaGpHQ2dnWHc5VzNsb2lkVmM4Vm9xWXI3WFkwTkE0SlM0bkYtR0FScEFiRFp5WWpDN1huWDZYMlFCaFdFWklIemw5SWpfXzRVb0JPMGUxVWhXR3MwNzRpTEZtaFNpU3RFc3gwbGkzdE5zZWVsVEhkZm9B0gGAAkFVX3lxTFAzUlZyaC1CbzBNSFY5YTBpVm9TTm5yM1NEVWhiXzNmcVFJSGJyck5jeUtlVExSWjlrUFVJZW96enoyLUE1eGdaU3UtdGhtQkJMQk9qOWpXd2JMeWJFQzlSSTh4UkxPTU9FcVpXYUFKOFZUVWViWnVYR0w0SzNTcEh0WGtkVU5oUHROSDRKWVZ5cmM2aS10LVBZZmhDNkE0QXBrS0pMbmlIX0NWa0xLZ2lSLUhBVmVIcnNJb3pyeEhxQWZpSlNJWlJRSVZBUW9KdFZydXNmaE80VEY0R1Z0YVpTcjhHUlA2ZUJLZDlYR1hVU25jS25Oa1RmYjZaZFpWUnM?oc=5",
+      "published": "Fri, 04 Sep 2026 11:20:38 GMT",
+      "source": "BusinessLine",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 14.0
+    },
+    {
+      "title": "Anionic Detergent Surfactant Blends Market Semiconductor Fab Expansion Drives 5.8% CAGR Through 2035 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcjZrMHB1d1E2dXRaa1BXRE5pY1dsbjV2cjF3MUpuUGliTVVCX09oN2ZZRGNJU0I0TEFOU2kzXzZEM2Z0LVhoMnRRa2FzZDBBVmhseElkYk1OT1M2aDRyVWN1bk1EZ0htU2hNZGF6anVNVThZNjFCdXRqMG9rQUw5S3lUUTFPa0YwQXJTa2dhdGp4UlhaYWNrNFd5LXo4T05BMlpNVWRkTjFwYTdRTXBNcFhyRlJ5d0xZbmFnY0xjeGNRX1kwNjJqTg?oc=5",
+      "published": "Fri, 04 Sep 2026 12:11:20 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 13.1
+    },
+    {
+      "title": "AGF Nitrogen May Cut Ammonia Output as Gas and Carbon Costs Surge - ChemAnalyst",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTFHSTc4akhMbkwzeG5QeFdmZ1RGb1Jsek5mMWljb2ZHcGtuYnFnRGEzRDQ3YzdKbVVrVGVrZFd4dUVqTnlIVklLQnQ2dVRUREFvUjRVVGtJZnRPT2N2cVlJVm9OWkF1TDd1c0h2TWF1Z1ZoVGdKZ0RrQkdrNVgxa01uZTlqVjNtTjhpaFpVMW05R0RCd1k2WmtReEtpdzBEY0ZR?oc=5",
+      "published": "Fri, 04 Sep 2026 11:37:35 GMT",
+      "source": "ChemAnalyst",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 13.7
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -406,5 +449,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-05T01:19:15.369357+00:00"
 }
