@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 22.3
+      "freshness_hours": 23.4
     },
     {
       "title": "Soffit Ventilation Inlets Market to Reach 5.8% CAGR by 2035 on Semiconductor Fab Cleanroom Expansion - IndexBox",
@@ -46,7 +46,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 14.6
+      "freshness_hours": 15.7
     },
     {
       "title": "Mkventures Capital FY26 Profit Jumps 19% Despite Revenue Dip; Leadership Change Announced - Whalesbook",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 17.4
+      "freshness_hours": 18.5
     }
   ],
   "opportunities": [
@@ -466,5 +466,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-06T05:19:53.874828+00:00"
+  "landed_updated_utc": "2026-09-06T06:25:03.151955+00:00"
 }
