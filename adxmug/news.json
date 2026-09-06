@@ -19,50 +19,7 @@
       "signal_score": 14.0
     }
   ],
-  "landed": [
-    {
-      "title": "RBI Rate Hike Chances Rise As Banking System Liquidity Surplus Hits Record ₹10.3 Trillion - freepressjournal.in",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVc3WGNvQTNuaEt4b1QzR3lYT1o4SE54eUxkTkRFeS1Fd29Sbml0aW1EaTZWNVotakM4NGlkZzJnemtfdFQxNTRreHhCOFNSTjJVWmt6bWZrV0xULTVMTWQ4MC1hVERHcndwMlh1Q3g3Z21fSlNqOXg4S25OZjVRczdTc0JiQW0xNE5Ma01ReVhDQkNMcmlwazVHZlhoV2I5ZmJtNHFzLVNRUThFdjJVTHdBVW9ZTHR6M1BhMTdvQjloZ3dVSHlmN0dNdFXSAcwBQVVfeXFMTWlXN1hjb0EzbmhLeG9UM0d5WE9aOEhOeHlMZE5ERXktRXdvUm5pdGltRGk2VjVaLWpDODRpZGcyZ3prX3RUMTU0a3h4QjhTUk4yVVprem1ma1dMVC01TE1kODAtYVRER3J3cDJYdUN4N2dtX0pTajl4OEtuTmY1UXM3U3NCYkFtMTROTGtNUXlYQ0JDTHJpcGs1R2ZYaFdiOWZibTRxcy1TUVE4RXYyVUx3QVVvWUx0ejNQYTE3b0I5aGd3VUh5ZjdHTXRV?oc=5",
-      "published": "Sat, 05 Sep 2026 08:18:08 GMT",
-      "source": "freepressjournal.in",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 19.0
-    },
-    {
-      "title": "Soffit Ventilation Inlets Market to Reach 5.8% CAGR by 2035 on Semiconductor Fab Cleanroom Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOam80dE1YM2Y5VTZhZXJQX1V1QnZQdE40U2otNlVsRV9EekUyTk5JZGkweFA2clVSQWxXVmNJOGMxN2J0NS1UUllKVzJxU29JcXZKc21tMll6eURKVnJVZnRybTlZcGV3aWdIdVpiYk9qY0g5ejRfRk4zV0EyNnBxY0JJZEgtSS1tbG5NTEdhTWFZUFdsR3dwRE9HN3h2QmI5UHlxc05kSFZaaHRDUG1ZcUYxWFVNTDdJMG5RZVNqbHQ5Zmk3WHJDMQ?oc=5",
-      "published": "Sat, 05 Sep 2026 14:41:19 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 12.7
-    },
-    {
-      "title": "Mkventures Capital FY26 Profit Jumps 19% Despite Revenue Dip; Leadership Change Announced - Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaDN6NTJvWEdPVW9OSVV3UXFZMjBRaW9FWm5IVmRnLWxuTlR0YzU1aTVFUnNHdXd1eF84NG0zN3NiWF80VmIyY0ZzWjNidVVVMV9TNGw1NE83aE9Oa05MakNmLXBKdFNET1d4Q2dld3hUNzNaMmJkcnVwQjBxQmk4Y1pkcUhuRFk4WWJuVzFEQUxRa3QxZnRLMjJlYllTb2piQlFnajF2eVV2NDJSRlFRNHV3eGV1MWUwWVlCOGpnOU1KWVRoRVhjeG9veEtJQnhiYURTSUxzeUhyQWlIQThDUzE2V0JnaVFSazd3VlhpcGxUU05wUjRyVUlod3MwdU9YY2tRYzI4MWFxY1lScnJWaTJn?oc=5",
-      "published": "Sat, 05 Sep 2026 11:56:28 GMT",
-      "source": "Whalesbook",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 15.4
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -466,5 +423,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-06T03:21:04.443214+00:00"
+  "landed_updated_utc": "2026-09-06T04:21:30.598544+00:00"
 }
