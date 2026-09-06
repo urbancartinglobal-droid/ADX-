@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-05T18:27:31.106582+00:00",
+  "updated_utc": "2026-09-06T00:38:55.222415+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -16,53 +16,10 @@
         "POLICY",
         "PRICING"
       ],
-      "signal_score": 14.8
+      "signal_score": 14.0
     }
   ],
-  "landed": [
-    {
-      "title": "RBI Rate Hike Chances Rise As Banking System Liquidity Surplus Hits Record ₹10.3 Trillion - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVc3WGNvQTNuaEt4b1QzR3lYT1o4SE54eUxkTkRFeS1Fd29Sbml0aW1EaTZWNVotakM4NGlkZzJnemtfdFQxNTRreHhCOFNSTjJVWmt6bWZrV0xULTVMTWQ4MC1hVERHcndwMlh1Q3g3Z21fSlNqOXg4S25OZjVRczdTc0JiQW0xNE5Ma01ReVhDQkNMcmlwazVHZlhoV2I5ZmJtNHFzLVNRUThFdjJVTHdBVW9ZTHR6M1BhMTdvQjloZ3dVSHlmN0dNdFXSAcwBQVVfeXFMTWlXN1hjb0EzbmhLeG9UM0d5WE9aOEhOeHlMZE5ERXktRXdvUm5pdGltRGk2VjVaLWpDODRpZGcyZ3prX3RUMTU0a3h4QjhTUk4yVVprem1ma1dMVC01TE1kODAtYVRER3J3cDJYdUN4N2dtX0pTajl4OEtuTmY1UXM3U3NCYkFtMTROTGtNUXlYQ0JDTHJpcGs1R2ZYaFdiOWZibTRxcy1TUVE4RXYyVUx3QVVvWUx0ejNQYTE3b0I5aGd3VUh5ZjdHTXRV?oc=5",
-      "published": "Sat, 05 Sep 2026 08:18:08 GMT",
-      "source": "Free Press Journal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.3
-    },
-    {
-      "title": "Soffit Ventilation Inlets Market to Reach 5.8% CAGR by 2035 on Semiconductor Fab Cleanroom Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOam80dE1YM2Y5VTZhZXJQX1V1QnZQdE40U2otNlVsRV9EekUyTk5JZGkweFA2clVSQWxXVmNJOGMxN2J0NS1UUllKVzJxU29JcXZKc21tMll6eURKVnJVZnRybTlZcGV3aWdIdVpiYk9qY0g5ejRfRk4zV0EyNnBxY0JJZEgtSS1tbG5NTEdhTWFZUFdsR3dwRE9HN3h2QmI5UHlxc05kSFZaaHRDUG1ZcUYxWFVNTDdJMG5RZVNqbHQ5Zmk3WHJDMQ?oc=5",
-      "published": "Sat, 05 Sep 2026 14:41:19 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 9.9
-    },
-    {
-      "title": "Piramal Pharma CDMO Strategy Helps Clients Navigate US Tariff Risks - Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT081T3Z0US1GbG1nNExDZUNEWEVWTDVfWVJsOXMxV3dWdm9zWFlGUlA4U0RqeGR3TEVTajFMcWJva3JXR1RjOGNvWHZDV2x5cUlXTlFmcjRYV0djVVoyY08tdmFQZThyNkpOblpNNllhUzhGU1R5YmdZeWN2dnAtckFDM0QzS0NqUy1ZT1R0enM5QXRPU3BMeGhoTDdsT2JGQVFpNXBUVWFGVnVic0FZZ21xeXVIbHRKV29BcXRqbW1BcFVfbTJVMUp5VE5JNWFvaUVmcW5TZ3YzYzFNY3VLX29CRzk?oc=5",
-      "published": "Sat, 05 Sep 2026 05:32:28 GMT",
-      "source": "Whalesbook",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 19.0
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -76,8 +33,8 @@
       ],
       "evidence": [
         {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - a2ztaxcorp.net",
-          "source": "a2ztaxcorp.net",
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
           "triggers": [
             "POLICY",
@@ -96,8 +53,8 @@
           "companies": []
         },
         {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - chinimandi.com",
-          "source": "chinimandi.com",
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
+          "source": "ChiniMandi",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
           "triggers": [
             "POLICY",
@@ -116,8 +73,8 @@
           "companies": []
         },
         {
-          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - global-agriculture.com",
-          "source": "global-agriculture.com",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
             "TRADE"
@@ -354,6 +311,38 @@
       "fresh_count": 0
     },
     {
+      "industry": "Pharma & Healthcare",
+      "score": 25,
+      "article_count": 1,
+      "trigger_count": 2,
+      "triggers": [
+        "CAPEX",
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "USFDA bans Ranbaxy's Toansa API plant, finds mfg violations - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUpUR01OaXgtLXR6SkpnVU1XakMzQXFGZTY0Y09jcWtEZHY5NVQ1Wm1zWW8tQ0p4cUw1bUhZc215a1Mxelh3cmFWUi11TmViVUdWSnFycFpqQmVsT0IyajFGXzZza1ZqbFlhV3NTeHN4NUlzRUJ3TmtzdkU1MDB2LVM4Mkl1c25HdHQ5YUNCUWJBQThxdlllNGxScnJsMTBFSURQaU80NW11WDA0VTBxU2lCWWhWaWVlRjRmTEp4SUzSAcYBQVVfeXFMTTRZUjJxbmtZamhUZEpVS2djeW9LSDB2OUdxRHVMc2lYam1DWnNiUFlrcnhMM0p6MTcxM2R5UDdWUXlhc1lCZWwzQlZiUFNkSzFjX0VQaW1HQmdSb2Y3QWJuVnJRMTJfeE9MZUJ3VnJWenBxVVhOdkl2aTdCbGszc1FYTW94OXJOMnhGcHZReHp1ZUYwMVA5OFFVcEt6NUJScGZFOENxS3VPQVkxYnFKM3RXazNiemhiTjBnUWlCcmdtNnkwU2dB?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, POLICY; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Power & Grid",
       "score": 18,
       "article_count": 1,
@@ -363,8 +352,8 @@
       ],
       "evidence": [
         {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - powermag.com",
-          "source": "powermag.com",
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
+          "source": "POWER Magazine",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
           "triggers": [
             "PRICING"
@@ -432,23 +421,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Pharma & Healthcare",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-06T00:33:32.502931+00:00"
+  ]
 }
