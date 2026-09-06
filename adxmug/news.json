@@ -21,10 +21,10 @@
   ],
   "landed": [
     {
-      "title": "RBI to Lock Rs 7 Lakh Crore Excess Liquidity for 30 Days as Banking System Faces Record Cash Glut - The Financial World",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbHBRNEdkaUtGMTZlMGFsODRaVXYxTkh2d0hmRkhhRHR3TVZ4RkR5aU8wOGRYT0E2akRNQ295ejRBX1N0RHA4NF9YR2Rvcko1WmZMTWZOYUJvVmMwbmhpZ2p0Nmw1aHRWa05qT2RaaDdMLUw3bUFDTm1DbEVyVUVQemRHT1NHWUJGME1kMUMzR3ZiMEpvWWl2cGstMTlYcEpVdTAwemo3QVZrd2MxbHJTOXBhQUpReXFzdlhGNHp5c1lSenNRVjFKS0dqd2M?oc=5",
-      "published": "Sat, 05 Sep 2026 17:10:43 GMT",
-      "source": "The Financial World",
+      "title": "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVW5MM1dEVWZRSWdmaVNSSUdmQ2NveEN4a1hoaVI4d2VKYVZ0VXFXSFQtVjVlS1lmWEJfSi05aFAtTjM0WTVoQzVsN3RUNERDNXhlcTBPRS1tWU5TM0ctLUw2V3NQd3Y2Z3FlRUZDS21seXVkSU9hWE1ZaVJySDZTX0ZIMFV2YnZSMmpwdHlmSnBMRTdxMVZQd0ROQ3VWMXhWMnBaU3BoMTVyYVJ0ZFF4Y19iOGQ0a2Fyci1jTtIBwgFBVV95cUxQOFlMTGtGdy1wY2VqaXRqUU1FeWZuMTh1NnRzVVhjcTFDRDlJZkg4T3R0U3d5UlRKVUNLSnhIZDI4ZE55UlBrMGVMNmVjdXlXSW9td0Z3N3l2YTVWVkRUNjk3SWc0S2lUZ28xSEljSll2U3Nqc3ZYbl9BT1hRV1pRZFVtWlRLRkVMaHRwMmJkT2NCajFCR1pxRjhlRmpJeG9YcVlmU2RmUGZyWERDV2VaVWFvMWpPbTRXTlQ5eW5sa181dw?oc=5",
+      "published": "Sun, 06 Sep 2026 09:00:57 GMT",
+      "source": "psuindia.com",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.2
+      "freshness_hours": 1.3
     },
     {
       "title": "Soffit Ventilation Inlets Market to Reach 5.8% CAGR by 2035 on Semiconductor Fab Cleanroom Expansion - IndexBox",
@@ -46,7 +46,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 18.7
+      "freshness_hours": 19.7
     },
     {
       "title": "Mkventures Capital FY26 Profit Jumps 19% Despite Revenue Dip; Leadership Change Announced - Whalesbook",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 21.4
+      "freshness_hours": 22.4
     }
   ],
   "opportunities": [
@@ -441,5 +441,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-06T09:20:57.960493+00:00"
+  "landed_updated_utc": "2026-09-06T10:20:36.260120+00:00"
 }
