@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.3
+      "freshness_hours": 6.3
     },
     {
       "title": "Pimpri-Chinchwad power cut after substation blast, fire brought under control - The Indian Express",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 2.9
+      "freshness_hours": 3.9
     }
   ],
   "opportunities": [
@@ -180,5 +180,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-06T14:20:18.537273+00:00"
+  "landed_updated_utc": "2026-09-06T15:20:20.471514+00:00"
 }
