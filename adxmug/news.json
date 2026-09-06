@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-06T00:38:55.222415+00:00",
+  "updated_utc": "2026-09-06T06:31:04.617058+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -16,53 +16,10 @@
         "POLICY",
         "PRICING"
       ],
-      "signal_score": 14.0
+      "signal_score": 13.2
     }
   ],
-  "landed": [
-    {
-      "title": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut - ET BFSI",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGNqMjVBWkRUTE9pOXF6UnBKTGs3SV9mV1lOVm1Dd2w3S1phbnlEM081QnB1NGwwNGJaUTJXTFB2Vm5QZkI3Zy1CVzZYdmQzckM3cGxxTUk4NGxISFZ0UXhMSktYZGl2X1hhMS1LcVlhRGpaWnNPOXFUTGIxNzlDZ3prZzYxWnpZV2QxT0lyMDBORWFsRmVhYnFIcUdDQVUyV2psVFB3Ty1sUWNReFVOQXNHOHB6eHUyN1haRGFEM3RRM1QtQzhSSGZiZzFjQzcwaVg5X3JnR0JRQmxxd1Zobmo2V0FjWHliNjhqYVZveXJtb1Uz0gH6AUFVX3lxTE5ya3JmUTBzU3FjZ1RLc1pwYncyNURHOGNsTHBKV3VOUmNRV3JpZ1RDaElKUlk4bURHa1ZITlV1b2RDYnRUNksydnJlZXdodTlnSnRQNGk0LXVyQW1VZzhfOUtlT0gxVXI4WG9nQ0otT05oenNUbHRPNi12dHU1VC1sMmN3SlRDSDRtZllLUXU1V0NmLUFENEhqeWpEVUVsaWVJM2xCNFhXRWVISzN5S3gtYTRXZ0JOYXgyMjlzUGN2M3F6TjlvelhwbUM3dFJEd2lNbDRZdnJHc0J0QWgzc2JobmJYLXJHQVRUdVJySWp3eG1xaGcxYkxqU0E?oc=5",
-      "published": "Sat, 05 Sep 2026 07:00:13 GMT",
-      "source": "ET BFSI",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 23.4
-    },
-    {
-      "title": "Soffit Ventilation Inlets Market to Reach 5.8% CAGR by 2035 on Semiconductor Fab Cleanroom Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOam80dE1YM2Y5VTZhZXJQX1V1QnZQdE40U2otNlVsRV9EekUyTk5JZGkweFA2clVSQWxXVmNJOGMxN2J0NS1UUllKVzJxU29JcXZKc21tMll6eURKVnJVZnRybTlZcGV3aWdIdVpiYk9qY0g5ejRfRk4zV0EyNnBxY0JJZEgtSS1tbG5NTEdhTWFZUFdsR3dwRE9HN3h2QmI5UHlxc05kSFZaaHRDUG1ZcUYxWFVNTDdJMG5RZVNqbHQ5Zmk3WHJDMQ?oc=5",
-      "published": "Sat, 05 Sep 2026 14:41:19 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 15.7
-    },
-    {
-      "title": "Mkventures Capital FY26 Profit Jumps 19% Despite Revenue Dip; Leadership Change Announced - Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaDN6NTJvWEdPVW9OSVV3UXFZMjBRaW9FWm5IVmRnLWxuTlR0YzU1aTVFUnNHdXd1eF84NG0zN3NiWF80VmIyY0ZzWjNidVVVMV9TNGw1NE83aE9Oa05MakNmLXBKdFNET1d4Q2dld3hUNzNaMmJkcnVwQjBxQmk4Y1pkcUhuRFk4WWJuVzFEQUxRa3QxZnRLMjJlYllTb2piQlFnajF2eVV2NDJSRlFRNHV3eGV1MWUwWVlCOGpnOU1KWVRoRVhjeG9veEtJQnhiYURTSUxzeUhyQWlIQThDUzE2V0JnaVFSazd3VlhpcGxUU05wUjRyVUlod3MwdU9YY2tRYzI4MWFxY1lScnJWaTJn?oc=5",
-      "published": "Sat, 05 Sep 2026 11:56:28 GMT",
-      "source": "Whalesbook",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 18.5
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -170,9 +127,9 @@
           "companies": []
         },
         {
-          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
+          "title": "RBI's CRR cut may provide 3-4 bps relief to banks on margins front ; liquidity challenges remain - ET BFSI",
+          "source": "ET BFSI",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWtvTTVGMXhTSTZCSHVNQ2tqMmZ2MDYtQUdvT2ZZREoyTVpTbTNQS3hHUjltN0x1R3pveWQ2TkhYZzhGYWl2MVBBNmVvM21tSUdXdVNzcmpPTVg5UEdHQjlSYmQySVVrOEZ6cGowYmkwNmVMbmZUMTBReDFPWnRnTTd5b2JIZUxVVjNaREtPOEdfOEpNQUh2YnV2NUx4bE1HblRvTzB3a2ZGOTZ1RlFKN3NPeXdHanoxakk0T0FYdWw5dURDZFVUNXk1VDFXb2VkV3BnOE1FNkVKcDlWNWlfNmtkRTBvY1k4cHM0ZnNB0gHzAUFVX3lxTE1oQnJndDFFT1BPV2RfcnAwRDV6OG1qdHBOd2s2ZXMxVUFnMTl0Z3VudUJnbWVTbVpoVmh2NV84TEEyN09keDFDTDBkUmM3OGFicmpFNmRybHlZYWNqRlh0RXc1YjFBb05yOXdVZXk5aUVlWWtUV3V5c1FyOUI0YU9yZjBDVWctNjR1ZUpsNGg0X2pZOE1URjR4ZDB1eEtzSGxGQ1JKTk1lcEFTQkR4M2ZwbFFUZ19vUlVzQzh4djFZbDczeHhiNnpxTWFzNkpnS1dXcGdQa3F5QkVxTXJ0NlRrT2NQWVJvOGpmYlZEQTNtczlONA?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
@@ -180,9 +137,9 @@
           "companies": []
         },
         {
-          "title": "RBI's CRR cut may provide 3-4 bps relief to banks on margins front ; liquidity challenges remain - ET BFSI",
-          "source": "ET BFSI",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWtvTTVGMXhTSTZCSHVNQ2tqMmZ2MDYtQUdvT2ZZREoyTVpTbTNQS3hHUjltN0x1R3pveWQ2TkhYZzhGYWl2MVBBNmVvM21tSUdXdVNzcmpPTVg5UEdHQjlSYmQySVVrOEZ6cGowYmkwNmVMbmZUMTBReDFPWnRnTTd5b2JIZUxVVjNaREtPOEdfOEpNQUh2YnV2NUx4bE1HblRvTzB3a2ZGOTZ1RlFKN3NPeXdHanoxakk0T0FYdWw5dURDZFVUNXk1VDFXb2VkV3BnOE1FNkVKcDlWNWlfNmtkRTBvY1k4cHM0ZnNB0gHzAUFVX3lxTE1oQnJndDFFT1BPV2RfcnAwRDV6OG1qdHBOd2s2ZXMxVUFnMTl0Z3VudUJnbWVTbVpoVmh2NV84TEEyN09keDFDTDBkUmM3OGFicmpFNmRybHlZYWNqRlh0RXc1YjFBb05yOXdVZXk5aUVlWWtUV3V5c1FyOUI0YU9yZjBDVWctNjR1ZUpsNGg0X2pZOE1URjR4ZDB1eEtzSGxGQ1JKTk1lcEFTQkR4M2ZwbFFUZ19vUlVzQzh4djFZbDczeHhiNnpxTWFzNkpnS1dXcGdQa3F5QkVxTXJ0NlRrT2NQWVJvOGpmYlZEQTNtczlONA?oc=5",
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
@@ -316,22 +273,13 @@
     },
     {
       "industry": "Electronics & Semiconductors",
-      "score": 30,
-      "article_count": 2,
-      "trigger_count": 2,
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
       "triggers": [
         "CAPEX"
       ],
       "evidence": [
-        {
-          "title": "12 semiconductor plants approved: Where India’s chip manufacturing mission stands, what’s next - The Indian Express",
-          "source": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaVZIN3NCOGJkNHM4ZGE1UkJzRjBXSWp2NDBVMHdfSmdRclFSVl8taUM3bDIxR2VrX3RlaUdtYThLZjRtUUw2N2VaMk1pR2NkbmZDUGxFNURkYUZUZS1OQ21hZE1yZ3BQQWJLLVphbVY2QkJhUjF6Z2hGNmFuYlVVTG5uemp0Zkd2YnZoQVl1VTVjVl9TOHczQVhSbC04WDdkRXBCQzk5c2dZTGtNVHkyWkFDT0ZlU0xsUXM4b25tbmdnckhvS1ZR0gHOAUFVX3lxTE1iUGpxTVVzMENmeWszb2tXRHFBbThUeGFpc3lJOTZHNjIzckNJVTJ3R0Q0RE9fbHYzLUVzdUJGLTRyNHRsX3lZVDVYV3o1UjZIVlQxaVQ5ZGw3NGNsUWgtLXlnYUtZbzBVWV9VOE5sZ0hNYnVXNDhSdGhwcGRqSmtQeWFxSVA2cEpWc2xVdU5fS0FMYnZBaFdzXzU1Yk9lRUh2YlY3bGRqLXJvVHlXYXpvVXZsV0RpQWFwU01YV1lJRVZudGNVMjhQNDFuRnNB?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        },
         {
           "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
           "source": "Energetica India Magazine",
@@ -342,41 +290,9 @@
           "companies": []
         }
       ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 2 distinct story clusters; 2 independent sources.",
-      "source_count": 2,
-      "story_clusters": 2,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Pharma & Healthcare",
-      "score": 25,
-      "article_count": 1,
-      "trigger_count": 2,
-      "triggers": [
-        "CAPEX",
-        "POLICY"
-      ],
-      "evidence": [
-        {
-          "title": "USFDA bans Ranbaxy's Toansa API plant, finds mfg violations - Moneycontrol.com",
-          "source": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUpUR01OaXgtLXR6SkpnVU1XakMzQXFGZTY0Y09jcWtEZHY5NVQ1Wm1zWW8tQ0p4cUw1bUhZc215a1Mxelh3cmFWUi11TmViVUdWSnFycFpqQmVsT0IyajFGXzZza1ZqbFlhV3NTeHN4NUlzRUJ3TmtzdkU1MDB2LVM4Mkl1c25HdHQ5YUNCUWJBQThxdlllNGxScnJsMTBFSURQaU80NW11WDA0VTBxU2lCWWhWaWVlRjRmTEp4SUzSAcYBQVVfeXFMTTRZUjJxbmtZamhUZEpVS2djeW9LSDB2OUdxRHVMc2lYam1DWnNiUFlrcnhMM0p6MTcxM2R5UDdWUXlhc1lCZWwzQlZiUFNkSzFjX0VQaW1HQmdSb2Y3QWJuVnJRMTJfeE9MZUJ3VnJWenBxVVhOdkl2aTdCbGszc1FYTW94OXJOMnhGcHZReHp1ZUYwMVA5OFFVcEt6NUJScGZFOENxS3VPQVkxYnFKM3RXazNiemhiTjBnUWlCcmdtNnkwU2dB?oc=5",
-          "triggers": [
-            "POLICY",
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, POLICY; 1 distinct story clusters.",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
@@ -464,7 +380,22 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-06T06:25:03.151955+00:00"
+  ]
 }
