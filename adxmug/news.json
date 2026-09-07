@@ -21,10 +21,10 @@
   ],
   "landed": [
     {
-      "title": "India's central bank withdraws over 6 trillion rupees of bank liquidity after record spike - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDdWSnA1RjBENEMxc3g2dElHdnF5REhIT19XMEZ5LWtYNlNyOVIzaWJGazRFSmZyWWZtVXBGRGcxTHZBR0ZEUDJvMHNKZ202OHBfejlCOV9CbldtS1hiclFrdjNzYzk4VUJXRzRsZGZiRE9UaWU1YWg4c042Q2RIRzc4RjBKU1d1QURxSmswelFSTkY2c2xjRk1lWnZSX2NlWl9Db2NmWGpfd0R5SHF3ekFYQUItajloT09JcjMxMTRrcGQxNW5hRXJwbDhSeWJEWjU3YWsyOWRITzA?oc=5",
-      "published": "Mon, 07 Sep 2026 07:11:22 GMT",
-      "source": "marketscreener.com",
+      "title": "RBI withdraws over ₹6 trillion of bank liquidity after record spike - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3Q5bm1na3NFRGRjcTh4WHZxSkF1RjNjbHpISF9xbmU3LWFlRm42X2t2ZWlpZUJJSnVpWUp3akVDZ1psZ0w3RnRJZ0JjZU5HUVpSOEktNUx3YlZFUV9lOHc2U1BkWVZsNkFWUWZKSjhzdDlmeXVDeVNBY1RXaEdwdEpzVG1CVlZ1ekFLQjdEWFFxWl9OQ2hxVFdmOEQ1dXJLdk5zdHYxQ3hLM3BZX040WllpZ0tWMjdxWGRLWFIxb3U0aHFkMFJIeUtCd1ZRZ9IB0wFBVV95cUxPeDR2UWwtMHhFXzk0eUV6OEhsT2k2RHNhekQ5eHZta1dNM1ZiOTMydUxlNnoyZHViYkw5OE1RYW1BdXlyTkRfcWdlUVl6MFlKR0pYeUZlYXFtM044V29hVVVNWTFLRTh5eG5XY2FHSjBucE1jY0UzdG9uRzhCUFBvMGZ2bUYyek01aWp2czVDSFRtLU80dHZ3M3JtYTFDcERmT0ZFWGNvOFIzejZMcjZNX2M5MkM0dUdseEw1VzMyRi1wLWx4UmdTZW43ZWxGQVNGLXVJ?oc=5",
+      "published": "Mon, 07 Sep 2026 07:54:50 GMT",
+      "source": "Business Standard",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -32,13 +32,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.2
+      "freshness_hours": 0.5
     },
     {
-      "title": "Pressure-Line Filter Cartridges Market Semiconductor Fab Expansion in Asia-Pacific Drives 4–6% CAGR Through 2035 - IndexBox",
+      "title": "Pressure-Line Filter Cartridges Market Semiconductor Fab Expansion in Asia-Pacific Drives 4–6% CAGR Through 2035 - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWF3ZjNuanlRUlo1YVVZN0xQT1pKTGJSVUJnamQxNDc3VkJ6Vlo3aUNCTXEwMnRycGJPMVZyOFdtc1FFcVljdDRramNjQVB3WGg2a2c0dWlQLWt3bWNqUndSeGwxMFZnRFdUdzRVY3dZV1ZmckU5Q1J0LUJGeEh1LXdFeENHdkU1ZmdKYllfQWFCTzNtNElyd2tkSWFmY19iZUZWYW42X3VQdnhSMi1YbkpQTHVWbFdnb0FoRHBZT2ZkTVI4QlpqbFEzNmxVWmUyX2xNWlM3ZXk?oc=5",
       "published": "Sun, 06 Sep 2026 17:41:20 GMT",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -46,7 +46,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 13.7
+      "freshness_hours": 14.7
     }
   ],
   "opportunities": [
@@ -427,5 +427,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-07T07:23:59.950316+00:00"
+  "landed_updated_utc": "2026-09-07T08:25:15.460092+00:00"
 }
