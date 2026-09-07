@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.7
+      "freshness_hours": 7.7
     },
     {
       "title": "Bore Brushes Market Growth Through 2035 Driven by Semiconductor Fab Expansion - IndexBox",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.3
+      "freshness_hours": 7.2
     },
     {
       "title": "More Indian pharma exporters may follow Sun Pharma on US MFN pricing to bypass tariff - The New Indian Express",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 2.7
+      "freshness_hours": 3.7
     }
   ],
   "opportunities": [
@@ -427,5 +427,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-07T21:21:25.458300+00:00"
+  "landed_updated_utc": "2026-09-07T22:21:10.996867+00:00"
 }
