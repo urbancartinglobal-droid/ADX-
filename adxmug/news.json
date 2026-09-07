@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-07T00:38:58.137738+00:00",
+  "updated_utc": "2026-09-07T06:36:13.904719+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -16,39 +16,10 @@
         "POLICY",
         "PRICING"
       ],
-      "signal_score": 10.9
+      "signal_score": 10.1
     }
   ],
-  "landed": [
-    {
-      "title": "Pressure-Line Filter Cartridges Market Semiconductor Fab Expansion in Asia-Pacific Drives 4–6% CAGR Through 2035 - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWF3ZjNuanlRUlo1YVVZN0xQT1pKTGJSVUJnamQxNDc3VkJ6Vlo3aUNCTXEwMnRycGJPMVZyOFdtc1FFcVljdDRramNjQVB3WGg2a2c0dWlQLWt3bWNqUndSeGwxMFZnRFdUdzRVY3dZV1ZmckU5Q1J0LUJGeEh1LXdFeENHdkU1ZmdKYllfQWFCTzNtNElyd2tkSWFmY19iZUZWYW42X3VQdnhSMi1YbkpQTHVWbFdnb0FoRHBZT2ZkTVI4QlpqbFEzNmxVWmUyX2xNWlM3ZXk?oc=5",
-      "published": "Sun, 06 Sep 2026 17:41:20 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 12.8
-    },
-    {
-      "title": "India builds a record $740.8 billion forex war chest as wars disrupt global capital flows - ET Government",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcWhpMXFPcEVkRkZTWjFEc2N3QWlQdVpaeHZWcndQYzRBWU9MYmF5NlF2ZmNja3paZHpfNGljLUY1dnBIdVJ5UVFaYjBBZW84T2hDRTM1eEdndVAtTVdtT3NEQnQyRjN1enUxdzVSVXlxczhxcURRZHJjWUFVa0hpSlVFRXpxOVpTZ2Z4QVZ6SGwyS0VRSFN6X0dYbWdCMjduMUQ3M2FJZzZfMlRmSEpydXZySC1DMnFkVC1LZ0pQMjFTUk5ER1NQbEs3OG5TMTFOQjlRbUU1ZkkwNnEtc21sRnlTTXhKcDFnTVhrbmxlaFh0UHpueDlCdmRB0gH6AUFVX3lxTE5xaGkxcU9wRWRGRlNaMURzY3dBaVB1Wlp4dlZyd1BjNEFZT0xiYXk2UXZmY2Nrelpkel80aWMtRjV2cEh1UnlRUVpiMEFlbzhPaENFMzV4R2d1UC1NV21Pc0RCdDJGM3V6dTF3NVJVeXFzOHFxRFFkcmNZQVVrSGlKVUVFenE5WlNnZnhBVnpIbDJLRVFIU3pfR1htZ0IyN24xRDczYUlnNl8yVGZISnJ1dnJILUMycWRULUtnSlAyMVNSTkRHU1BsSzc4blMxMU5COVFtRTVmSTA2cS1zbWxGeVNNeEpwMWdNWGtubGVoWHRQem54OUJ2ZEE?oc=5",
-      "published": "Mon, 07 Sep 2026 01:52:23 GMT",
-      "source": "ET Government",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.6
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -93,8 +64,8 @@
           "companies": []
         },
         {
-          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
-          "source": "Global Agriculture",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - global-agriculture.com",
+          "source": "global-agriculture.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
             "TRADE"
@@ -176,12 +147,12 @@
           "companies": []
         },
         {
-          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
           "triggers": [
             "POLICY",
-            "TRADE"
+            "PRICING"
           ],
           "companies": []
         }
@@ -426,6 +397,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-07T06:29:50.038323+00:00"
+  ]
 }
