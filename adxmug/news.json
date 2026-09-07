@@ -19,7 +19,36 @@
       "signal_score": 10.9
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFlMTGtGdy1wY2VqaXRqUU1FeWZuMTh1NnRzVVhjcTFDRDlJZkg4T3R0U3d5UlRKVUNLSnhIZDI4ZE55UlBrMGVMNmVjdXlXSW9td0Z3N3l2YTVWVkRUNjk3SWc0S2lUZ28xSEljSll2U3Nqc3ZYbl9BT1hRV1pRZFVtWlRLRkVMaHRwMmJkT2NCajFCR1pxRjhlRmpJeG9YcVlmU2RmUGZyWERDV2VaVWFvMWpPbTRXTlQ5eW5sa181d9IBwgFBVV95cUxQOFlMTGtGdy1wY2VqaXRqUU1FeWZuMTh1NnRzVVhjcTFDRDlJZkg4T3R0U3d5UlRKVUNLSnhIZDI4ZE55UlBrMGVMNmVjdXlXSW9td0Z3N3l2YTVWVkRUNjk3SWc0S2lUZ28xSEljSll2U3Nqc3ZYbl9BT1hRV1pRZFVtWlRLRkVMaHRwMmJkT2NCajFCR1pxRjhlRmpJeG9YcVlmU2RmUGZyWERDV2VaVWFvMWpPbTRXTlQ5eW5sa181dw?oc=5",
+      "published": "Sun, 06 Sep 2026 09:00:57 GMT",
+      "source": "psuindia.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 18.4
+    },
+    {
+      "title": "Pressure-Line Filter Cartridges Market Semiconductor Fab Expansion in Asia-Pacific Drives 4–6% CAGR Through 2035 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWF3ZjNuanlRUlo1YVVZN0xQT1pKTGJSVUJnamQxNDc3VkJ6Vlo3aUNCTXEwMnRycGJPMVZyOFdtc1FFcVljdDRramNjQVB3WGg2a2c0dWlQLWt3bWNqUndSeGwxMFZnRFdUdzRVY3dZV1ZmckU5Q1J0LUJGeEh1LXdFeENHdkU1ZmdKYllfQWFCTzNtNElyd2tkSWFmY19iZUZWYW42X3VQdnhSMi1YbkpQTHVWbFdnb0FoRHBZT2ZkTVI4QlpqbFEzNmxVWmUyX2xNWlM3ZXk?oc=5",
+      "published": "Sun, 06 Sep 2026 17:41:20 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 9.7
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -398,5 +427,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-07T02:22:06.352859+00:00"
+  "landed_updated_utc": "2026-09-07T03:22:34.948819+00:00"
 }
