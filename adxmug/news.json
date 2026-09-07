@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI liquidity surplus at Rs 11.16 lakh crore: How will the central bank manage this glut? - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU2dUSEUzbFQ3U3BSUk1td1hsSzN3UmV1c05pR3FYVmRXbnh1TW1sc1BpdTBsSkpXTXJDRHl4UEkwUTVpWkRRd3M0emhFellxLW5qVDE0aTVZRVNXUm5Cc3VtYTk4WFNWZmh0TV9fY3Q1anprRDU4SzZLLTRHTUdvN1ZzOEUxNjJzRkJOdS03ck5nd1NTeUZTVDdGc2JUY2wxclVSejFLRkV1OXpkb00zWkRCUmgzYWNpWnB0ckpmRjlhdHJqTVdPdUpkVXRHQ3ZjaFd2d2dIZERYQmoz0gHjAUFVX3lxTE5oaHhEZ0hwbC1PZVdNSXJ2Sm1Mc0M2Tl9fZS1ETlpnY3psYnFmMjA2cUxwVnZpQWVOT3FDa3p6emlady1aX21yX1ZtRm5oUnJRemNIQnk1eWlEdk9pYkJCYnpVZ19wLThqMm1pMkMtWGo4YVc1OEhKZ1pqMExhRkVCNlNXb09UT0pDd0QyLWJqNTlrRzFEekxoaXYzSUF4SDZIVXhiaWZIQm5oSDAwZlVuemhyQTlaaUdNd3R2dzU1SEl1TzhzaXhCcGNKcTJkRXpaUWRsMWw5STVuTF9vRTVtX2hN?oc=5",
+      "published": "Mon, 07 Sep 2026 13:07:34 GMT",
+      "source": "financialexpress.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.3
+    },
+    {
+      "title": "Pakistan’s 2,000km Baykar K2 Drone Raises New Deep-Strike Threat for India - Defence Security Asia",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjg3WkFNR1N1X0RoTXREVEtEMEN1cjg1S2VTNnJvcmVPUzBhd3VrWU1mR0RUUUtVR3BKQjVtLWpOdEgzRmpjWG1hWVFISDB0MHBTMlhPM1VzM3h2Z0Z3S2lyVjJ3d2FMQ0pVQjFLVnRUb3V3NGh0ZU1sWTNUbmIzZUZ6RXlIMHNLdWNzejdB?oc=5",
+      "published": "Mon, 07 Sep 2026 10:05:03 GMT",
+      "source": "Defence Security Asia",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 3.3
+    },
+    {
+      "title": "Taiwan turns chip dominance into diplomatic leverage as US, EU seek AI investment - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa2FvVWVUMG9HTHh1di1Yak1hRUNpczdseXlSNGR0SHV1UEoxcTZFSDlLcVZkXzVlc2dwc19nZnZzUVdMZFhEUzZOYzBOdEl3ZWdTcExIQzRNalBQMVdwcjltMWdIb01UNlI1QThNeEFNSXlrdkY3bXRJSU83ZkZYMVpRUVdmMUcycjUwa0dpb0t5WUlJcWdzRmtzTDYtLVV2UGdRTDYtWkNPd0QxZ1VyRUNwX1R5T0RLX01UZXZCdUV1eU5vVXVjUzljWmV0UdIBzgFBVV95cUxQa2FvVWVUMG9HTHh1di1Yak1hRUNpczdseXlSNGR0SHV1UEoxcTZFSDlLcVZkXzVlc2dwc19nZnZzUVdMZFhEUzZOYzBOdEl3ZWdTcExIQzRNalBQMVdwcjltMWdIb01UNlI1QThNeEFNSXlrdkY3bXRJSU83ZkZYMVpRUVdmMUcycjUwa0dpb0t5WUlJcWdzRmtzTDYtLVV2UGdRTDYtWkNPd0QxZ1VyRUNwX1R5T0RLX01UZXZCdUV1eU5vVXVjUzljWmV0UQ?oc=5",
+      "published": "Mon, 07 Sep 2026 03:46:27 GMT",
+      "source": "Firstpost",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 9.6
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -382,5 +425,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-07T13:24:05.329705+00:00"
 }
