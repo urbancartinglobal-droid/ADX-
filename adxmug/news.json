@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-06T18:27:57.496881+00:00",
+  "updated_utc": "2026-09-07T00:38:58.137738+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -16,45 +16,16 @@
         "POLICY",
         "PRICING"
       ],
-      "signal_score": 11.7
+      "signal_score": 10.9
     }
   ],
-  "landed": [
-    {
-      "title": "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFlMTGtGdy1wY2VqaXRqUU1FeWZuMTh1NnRzVVhjcTFDRDlJZkg4T3R0U3d5UlRKVUNLSnhIZDI4ZE55UlBrMGVMNmVjdXlXSW9td0Z3N3l2YTVWVkRUNjk3SWc0S2lUZ28xSEljSll2U3Nqc3ZYbl9BT1hRV1pRZFVtWlRLRkVMaHRwMmJkT2NCajFCR1pxRjhlRmpJeG9YcVlmU2RmUGZyWERDV2VaVWFvMWpPbTRXTlQ5eW5sa181d9IBwgFBVV95cUxQOFlMTGtGdy1wY2VqaXRqUU1FeWZuMTh1NnRzVVhjcTFDRDlJZkg4T3R0U3d5UlRKVUNLSnhIZDI4ZE55UlBrMGVMNmVjdXlXSW9td0Z3N3l2YTVWVkRUNjk3SWc0S2lUZ28xSEljSll2U3Nqc3ZYbl9BT1hRV1pRZFVtWlRLRkVMaHRwMmJkT2NCajFCR1pxRjhlRmpJeG9YcVlmU2RmUGZyWERDV2VaVWFvMWpPbTRXTlQ5eW5sa181dw?oc=5",
-      "published": "Sun, 06 Sep 2026 09:00:57 GMT",
-      "source": "psuindia.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.5
-    },
-    {
-      "title": "Pressure-Line Filter Cartridges Market Semiconductor Fab Expansion in Asia-Pacific Drives 4–6% CAGR Through 2035 - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWF3ZjNuanlRUlo1YVVZN0xQT1pKTGJSVUJnamQxNDc3VkJ6Vlo3aUNCTXEwMnRycGJPMVZyOFdtc1FFcVljdDRramNjQVB3WGg2a2c0dWlQLWt3bWNqUndSeGwxMFZnRFdUdzRVY3dZV1ZmckU5Q1J0LUJGeEh1LXdFeENHdkU1ZmdKYllfQWFCTzNtNElyd2tkSWFmY19iZUZWYW42X3VQdnhSMi1YbkpQTHVWbFdnb0FoRHBZT2ZkTVI4QlpqbFEzNmxVWmUyX2xNWlM3ZXk?oc=5",
-      "published": "Sun, 06 Sep 2026 17:41:20 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
       "score": 76,
-      "article_count": 6,
-      "trigger_count": 10,
+      "article_count": 5,
+      "trigger_count": 9,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -93,15 +64,6 @@
           "companies": []
         },
         {
-          "title": "India prohibits raw, white & refined sugar export till Sept 30 - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFhzbmRvOXN0cWduZjVRQkN4S3dIZjJ0XzBfaHdxZ2N0RW9WeWJEQkZScEhXb0tZbmV1S20xaFhQTUNzWjVJakhzZFRkVVVDQ2F3QlFiM1c2cnpNR0ZfSmpQQ0hjT3A2THVNUVBhTzd1TUtTelFBMzV6cGFTeHRfMExSYkJnRlliZkFPNXNqXzFOcHllOXJJazVKT0NVSWFpYUU1RjN0eTMya3lqajhKWC1jMnRIT0I1bjRyMTZjcXVWOWRSVGk0YXd2UjdveE9RX2dmeEZ6N01aRUZOSzk5Q9IB5gFBVV95cUxOUlBYUVNuXy1KRGZqalBIMjkwQ3ZaU1RYZEFUQVFCMGZIaEtDcU9mVC15X3hSZEVXaUxMWXlGVlEyeGtBVTR2M19aZkVFajJNYW5lRGpKcU9NSUxnNU9ubVJxMmxON3hLNkNiRzJTam5SWlprS2RNVl9uZEVFcWJfM3R6Qnc5Q1FTcWs2cHVKbUtiNnFYOHhfbGZxNGFVYTkwZGRRV19kcTFFUGNqV3BfOU90NS1WSXcyb0JNSmphakIwU3B3NFZVOE5DOEVZRDBPS1pyZFMzV2cxWjVETWMxWVlqcXdRQQ?oc=5",
-          "triggers": [
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
           "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
           "source": "Global Agriculture",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
@@ -109,13 +71,22 @@
             "TRADE"
           ],
           "companies": []
+        },
+        {
+          "title": "Sugar price surge may hit ethanol output as mills eye better returns - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXNSd3p3ZE5CRzMxWWNjekJELU1BbkhnTE9OWDRqc2tjUHFUTWdWX0d6QkpjZ19kMnpHMjljOXBHMS14NTB1WjhoMXh0Y3cwdE04ZktOdGctUGFjd2p1MkpNZmMzeFYtU0RiTktjTFdBV3I5ZWVwbzlRT091VWVCRHhPdTdveUNHQTN0SVhPVjJRMkk1VldrelZpM1Z2N2ltVjlzZ1hVQXBSOS1Xd1pXenNOVGRIeEFfc1lZOE1vZXptT19YYk0tcXNTZWQzYXp2OFHSAdcBQVVfeXFMTThyU29Nc2ZaVjV3OVgwRUg2OGp5bTkxQ1J5RVJhMndlV0h3X0t4Q3hVN0ZxS091VS1EcGpvVnVBQ05xX1BWNE5rRmNsU0dDYkJtQjgzSHpza1hMQTVjaHprc09yOHRCM2ZRX1dFVGF5M3BhM3o0SmFwWDllbXA1U3BHLTIxVE5JQkVEMFowVHJzcm5BMTRHNmR2Yldibnh0bkMxMFk3c0NteGxTOG9fZTA1b0QtcmhEMFRYejdOUFJYRndwMGNsN0lWcWtyNUxZU19lWmVfWWc?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
         }
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 5 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
       "source_count": 5,
-      "story_clusters": 6,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -156,9 +127,9 @@
           "companies": []
         },
         {
-          "title": "RBI's CRR cut may provide 3-4 bps relief to banks on margins front ; liquidity challenges remain - bfsi.economictimes.indiatimes.com",
-          "source": "bfsi.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWtvTTVGMXhTSTZCSHVNQ2tqMmZ2MDYtQUdvT2ZZREoyTVpTbTNQS3hHUjltN0x1R3pveWQ2TkhYZzhGYWl2MVBBNmVvM21tSUdXdVNzcmpPTVg5UEdHQjlSYmQySVVrOEZ6cGowYmkwNmVMbmZUMTBReDFPWnRnTTd5b2JIZUxVVjNaREtPOEdfOEpNQUh2YnV2NUx4bE1HblRvTzB3a2ZGOTZ1RlFKN3NPeXdHanoxakk0T0FYdWw5dURDZFVUNXk1VDFXb2VkV3BnOE1FNkVKcDlWNWlfNmtkRTBvY1k4cHM0ZnNB0gHzAUFVX3lxTE1oQnJndDFFT1BPV2RfcnAwRDV6OG1qdHBOd2s2ZXMxVUFnMTl0Z3VudUJnbWVTbVpoVmh2NV84TEEyN09keDFDTDBkUmM3OGFicmpFNmRybHlZYWNqRlh0RXc1YjFBb05yOXdVZXk5aUVlWWtUV3V5c1FyOUI0YU9yZjBDVWctNjR1ZUpsNGg0X2pZOE1URjR4ZDB1eEtzSGxGQ1JKTk1lcEFTQkR4M2ZwbFFUZ19vUlVzQzh4djFZbDczeHhiNnpxTWFzNkpnS1dXcGdQa3F5QkVxTXJ0NlRrT2NQWVJvOGpmYlZEQTNtczlONA?oc=5",
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
@@ -280,8 +251,8 @@
           "companies": []
         },
         {
-          "title": "NFL opens new Bio-fertilizers bottling plant in Madhya Pradesh - indianchemicalnews.com",
-          "source": "indianchemicalnews.com",
+          "title": "NFL opens new Bio-fertilizers bottling plant in Madhya Pradesh - Indian Chemical News",
+          "source": "Indian Chemical News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVh2cUJJSDAzWkM5aTNhWkRhbnhhZUswYVlma1BPa0V6Nl8xYTIyZThET05WYjVxd0otMTBQNmpsN0lqRll1eUp3NUN5QjllbW1lcWUySndtejFTMmxNUVdvWXdMSEFWbldPZUl4akFDS1lJZzZLZEhpUFpnSkh2TXl3TlBEdFhLU011cWVTRFRuV3lWVVFpYnNkU1ZUZVd4emNMcEo2WllmWHNLcXpUZ9IBtwFBVV95cUxOUFV4VUFKRWtWQ3RUUFdQaUl1aHMyOHBCX2RoVEtSQUlBZTE0V2NPX2dCd0dVSkc2TGMwamM0cHhObkRZY3ZNM0h0ay1udmpxWTk0UWZrZldIWE1fZHdrUWZza0NOd3NKZEZrQ25mLTJtd1drN0Q5cnFDYTNXRjJpSG9WUHYzRWpoUUhtbWphNHd2anRmYjJZT2ZIcDFVdV82WWIzbjMwbmFlcWl6SEQ0bjVydHhra28?oc=5",
           "triggers": [
             "CAPEX"
@@ -426,6 +397,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-07T00:33:23.180121+00:00"
+  ]
 }
