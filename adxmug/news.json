@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI liquidity surplus at Rs 11.16 lakh crore: How will the central bank manage this glut? - financialexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU2dUSEUzbFQ3U3BSUk1td1hsSzN3UmV1c05pR3FYVmRXbnh1TW1sc1BpdTBsSkpXTXJDRHl4UEkwUTVpWkRRd3M0emhFellxLW5qVDE0aTVZRVNXUm5Cc3VtYTk4WFNWZmh0TV9fY3Q1anprRDU4SzZLLTRHTUdvN1ZzOEUxNjJzRkJOdS03ck5nd1NTeUZTVDdGc2JUY2wxclVSejFLRkV1OXpkb00zWkRCUmgzYWNpWnB0ckpmRjlhdHJqTVdPdUpkVXRHQ3ZjaFd2d2dIZERYQmoz0gHjAUFVX3lxTE5oaHhEZ0hwbC1PZVdNSXJ2Sm1Mc0M2Tl9fZS1ETlpnY3psYnFmMjA2cUxwVnZpQWVOT3FDa3p6emlady1aX21yX1ZtRm5oUnJRemNIQnk1eWlEdk9pYkJCYnpVZ19wLThqMm1pMkMtWGo4YVc1OEhKZ1pqMExhRkVCNlNXb09UT0pDd0QyLWJqNTlrRzFEekxoaXYzSUF4SDZIVXhiaWZIQm5oSDAwZlVuemhyQTlaaUdNd3R2dzU1SEl1TzhzaXhCcGNKcTJkRXpaUWRsMWw5STVuTF9vRTVtX2hN?oc=5",
-      "published": "Mon, 07 Sep 2026 13:07:34 GMT",
-      "source": "financialexpress.com",
+      "title": "RBI absorbs Rs 3.53 lakh crore as banking system sees surplus liquidity - Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2VlNk1RaGZUZDVna0pOdXdRUENQekEyMThpU2NYVUVVRW5rM3Eyck1mM2xBSVA5Z0NyOFBHWGYtWmZNNE56OXpjbVU5T3F3R1czRTJsZmJxOW53UWVLSHh1azRXNWFkeldGcUhySTZjLUJXLURNcHVRcVVMUXotUXNKNjJsYUtFaGlBY0Z0ZVZKOVpRWElyT2hhYTl6bVU?oc=5",
+      "published": "Mon, 07 Sep 2026 14:17:56 GMT",
+      "source": "Telangana Today",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.3
+      "freshness_hours": 0.1
     },
     {
       "title": "Pakistan’s 2,000km Baykar K2 Drone Raises New Deep-Strike Threat for India - Defence Security Asia",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 3.3
+      "freshness_hours": 4.3
     },
     {
       "title": "Taiwan turns chip dominance into diplomatic leverage as US, EU seek AI investment - Firstpost",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 9.6
+      "freshness_hours": 10.6
     }
   ],
   "opportunities": [
@@ -426,5 +426,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-07T13:24:05.329705+00:00"
+  "landed_updated_utc": "2026-09-07T14:22:58.510681+00:00"
 }
