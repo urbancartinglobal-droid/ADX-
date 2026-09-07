@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-09-07T12:35:34.126159+00:00",
+  "updated_utc": "2026-09-07T18:30:44.503184+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI Absorbs Over ₹6 Lakh Crore As Banking System Liquidity Surges To Record High - english.gujaratsamachar.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRGREelJ0QWJ5YllhRzZZZmdmSHB2bGVwaFkyZ3pLOFg4ZTZwT0ViNWJSMVh6VVdNdWk1YTJoaWIwVjJpa1BudFQwTFpXT2dYWks5WkRidjVici1QeXZNMG9jTTdBM1JLbnFnOVkwRVFBN21HNDNhTVNld0ZWTy0zQTFRc3Y3a29hN0FTbFRMb0ZaUjhMYVd0S0d3UFpMS3ctWnljSXBqOXRFdFZqcERUdHlhNzZYMDZ2cGZqME5HM01jbzV5UTNJRlFTS1h5RkJZTkMzRkJFRHRfdE4yajFZZzZGY2l2VWVQ?oc=5",
-      "published": "Mon, 07 Sep 2026 14:38:57 GMT",
-      "source": "english.gujaratsamachar.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.8
-    },
-    {
-      "title": "Bore Brushes Market Growth Through 2035 Driven by Semiconductor Fab Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanBrOXpPaGJjZDhYTk51Yjg5RmxjLUFiTE1kZG9IY29MOExEaWZpNkhSdnlpWHRfZl91ai1UdkUyQjZSakxsU3dyQUdvaWI2eWFWbllYWTM4UWJ1NnlETHNySUhSdXFweWV2WTlweWZ4V0hMWVJuS1BrUGpVNnViN2RDekJxcnk5U3hoNXFQSkFSNDkyRWlkX2ZFUDNKRkR0TDJqNWNndnVpQjQ?oc=5",
-      "published": "Mon, 07 Sep 2026 15:06:20 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.3
-    },
-    {
-      "title": "Govt mandates manual verification of imported drugs and medical devices due to SWIFT 2.0 system gap - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPREJIcnRrT082a3dPVWZuZ1hYT2F2VWE1M2Mwa3A2YXV2a2pCTmpTOW1UQlZVcEljMHdTamxlckwwV3h2YnpIWVYxTmNjaXRqTW5TamRhS3BoWWFxVDh0YXY3MFplcUQzcHlDbUVnWE9IdGQ0R0FfM3hGamN4UEFLYl9QSXc2Vk5FOHJsSkxab3R6OHRFeHI5dzVxTkNRYmNJTm5qT245b3llNkIwS2gyOXktcHNBVWktUDhJUFVGY1hUdld3S3EwT0N6NkJ1d1I1RFdkZF9BdjAxalZhX1FSTkRyUjhqT2FfMU1CS1V3ektpWHdiS01CRF9UdWo5RkplSmQ4WVRRbHFsMFJy0gGSAkFVX3lxTE9relBEd3RQb1dGZDdMbkZHSkNvUjJSaDcwLUlrUU9pa2tibDVhYnRkVGVkTHZXWWQ4bFFVa1k0VlNxR2h2a09lV1d1NDJWMms1OWo1SVFKbkwybDd3Y1hwVkVndmpNZjNTc2JMcFFKOHJNNmJscV9TRlA4RTlWbnlTY1F5NjRDTnlEX082cDZmRFBUVUJ2SXUwaXJib1dBVkFYekRieDdVUG1VeEU1YW5HeFJvZWNDaDg0VHUzWW9wMGhSM1BSalZXblNJZHAxcEVwRkQyeXdKOUszRWpFZldvb2x2NEJvMmxmeEcwNHdaNHF3MlpGdlYtdTRwUEg1MDVWZ2dwaTNib0xndTZlcG1MVHc?oc=5",
-      "published": "Sun, 06 Sep 2026 18:45:00 GMT",
-      "source": "The Economic Times",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 23.7
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
       "score": 76,
       "article_count": 5,
-      "trigger_count": 9,
+      "trigger_count": 10,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -81,6 +38,16 @@
           "companies": []
         },
         {
+          "title": "India opens sugar imports as prices climb: Where are global sugar prices headed? - Invezz",
+          "source": "Invezz",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2NDVXUzRmJ0U2V1RjZJLUExU2dQUVFOUjNUTjZNVm5yRGdacmxYSzNfTWFwZlVfNFpLRk1BT0FRNTRMcEhzRzdTdFpjYlVyQWRZSktrQ0g4Mm9qOHI0T1d4OEdvOGpacnZBMTFsbjZlWXlDNkpIZk9KYVZRSHhoREE1Ynd1b3hYd0ZBZjFhLTF6QktBQW5tdlJzUlh5eC1qTk1xUG1oWmVhMjZLdGxpdmM4bWc?oc=5",
+          "triggers": [
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
           "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
           "source": "ChiniMandi",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
@@ -97,15 +64,6 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
             "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Sugar price surge may hit ethanol output as mills eye better returns - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXNSd3p3ZE5CRzMxWWNjekJELU1BbkhnTE9OWDRqc2tjUHFUTWdWX0d6QkpjZ19kMnpHMjljOXBHMS14NTB1WjhoMXh0Y3cwdE04ZktOdGctUGFjd2p1MkpNZmMzeFYtU0RiTktjTFdBV3I5ZWVwbzlRT091VWVCRHhPdTdveUNHQTN0SVhPVjJRMkk1VldrelZpM1Z2N2ltVjlzZ1hVQXBSOS1Xd1pXenNOVGRIeEFfc1lZOE1vZXptT19YYk0tcXNTZWQzYXp2OFHSAdcBQVVfeXFMTThyU29Nc2ZaVjV3OVgwRUg2OGp5bTkxQ1J5RVJhMndlV0h3X0t4Q3hVN0ZxS091VS1EcGpvVnVBQ05xX1BWNE5rRmNsU0dDYkJtQjgzSHpza1hMQTVjaHprc09yOHRCM2ZRX1dFVGF5M3BhM3o0SmFwWDllbXA1U3BHLTIxVE5JQkVEMFowVHJzcm5BMTRHNmR2Yldibnh0bkMxMFk3c0NteGxTOG9fZTA1b0QtcmhEMFRYejdOUFJYRndwMGNsN0lWcWtyNUxZU19lWmVfWWc?oc=5",
-          "triggers": [
-            "PRICING"
           ],
           "companies": []
         }
@@ -425,6 +383,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-07T18:24:35.675265+00:00"
+  ]
 }
