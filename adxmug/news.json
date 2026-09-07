@@ -1,68 +1,10 @@
 {
-  "updated_utc": "2026-09-07T06:36:13.904719+00:00",
+  "updated_utc": "2026-09-07T12:35:34.126159+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [
-    {
-      "title": "Banking system surplus liquidity reaches Rs 5 lakh cr, highest in over four months - bfsi.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzlnMTd5ems5em9ra0JPUHRWSHBlUVVIcmtKLXBvY0V0MHN1dXJ1d25tNlkxejdhSVBzQWVkU21Dd2U0c3JoZnRvbVA3dFc5cUl1WVQwZTJRSHMta1ZsZk8taXY1MjBhMVJjUXlJVlVmM0JOY0RGWFBwenA4SUVzS0Z3Z3lIel9aLWNPNDFzbWd5VFV1YkJJcW1HLUNpMksxa3lUSE9nWHAxV1cxd1RhYk9fWm1GeUFKY0UtdlAxRU5JUkJ1YmptaFhUdndzUDBnZkN2SXhuS2FkcHhSYmRV0gHkAUFVX3lxTE1hMWZ4dldBVnB6N2JFSlYtSE14WXFKNkFBMGpyZFZTUlpUaVZEUlNYSXR2eXpqdFJPV0FLb081b0ZTUVdWLWh1VXh3M1pfSGpaM3R3cFlod1Q0cXVKTDdvZ2lVQVdGR0dfdU9SWTdmLWJUcDYweldPLS00aFUta29iUGxHTTRBVENNWEFtWmhjZjFnSk8tdWY2d3pMLURaUFlyc0pXU0Yzb0JzcXJUTGVNRGE5Z3pXZTc3NlllMFVneEtVWWRoeUlPS2FBUy1zQUl3dWQxX2NVajZxNkYtVXJpT215QQ?oc=5",
-      "published": "Mon, 31 Aug 2026 13:03:26 GMT",
-      "source": "bfsi.economictimes.indiatimes.com",
-      "feed": "Banking & Financials",
-      "description": "Banking system surplus liquidity reaches Rs 5 lakh cr, highest in over four months bfsi.economictimes.indiatimes.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "POLICY",
-        "PRICING"
-      ],
-      "signal_score": 10.1
-    }
-  ],
-  "landed": [
-    {
-      "title": "Tech glitch or weak demand? Conflicting claims emerge as RBI launches another liquidity withdrawal op; check details - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMzVwYTNVZEhHYVpZWER5SE9senIzMnR0YmJ3ZXpjeFlnM0RSbnJnTTBzT19IZ0NsS25BOXZCQlFTZWJFc2pUQTJUMnh3RTBZR3BZTUZmTF9CSXhCclRRT0Z2bkZRTVdJZC0zdzR0SXVxSFZVeFJyRUxraXdYM25BNXE2WmZLUF9qVlZ2a2RnZVIyUnhqRF9hbTJ4NXQ1VXJTeTVURk5ic21yQWlWYlF5MkpGM2dPU3puN2Nad3JLampFWk9SMVVXbV9POUJwMHJIWjYzUjJaS0lISVQ5UWZSZlMwcHJ2NzZaSDE5UWc4VjI4LU82MjZGdTNfSdIBgAJBVV95cUxORDBnRXpzQkFxeU0wSDdSanU4TWlhYngwWUpyTzltT2FTRkFEN1hYZ1I2Qk10QXM5dzZkNDJXZVEtWTFUVEgzeFBtdXRKdlFLcDRMRnVkT2xZSzF6WDFiRXBfWTlSR0VvcnJVaVFMUFJ0dk5ic2NYNjZISHktN1JFTWg4akxQS3dmTDZtX1MyaUVDTmFHbkllSlVHOXA0MXRyYy0tNnNDV0ZycGgwOEdfWFJxVG91THRHS0Y4YTVlTVFtWWhGd2pfNzBEQ0ZFZkR6VVMwVkZEQkVkeDJ3cWRZNG1wdkJWcU9zODRhS3VfTVFqU2lOYkdRdFktaGd2VUIz?oc=5",
-      "published": "Mon, 07 Sep 2026 12:18:38 GMT",
-      "source": "Livemint",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.2
-    },
-    {
-      "title": "Pakistan’s 2,000km Baykar K2 Drone Raises New Deep-Strike Threat for India - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjg3WkFNR1N1X0RoTXREVEtEMEN1cjg1S2VTNnJvcmVPUzBhd3VrWU1mR0RUUUtVR3BKQjVtLWpOdEgzRmpjWG1hWVFISDB0MHBTMlhPM1VzM3h2Z0Z3S2lyVjJ3d2FMQ0pVQjFLVnRUb3V3NGh0ZU1sWTNUbmIzZUZ6RXlIMHNLdWNzejdB?oc=5",
-      "published": "Mon, 07 Sep 2026 10:05:03 GMT",
-      "source": "Defence Security Asia",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.4
-    },
-    {
-      "title": "Taiwan turns chip dominance into diplomatic leverage as US, EU seek AI investment - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa2FvVWVUMG9HTHh1di1Yak1hRUNpczdseXlSNGR0SHV1UEoxcTZFSDlLcVZkXzVlc2dwc19nZnZzUVdMZFhEUzZOYzBOdEl3ZWdTcExIQzRNalBQMVdwcjltMWdIb01UNlI1QThNeEFNSXlrdkY3bXRJSU83ZkZYMVpRUVdmMUcycjUwa0dpb0t5WUlJcWdzRmtzTDYtLVV2UGdRTDYtWkNPd0QxZ1VyRUNwX1R5T0RLX01UZXZCdUV1eU5vVXVjUzljWmV0UdIBzgFBVV95cUxQa2FvVWVUMG9HTHh1di1Yak1hRUNpczdseXlSNGR0SHV1UEoxcTZFSDlLcVZkXzVlc2dwc19nZnZzUVdMZFhEUzZOYzBOdEl3ZWdTcExIQzRNalBQMVdwcjltMWdIb01UNlI1QThNeEFNSXlrdkY3bXRJSU83ZkZYMVpRUVdmMUcycjUwa0dpb0t5WUlJcWdzRmtzTDYtLVV2UGdRTDYtWkNPd0QxZ1VyRUNwX1R5T0RLX01UZXZCdUV1eU5vVXVjUzljWmV0UQ?oc=5",
-      "published": "Mon, 07 Sep 2026 03:46:27 GMT",
-      "source": "Firstpost",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.7
-    }
-  ],
+  "articles": [],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -107,8 +49,8 @@
           "companies": []
         },
         {
-          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - global-agriculture.com",
-          "source": "global-agriculture.com",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
             "TRADE"
@@ -141,24 +83,14 @@
     {
       "industry": "Banking & Financials",
       "score": 64,
-      "article_count": 6,
-      "trigger_count": 12,
+      "article_count": 5,
+      "trigger_count": 10,
       "triggers": [
         "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
-        {
-          "title": "Banking system surplus liquidity reaches Rs 5 lakh cr, highest in over four months - bfsi.economictimes.indiatimes.com",
-          "source": "bfsi.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzlnMTd5ems5em9ra0JPUHRWSHBlUVVIcmtKLXBvY0V0MHN1dXJ1d25tNlkxejdhSVBzQWVkU21Dd2U0c3JoZnRvbVA3dFc5cUl1WVQwZTJRSHMta1ZsZk8taXY1MjBhMVJjUXlJVlVmM0JOY0RGWFBwenA4SUVzS0Z3Z3lIel9aLWNPNDFzbWd5VFV1YkJJcW1HLUNpMksxa3lUSE9nWHAxV1cxd1RhYk9fWm1GeUFKY0UtdlAxRU5JUkJ1YmptaFhUdndzUDBnZkN2SXhuS2FkcHhSYmRV0gHkAUFVX3lxTE1hMWZ4dldBVnB6N2JFSlYtSE14WXFKNkFBMGpyZFZTUlpUaVZEUlNYSXR2eXpqdFJPV0FLb081b0ZTUVdWLWh1VXh3M1pfSGpaM3R3cFlod1Q0cXVKTDdvZ2lVQVdGR0dfdU9SWTdmLWJUcDYweldPLS00aFUta29iUGxHTTRBVENNWEFtWmhjZjFnSk8tdWY2d3pMLURaUFlyc0pXU0Yzb0JzcXJUTGVNRGE5Z3pXZTc3NlllMFVneEtVWWRoeUlPS2FBUy1zQUl3dWQxX2NVajZxNkYtVXJpT215QQ?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
         {
           "title": "RBI liquidity boost cuts wholesale funding costs, but banks remain locked in deposit battle - bfsi.economictimes.indiatimes.com",
           "source": "bfsi.economictimes.indiatimes.com",
@@ -198,13 +130,23 @@
             "PRICING"
           ],
           "companies": []
+        },
+        {
+          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 6,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -440,6 +382,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-07T12:28:30.235786+00:00"
+  ]
 }
