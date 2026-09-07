@@ -21,10 +21,10 @@
   ],
   "landed": [
     {
-      "title": "Surplus liquidity: RBI mops up Rs 6 lakh crore in 2 auctions with mixed response - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWWFGLTVLNXhtQU1yTjUtQ3REaTRENGJtTk9vdkxPQmM0VzFqUkdweXZpTlQwZzAzRnpxa0M5ZmNmTEdHTHByc0NUeXZITjdqR05WeXowdzZYRUxNVmJEZkQtQnJkN0VyZk1hcHFKTEV5OGtwNURqMk5LZ3M3cGplUHFPa2tCWU1jUTJSREY1VFlVM1BWZFpkVDZla1h6b2RVYUVPWjhpVmtCTFBGS3FtNGxpTU1NVHh2LXBKY2lPUTJXZUdoN2tUTmNtZ3JkVzFJSkJvM9IB2gFBVV95cUxOR1hwYTRqWFVvOXUzVElkNlV6Y0FsVXRRQ0c2RnhSSERQUGpvZHVHbVE4RUpRLTBFQ2x2cFZUQy1oQTUtcXJ4OEItQ1dCenBOSEN0cGRDX1ZVcUhOQlNpQmdZZ0NLd0hydzVnQkdZajJRaFBkWkY4X3RtVTJmQ0JlVlBBS254Umk4WWl0ZnpxODF6MGFReGtGUTd5TDdTOWhKMDQwVnZyemhBeklMUHRad3prSXFlMTBlTWx4aFdvWERVb2JhLXo3UVRFeXV6SEN2U1J4Ql9XRmJnQQ?oc=5",
-      "published": "Mon, 07 Sep 2026 10:41:36 GMT",
-      "source": "Moneycontrol.com",
+      "title": "Tech glitch or weak demand? Conflicting claims emerge as RBI launches another liquidity withdrawal op; check details - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMzVwYTNVZEhHYVpZWER5SE9senIzMnR0YmJ3ZXpjeFlnM0RSbnJnTTBzT19IZ0NsS25BOXZCQlFTZWJFc2pUQTJUMnh3RTBZR3BZTUZmTF9CSXhCclRRT0Z2bkZRTVdJZC0zdzR0SXVxSFZVeFJyRUxraXdYM25BNXE2WmZLUF9qVlZ2a2RnZVIyUnhqRF9hbTJ4NXQ1VXJTeTVURk5ic21yQWlWYlF5MkpGM2dPU3puN2Nad3JLampFWk9SMVVXbV9POUJwMHJIWjYzUjJaS0lISVQ5UWZSZlMwcHJ2NzZaSDE5UWc4VjI4LU82MjZGdTNfSdIBgAJBVV95cUxORDBnRXpzQkFxeU0wSDdSanU4TWlhYngwWUpyTzltT2FTRkFEN1hYZ1I2Qk10QXM5dzZkNDJXZVEtWTFUVEgzeFBtdXRKdlFLcDRMRnVkT2xZSzF6WDFiRXBfWTlSR0VvcnJVaVFMUFJ0dk5ic2NYNjZISHktN1JFTWg4akxQS3dmTDZtX1MyaUVDTmFHbkllSlVHOXA0MXRyYy0tNnNDV0ZycGgwOEdfWFJxVG91THRHS0Y4YTVlTVFtWWhGd2pfNzBEQ0ZFZkR6VVMwVkZEQkVkeDJ3cWRZNG1wdkJWcU9zODRhS3VfTVFqU2lOYkdRdFktaGd2VUIz?oc=5",
+      "published": "Mon, 07 Sep 2026 12:18:38 GMT",
+      "source": "Livemint",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
+      "freshness_hours": 0.2
     },
     {
       "title": "Pakistan’s 2,000km Baykar K2 Drone Raises New Deep-Strike Threat for India - Defence Security Asia",
@@ -46,7 +46,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 1.3
+      "freshness_hours": 2.4
     },
     {
       "title": "Taiwan turns chip dominance into diplomatic leverage as US, EU seek AI investment - Firstpost",
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 7.6
+      "freshness_hours": 8.7
     }
   ],
   "opportunities": [
@@ -441,5 +441,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-07T11:22:26.999351+00:00"
+  "landed_updated_utc": "2026-09-07T12:28:30.235786+00:00"
 }
