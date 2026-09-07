@@ -21,10 +21,10 @@
   ],
   "landed": [
     {
-      "title": "RBI announces overnight cash withdrawal after technical glitch disrupts auction - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVUtYWmtLYU1fdEFGWkdjRTJ6UHJ1WjRIVm1OdTFLTUgwdlo4aG12amxrYjA2dVQwRHFuRmtrYk51cmpFY3BQX2R1RWFHVU9hYW45Nnh2Vm5xaDg2VTh5QTN2TWg3LTRHb0M0S2VIbUZWcFlFNktZZWdyX1BueVpmTzVwLU9DbUVKLUtXdkZxUnozZS1kY3Z1eW8xSzlqZUwxSzN3dEtSeFRhNW5RZXlqcTdRd1hYWHNhUEdBRkxtcXN3UExSRmRKV2c1NW7SAcwBQVVfeXFMTlVLWFprS2FNX3RBRlpHY0UyelBydVo0SFZtTnUxS01IMHZaOGhtdmpsa2IwNnVUMERxbkZra2JOdXJqRWNwUF9kdUVhR1VPYWFuOTZ4dlZucWg4NlU4eUEzdk1oNy00R29DNEtlSG1GVnBZRTZLWWVncl9QbnlaZk81cC1PQ21FSi1LV3ZGcVJ6M2UtZGN2dXlvMUs5amVMMUszd3RLUnhUYTVuUWV5anE3UXdYWFhzYVBHQUZMbXFzd1BMUkZkSldnNTVu?oc=5",
-      "published": "Mon, 07 Sep 2026 07:07:01 GMT",
-      "source": "Firstpost",
+      "title": "Surplus liquidity: RBI mops up Rs 6 lakh crore in 2 auctions with mixed response - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWWFGLTVLNXhtQU1yTjUtQ3REaTRENGJtTk9vdkxPQmM0VzFqUkdweXZpTlQwZzAzRnpxa0M5ZmNmTEdHTHByc0NUeXZITjdqR05WeXowdzZYRUxNVmJEZkQtQnJkN0VyZk1hcHFKTEV5OGtwNURqMk5LZ3M3cGplUHFPa2tCWU1jUTJSREY1VFlVM1BWZFpkVDZla1h6b2RVYUVPWjhpVmtCTFBGS3FtNGxpTU1NVHh2LXBKY2lPUTJXZUdoN2tUTmNtZ3JkVzFJSkJvM9IB2gFBVV95cUxOR1hwYTRqWFVvOXUzVElkNlV6Y0FsVXRRQ0c2RnhSSERQUGpvZHVHbVE4RUpRLTBFQ2x2cFZUQy1oQTUtcXJ4OEItQ1dCenBOSEN0cGRDX1ZVcUhOQlNpQmdZZ0NLd0hydzVnQkdZajJRaFBkWkY4X3RtVTJmQ0JlVlBBS254Umk4WWl0ZnpxODF6MGFReGtGUTd5TDdTOWhKMDQwVnZyemhBeklMUHRad3prSXFlMTBlTWx4aFdvWERVb2JhLXo3UVRFeXV6SEN2U1J4Ql9XRmJnQQ?oc=5",
+      "published": "Mon, 07 Sep 2026 10:41:36 GMT",
+      "source": "Moneycontrol.com",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -32,7 +32,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.3
+      "freshness_hours": 0.7
+    },
+    {
+      "title": "Pakistan’s 2,000km Baykar K2 Drone Raises New Deep-Strike Threat for India - Defence Security Asia",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjg3WkFNR1N1X0RoTXREVEtEMEN1cjg1S2VTNnJvcmVPUzBhd3VrWU1mR0RUUUtVR3BKQjVtLWpOdEgzRmpjWG1hWVFISDB0MHBTMlhPM1VzM3h2Z0Z3S2lyVjJ3d2FMQ0pVQjFLVnRUb3V3NGh0ZU1sWTNUbmIzZUZ6RXlIMHNLdWNzejdB?oc=5",
+      "published": "Mon, 07 Sep 2026 10:05:03 GMT",
+      "source": "Defence Security Asia",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 1.3
     },
     {
       "title": "Taiwan turns chip dominance into diplomatic leverage as US, EU seek AI investment - Firstpost",
@@ -46,21 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.6
-    },
-    {
-      "title": "Defence Minister Rajnath Singh clears proposals worth over two lakh crore to augment defence capabilities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVdNQzNUNVRrUl9lc0Zab1FmTzJjTVBaYkVFNF9nU2g5VXhyZFRYckx6dmFsZlJFT0RyX0FWbVA4Z3o3ZFdnZ2w2Z3o3elF0VFNuNC1hMnVxNjdYdGhVMHZkcThXZENvWHJ4THpoVEtpY3YtVFlkcll3d2RQdDg0eHVJbWpSMk53VGVNUDRIcG5kcE9CdkljMmJMSWphanFpZkFDNldpb2l2bUFsczVFa2poLUlMOFV0NzZCdzRuclhIaWNGbUZuSUNxUQ?oc=5",
-      "published": "Sun, 06 Sep 2026 22:02:54 GMT",
-      "source": "News On AIR",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 12.3
+      "freshness_hours": 7.6
     }
   ],
   "opportunities": [
@@ -441,5 +441,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-07T10:23:03.493697+00:00"
+  "landed_updated_utc": "2026-09-07T11:22:26.999351+00:00"
 }
