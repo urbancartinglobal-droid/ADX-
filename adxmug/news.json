@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.3
+      "freshness_hours": 3.3
     },
     {
       "title": "Taiwan turns chip dominance into diplomatic leverage as US, EU seek AI investment - Firstpost",
@@ -46,7 +46,7 @@
       "label": "GLOBAL",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.6
+      "freshness_hours": 6.6
     },
     {
       "title": "Defence Minister Rajnath Singh clears proposals worth over two lakh crore to augment defence capabilities - News On AIR",
@@ -60,7 +60,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 11.4
+      "freshness_hours": 12.3
     }
   ],
   "opportunities": [
@@ -441,5 +441,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-07T09:24:22.985083+00:00"
+  "landed_updated_utc": "2026-09-07T10:23:03.493697+00:00"
 }
