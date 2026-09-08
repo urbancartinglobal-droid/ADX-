@@ -17,7 +17,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 7.4
+      "freshness_hours": 8.3
+    },
+    {
+      "title": "Kaolin Fiber Blankets Market Growth Driven by Semiconductor Fab Expansion Through 2035 - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWRsNDJIcjd4RmVlU3V2eTdJcnFhN3gwUWF5ZFBEamRZb0JwUFRsYjF3ZjFRN25TaUtTdE5nLVVnRVlFcTBaem9xVjFrOTBubHIybEUyVXJQdHNGYTlDSWQtX2k0ZGE3Y01qc0pOeF8xWjVOSFR0QTl4NDRBVzJFamtBX1ZpSzdqN1dTSUk1eVNfMk5NVVZHZ2xhcWdyaUtSYTZrMWxNV2ZDYTJteFVNYzZmZkl2QQ?oc=5",
+      "published": "Tue, 08 Sep 2026 20:06:17 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 3.2
     },
     {
       "title": "Dicyanodiamide Stabilized Urea Market Forecast to 2035: High-Purity Grades Drive Expansion - News and Statistics - IndexBox",
@@ -31,21 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
-    },
-    {
-      "title": "Defence Minister Rajnath Singh clears proposals worth over two lakh crore to augment defence capabilities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVdNQzNUNVRrUl9lc0Zab1FmTzJjTVBaYkVFNF9nU2g5VXhyZFRYckx6dmFsZlJFT0RyX0FWbVA4Z3o3ZFdnZ2w2Z3o3elF0VFNuNC1hMnVxNjdYdGhVMHZkcThXZENvWHJ4THpoVEtpY3YtVFlkcll3d2RQdDg0eHVJbWpSMk53VGVNUDRIcG5kcE9CdkljMmJMSWphanFpZkFDNldpb2l2bUFsczVFa2poLUlMOFV0NzZCdzRuclhIaWNGbUZuSUNxUQ?oc=5",
-      "published": "Tue, 08 Sep 2026 19:30:32 GMT",
-      "source": "News On AIR",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.8
+      "freshness_hours": 1.7
     }
   ],
   "opportunities": [
@@ -417,5 +417,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-08T22:21:07.063875+00:00"
+  "landed_updated_utc": "2026-09-08T23:20:05.508967+00:00"
 }
