@@ -19,7 +19,50 @@
       "signal_score": 22.0
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI's 30-day VRRR operation sees muted response amid high banking liquidity surplus - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcXJxVlU4Z01lSlc0bDZPTC1PVjk2enRyTk5oWVJ6ckRkdWMtX1p4eWJKZ3JqUk95dGJWbjUxdHJWZnFQREZUNnBFSm9EUEJSaFl0VHAxdG5XeEs4Nnk4NGp5cnJXTVg2MDVWTFJpMkphVWdSSFdfbkhhWHgtUVBnQTV3THZhcUNSbU1FOHp2LWhid3gxZjVzclBoRkF1bTVyamg5Wk5NdlpYeHFSSG1kVWdCbmtLMHpYa0cxbzh1Y3plVFJyd2RUNG00RHBQOWVsUHRGRnJxd0FMMTc0Q3QyYVpSVmJXR1pMVjR2R2c4V1F0UE0?oc=5",
+      "published": "Tue, 08 Sep 2026 02:42:18 GMT",
+      "source": "The Economic Times",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 10.7
+    },
+    {
+      "title": "CERC Approves Tariff For Power Grid’s Rajasthan Solar Evacuation Transmission Asset - SolarQuarter",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2dKWThBb3V0TGNGWk1aVDBOZFFEcDRKQXNOZnAtSWRpTTlLb2ItajJhY1VBbXVacDJWV0lXZGNJVmI5SmtkOTNSUWlycVlydUNIZHduWXBxRVB5OTdTR3FpQUlUVm9tVVVpSHBiQ05JR3dabWxJREU5WTBPNVhJY2FES053UExBYXRtTXVxaFNWejNIVUdlZ1VkUXd3WmRZTG8ySWZBTXNkcEhKRmRiS2VDUWJFLVYwampv?oc=5",
+      "published": "Tue, 08 Sep 2026 03:50:29 GMT",
+      "source": "SolarQuarter",
+      "sector": "Power & Grid",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
+      "freshness_hours": 9.6
+    },
+    {
+      "title": "More Indian pharma exporters may follow Sun Pharma on US MFN pricing to bypass tariff - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONklWa0hVcXFYRjg0Q0hJcV9xaEQ0ZDdTNTlvQW51REg5aXlVaVVibzZEWVZRbkFHT3U2aFE5N1dhQzRhX1pjbVlOYWNPYVZfa1lpbTd3Y2hRM3hTMjVZajgtMkN0UmRIcXdOUUNfNTl5eHFmVlJWdE5uSjlwV3FzMHJlT2Jqa2F6RE5NeDY1eW1QU0ZIZTJtUTdncnFlaUQ0bHpxRjJYMVNxRzVKUmZqOEhacGY2ekdGcFhJU3V5RF95dVJZY0hUeGtkVnRJeEFuSURDLWxn0gHjAUFVX3lxTE1uMjZuTmlUczNrWi1UNDBZeUNFdXBnbjVXRUQ3RFB3UFVGWmFoQUxwZ0pFTEtnc0luakNBYnpBU3Z2RVFKcWVIRmtoNzl2dFhwSnpROVhaaTFrYVlUdTFhYjJQN0lKSkV6R3JQMjNrX3pyejhnQjF4bkVvcVROVXI2bHBycmEtbXRSbFNKMnFPM1FVYmxtZTV6aUJKVWNKUnFKejdaRmpaVnpkNjgxN3B0Tzlsb1dZajlkc2pwWlRpQlpsMEFUTHlPcldvVWRhcUlpWXBtZVFwV1ZhcGxoZ0UtbzVV?oc=5",
+      "published": "Mon, 07 Sep 2026 18:36:51 GMT",
+      "source": "The New Indian Express",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 18.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -337,5 +380,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-08T13:24:07.167409+00:00"
 }
