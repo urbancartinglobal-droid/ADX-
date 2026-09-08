@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI's 30-day VRRR operation sees muted response amid high banking liquidity surplus - economictimes.com",
+      "title": "RBI's 30-day VRRR operation sees muted response amid high banking liquidity surplus - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcXJxVlU4Z01lSlc0bDZPTC1PVjk2enRyTk5oWVJ6ckRkdWMtX1p4eWJKZ3JqUk95dGJWbjUxdHJWZnFQREZUNnBFSm9EUEJSaFl0VHAxdG5XeEs4Nnk4NGp5cnJXTVg2MDVWTFJpMkphVWdSSFdfbkhhWHgtUVBnQTV3THZhcUNSbU1FOHp2LWhid3gxZjVzclBoRkF1bTVyamg5Wk5NdlpYeHFSSG1kVWdCbmtLMHpYa0cxbzh1Y3plVFJyd2RUNG00RHBQOWVsUHRGRnJxd0FMMTc0Q3QyYVpSVmJXR1pMVjR2R2c4V1F0UE0?oc=5",
       "published": "Tue, 08 Sep 2026 02:42:18 GMT",
-      "source": "economictimes.com",
+      "source": "The Economic Times",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.7
+      "freshness_hours": 2.7
     },
     {
       "title": "CERC Approves Tariff For Power Grid’s Rajasthan Solar Evacuation Transmission Asset - SolarQuarter",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 0.5
+      "freshness_hours": 1.5
     },
     {
       "title": "More Indian pharma exporters may follow Sun Pharma on US MFN pricing to bypass tariff - The New Indian Express",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 9.8
+      "freshness_hours": 10.8
     }
   ],
   "opportunities": [
@@ -415,5 +415,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-08T04:22:47.030169+00:00"
+  "landed_updated_utc": "2026-09-08T05:21:52.179158+00:00"
 }
