@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI's 30-day VRRR operation sees muted response amid high banking liquidity surplus - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcXJxVlU4Z01lSlc0bDZPTC1PVjk2enRyTk5oWVJ6ckRkdWMtX1p4eWJKZ3JqUk95dGJWbjUxdHJWZnFQREZUNnBFSm9EUEJSaFl0VHAxdG5XeEs4Nnk4NGp5cnJXTVg2MDVWTFJpMkphVWdSSFdfbkhhWHgtUVBnQTV3THZhcUNSbU1FOHp2LWhid3gxZjVzclBoRkF1bTVyamg5Wk5NdlpYeHFSSG1kVWdCbmtLMHpYa0cxbzh1Y3plVFJyd2RUNG00RHBQOWVsUHRGRnJxd0FMMTc0Q3QyYVpSVmJXR1pMVjR2R2c4V1F0UE3SAfgBQVVfeXFMTm1LVzIzSHpXYVh1dnNfUmtxel91NmtZZkl1Zlk5S0kzaEo2Y0hSZGx4eWllRUJVejR4MlpScXAzZXpiWmFVR21QT0o1NXpDWWY0akVVWWl2YkxoTlJHT2JVcEpmQ2tpOTdSY0pMbGhHSVdQV0tEYmNIV1BXS0dEaDc5SVJaQ0ZHX1lpVExBRjhJc3kyc1ptR3pJbWpQOXJncDJtbktGNktHeHdkWXVrRjlpOFNlN2pxSUZMMXVOZ1VIRUdOWXpsbV91WVpoQzVmZFBWR3M4cWFnTXQ1eUdnc2pfalJvbXBYRFQ5U3phNU5pR3hqdXp1c3c?oc=5",
+      "title": "RBI's 30-day VRRR operation sees muted response amid high banking liquidity surplus - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcXJxVlU4Z01lSlc0bDZPTC1PVjk2enRyTk5oWVJ6ckRkdWMtX1p4eWJKZ3JqUk95dGJWbjUxdHJWZnFQREZUNnBFSm9EUEJSaFl0VHAxdG5XeEs4Nnk4NGp5cnJXTVg2MDVWTFJpMkphVWdSSFdfbkhhWHgtUVBnQTV3THZhcUNSbU1FOHp2LWhid3gxZjVzclBoRkF1bTVyamg5Wk5NdlpYeHFSSG1kVWdCbmtLMHpYa0cxbzh1Y3plVFJyd2RUNG00RHBQOWVsUHRGRnJxd0FMMTc0Q3QyYVpSVmJXR1pMVjR2R2c4V1F0UE0?oc=5",
       "published": "Tue, 08 Sep 2026 02:42:18 GMT",
-      "source": "The Economic Times",
+      "source": "economictimes.com",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,21 +17,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
+      "freshness_hours": 1.7
     },
     {
-      "title": "Bore Brushes Market Growth Through 2035 Driven by Semiconductor Fab Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanBrOXpPaGJjZDhYTk51Yjg5RmxjLUFiTE1kZG9IY29MOExEaWZpNkhSdnlpWHRfZl91ai1UdkUyQjZSakxsU3dyQUdvaWI2eWFWbllYWTM4UWJ1NnlETHNySUhSdXFweWV2WTlweWZ4V0hMWVJuS1BrUGpVNnViN2RDekJxcnk5U3hoNXFQSkFSNDkyRWlkX2ZFUDNKRkR0TDJqNWNndnVpQjQ?oc=5",
-      "published": "Mon, 07 Sep 2026 15:06:20 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
+      "title": "CERC Approves Tariff For Power Grid’s Rajasthan Solar Evacuation Transmission Asset - SolarQuarter",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2dKWThBb3V0TGNGWk1aVDBOZFFEcDRKQXNOZnAtSWRpTTlLb2ItajJhY1VBbXVacDJWV0lXZGNJVmI5SmtkOTNSUWlycVlydUNIZHduWXBxRVB5OTdTR3FpQUlUVm9tVVVpSHBiQ05JR3dabWxJREU5WTBPNVhJY2FES053UExBYXRtTXVxaFNWejNIVUdlZ1VkUXd3WmRZTG8ySWZBTXNkcEhKRmRiS2VDUWJFLVYwampv?oc=5",
+      "published": "Tue, 08 Sep 2026 03:50:29 GMT",
+      "source": "SolarQuarter",
+      "sector": "Power & Grid",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 12.3
+      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
+      "freshness_hours": 0.5
     },
     {
       "title": "More Indian pharma exporters may follow Sun Pharma on US MFN pricing to bypass tariff - The New Indian Express",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 8.8
+      "freshness_hours": 9.8
     }
   ],
   "opportunities": [
@@ -415,5 +415,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-08T03:22:27.175043+00:00"
+  "landed_updated_utc": "2026-09-08T04:22:47.030169+00:00"
 }
