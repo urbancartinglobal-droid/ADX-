@@ -32,7 +32,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.4
+      "freshness_hours": 2.4
     },
     {
       "title": "CERC Approves Tariff For Power Grid’s Rajasthan Solar Evacuation Transmission Asset - SolarQuarter",
@@ -46,13 +46,13 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 12.6
+      "freshness_hours": 13.5
     },
     {
-      "title": "More Indian pharma exporters may follow Sun Pharma on US MFN pricing to bypass tariff - newindianexpress.com",
+      "title": "More Indian pharma exporters may follow Sun Pharma on US MFN pricing to bypass tariff - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONklWa0hVcXFYRjg0Q0hJcV9xaEQ0ZDdTNTlvQW51REg5aXlVaVVibzZEWVZRbkFHT3U2aFE5N1dhQzRhX1pjbVlOYWNPYVZfa1lpbTd3Y2hRM3hTMjVZajgtMkN0UmRIcXdOUUNfNTl5eHFmVlJWdE5uSjlwV3FzMHJlT2Jqa2F6RE5NeDY1eW1QU0ZIZTJtUTdncnFlaUQ0bHpxRjJYMVNxRzVKUmZqOEhacGY2ekdGcFhJU3V5RF95dVJZY0hUeGtkVnRJeEFuSURDLWxn0gHjAUFVX3lxTE1uMjZuTmlUczNrWi1UNDBZeUNFdXBnbjVXRUQ3RFB3UFVGWmFoQUxwZ0pFTEtnc0luakNBYnpBU3Z2RVFKcWVIRmtoNzl2dFhwSnpROVhaaTFrYVlUdTFhYjJQN0lKSkV6R3JQMjNrX3pyejhnQjF4bkVvcVROVXI2bHBycmEtbXRSbFNKMnFPM1FVYmxtZTV6aUJKVWNKUnFKejdaRmpaVnpkNjgxN3B0Tzlsb1dZajlkc2pwWlRpQlpsMEFUTHlPcldvVWRhcUlpWXBtZVFwV1ZhcGxoZ0UtbzVV?oc=5",
       "published": "Mon, 07 Sep 2026 18:36:51 GMT",
-      "source": "newindianexpress.com",
+      "source": "The New Indian Express",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -60,7 +60,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 21.8
+      "freshness_hours": 22.8
     }
   ],
   "opportunities": [
@@ -381,5 +381,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-08T16:24:39.091576+00:00"
+  "landed_updated_utc": "2026-09-08T17:22:29.776209+00:00"
 }
