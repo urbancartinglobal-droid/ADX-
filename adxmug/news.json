@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.3
+      "freshness_hours": 5.4
     },
     {
       "title": "Canada’s US tariffs take effect as Trump threatens Bombardier aircraft sales - South China Morning Post",
@@ -31,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.1
+      "freshness_hours": 3.2
     },
     {
       "title": "CERC Approves Tariff For Power Grid’s Rajasthan Solar Evacuation Transmission Asset - SolarQuarter",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 15.5
+      "freshness_hours": 16.5
     }
   ],
   "opportunities": [
@@ -417,5 +417,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-08T19:20:26.288251+00:00"
+  "landed_updated_utc": "2026-09-08T20:22:01.521342+00:00"
 }
