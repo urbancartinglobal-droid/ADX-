@@ -32,7 +32,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.4
+      "freshness_hours": 3.4
+    },
+    {
+      "title": "Canada’s US tariffs take effect as Trump threatens Bombardier aircraft sales - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2tfaTc1Rl8wUDFLZ3d4UVJXNm9FeGo2N2NXR0dGWktaMDdjaC1aUWlEa2RqbEFLVnZkblJBWlNXMVpCd3owWVVFQ0RuVkxUYVFmNUhYZkNuYlF4NEVCcS1xNkNiN2YwT0JKREIxQjV1Uy1lNE5YMGYxU2VwLWdTWldUX3NWWDN4ZUh6Y0d3Q3h3Nk1UV1F0TDhaV3VmdWlFXzBxZzRacWEtbkFMR0Zqa000aXJkLXlHN21EN3NIcExIRng20gHEAUFVX3lxTE1GOWpTWWxCZDVuV0ttNE5ZcEpiRjM3OFQ1eDhIa2t2WWVmTWRxeUlKSDAxS2UyLWh2TTloNUpUSUFIbDc0OHc1ekVyYW9kc2xyazd4RVp2WDZCQ1kxMERxOGUzZVFHZ3VNNWMzT0JKY0FhWVRjWWlNTUlXeUQzMkk5NktwVU9pVl9qdGU4ZElDOTdDRUNJZVgwYnEtTXItNm95S2p1Mk5UWDFzSDluc0ZOLWxzTC0zSm5wWXp6ZTduMlNzQWs?oc=5",
+      "published": "Tue, 08 Sep 2026 17:11:36 GMT",
+      "source": "South China Morning Post",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 1.2
     },
     {
       "title": "CERC Approves Tariff For Power Grid’s Rajasthan Solar Evacuation Transmission Asset - SolarQuarter",
@@ -46,21 +60,7 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 13.5
-    },
-    {
-      "title": "More Indian pharma exporters may follow Sun Pharma on US MFN pricing to bypass tariff - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONklWa0hVcXFYRjg0Q0hJcV9xaEQ0ZDdTNTlvQW51REg5aXlVaVVibzZEWVZRbkFHT3U2aFE5N1dhQzRhX1pjbVlOYWNPYVZfa1lpbTd3Y2hRM3hTMjVZajgtMkN0UmRIcXdOUUNfNTl5eHFmVlJWdE5uSjlwV3FzMHJlT2Jqa2F6RE5NeDY1eW1QU0ZIZTJtUTdncnFlaUQ0bHpxRjJYMVNxRzVKUmZqOEhacGY2ekdGcFhJU3V5RF95dVJZY0hUeGtkVnRJeEFuSURDLWxn0gHjAUFVX3lxTE1uMjZuTmlUczNrWi1UNDBZeUNFdXBnbjVXRUQ3RFB3UFVGWmFoQUxwZ0pFTEtnc0luakNBYnpBU3Z2RVFKcWVIRmtoNzl2dFhwSnpROVhaaTFrYVlUdTFhYjJQN0lKSkV6R3JQMjNrX3pyejhnQjF4bkVvcVROVXI2bHBycmEtbXRSbFNKMnFPM1FVYmxtZTV6aUJKVWNKUnFKejdaRmpaVnpkNjgxN3B0Tzlsb1dZajlkc2pwWlRpQlpsMEFUTHlPcldvVWRhcUlpWXBtZVFwV1ZhcGxoZ0UtbzVV?oc=5",
-      "published": "Mon, 07 Sep 2026 18:36:51 GMT",
-      "source": "The New Indian Express",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 22.8
+      "freshness_hours": 14.6
     }
   ],
   "opportunities": [
@@ -381,5 +381,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-08T17:22:29.776209+00:00"
+  "landed_updated_utc": "2026-09-08T18:25:33.808007+00:00"
 }
