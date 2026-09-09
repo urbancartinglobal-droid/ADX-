@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 8.5
+      "freshness_hours": 9.5
     },
     {
-      "title": "DB HiTek Opens World’s First Qualified 8-Inch SiC Foundry Service for Fabless Designers - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2ExNktJb3BqTkJybV90MW9ucFJheTZMYzhyU21YVHY4NThycUlUTFZyVVoxUUF1WFBCYW5QX1Q0MzZjMWlCaGgxaVFKcjB2R3FKWWJZMXU3TzRMQzhobmliTXF2d2hlTHNxdy1YMl96V3pVSVZOTzliTkNxM00wQXNFaDdTZ0RwTTlOZjliV0lQRzJkcGhvbmFIWmFVWlJhMmg5TjREQTI5Smx4YTRJU25FaDhsN0piaF93b3J0bkc4WUhDd0J5T2hOdnJZRGgwMkZn?oc=5",
-      "published": "Wed, 09 Sep 2026 14:42:18 GMT",
-      "source": "Tech Times",
+      "title": "Silica Sol Clarification Agents Market Growth Driven by Semiconductor Fab Expansion Through 2035 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1YyTFVQdXl0WE9MOUVyZ0RvWGJjb281ZFlHNFlTeHF0ZTZ6RGhodThEQnplTHFuYmFfaEM2dDA2ZjFJTW5nSXBCc2pyZ0ZVX3N0UXdPMGxVYlBQUHJ2SHd2YkNWVXZpTUJJTnlBdmcwb040bXFpVWhjQXdSa1FTM3ZTcmJFSl81NThQYk5VNERYRlVEcWRjSzlyR25WTDRzNHFRcHBPeW5kdl9zbUxsYi00aTdJcUtEUGJ5Nlg2QW04Z2pj?oc=5",
+      "published": "Wed, 09 Sep 2026 10:11:23 GMT",
+      "source": "IndexBox",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.7
+      "freshness_hours": 11.1
     },
     {
       "title": "As America's tariff on Canada go live September 8, Canadian aerospace company Bombardier says: It values - The Times of India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 16.8
+      "freshness_hours": 17.8
     }
   ],
   "opportunities": [
@@ -392,5 +392,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-09T20:22:16.869273+00:00"
+  "landed_updated_utc": "2026-09-09T21:19:51.658208+00:00"
 }
