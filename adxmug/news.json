@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI's INR 7 lakh crore VRRR auction draws muted bank response despite banking system's liquidity surplus - Prop News Time",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaXBHNGJxLTZmRVlQOHZhOWc4Um9xMi0yR0hIcjgyQzNFb0VmblFWZERDdDdSNGxnSzJVUWVwV09aQVZBb0x5WkN0SW5sTllSNEkxRjhhRW1TT0lhWHhDVjBVUHhsUnVLQ2VtTkEzdllESHg4Zlk0QnpoWjk0LU53M1BRR2JEbUVXTnd1ckRkeXlBWkZfQVhoVVpqM3JpaW9sUTZMMWk1QzRmdTBPaXFTNXhENk9hWEUxQktzYW9pLUdESXVIa2RmTU5mcEFEaUR6ZUtkV215LWVveHFoX1hlVE5GQUFScGtrNUpyeA?oc=5",
+      "published": "Tue, 08 Sep 2026 15:00:03 GMT",
+      "source": "Prop News Time",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 10.3
+    },
+    {
+      "title": "Kaolin Fiber Blankets Market Growth Driven by Semiconductor Fab Expansion Through 2035 - News and Statistics - indexbox.io",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWRsNDJIcjd4RmVlU3V2eTdJcnFhN3gwUWF5ZFBEamRZb0JwUFRsYjF3ZjFRN25TaUtTdE5nLVVnRVlFcTBaem9xVjFrOTBubHIybEUyVXJQdHNGYTlDSWQtX2k0ZGE3Y01qc0pOeF8xWjVOSFR0QTl4NDRBVzJFamtBX1ZpSzdqN1dTSUk1eVNfMk5NVVZHZ2xhcWdyaUtSYTZrMWxNV2ZDYTJteFVNYzZmZkl2QQ?oc=5",
+      "published": "Tue, 08 Sep 2026 20:06:17 GMT",
+      "source": "indexbox.io",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 5.2
+    },
+    {
+      "title": "HRV Pharma invests Rs 150 crore to expand peptide, high-potent API capabilities - Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzlHVmc0UHZ0YV9nNWtRaUlRTnlxVS0wdlJYVHBZMlFxdkd6Y2RoX1ljeWxwUURfdm1kM0dlVzhEcTgwdm1hakdveE95cFhLdm1IaWdrc2o1NEhVVkI5NnJzbWdyakFHTVRyMnl5RUZVTVA1UFZvS0lGd21abGRwVGlZQ05KeXFBVWFJZXFyRUpOWEthVU9JTkoycVdUOE5jT1QtZ18tVW5zQ25GZUFDQVdn?oc=5",
+      "published": "Tue, 08 Sep 2026 12:08:16 GMT",
+      "source": "Express Pharma",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 13.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -382,5 +425,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-09T01:20:40.361542+00:00"
 }
