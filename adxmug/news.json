@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.4
+      "freshness_hours": 14.4
     },
     {
       "title": "Kaolin Fiber Blankets Market Growth Driven by Semiconductor Fab Expansion Through 2035 - News and Statistics - IndexBox",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.3
+      "freshness_hours": 9.3
     },
     {
       "title": "As America's tariff on Canada go live September 8, Canadian aerospace company Bombardier says: It values - The Times of India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 0.8
+      "freshness_hours": 1.8
     }
   ],
   "opportunities": [
@@ -426,5 +426,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-09T04:22:36.668517+00:00"
+  "landed_updated_utc": "2026-09-09T05:21:45.057583+00:00"
 }
