@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 8.3
+      "freshness_hours": 9.5
     },
     {
       "title": "Kaolin Fiber Blankets Market Growth Driven by Semiconductor Fab Expansion Through 2035 - News and Statistics - IndexBox",
@@ -31,21 +31,21 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
+      "freshness_hours": 4.4
     },
     {
-      "title": "Dicyanodiamide Stabilized Urea Market Forecast to 2035: High-Purity Grades Drive Expansion - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmZ1anc1dHJfUGdNYkpCQzd0SkNLbjJHUFc5a1ZHbHZaelUzb2cxdFNReVhYS1puYTBJMXR6ZnpnWlFkSWVQblFiemVzZkdLekNLSFhhM2tWWUpFX2E1S29rSEVmX3BleS00Mzc0ZXNiX0ZUT3FnNXVpUDg1eGRMZ0FmdnV5dExGNkdHS2FIYThWQ1lmdVVzbVd4VjNoTWE3VG1LSWx1ZVFGTUlFOTlnQmF2TTVVajBwUWxNYnhwXzdjelJuNTBZ?oc=5",
-      "published": "Tue, 08 Sep 2026 21:36:13 GMT",
-      "source": "IndexBox",
-      "sector": "Chemicals & Materials",
+      "title": "HRV Pharma invests Rs 150 crore to expand peptide, high-potent API capabilities - Express Pharma",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzlHVmc0UHZ0YV9nNWtRaUlRTnlxVS0wdlJYVHBZMlFxdkd6Y2RoX1ljeWxwUURfdm1kM0dlVzhEcTgwdm1hakdveE95cFhLdm1IaWdrc2o1NEhVVkI5NnJzbWdyakFHTVRyMnl5RUZVTVA1UFZvS0lGd21abGRwVGlZQ05KeXFBVWFJZXFyRUpOWEthVU9JTkoycVdUOE5jT1QtZ18tVW5zQ25GZUFDQVdn?oc=5",
+      "published": "Tue, 08 Sep 2026 12:08:16 GMT",
+      "source": "Express Pharma",
+      "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.7
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 12.4
     }
   ],
   "opportunities": [
@@ -417,5 +417,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-08T23:20:05.508967+00:00"
+  "landed_updated_utc": "2026-09-09T00:32:35.970185+00:00"
 }
