@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 7.5
+      "freshness_hours": 8.5
     },
     {
       "title": "DB HiTek Opens World’s First Qualified 8-Inch SiC Foundry Service for Fabless Designers - Tech Times",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.6
+      "freshness_hours": 5.7
     },
     {
       "title": "As America's tariff on Canada go live September 8, Canadian aerospace company Bombardier says: It values - The Times of India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 15.8
+      "freshness_hours": 16.8
     }
   ],
   "opportunities": [
@@ -392,5 +392,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-09T19:20:11.602823+00:00"
+  "landed_updated_utc": "2026-09-09T20:22:16.869273+00:00"
 }
