@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Uses Currency Swaps To Drain Record Banking Liquidity As Cash Surplus Hits ₹11 Trillion - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMmRkTmozSnRlTVN0OG5jNEViQ3plS0ZOVTZvZXhHVW5KZG1HZ2NSMWFiYk9MRVFvU2NTMDFOc1pFcXNjekVNVDBqakxob2wzanUzcnBIQXNnOTRvM3AtY01VV3NWQWlHd3FaWGxmTEw2Ykl6aURwODdjUVFPQWplaEtSb0JmM2tGTnFqNXJuQVZXMU5UREkyaE5hWm5CWEZ4djlHbmczRGdiSW1QQXREdGpkR2hsS2ZnanBuTVRXTmpiWnU1bWZ4Rm9Dc9IB0AFBVV95cUxPTmtZSXFNcmhrQ3BGV1lndS1DdVg2eGxBemc5UC1JNzhVZzRrd0YwcDJUeTJmX2V2dFh0aXlnYUtaWUNRYmw2eG90b1p1a2JfWmgydVlyX3UtVURhenZhLWpZd1VnVUtpVkpfWTRQb3RKT3pJRERGeHJrNk9vWlRWdGdPZ0J5UGIxd0V5SlVPenNmbHd4N2hjUFRTbFdRQTVfbVN5UUlTY21peTVXU1JOVkZ4cmFwckZPQmg2aHltM2NvVjBtQU91ekVYYmNLMmpW?oc=5",
+      "published": "Wed, 09 Sep 2026 11:51:41 GMT",
+      "source": "Free Press Journal",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 1.5
+    },
+    {
+      "title": "Silica Sol Clarification Agents Market Growth Driven by Semiconductor Fab Expansion Through 2035 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1YyTFVQdXl0WE9MOUVyZ0RvWGJjb281ZFlHNFlTeHF0ZTZ6RGhodThEQnplTHFuYmFfaEM2dDA2ZjFJTW5nSXBCc2pyZ0ZVX3N0UXdPMGxVYlBQUHJ2SHd2YkNWVXZpTUJJTnlBdmcwb040bXFpVWhjQXdSa1FTM3ZTcmJFSl81NThQYk5VNERYRlVEcWRjSzlyR25WTDRzNHFRcHBPeW5kdl9zbUxsYi00aTdJcUtEUGJ5Nlg2QW04Z2pj?oc=5",
+      "published": "Wed, 09 Sep 2026 10:11:23 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 3.2
+    },
+    {
+      "title": "As America's tariff on Canada go live September 8, Canadian aerospace company Bombardier says: It values - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSTR4dHA4cEI4Wkt3T2w2dVAtTVdUb2NNU0I4ZEQ0TUdVVjBFakJPcmVoOFU4SHZpcG8yb2hOLTNuSmFqTks2SUNmRkdIMUp4QjhyRXJNZWQtbTREMnJ2YWRfbG1WZGZXV2txVDRleXp6MXJfWEE4QkxVRFpDY25HOUZqdE5Qc0E3Yl9yVTdwc0RvdVZNMm4zTmJnaFo5dURHcTJheHZ4dFUyR01Tck11LUx4YzJqYUFYaHVmS2NhZU5NdFJWSWtvWkJmMkNicmxqbEJsTm0tckRRRkhZSTVDaFhCbDhwUF9XOUw2X2J3b1BHXzRHUVVab2E0RUNuclhjV1htd0FyZnVyZ2JqT0s5emdoVUt2bjUxeGprT2xBT2NLYWIyaHNQRF91cEJnYkV3eFHSAbcCQVVfeXFMUFZ6ckFCTk45b2xCNzRUSGE2bW5kUEVtUFpEREtzVVFudEo3SFVSQlEtU0dCY2FWUXA2UEJGaF9ZcUdLT0VkZG9iQzR5TzZPNmxPWDFycWt2YmIzNEsyaW92VTFfMmN3S2JzSVN0SWJLU1F6ZUFESkpBNlU5NzNDdDFmNFJRQ25nSjA2dWlReHNEbzZPSmF2OEJJbVZNOFRMTUZmc2NUVjdUYWZyaE5zSmtrcFlVWjlHVkVqbnpYOEs3cWdoeDhmTlM4S0xDdGNBbW9GcW1ybnJrZVhwQ3ZGanNaa2ExTlZ4SERqN05TX2tsb3JRcmpKTGE1Y0QtRVkxYmpyQ0FydnFsYnprWHY3dU40V0hxUGlidTVGQXdaMHRPSFVkbjN5Qk45aFZJM2x3bDB6RlByTDg?oc=5",
+      "published": "Wed, 09 Sep 2026 03:34:00 GMT",
+      "source": "The Times of India",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 9.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -375,5 +418,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-09T13:23:59.369952+00:00"
 }
