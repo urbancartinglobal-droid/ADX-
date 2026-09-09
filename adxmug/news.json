@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.5
+      "freshness_hours": 4.5
     },
     {
       "title": "Silica Sol Clarification Agents Market Growth Driven by Semiconductor Fab Expansion Through 2035 - IndexBox",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.2
+      "freshness_hours": 6.2
     },
     {
       "title": "As America's tariff on Canada go live September 8, Canadian aerospace company Bombardier says: It values - The Times of India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 11.8
+      "freshness_hours": 12.8
     }
   ],
   "opportunities": [
@@ -419,5 +419,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-09T15:22:39.078742+00:00"
+  "landed_updated_utc": "2026-09-09T16:23:57.966178+00:00"
 }
