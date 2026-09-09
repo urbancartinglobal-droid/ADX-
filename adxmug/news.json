@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI may not need immediate CRR hike as liquidity surplus likely to moderate: UBI Report - ANI News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlBUYUVCUVluWkFINFFOVDh3bU1wRzJ6US0ySlBhbE0zbVRkOEJVVnhsekhzMTlqR0dsZEUtdFh3NWF0U0VEa1BGbnltZEZfTEhIeW5fX1RqTG5wTmNqNThoR0dFSm5Xdzh4VUdfV1lQWC1XTmg2bnNhQjNENWw5dEwzdTJ1OEFXbUhiNUNEbEctYWJYZ2FYUG5HOUZqTlBUTzh6NTN4ak01TmstRS1SdkRFWF9FRUxuNm5taWRSRTBmcExNTFV5bldoNExlb2k4czI0?oc=5",
-      "published": "Wed, 09 Sep 2026 05:38:00 GMT",
-      "source": "ANI News",
+      "title": "India’s Rs 11.3 Lakh Cr Liquidity Surplus Puts RBI In Policy Dilemma - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnJsQTdLTFpWX0hNa25fVU84cVlKR3oyaUFRN3g1TWd0d3NzU2x2eWZra09Tckl4bTB4bHc3NmpJcEtLYTQwWm9wa1EweTFRdUpHcmVENHZNTWl2aHYyaDZSWkVuSW9tTDVQTk82d29jWTJhbDFDM3JRa19zRnNtck00S2NZeWRXQzRoakpJTVlhYzBVd2s1ZXhQdmdsaGVBdlRZaUxvMWRXeXVwb2EzVFhn?oc=5",
+      "published": "Wed, 09 Sep 2026 08:36:43 GMT",
+      "source": "BW Businessworld",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.8
+      "freshness_hours": 0.8
     },
     {
       "title": "Kaolin Fiber Blankets Market Growth Driven by Semiconductor Fab Expansion Through 2035 - News and Statistics - IndexBox",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 12.3
+      "freshness_hours": 13.3
     },
     {
       "title": "As America's tariff on Canada go live September 8, Canadian aerospace company Bombardier says: It values - The Times of India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 4.8
+      "freshness_hours": 5.8
     }
   ],
   "opportunities": [
@@ -416,5 +416,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-09T08:23:35.687009+00:00"
+  "landed_updated_utc": "2026-09-09T09:23:36.551553+00:00"
 }
