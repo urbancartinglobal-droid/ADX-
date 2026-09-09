@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "India’s Rs 11.3 Lakh Cr Liquidity Surplus Puts RBI In Policy Dilemma - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnJsQTdLTFpWX0hNa25fVU84cVlKR3oyaUFRN3g1TWd0d3NzU2x2eWZra09Tckl4bTB4bHc3NmpJcEtLYTQwWm9wa1EweTFRdUpHcmVENHZNTWl2aHYyaDZSWkVuSW9tTDVQTk82d29jWTJhbDFDM3JRa19zRnNtck00S2NZeWRXQzRoakpJTVlhYzBVd2s1ZXhQdmdsaGVBdlRZaUxvMWRXeXVwb2EzVFhn?oc=5",
-      "published": "Wed, 09 Sep 2026 08:36:43 GMT",
-      "source": "BW Businessworld",
+      "title": "RBI May Hold Off On Immediate CRR Hike As Surplus Banking Liquidity Expected To Ease Through FY27: UBI Report - KNN India",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWW8wbDhnbDhxdERGUnNaWFo2OHZjeURRdF92MS1JdGlqYUpWZ3lqQllscVc4T2hTVC14cVlHeXZsNGp5NW5lYkxzOWJSZHJZb0N4OEppd3ZMWTR3SjZTUU05aUNPY3B2aDAyaTA0TmM1QUlPV0NtYWh6VUJ3Qk1lNXZxTDBRbjN6VUs0Nlg0UVA4TkpKU3hWVmxkT0NlSUtBRWstRHplRkV3aW8xcWc2Y3dFME16WEwwZHl2d1VFV3FucGM3cmstdE1PR25qRVg0ZFFCcnhmOW1jLUNGeDhrOHFNVE1wOUw0X0Nreg?oc=5",
+      "published": "Wed, 09 Sep 2026 10:05:12 GMT",
+      "source": "KNN India",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,12 +17,12 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.8
+      "freshness_hours": 1.3
     },
     {
-      "title": "Kaolin Fiber Blankets Market Growth Driven by Semiconductor Fab Expansion Through 2035 - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWRsNDJIcjd4RmVlU3V2eTdJcnFhN3gwUWF5ZFBEamRZb0JwUFRsYjF3ZjFRN25TaUtTdE5nLVVnRVlFcTBaem9xVjFrOTBubHIybEUyVXJQdHNGYTlDSWQtX2k0ZGE3Y01qc0pOeF8xWjVOSFR0QTl4NDRBVzJFamtBX1ZpSzdqN1dTSUk1eVNfMk5NVVZHZ2xhcWdyaUtSYTZrMWxNV2ZDYTJteFVNYzZmZkl2QQ?oc=5",
-      "published": "Tue, 08 Sep 2026 20:06:17 GMT",
+      "title": "Silica Sol Clarification Agents Market Growth Driven by Semiconductor Fab Expansion Through 2035 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1YyTFVQdXl0WE9MOUVyZ0RvWGJjb281ZFlHNFlTeHF0ZTZ6RGhodThEQnplTHFuYmFfaEM2dDA2ZjFJTW5nSXBCc2pyZ0ZVX3N0UXdPMGxVYlBQUHJ2SHd2YkNWVXZpTUJJTnlBdmcwb040bXFpVWhjQXdSa1FTM3ZTcmJFSl81NThQYk5VNERYRlVEcWRjSzlyR25WTDRzNHFRcHBPeW5kdl9zbUxsYi00aTdJcUtEUGJ5Nlg2QW04Z2pj?oc=5",
+      "published": "Wed, 09 Sep 2026 10:11:23 GMT",
       "source": "IndexBox",
       "sector": "Electronics & Semiconductors",
       "triggers": [
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 14.3
+      "freshness_hours": 1.2
     },
     {
       "title": "As America's tariff on Canada go live September 8, Canadian aerospace company Bombardier says: It values - The Times of India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 6.8
+      "freshness_hours": 7.8
     }
   ],
   "opportunities": [
@@ -416,5 +416,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-09T10:23:00.949188+00:00"
+  "landed_updated_utc": "2026-09-09T11:22:29.840092+00:00"
 }
