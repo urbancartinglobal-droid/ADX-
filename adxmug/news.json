@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Thermal Abatement Chamber Liners Market Forecast to 2035: Semiconductor Fab Expansion Drives 5.2% CAGR - IndexBox",
+      "title": "Thermal Abatement Chamber Liners Market Forecast to 2035: Semiconductor Fab Expansion Drives 5.2% CAGR - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGNYODhXbmVydWVmSGk3ZVRaVXlPQVZRcVd1aURoSE5iS3FzZjdXZ00wNDN6bnBCeHFpWlBiaUtWY25PRDNyRUdpeHVoSkg3U3F6eWRXS0JrcFFlTDUzM1pBTTA5MHMwLTBhUFk3VDFsNkY4eHFIWTBMZ2pOV2o3akwwc0I2NE1iU09tSnFnUGxVMFZialJuR0Iwa1FqRlV4TnJFNGxIa0ZYLTQ5RC1IX2JiU080aXZEVnJCaGdOQkRnQjVIOG5vaVh3?oc=5",
       "published": "Thu, 10 Sep 2026 12:31:11 GMT",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.8
+      "freshness_hours": 1.8
     },
     {
       "title": "RBI Withdraws Over Rs 6 Tn Liquidity After Record Surplus - BW Businessworld",
@@ -31,7 +31,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.9
+      "freshness_hours": 7.0
+    },
+    {
+      "title": "USFDA clears Abbott’s TactiFlex duo dual-technology catheter for atrial fibrillation - Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOHJ0Z2duZVllenJjVk1wdzhFZ0ZCRmxRSUNmVmpmU2VqeXhObVZGZzlydHdhOVZmT3J2LWNWYnpLbzhkM2hWbEJ1MEN2MzdqbTM5UTgzZ0FWamFRMkJGSmJqbWpvRlZ2SGZVRVczaHFLVmYwZm51eFdaNVctZ2dXUF9fX2Juck1tRGhpblAxc0txcFlEODZDSmc4SlpRWU5FMXBCWDR4MjA1M3FtRmdjeGZvRl9QRUQxM1V2bHpzSVp1d3dveExrVzNOMXcxYXJmdXR30gHaAUFVX3lxTE83cGRDX1RCTEI4MU9ZV1R6SmNWX2lIYTRiQXJKUTc1NmZFRzZadW43a3BrQy00anFLMmY1aFMzcGFtcnZwX0gxX3ZqV0hMWmkyYkZQdmgtR2xTT3l5QUVXS3U3NGg0S05ycWticXFHU1VyRVFkaE9vaTdLaW9LWjNnbGdDV2YwTERLeUh4NVd6U2tjeVhxZFJ3bkgzUjM2RlhaWHRyMUs3QldXb3hlME5PbEVNYVRNZW1QXzY0VjFDZ21IRXJPTW9SQ3VsaFFIanI4R05ucEw2RFBB?oc=5",
+      "published": "Thu, 10 Sep 2026 04:27:57 GMT",
+      "source": "Indian Pharma Post",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 9.9
     }
   ],
   "opportunities": [
@@ -390,5 +404,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-10T13:21:18.036919+00:00"
+  "landed_updated_utc": "2026-09-10T14:21:59.390733+00:00"
 }
