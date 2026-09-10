@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-10T00:34:22.792513+00:00",
+  "updated_utc": "2026-09-10T06:34:08.268626+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "USFDA clears Abbott’s TactiFlex duo dual-technology catheter for atrial fibrillation - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHY1WnlBUVdpU2lOMDF2SFhERHJkVmIwZnk1MzMxSHVvQWhoWDZwRERnT0tTTG1nb3BLdGp2WThDMjI0dmFoNzF5cFFURzB1SVRZemEzNE4tSzkyZjI0UVhMLUZkMVpOV0wwUjVKY3ZTcnRzY3BHbWpzNVJ4dC1GZmhTNXptbzFMd1VEU0lXTjY0dkkxT0ZqT1R4dk9hbG5UbVRrY05ZLTJCQmp6UUZqNENOdXNQU0ZLYW5uSVlORWR1LWZWNmfSAdoBQVVfeXFMTzdwZENfVEJMQjgxT1lXVHpKY1ZfaUhhNGJBckpRNzU2ZkVHNlp1bjdrcGtDLTRqcUsyZjVoUzNwYW1ydnBfSDFfdmpXSExaaTJiRlB2aC1HbFNPeXlBRVdLdTc0aDRLTnJxa2JxcUdTVXJFUWRoT29pN0tpb0taM2dsZ0NXZjBMREt5SHg1V3pTa2N5WHFkUnduSDNSMzZGWFpYdHIxSzdCV1dveGUwTk9sRU1hVE1lbVBfNjRWMUNnbUhFck9Nb1JDdWxoUUhqcjhHTm5wTDZEUEE?oc=5",
-      "published": "Thu, 10 Sep 2026 02:36:39 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.9
-    },
-    {
-      "title": "RBI Uses Currency Swaps To Drain Record Banking Liquidity As Cash Surplus Hits ₹11 Trillion - freepressjournal.in",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMmRkTmozSnRlTVN0OG5jNEViQ3plS0ZOVTZvZXhHVW5KZG1HZ2NSMWFiYk9MRVFvU2NTMDFOc1pFcXNjekVNVDBqakxob2wzanUzcnBIQXNnOTRvM3AtY01VV3NWQWlHd3FaWGxmTEw2Ykl6aURwODdjUVFPQWplaEtSb0JmM2tGTnFqNXJuQVZXMU5UREkyaE5hWm5CWEZ4djlHbmczRGdiSW1QQXREdGpkR2hsS2ZnanBuTVRXTmpiWnU1bWZ4Rm9Dc9IB0AFBVV95cUxPTmtZSXFNcmhrQ3BGV1lndS1DdVg2eGxBemc5UC1JNzhVZzRrd0YwcDJUeTJmX2V2dFh0aXlnYUtaWUNRYmw2eG90b1p1a2JfWmgydVlyX3UtVURhenZhLWpZd1VnVUtpVkpfWTRQb3RKT3pJRERGeHJrNk9vWlRWdGdPZ0J5UGIxd0V5SlVPenNmbHd4N2hjUFRTbFdRQTVfbVN5UUlTY21peTVXU1JOVkZ4cmFwckZPQmg2aHltM2NvVjBtQU91ekVYYmNLMmpW?oc=5",
-      "published": "Wed, 09 Sep 2026 11:51:41 GMT",
-      "source": "freepressjournal.in",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 18.6
-    },
-    {
-      "title": "Russia Signs New Su-57E Export Deals—Secret Buyers Fuel Global Stealth Fighter Power Shift - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONkYtT0FYYjBoUS1Jc0NpWlUzaWZtQmxCYm1CaU1zQnZIQnBwU05UMl96S2dHN3F4dTlrZEw2VExEb0JPQnVZVFNIWEY2YUt0Z0NTUVZiVno4RXhadUN4azg3OFB3b1ppazZ1dy11djNSTWRNcnE3SGt2UE9HMGdnV3phNGpTR1dpMmdsYUI2aDFCa1NGU01jRHdPRkU?oc=5",
-      "published": "Wed, 09 Sep 2026 16:18:26 GMT",
-      "source": "Defence Security Asia",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 14.2
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -72,8 +29,8 @@
           "companies": []
         },
         {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-          "source": "A2Z Taxcorp LLP",
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - a2ztaxcorp.net",
+          "source": "a2ztaxcorp.net",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
           "triggers": [
             "POLICY",
@@ -82,8 +39,8 @@
           "companies": []
         },
         {
-          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
-          "source": "The Economic Times",
+          "title": "India eases raw sugar import rules as it cracks down on hoarding - economictimes.com",
+          "source": "economictimes.com",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
           "triggers": [
             "POLICY",
@@ -127,9 +84,9 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 60,
-      "article_count": 4,
-      "trigger_count": 8,
+      "score": 64,
+      "article_count": 5,
+      "trigger_count": 10,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -140,6 +97,16 @@
           "title": "RBI liquidity boost cuts wholesale funding costs, but banks remain locked in deposit battle - bfsi.economictimes.indiatimes.com",
           "source": "bfsi.economictimes.indiatimes.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVUQzhPcVlRMHVrcU9MS0xFUGdteVpyd21JVFoxSGhRdWJQdnEyZHJXTlZVYV9jMWVoU2ppSzNDUDFPUzl6cUoxdm4yeGVVVnlfTjdId2l4cTFOR1B4WFdNemFabEctNEZ4a1FReEtSSGc0aExOUHpRc2I5RWxIUjh5LS1XSU9kSURiV0dydFFDdlczdmZkMDZFNV9oNU5mSjNrMy1zdUdkOWp6Z1dLLU1GRGxzSEpOOGxzUDFuYW1uM1nSAcgBQVVfeXFMT2ZLQm1rdWctbml2ekZxZjJCc1ZSVnBSTTMxU2hpeUUyRGp3OWJOT1hPMTlxcW1nTUpOVFMwMVRsWm5EeGI5N2NLNU1jVkFfRjNfOTlnWnkyS2J0a1lYRWs4VHM4QWFEdFFEYnpYY0YxQTU1ZjR6NzdVUFdnWVh6NzFmd2FXUmhaQU5hdFJwMG96a0hkSXQ0cG16R0hkdVhnRDktZ01aT3dZd0FEbnJiYThjbjBQRlRwYmJid0lQOWw0dktQbnpnVUk?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
@@ -179,9 +146,9 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -202,8 +169,8 @@
       ],
       "evidence": [
         {
-          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - constructionworld.in",
-          "source": "constructionworld.in",
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
+          "source": "Construction World",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
           "triggers": [
             "CAPEX",
@@ -222,8 +189,8 @@
           "companies": []
         },
         {
-          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - constructionworld.in",
-          "source": "constructionworld.in",
+          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - Construction World",
+          "source": "Construction World",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWDBlWFVHakdaOHFWcm9VSThiTEEzSTdua2RHazBZMk5pTzUzRWVLMF84NXZ0cWliXzliV2VXTHFuS2psbTh1d3dKWHNOb1Atc0NrZ0tNX2dOcUVYSHRodjVOcE04eVB2ZXlfUzNndXE4MTdzRHBxcFIyN3Y4cFgzRXc2NmNhQUREUE9NUEZTZUFUWE9QcUttOXBTQnZ0WGxnTmtJOTlDZ28yeFBKYU9YNklnOTRTM1VTbF9pRmQ1RGRMUnBzRmxGVGY4c3Y1MWJNTk8zUk5YT3h6eXRSWHF0VkNWV05lcDQtQWpkTDdWbkJjZ0NQSThMTlpn?oc=5",
           "triggers": [
             "CAPEX"
@@ -231,8 +198,8 @@
           "companies": []
         },
         {
-          "title": "Rs 18 Billion Rail Project Cleared for Northeast Region - constructionworld.in",
-          "source": "constructionworld.in",
+          "title": "Rs 18 Billion Rail Project Cleared for Northeast Region - Construction World",
+          "source": "Construction World",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbWpLWndRUUdEQkVnS0lad0ZJU05UWl9oa1JWZXdsT3ZJb1RuZG1adjlBQVNSd3ctYnYwRWd2Vi1wamYwbllYb2hDejN3UmhLdjcza01oZnptZTZhXzZaZXZQaUppM2dUQ201b1FzYncyU0RYTVE5cER0bW9FREtRaU1XbmcxLXlmc1RYQ2RfRmNtWDZ0UGNnWGpheE5FdWFKTnRhYTNhVzBhdkl0cEM2TFE5Mzk4Wk94d2NLRVp1RjFLbUI3ei1BUlB0a3c3bjNfWjgtQU5hdjBpNzRZT1VNRG4za19ydXZCTWQtZWljUQ?oc=5",
           "triggers": [
             "CAPEX"
@@ -248,38 +215,6 @@
       "companies": [],
       "connections": [
         "Corporate action reinforced by capex/orders is a stronger operating signal."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Pharma & Healthcare",
-      "score": 25,
-      "article_count": 1,
-      "trigger_count": 2,
-      "triggers": [
-        "CAPEX",
-        "POLICY"
-      ],
-      "evidence": [
-        {
-          "title": "USFDA bans Ranbaxy's Toansa API plant, finds mfg violations - Moneycontrol.com",
-          "source": "Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUpUR01OaXgtLXR6SkpnVU1XakMzQXFGZTY0Y09jcWtEZHY5NVQ1Wm1zWW8tQ0p4cUw1bUhZc215a1Mxelh3cmFWUi11TmViVUdWSnFycFpqQmVsT0IyajFGXzZza1ZqbFlhV3NTeHN4NUlzRUJ3TmtzdkU1MDB2LVM4Mkl1c25HdHQ5YUNCUWJBQThxdlllNGxScnJsMTBFSURQaU80NW11WDA0VTBxU2lCWWhWaWVlRjRmTEp4SUzSAcYBQVVfeXFMTTRZUjJxbmtZamhUZEpVS2djeW9LSDB2OUdxRHVMc2lYam1DWnNiUFlrcnhMM0p6MTcxM2R5UDdWUXlhc1lCZWwzQlZiUFNkSzFjX0VQaW1HQmdSb2Y3QWJuVnJRMTJfeE9MZUJ3VnJWenBxVVhOdkl2aTdCbGszc1FYTW94OXJOMnhGcHZReHp1ZUYwMVA5OFFVcEt6NUJScGZFOENxS3VPQVkxYnFKM3RXazNiemhiTjBnUWlCcmdtNnkwU2dB?oc=5",
-          "triggers": [
-            "POLICY",
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, POLICY; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
       ],
       "fresh_count": 0
     },
@@ -394,6 +329,22 @@
       "fresh_count": 0
     },
     {
+      "industry": "Pharma & Healthcare",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
+    },
+    {
       "industry": "Chemicals & Materials",
       "score": 0,
       "article_count": 0,
@@ -409,6 +360,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-10T06:27:49.234645+00:00"
+  ]
 }
