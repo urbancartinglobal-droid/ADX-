@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "RBI Withdraws Over Rs 6 Tn Liquidity After Record Surplus - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2Q5Y1JBTXRpemxkdk1iQUJ5RDlOS1FIbnMwQ2xNSXd3dGR1R2hhU3pVUTJHbHVzdi1mckdXd1FxdGNBZkFNYnF3c0hrUUhyUDB1SEFVTjZWQjRGdldkUV81XzVYNmJFLW13YVV0eHVJZk1FOHBUZ0dwbVFHYVR1R2dLdmJ1SkxlbHRiQzhMblpRNzhWc3VISE1vTThYQzFvdHdj?oc=5",
+      "published": "Thu, 10 Sep 2026 07:24:52 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 1.0
+    },
+    {
       "title": "USFDA clears Abbott’s TactiFlex duo dual-technology catheter for atrial fibrillation - Indian Pharma Post",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHY1WnlBUVdpU2lOMDF2SFhERHJkVmIwZnk1MzMxSHVvQWhoWDZwRERnT0tTTG1nb3BLdGp2WThDMjI0dmFoNzF5cFFURzB1SVRZemEzNE4tSzkyZjI0UVhMLUZkMVpOV0wwUjVKY3ZTcnRzY3BHbWpzNVJ4dC1GZmhTNXptbzFMd1VEU0lXTjY0dkkxT0ZqT1R4dk9hbG5UbVRrY05ZLTJCQmp6UUZqNENOdXNQU0ZLYW5uSVlORWR1LWZWNmfSAdoBQVVfeXFMTzdwZENfVEJMQjgxT1lXVHpKY1ZfaUhhNGJBckpRNzU2ZkVHNlp1bjdrcGtDLTRqcUsyZjVoUzNwYW1ydnBfSDFfdmpXSExaaTJiRlB2aC1HbFNPeXlBRVdLdTc0aDRLTnJxa2JxcUdTVXJFUWRoT29pN0tpb0taM2dsZ0NXZjBMREt5SHg1V3pTa2N5WHFkUnduSDNSMzZGWFpYdHIxSzdCV1dveGUwTk9sRU1hVE1lbVBfNjRWMUNnbUhFck9Nb1JDdWxoUUhqcjhHTm5wTDZEUEE?oc=5",
       "published": "Thu, 10 Sep 2026 02:36:39 GMT",
@@ -17,21 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 4.8
-    },
-    {
-      "title": "RBI May Hold Off On Immediate CRR Hike As Surplus Banking Liquidity Expected To Ease Through FY27: UBI Report - KNN India",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWW8wbDhnbDhxdERGUnNaWFo2OHZjeURRdF92MS1JdGlqYUpWZ3lqQllscVc4T2hTVC14cVlHeXZsNGp5NW5lYkxzOWJSZHJZb0N4OEppd3ZMWTR3SjZTUU05aUNPY3B2aDAyaTA0TmM1QUlPV0NtYWh6VUJ3Qk1lNXZxTDBRbjN6VUs0Nlg0UVA4TkpKU3hWVmxkT0NlSUtBRWstRHplRkV3aW8xcWc2Y3dFME16WEwwZHl2d1VFV3FucGM3cmstdE1PR25qRVg0ZFFCcnhmOW1jLUNGeDhrOHFNVE1wOUw0X0Nreg?oc=5",
-      "published": "Wed, 09 Sep 2026 10:05:12 GMT",
-      "source": "KNN India",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 21.3
+      "freshness_hours": 5.8
     },
     {
       "title": "CERC Approves Tariff For Power Grid Rajasthan Solar Evacuation Asset - Construction World",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 1.0
+      "freshness_hours": 2.0
     }
   ],
   "opportunities": [
@@ -404,5 +404,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-10T07:23:24.140400+00:00"
+  "landed_updated_utc": "2026-09-10T08:24:55.662678+00:00"
 }
