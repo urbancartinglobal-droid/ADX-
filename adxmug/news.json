@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI Withdraws Over Rs 6 Tn Liquidity After Record Surplus - businessworld.in",
+      "title": "RBI Withdraws Over Rs 6 Tn Liquidity After Record Surplus - BW Businessworld",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2Q5Y1JBTXRpemxkdk1iQUJ5RDlOS1FIbnMwQ2xNSXd3dGR1R2hhU3pVUTJHbHVzdi1mckdXd1FxdGNBZkFNYnF3c0hrUUhyUDB1SEFVTjZWQjRGdldkUV81XzVYNmJFLW13YVV0eHVJZk1FOHBUZ0dwbVFHYVR1R2dLdmJ1SkxlbHRiQzhMblpRNzhWc3VISE1vTThYQzFvdHdj?oc=5",
       "published": "Thu, 10 Sep 2026 07:24:52 GMT",
-      "source": "businessworld.in",
+      "source": "BW Businessworld",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.0
+      "freshness_hours": 5.1
+    },
+    {
+      "title": "USFDA clears Abbott’s TactiFlex duo dual-technology catheter for atrial fibrillation - Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHY1WnlBUVdpU2lOMDF2SFhERHJkVmIwZnk1MzMxSHVvQWhoWDZwRERnT0tTTG1nb3BLdGp2WThDMjI0dmFoNzF5cFFURzB1SVRZemEzNE4tSzkyZjI0UVhMLUZkMVpOV0wwUjVKY3ZTcnRzY3BHbWpzNVJ4dC1GZmhTNXptbzFMd1VEU0lXTjY0dkkxT0ZqT1R4dk9hbG5UbVRrY05ZLTJCQmp6UUZqNENOdXNQU0ZLYW5uSVlORWR1LWZWNmfSAdoBQVVfeXFMTzdwZENfVEJMQjgxT1lXVHpKY1ZfaUhhNGJBckpRNzU2ZkVHNlp1bjdrcGtDLTRqcUsyZjVoUzNwYW1ydnBfSDFfdmpXSExaaTJiRlB2aC1HbFNPeXlBRVdLdTc0aDRLTnJxa2JxcUdTVXJFUWRoT29pN0tpb0taM2dsZ0NXZjBMREt5SHg1V3pTa2N5WHFkUnduSDNSMzZGWFpYdHIxSzdCV1dveGUwTk9sRU1hVE1lbVBfNjRWMUNnbUhFck9Nb1JDdWxoUUhqcjhHTm5wTDZEUEE?oc=5",
+      "published": "Thu, 10 Sep 2026 02:36:39 GMT",
+      "source": "Indian Pharma Post",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 9.9
     },
     {
       "title": "CERC Approves Tariff For Power Grid Rajasthan Solar Evacuation Asset - constructionworld.in",
@@ -31,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 4.9
+      "freshness_hours": 6.0
     }
   ],
   "opportunities": [
@@ -390,5 +404,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-10T11:21:57.255854+00:00"
+  "landed_updated_utc": "2026-09-10T12:28:28.171933+00:00"
 }
