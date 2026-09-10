@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.0
+      "freshness_hours": 3.0
     },
     {
       "title": "USFDA clears Abbott’s TactiFlex duo dual-technology catheter for atrial fibrillation - Indian Pharma Post",
@@ -31,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 6.8
+      "freshness_hours": 7.8
     },
     {
       "title": "CERC Approves Tariff For Power Grid Rajasthan Solar Evacuation Asset - Construction World",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 2.9
+      "freshness_hours": 3.9
     }
   ],
   "opportunities": [
@@ -404,5 +404,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-10T09:22:52.230742+00:00"
+  "landed_updated_utc": "2026-09-10T10:22:46.954262+00:00"
 }
