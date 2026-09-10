@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.7
+      "freshness_hours": 3.6
     },
     {
       "title": "RBI announces 26-day VRRR auction to absorb Rs 5 lakh crore surplus liquidity - The Economic Times",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.4
+      "freshness_hours": 6.4
     },
     {
       "title": "USFDA clears Abbott’s TactiFlex duo dual-technology catheter for atrial fibrillation - Indian Pharma Post",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 17.7
+      "freshness_hours": 18.7
     }
   ],
   "opportunities": [
@@ -392,5 +392,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-10T20:20:28.040602+00:00"
+  "landed_updated_utc": "2026-09-10T21:19:07.555192+00:00"
 }
