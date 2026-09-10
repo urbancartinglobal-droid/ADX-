@@ -17,21 +17,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.5
+      "freshness_hours": 16.5
     },
     {
-      "title": "Russia Signs New Su-57E Export Deals—Secret Buyers Fuel Global Stealth Fighter Power Shift - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONkYtT0FYYjBoUS1Jc0NpWlUzaWZtQmxCYm1CaU1zQnZIQnBwU05UMl96S2dHN3F4dTlrZEw2VExEb0JPQnVZVFNIWEY2YUt0Z0NTUVZiVno4RXhadUN4azg3OFB3b1ppazZ1dy11djNSTWRNcnE3SGt2UE9HMGdnV3phNGpTR1dpMmdsYUI2aDFCa1NGU01jRHdPRkU?oc=5",
-      "published": "Wed, 09 Sep 2026 16:18:26 GMT",
-      "source": "Defence Security Asia",
-      "sector": "Defence & Aerospace",
+      "title": "DB HiTek Opens World’s First Qualified 8-Inch SiC Foundry Service for Fabless Designers - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2ExNktJb3BqTkJybV90MW9ucFJheTZMYzhyU21YVHY4NThycUlUTFZyVVoxUUF1WFBCYW5QX1Q0MzZjMWlCaGgxaVFKcjB2R3FKWWJZMXU3TzRMQzhobmliTXF2d2hlTHNxdy1YMl96V3pVSVZOTzliTkNxM00wQXNFaDdTZ0RwTTlOZjliV0lQRzJkcGhvbmFIWmFVWlJhMmg5TjREQTI5Smx4YTRJU25FaDhsN0piaF93b3J0bkc4WUhDd0J5T2hOdnJZRGgwMkZn?oc=5",
+      "published": "Wed, 09 Sep 2026 14:42:18 GMT",
+      "source": "Tech Times",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 11.1
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 13.7
     }
   ],
   "opportunities": [
@@ -396,5 +396,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-10T03:22:45.692128+00:00"
+  "landed_updated_utc": "2026-09-10T04:22:39.892775+00:00"
 }
