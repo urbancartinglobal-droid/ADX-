@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-09-09T18:31:52.543767+00:00",
+  "updated_utc": "2026-09-10T00:34:22.792513+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI Uses Currency Swaps To Drain Record Banking Liquidity As Cash Surplus Hits ₹11 Trillion - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMmRkTmozSnRlTVN0OG5jNEViQ3plS0ZOVTZvZXhHVW5KZG1HZ2NSMWFiYk9MRVFvU2NTMDFOc1pFcXNjekVNVDBqakxob2wzanUzcnBIQXNnOTRvM3AtY01VV3NWQWlHd3FaWGxmTEw2Ykl6aURwODdjUVFPQWplaEtSb0JmM2tGTnFqNXJuQVZXMU5UREkyaE5hWm5CWEZ4djlHbmczRGdiSW1QQXREdGpkR2hsS2ZnanBuTVRXTmpiWnU1bWZ4Rm9Dc9IB0AFBVV95cUxPTmtZSXFNcmhrQ3BGV1lndS1DdVg2eGxBemc5UC1JNzhVZzRrd0YwcDJUeTJmX2V2dFh0aXlnYUtaWUNRYmw2eG90b1p1a2JfWmgydVlyX3UtVURhenZhLWpZd1VnVUtpVkpfWTRQb3RKT3pJRERGeHJrNk9vWlRWdGdPZ0J5UGIxd0V5SlVPenNmbHd4N2hjUFRTbFdRQTVfbVN5UUlTY21peTVXU1JOVkZ4cmFwckZPQmg2aHltM2NvVjBtQU91ekVYYmNLMmpW?oc=5",
-      "published": "Wed, 09 Sep 2026 11:51:41 GMT",
-      "source": "Free Press Journal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 12.6
-    },
-    {
-      "title": "DB HiTek Opens World’s First Qualified 8-Inch SiC Foundry Service for Fabless Designers - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2ExNktJb3BqTkJybV90MW9ucFJheTZMYzhyU21YVHY4NThycUlUTFZyVVoxUUF1WFBCYW5QX1Q0MzZjMWlCaGgxaVFKcjB2R3FKWWJZMXU3TzRMQzhobmliTXF2d2hlTHNxdy1YMl96V3pVSVZOTzliTkNxM00wQXNFaDdTZ0RwTTlOZjliV0lQRzJkcGhvbmFIWmFVWlJhMmg5TjREQTI5Smx4YTRJU25FaDhsN0piaF93b3J0bkc4WUhDd0J5T2hOdnJZRGgwMkZn?oc=5",
-      "published": "Wed, 09 Sep 2026 14:42:18 GMT",
-      "source": "Tech Times",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 9.8
-    },
-    {
-      "title": "As America's tariff on Canada go live September 8, Canadian aerospace company Bombardier says: It values - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSTR4dHA4cEI4Wkt3T2w2dVAtTVdUb2NNU0I4ZEQ0TUdVVjBFakJPcmVoOFU4SHZpcG8yb2hOLTNuSmFqTks2SUNmRkdIMUp4QjhyRXJNZWQtbTREMnJ2YWRfbG1WZGZXV2txVDRleXp6MXJfWEE4QkxVRFpDY25HOUZqdE5Qc0E3Yl9yVTdwc0RvdVZNMm4zTmJnaFo5dURHcTJheHZ4dFUyR01Tck11LUx4YzJqYUFYaHVmS2NhZU5NdFJWSWtvWkJmMkNicmxqbEJsTm0tckRRRkhZSTVDaFhCbDhwUF9XOUw2X2J3b1BHXzRHUVVab2E0RUNuclhjV1htd0FyZnVyZ2JqT0s5emdoVUt2bjUxeGprT2xBT2NLYWIyaHNQRF91cEJnYkV3eFHSAbcCQVVfeXFMUFZ6ckFCTk45b2xCNzRUSGE2bW5kUEVtUFpEREtzVVFudEo3SFVSQlEtU0dCY2FWUXA2UEJGaF9ZcUdLT0VkZG9iQzR5TzZPNmxPWDFycWt2YmIzNEsyaW92VTFfMmN3S2JzSVN0SWJLU1F6ZUFESkpBNlU5NzNDdDFmNFJRQ25nSjA2dWlReHNEbzZPSmF2OEJJbVZNOFRMTUZmc2NUVjdUYWZyaE5zSmtrcFlVWjlHVkVqbnpYOEs3cWdoeDhmTlM4S0xDdGNBbW9GcW1ybnJrZVhwQ3ZGanNaa2ExTlZ4SERqN05TX2tsb3JRcmpKTGE1Y0QtRVkxYmpyQ0FydnFsYnprWHY3dU40V0hxUGlidTVGQXdaMHRPSFVkbjN5Qk45aFZJM2x3bDB6RlByTDg?oc=5",
-      "published": "Wed, 09 Sep 2026 03:34:00 GMT",
-      "source": "The Times of India",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 20.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
       "score": 76,
-      "article_count": 5,
-      "trigger_count": 9,
+      "article_count": 6,
+      "trigger_count": 12,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -61,8 +18,8 @@
       ],
       "evidence": [
         {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - policycircle.org",
-          "source": "policycircle.org",
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
+          "source": "Policy Circle",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
           "triggers": [
             "POLICY",
@@ -92,18 +49,20 @@
           "companies": []
         },
         {
-          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
-          "source": "Global Agriculture",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
           "triggers": [
-            "TRADE"
+            "POLICY",
+            "TRADE",
+            "PRICING"
           ],
           "companies": []
         },
         {
-          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVIzVVlXNzk5VkREeFUzTm9NczlXSUU3WjRsbGdGdnI0RTJ4R0Q3QWJuTmt5UVZLUTdiWktsQjV6OFQwRkY2SW45bE14b3dKMVFNd3JsV1Y3b2pLRzNtQS1tZFVzcFp0UUhMZkNDcld3TWZ0Sng4aXByQ3VNUmt1MXdKM2VPVVhzNmRmaV9pT3dLQmkzQm9NVl94VmpPa09LMHdGY0dpdUpZZHd2WS1VV3ppbHBnaHM4RFlJMnVFVXJOWWhjbnZFNU05aHZGYUJLdExwMTRpMHJkOTlnTy1KZjZMQmJwZ9IB6wFBVV95cUxOSzZtU05qNHQzS0RkdnVzeE5NOHREMWc4SVFCMGJGOGlVSFpkOUF6WFdjUFVwcUloM3BNS21WMWFtR0tldlFLd1RtVF9KdFN4eXgzdXkwZ2o2aVRpZ0pfLWc1X29RU1ZNcXo1VUdtLUhnUVIzbUkxMk1CQTZMMkJ3V3FIcVZPNnB5Y2hGR2lhdzVJVURSN1BPakduVDNYeGFJMHJETjNRZGdKbzRVUWxQd0U2akduaEpJSEk3cE9ZTFczQ1NPanM4NlNMS2FmeEdpTkdBdVRrWEdBMENWWEZjRlgzUEtaSkpPM1dn?oc=5",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
             "TRADE"
           ],
@@ -112,9 +71,9 @@
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
-      "source_count": 5,
-      "story_clusters": 5,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 6 independent sources.",
+      "source_count": 6,
+      "story_clusters": 6,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -145,22 +104,22 @@
           "companies": []
         },
         {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
           "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
           "source": "scanx.trade",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
           "triggers": [
             "POLICY",
             "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
           ],
           "companies": []
         },
@@ -200,8 +159,8 @@
       ],
       "evidence": [
         {
-          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
-          "source": "Construction World",
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - constructionworld.in",
+          "source": "constructionworld.in",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
           "triggers": [
             "CAPEX",
@@ -220,8 +179,8 @@
           "companies": []
         },
         {
-          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - Construction World",
-          "source": "Construction World",
+          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - constructionworld.in",
+          "source": "constructionworld.in",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWDBlWFVHakdaOHFWcm9VSThiTEEzSTdua2RHazBZMk5pTzUzRWVLMF84NXZ0cWliXzliV2VXTHFuS2psbTh1d3dKWHNOb1Atc0NrZ0tNX2dOcUVYSHRodjVOcE04eVB2ZXlfUzNndXE4MTdzRHBxcFIyN3Y4cFgzRXc2NmNhQUREUE9NUEZTZUFUWE9QcUttOXBTQnZ0WGxnTmtJOTlDZ28yeFBKYU9YNklnOTRTM1VTbF9pRmQ1RGRMUnBzRmxGVGY4c3Y1MWJNTk8zUk5YT3h6eXRSWHF0VkNWV05lcDQtQWpkTDdWbkJjZ0NQSThMTlpn?oc=5",
           "triggers": [
             "CAPEX"
@@ -229,8 +188,8 @@
           "companies": []
         },
         {
-          "title": "Rs 18 Billion Rail Project Cleared for Northeast Region - Construction World",
-          "source": "Construction World",
+          "title": "Rs 18 Billion Rail Project Cleared for Northeast Region - constructionworld.in",
+          "source": "constructionworld.in",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbWpLWndRUUdEQkVnS0lad0ZJU05UWl9oa1JWZXdsT3ZJb1RuZG1adjlBQVNSd3ctYnYwRWd2Vi1wamYwbllYb2hDejN3UmhLdjcza01oZnptZTZhXzZaZXZQaUppM2dUQ201b1FzYncyU0RYTVE5cER0bW9FREtRaU1XbmcxLXlmc1RYQ2RfRmNtWDZ0UGNnWGpheE5FdWFKTnRhYTNhVzBhdkl0cEM2TFE5Mzk4Wk94d2NLRVp1RjFLbUI3ei1BUlB0a3c3bjNfWjgtQU5hdjBpNzRZT1VNRG4za19ydXZCTWQtZWljUQ?oc=5",
           "triggers": [
             "CAPEX"
@@ -246,6 +205,38 @@
       "companies": [],
       "connections": [
         "Corporate action reinforced by capex/orders is a stronger operating signal."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 25,
+      "article_count": 1,
+      "trigger_count": 2,
+      "triggers": [
+        "CAPEX",
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "USFDA bans Ranbaxy's Toansa API plant, finds mfg violations - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUpUR01OaXgtLXR6SkpnVU1XakMzQXFGZTY0Y09jcWtEZHY5NVQ1Wm1zWW8tQ0p4cUw1bUhZc215a1Mxelh3cmFWUi11TmViVUdWSnFycFpqQmVsT0IyajFGXzZza1ZqbFlhV3NTeHN4NUlzRUJ3TmtzdkU1MDB2LVM4Mkl1c25HdHQ5YUNCUWJBQThxdlllNGxScnJsMTBFSURQaU80NW11WDA0VTBxU2lCWWhWaWVlRjRmTEp4SUzSAcYBQVVfeXFMTTRZUjJxbmtZamhUZEpVS2djeW9LSDB2OUdxRHVMc2lYam1DWnNiUFlrcnhMM0p6MTcxM2R5UDdWUXlhc1lCZWwzQlZiUFNkSzFjX0VQaW1HQmdSb2Y3QWJuVnJRMTJfeE9MZUJ3VnJWenBxVVhOdkl2aTdCbGszc1FYTW94OXJOMnhGcHZReHp1ZUYwMVA5OFFVcEt6NUJScGZFOENxS3VPQVkxYnFKM3RXazNiemhiTjBnUWlCcmdtNnkwU2dB?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, POLICY; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
       ],
       "fresh_count": 0
     },
@@ -360,22 +351,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Pharma & Healthcare",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
       "industry": "Chemicals & Materials",
       "score": 0,
       "article_count": 0,
@@ -391,6 +366,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-10T00:27:53.140138+00:00"
+  ]
 }
