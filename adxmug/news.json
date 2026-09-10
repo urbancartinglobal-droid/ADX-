@@ -17,13 +17,13 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 2.7
+      "freshness_hours": 3.9
     },
     {
-      "title": "RBI Uses Currency Swaps To Drain Record Banking Liquidity As Cash Surplus Hits ₹11 Trillion - Free Press Journal",
+      "title": "RBI Uses Currency Swaps To Drain Record Banking Liquidity As Cash Surplus Hits ₹11 Trillion - freepressjournal.in",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMmRkTmozSnRlTVN0OG5jNEViQ3plS0ZOVTZvZXhHVW5KZG1HZ2NSMWFiYk9MRVFvU2NTMDFOc1pFcXNjekVNVDBqakxob2wzanUzcnBIQXNnOTRvM3AtY01VV3NWQWlHd3FaWGxmTEw2Ykl6aURwODdjUVFPQWplaEtSb0JmM2tGTnFqNXJuQVZXMU5UREkyaE5hWm5CWEZ4djlHbmczRGdiSW1QQXREdGpkR2hsS2ZnanBuTVRXTmpiWnU1bWZ4Rm9Dc9IB0AFBVV95cUxPTmtZSXFNcmhrQ3BGV1lndS1DdVg2eGxBemc5UC1JNzhVZzRrd0YwcDJUeTJmX2V2dFh0aXlnYUtaWUNRYmw2eG90b1p1a2JfWmgydVlyX3UtVURhenZhLWpZd1VnVUtpVkpfWTRQb3RKT3pJRERGeHJrNk9vWlRWdGdPZ0J5UGIxd0V5SlVPenNmbHd4N2hjUFRTbFdRQTVfbVN5UUlTY21peTVXU1JOVkZ4cmFwckZPQmg2aHltM2NvVjBtQU91ekVYYmNLMmpW?oc=5",
       "published": "Wed, 09 Sep 2026 11:51:41 GMT",
-      "source": "Free Press Journal",
+      "source": "freepressjournal.in",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,21 +31,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 17.5
+      "freshness_hours": 18.6
     },
     {
-      "title": "Silica Sol Clarification Agents Market Growth Driven by Semiconductor Fab Expansion Through 2035 - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1YyTFVQdXl0WE9MOUVyZ0RvWGJjb281ZFlHNFlTeHF0ZTZ6RGhodThEQnplTHFuYmFfaEM2dDA2ZjFJTW5nSXBCc2pyZ0ZVX3N0UXdPMGxVYlBQUHJ2SHd2YkNWVXZpTUJJTnlBdmcwb040bXFpVWhjQXdSa1FTM3ZTcmJFSl81NThQYk5VNERYRlVEcWRjSzlyR25WTDRzNHFRcHBPeW5kdl9zbUxsYi00aTdJcUtEUGJ5Nlg2QW04Z2pj?oc=5",
-      "published": "Wed, 09 Sep 2026 10:11:23 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
+      "title": "Russia Signs New Su-57E Export Deals—Secret Buyers Fuel Global Stealth Fighter Power Shift - Defence Security Asia",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONkYtT0FYYjBoUS1Jc0NpWlUzaWZtQmxCYm1CaU1zQnZIQnBwU05UMl96S2dHN3F4dTlrZEw2VExEb0JPQnVZVFNIWEY2YUt0Z0NTUVZiVno4RXhadUN4azg3OFB3b1ppazZ1dy11djNSTWRNcnE3SGt2UE9HMGdnV3phNGpTR1dpMmdsYUI2aDFCa1NGU01jRHdPRkU?oc=5",
+      "published": "Wed, 09 Sep 2026 16:18:26 GMT",
+      "source": "Defence Security Asia",
+      "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 19.2
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 14.2
     }
   ],
   "opportunities": [
@@ -410,5 +410,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-10T05:21:06.093110+00:00"
+  "landed_updated_utc": "2026-09-10T06:27:49.234645+00:00"
 }
