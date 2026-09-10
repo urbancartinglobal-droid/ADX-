@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI Uses Currency Swaps To Drain Record Banking Liquidity As Cash Surplus Hits ₹11 Trillion - freepressjournal.in",
+      "title": "RBI Uses Currency Swaps To Drain Record Banking Liquidity As Cash Surplus Hits ₹11 Trillion - Free Press Journal",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMmRkTmozSnRlTVN0OG5jNEViQ3plS0ZOVTZvZXhHVW5KZG1HZ2NSMWFiYk9MRVFvU2NTMDFOc1pFcXNjekVNVDBqakxob2wzanUzcnBIQXNnOTRvM3AtY01VV3NWQWlHd3FaWGxmTEw2Ykl6aURwODdjUVFPQWplaEtSb0JmM2tGTnFqNXJuQVZXMU5UREkyaE5hWm5CWEZ4djlHbmczRGdiSW1QQXREdGpkR2hsS2ZnanBuTVRXTmpiWnU1bWZ4Rm9Dc9IB0AFBVV95cUxPTmtZSXFNcmhrQ3BGV1lndS1DdVg2eGxBemc5UC1JNzhVZzRrd0YwcDJUeTJmX2V2dFh0aXlnYUtaWUNRYmw2eG90b1p1a2JfWmgydVlyX3UtVURhenZhLWpZd1VnVUtpVkpfWTRQb3RKT3pJRERGeHJrNk9vWlRWdGdPZ0J5UGIxd0V5SlVPenNmbHd4N2hjUFRTbFdRQTVfbVN5UUlTY21peTVXU1JOVkZ4cmFwckZPQmg2aHltM2NvVjBtQU91ekVYYmNLMmpW?oc=5",
       "published": "Wed, 09 Sep 2026 11:51:41 GMT",
-      "source": "freepressjournal.in",
+      "source": "Free Press Journal",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.5
+      "freshness_hours": 12.6
     },
     {
       "title": "DB HiTek Opens World’s First Qualified 8-Inch SiC Foundry Service for Fabless Designers - Tech Times",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.6
+      "freshness_hours": 9.8
     },
     {
       "title": "As America's tariff on Canada go live September 8, Canadian aerospace company Bombardier says: It values - The Times of India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 19.8
+      "freshness_hours": 20.9
     }
   ],
   "opportunities": [
@@ -392,5 +392,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-09T23:19:58.245933+00:00"
+  "landed_updated_utc": "2026-09-10T00:27:53.140138+00:00"
 }
