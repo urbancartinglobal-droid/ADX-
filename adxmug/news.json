@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-10T06:34:08.268626+00:00",
+  "updated_utc": "2026-09-10T12:34:32.582160+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI Withdraws Over Rs 6 Tn Liquidity After Record Surplus - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2Q5Y1JBTXRpemxkdk1iQUJ5RDlOS1FIbnMwQ2xNSXd3dGR1R2hhU3pVUTJHbHVzdi1mckdXd1FxdGNBZkFNYnF3c0hrUUhyUDB1SEFVTjZWQjRGdldkUV81XzVYNmJFLW13YVV0eHVJZk1FOHBUZ0dwbVFHYVR1R2dLdmJ1SkxlbHRiQzhMblpRNzhWc3VISE1vTThYQzFvdHdj?oc=5",
-      "published": "Thu, 10 Sep 2026 07:24:52 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.1
-    },
-    {
-      "title": "USFDA clears Abbott’s TactiFlex duo dual-technology catheter for atrial fibrillation - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHY1WnlBUVdpU2lOMDF2SFhERHJkVmIwZnk1MzMxSHVvQWhoWDZwRERnT0tTTG1nb3BLdGp2WThDMjI0dmFoNzF5cFFURzB1SVRZemEzNE4tSzkyZjI0UVhMLUZkMVpOV0wwUjVKY3ZTcnRzY3BHbWpzNVJ4dC1GZmhTNXptbzFMd1VEU0lXTjY0dkkxT0ZqT1R4dk9hbG5UbVRrY05ZLTJCQmp6UUZqNENOdXNQU0ZLYW5uSVlORWR1LWZWNmfSAdoBQVVfeXFMTzdwZENfVEJMQjgxT1lXVHpKY1ZfaUhhNGJBckpRNzU2ZkVHNlp1bjdrcGtDLTRqcUsyZjVoUzNwYW1ydnBfSDFfdmpXSExaaTJiRlB2aC1HbFNPeXlBRVdLdTc0aDRLTnJxa2JxcUdTVXJFUWRoT29pN0tpb0taM2dsZ0NXZjBMREt5SHg1V3pTa2N5WHFkUnduSDNSMzZGWFpYdHIxSzdCV1dveGUwTk9sRU1hVE1lbVBfNjRWMUNnbUhFck9Nb1JDdWxoUUhqcjhHTm5wTDZEUEE?oc=5",
-      "published": "Thu, 10 Sep 2026 02:36:39 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 9.9
-    },
-    {
-      "title": "CERC Approves Tariff For Power Grid Rajasthan Solar Evacuation Asset - constructionworld.in",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM3N1Q0lFbTZkRFFSa1FMYjBLa0FNLWNRTmpnR1NEWW1PRlpXeW9lWFg5dHQtYmJQZlFUbXF5Z3ktODZfR19QVFNnVW5DUXVMUUZNcE4zY00wNmYycGhBUzBuOVdsOTRnYVZ4Mzc2RTR2bXIyQW1zX2hWWmRiVUc0MmtSRmVQMWFtV2Q4OFAxem9uZU04OWdRckJQLWNpRGtSMi1feG1naG5abjh6aWZKejZ3bGhHRTlfOGh0RnV2bkdQYVVQQl9BNXQyaDJTbU9SRjZQTUhfMHE3OVI4eTdVMV9RdzRxa1dtUmZUQw?oc=5",
-      "published": "Thu, 10 Sep 2026 06:26:10 GMT",
-      "source": "constructionworld.in",
-      "sector": "Power & Grid",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 6.0
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -82,8 +39,8 @@
           "companies": []
         },
         {
-          "title": "India eases raw sugar import rules as it cracks down on hoarding - economictimes.com",
-          "source": "economictimes.com",
+          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
+          "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
           "triggers": [
             "POLICY",
@@ -403,6 +360,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-10T12:28:28.171933+00:00"
+  ]
 }
