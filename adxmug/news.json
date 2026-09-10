@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-09-10T12:34:32.582160+00:00",
+  "updated_utc": "2026-09-10T18:29:35.549999+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Wafer Storage Pods Market To 2035: Growth Driven by Semiconductor Capacity Expansion - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmZ2Z1IxaFUxRUJGaE45QjloRVVMYkdFejNjd3ZpSmtFaDVhYlBIOVRVVjE0YW53aFBPc2FZdTJXMF9tTFhVWFRsM1d1b0xXY2tnZnhTRGYxM3laTloxMEk5YktqRnRHWXllZS1TU1hzTzBWRFczcG1EdWxoZ05vQVFtQ1Q5RzQ2Uk1CMU0xUUtUZlBzcDFrdGZKTl8tZ1V0dGdWdDViSHV2eThISTNSUDBrMU5CMWlB?oc=5",
-      "published": "Thu, 10 Sep 2026 17:41:20 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
-    },
-    {
-      "title": "RBI announces 26-day VRRR auction to absorb Rs 5 lakh crore surplus liquidity - economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTF95S3FSZExYYnFnMnJ5QnpzWWdGelhwVlB1OW9sd25nQldCeVJlWU51Nk9ONU1SdmhhdUdTX1RMUTRzMXcxMHl4N3ViUFd0ZFR1ZXBmRjQteUFTOUplZ1RxQTVqQmNiOC1jX1l6YnJ3QWNuVHRzNGZST2xvOGNxV1RuWEZPZ295ZVk5cUUzU0FsaUYwbDVTWndKcVZHdVNaSV9KakhTQ0YxLXVFUk1SeDA0ZjNrOGtQNVBNZV82WDc3dDBiZnRxRzFuaDkyNDNrMmE4Yy1YeThwTU1tVG00T2JsQkk3VnfSAewBQVVfeXFMT1VOMDFBY3U3TF9fRTFWdzhYWjZkUGFFZXJSSEZSaUNVeTExQmxYcjQzSC0tS0VhdjIwbEJIU3FxWV93SVozNE9IUXNNbkFLUlRBNWFxZjMtSllwbk5OZHJ1cWxtSGl3R2V3U0wtX2R5cnAxd2pDQU1nWUV5QmhPNTdPZ1BVT3VtR3BpQTJHeGtCSEtNYkJVS1BMZUI2RDBhMnBZLXVjdGxXY0pOTHVfaGdodUNJa3hZWEx6cE9iYWdqd0hRS0pPUnVLZ0M5NnROMkxYcjJ4aXJ2QWRxaTBsV05xT1FqdkhOODZSMGg?oc=5",
-      "published": "Thu, 10 Sep 2026 14:53:41 GMT",
-      "source": "economictimes.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.5
-    },
-    {
-      "title": "USFDA clears Abbott’s TactiFlex duo dual-technology catheter for atrial fibrillation - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOHJ0Z2duZVllenJjVk1wdzhFZ0ZCRmxRSUNmVmpmU2VqeXhObVZGZzlydHdhOVZmT3J2LWNWYnpLbzhkM2hWbEJ1MEN2MzdqbTM5UTgzZ0FWamFRMkJGSmJqbWpvRlZ2SGZVRVczaHFLVmYwZm51eFdaNVctZ2dXUF9fX2Juck1tRGhpblAxc0txcFlEODZDSmc4SlpRWU5FMXBCWDR4MjA1M3FtRmdjeGZvRl9QRUQxM1V2bHpzSVp1d3dveExrVzNOMXcxYXJmdXR30gHaAUFVX3lxTE83cGRDX1RCTEI4MU9ZV1R6SmNWX2lIYTRiQXJKUTc1NmZFRzZadW43a3BrQy00anFLMmY1aFMzcGFtcnZwX0gxX3ZqV0hMWmkyYkZQdmgtR2xTT3l5QUVXS3U3NGg0S05ycWticXFHU1VyRVFkaE9vaTdLaW9LWjNnbGdDV2YwTERLeUh4NVd6U2tjeVhxZFJ3bkgzUjM2RlhaWHRyMUs3QldXb3hlME5PbEVNYVRNZW1QXzY0VjFDZ21IRXJPTW9SQ3VsaFFIanI4R05ucEw2RFBB?oc=5",
-      "published": "Thu, 10 Sep 2026 04:27:57 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 13.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
       "score": 76,
-      "article_count": 6,
-      "trigger_count": 12,
+      "article_count": 5,
+      "trigger_count": 9,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -72,8 +29,8 @@
           "companies": []
         },
         {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - a2ztaxcorp.net",
-          "source": "a2ztaxcorp.net",
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
           "triggers": [
             "POLICY",
@@ -92,17 +49,6 @@
           "companies": []
         },
         {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
-          "source": "ChiniMandi",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
           "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
           "source": "Global Agriculture",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
@@ -110,13 +56,22 @@
             "TRADE"
           ],
           "companies": []
+        },
+        {
+          "title": "Sugar price surge may hit ethanol output as mills eye better returns - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXNSd3p3ZE5CRzMxWWNjekJELU1BbkhnTE9OWDRqc2tjUHFUTWdWX0d6QkpjZ19kMnpHMjljOXBHMS14NTB1WjhoMXh0Y3cwdE04ZktOdGctUGFjd2p1MkpNZmMzeFYtU0RiTktjTFdBV3I5ZWVwbzlRT091VWVCRHhPdTdveUNHQTN0SVhPVjJRMkk1VldrelZpM1Z2N2ltVjlzZ1hVQXBSOS1Xd1pXenNOVGRIeEFfc1lZOE1vZXptT19YYk0tcXNTZWQzYXp2OFHSAdcBQVVfeXFMTThyU29Nc2ZaVjV3OVgwRUg2OGp5bTkxQ1J5RVJhMndlV0h3X0t4Q3hVN0ZxS091VS1EcGpvVnVBQ05xX1BWNE5rRmNsU0dDYkJtQjgzSHpza1hMQTVjaHprc09yOHRCM2ZRX1dFVGF5M3BhM3o0SmFwWDllbXA1U3BHLTIxVE5JQkVEMFowVHJzcm5BMTRHNmR2Yldibnh0bkMxMFk3c0NteGxTOG9fZTA1b0QtcmhEMFRYejdOUFJYRndwMGNsN0lWcWtyNUxZU19lWmVfWWc?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
         }
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 6 independent sources.",
-      "source_count": 6,
-      "story_clusters": 6,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
+      "source_count": 5,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -127,9 +82,9 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 64,
-      "article_count": 5,
-      "trigger_count": 10,
+      "score": 60,
+      "article_count": 4,
+      "trigger_count": 8,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -140,16 +95,6 @@
           "title": "RBI liquidity boost cuts wholesale funding costs, but banks remain locked in deposit battle - bfsi.economictimes.indiatimes.com",
           "source": "bfsi.economictimes.indiatimes.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVUQzhPcVlRMHVrcU9MS0xFUGdteVpyd21JVFoxSGhRdWJQdnEyZHJXTlZVYV9jMWVoU2ppSzNDUDFPUzl6cUoxdm4yeGVVVnlfTjdId2l4cTFOR1B4WFdNemFabEctNEZ4a1FReEtSSGc0aExOUHpRc2I5RWxIUjh5LS1XSU9kSURiV0dydFFDdlczdmZkMDZFNV9oNU5mSjNrMy1zdUdkOWp6Z1dLLU1GRGxzSEpOOGxzUDFuYW1uM1nSAcgBQVVfeXFMT2ZLQm1rdWctbml2ekZxZjJCc1ZSVnBSTTMxU2hpeUUyRGp3OWJOT1hPMTlxcW1nTUpOVFMwMVRsWm5EeGI5N2NLNU1jVkFfRjNfOTlnWnkyS2J0a1lYRWs4VHM4QWFEdFFEYnpYY0YxQTU1ZjR6NzdVUFdnWVh6NzFmd2FXUmhaQU5hdFJwMG96a0hkSXQ0cG16R0hkdVhnRDktZ01aT3dZd0FEbnJiYThjbjBQRlRwYmJid0lQOWw0dktQbnpnVUk?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
@@ -189,9 +134,9 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 5,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -271,8 +216,8 @@
       ],
       "evidence": [
         {
-          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
-          "source": "Energetica India Magazine",
+          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - energetica-india.net",
+          "source": "energetica-india.net",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
           "triggers": [
             "CAPEX"
@@ -301,8 +246,8 @@
       ],
       "evidence": [
         {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
-          "source": "POWER Magazine",
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - powermag.com",
+          "source": "powermag.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
           "triggers": [
             "PRICING"
@@ -403,6 +348,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-10T18:23:38.348622+00:00"
+  ]
 }
