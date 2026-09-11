@@ -17,13 +17,13 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
+      "freshness_hours": 1.9
     },
     {
-      "title": "RBI's FCNR(B) window boosts cash surplus, creating a new liquidity management challenge - tradersunion.com",
+      "title": "RBI's FCNR(B) window boosts cash surplus, creating a new liquidity management challenge - Traders Union",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONk5hS29FeVVmbVhNVTdGZzUxQzN5OVBKNTVqdnBsTnZ5a3FZYUc3NU9VSFdaVDhsRk1DM1VEaUN0VkdySWFVRnNwVlpKdzlIQVBxV19EdDg4cnQ0VWpqaURHVmt5VnFsa0xoREtyYU14Rm1FdEh0cjUyOHZtV3hQX3dmNnRQM1pEbGZYdE5xemVIOEdndHFV?oc=5",
       "published": "Fri, 11 Sep 2026 06:28:23 GMT",
-      "source": "tradersunion.com",
+      "source": "Traders Union",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,13 +31,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
+      "freshness_hours": 1.9
     },
     {
-      "title": "Thermal Abatement Chamber Liners Market Forecast to 2035: Semiconductor Fab Expansion Drives 5.2% CAGR - indexbox.io",
+      "title": "Thermal Abatement Chamber Liners Market Forecast to 2035: Semiconductor Fab Expansion Drives 5.2% CAGR - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGNYODhXbmVydWVmSGk3ZVRaVXlPQVZRcVd1aURoSE5iS3FzZjdXZ00wNDN6bnBCeHFpWlBiaUtWY25PRDNyRUdpeHVoSkg3U3F6eWRXS0JrcFFlTDUzM1pBTTA5MHMwLTBhUFk3VDFsNkY4eHFIWTBMZ2pOV2o3akwwc0I2NE1iU09tSnFnUGxVMFZialJuR0Iwa1FqRlV4TnJFNGxIa0ZYLTQ5RC1IX2JiU080aXZEVnJCaGdOQkRnQjVIOG5vaVh3?oc=5",
       "published": "Thu, 10 Sep 2026 12:31:11 GMT",
-      "source": "indexbox.io",
+      "source": "IndexBox",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 18.9
+      "freshness_hours": 19.9
     }
   ],
   "opportunities": [
@@ -402,5 +402,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-11T07:22:21.023774+00:00"
+  "landed_updated_utc": "2026-09-11T08:24:00.777519+00:00"
 }
