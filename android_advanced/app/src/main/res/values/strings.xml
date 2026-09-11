@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ADX AI Assistant</string>
+    <string name="accessibility_service_description">ADX uses accessibility only for assistant actions you explicitly enable.</string>
+</resources>
