@@ -17,26 +17,12 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.1
+      "freshness_hours": 12.1
     },
     {
-      "title": "RBI Announces OMO Bond Sales Worth Rs 1 Lakh Crore To Absorb Excess Liquidity - Ommcom News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjVmRWVyR1pucTNLUm9feXdGNDVkWTF6TUljemlWbkszTUlScE51dk5EQUs1OHJvbWJDR29VWTgyMWhlX2MtOHBMeEhMTnJ6MFppVGwtSlZpUGhkaGJQclhrdWZtdFlqQzlPTDYxbVJCSTA5WTN5aGNFRHZwTFlVd0hNc2hHNzZNVWEtUUNhZDNpT3JLUFF4anNpYTdtbkRYYTFMeFJWQWdHczVpYlh4ZDgwOHNxQQ?oc=5",
-      "published": "Fri, 11 Sep 2026 16:16:13 GMT",
-      "source": "Ommcom News",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.1
-    },
-    {
-      "title": "Liquid Argon Transfer Hoses Market To 2035: Semiconductor Demand Supports Expansion - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjc5QmJUUjZYbGtPZl9DNGFCUjRvT1hnRmM3MHRZRkp0TjJjMEZLMV8yeVc0NGRkNkd5QnA2Z3U4aHFCRVdNSjdYS1hXdWlwTHJJb0NONnM3UkdKUndSanFvS3BvVzVfNWV6NWZvOVlNUGdEMkJGWEVva1plb3FDcEU2d001OUNjM0VYQmFsS0h0d0RNZ1NiODFLTElaQ185ODJSVFZvNlpIV3VrQ1R2d3RYcVdKemxoVVFxZDkycDI?oc=5",
-      "published": "Fri, 11 Sep 2026 20:46:22 GMT",
+      "title": "Polyester Open-Cell Sponge Market Forecast to 2035: Demand Accelerates on Semiconductor Fab Expansion and Automation - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVzVsb0Z4dUU4a2RuUXR0dFZJRHh1TzlJSkVteFJDQk9FbDV1OFJCV21yRldLU1FnUXVxTHRfM3ZUQl91RzJVbmtmZGRseWREcmtmUjRjc1N4dkJCejRFUkR3dGZZbGRXc2lSUTh1M0RBbDlOcUJaOGJURHBBRW44VUVJdkVkQXBBQ21WYUxUWEFqZzl1bldXRnJyRE96aVZPd2ZHekwzd1FFaHZJZ3d4c3JhQ2tIZmhEOXRVbkxnU2JDdVIwNzVOb3lPOVJacjVKa3BVeWwyeDZJUXQyZ1E?oc=5",
+      "published": "Fri, 11 Sep 2026 21:51:17 GMT",
       "source": "IndexBox",
       "sector": "Electronics & Semiconductors",
       "triggers": [
@@ -45,7 +31,21 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.6
+      "freshness_hours": 0.5
+    },
+    {
+      "title": "RBI announces OMO bond sales worth Rs 1 lakh crore to absorb excess liquidity - Cityairnews",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2dXTDZuekhHU2YyWktCUWhXQ3FTU2EyVDk0WWtqWmlfZTNLbWw5ZTZ1d2NSRGk4STZ0eHZ5VFQ1ckNXVTZPOHVPMVRURlBJVTY0aUpISDZPNFNHV1JkUEhGNWRGU203LU93LWwteW1ieTAyeklPSElWVzV6N0Y1UDVIcHNBZkRfWDNIS0VETHRrb08wMV9jSW9PMlY5SnhnTnMzTFlvT29WSWpzQXhLSEVPMA?oc=5",
+      "published": "Fri, 11 Sep 2026 15:09:08 GMT",
+      "source": "Cityairnews",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 7.2
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-11T21:20:07.841645+00:00"
+  "landed_updated_utc": "2026-09-11T22:20:49.330187+00:00"
 }
