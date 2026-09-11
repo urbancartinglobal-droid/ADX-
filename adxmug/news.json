@@ -17,13 +17,13 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 10.1
+      "freshness_hours": 11.1
     },
     {
-      "title": "RBI Announces Rs 1 Lakh Cr OMO Sales to Manage Liquidity - Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNG9IQ2NwM2ZqWUhFbDNINGwwWElHMDZZWF9nOU5fMW50Y3BBVVNlcThJRE9teVVQSkJjMXl0M3lPVFFTQmx2bFZiZm1NSjdqUVZ2SmdoMFc4ZU1lbnBweHFUY1JEcjVHTHU3QzI1blgtSFlVd2p6SW5TVDFNR25GRVpNcGh0VWpoZk5lc3Itdjc1UVh3S1hVa2c0T3Z5MHhJYlNIcHZPQ2tGUlZh0gGyAUFVX3lxTE9qUlBUQ0xZNUJkZ0RBLXRaSi1KVnh5SmNBXy1oNFhqT2pweXVqdk9RT3k2X1gwbEFUNFQwRDN5YWJvVENfb2RnVDRsMTgtWXdWekZiSDY4NThtckRGNm5WYWhHdXgtRzkzcS16a2lwRTQyOHpCbktRQV9XZzV4OURndEQteFVsd1VtZ2lSTlJuNWpUOUxxS0RjaWdNa3JhN2k3dnZLMHlZMFExeDZORkFzZXc?oc=5",
-      "published": "Fri, 11 Sep 2026 14:40:38 GMT",
-      "source": "Rediff MoneyWiz",
+      "title": "RBI Announces OMO Bond Sales Worth Rs 1 Lakh Crore To Absorb Excess Liquidity - Ommcom News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjVmRWVyR1pucTNLUm9feXdGNDVkWTF6TUljemlWbkszTUlScE51dk5EQUs1OHJvbWJDR29VWTgyMWhlX2MtOHBMeEhMTnJ6MFppVGwtSlZpUGhkaGJQclhrdWZtdFlqQzlPTDYxbVJCSTA5WTN5aGNFRHZwTFlVd0hNc2hHNzZNVWEtUUNhZDNpT3JLUFF4anNpYTdtbkRYYTFMeFJWQWdHczVpYlh4ZDgwOHNxQQ?oc=5",
+      "published": "Fri, 11 Sep 2026 16:16:13 GMT",
+      "source": "Ommcom News",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,21 +31,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.7
+      "freshness_hours": 5.1
     },
     {
-      "title": "India approves $11.6 billion in military purchases, mostly from domestic manufacturers - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXpjQW5HWUYxSGZkckllYVBiVDI4RmlhZDktZXM2cUlqcDdIODlYVnpvd0Vab0hCMzJSSk9XNXpUbXpSdVVOYm5VNDRST3oycFV4MDVibUpkYzVBbG11Ul9tWXhnTnFKcFRXcTZOQkZBMTVDSnNKNkZ0WkNVdm5zQmVEMGFYdWhaWWVtVG85Mms4LV9uMlFuNG11WkFzVXdraDl1dUZGdk5GRkpvOGdQRVpB?oc=5",
-      "published": "Fri, 11 Sep 2026 10:59:20 GMT",
-      "source": "UA.NEWS",
-      "sector": "Defence & Aerospace",
+      "title": "Liquid Argon Transfer Hoses Market To 2035: Semiconductor Demand Supports Expansion - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjc5QmJUUjZYbGtPZl9DNGFCUjRvT1hnRmM3MHRZRkp0TjJjMEZLMV8yeVc0NGRkNkd5QnA2Z3U4aHFCRVdNSjdYS1hXdWlwTHJJb0NONnM3UkdKUndSanFvS3BvVzVfNWV6NWZvOVlNUGdEMkJGWEVva1plb3FDcEU2d001OUNjM0VYQmFsS0h0d0RNZ1NiODFLTElaQ185ODJSVFZvNlpIV3VrQ1R2d3RYcVdKemxoVVFxZDkycDI?oc=5",
+      "published": "Fri, 11 Sep 2026 20:46:22 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 9.4
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 0.6
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-11T20:21:36.707425+00:00"
+  "landed_updated_utc": "2026-09-11T21:20:07.841645+00:00"
 }
