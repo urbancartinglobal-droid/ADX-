@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-11T00:34:45.491001+00:00",
+  "updated_utc": "2026-09-11T06:33:15.838134+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Alembic Pharma clears USFDA inspection with no 483s - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWWt6WXVZdF9hR29Yd2dfbldpeF82WjRkcGU3bHRHWkZiam11UjB5RHJlMVVyNWxIZDVYNW5wWkJRNEtwSHdGRmV2cjUtVHAyRVZkVk9QUDhZcUszbmxXRjl0LXNDQ052YTFVTC16WWJHU0l5ZjVsZF9ZRElmNmNHSTVVVTVWelhKS0VpdVN4aGVwUGlET1BLbEg2TENwN1hGUEVibHEzRWF4azdyMWZPWURWYVUyeWt5QUh3b2JKckttaGlMRzZfOS02RHRaamJwZFJzYS02bDF6M0xMeXlZa2U0S1draEtpeUpqS2RSRGJWYVhZZ2lN?oc=5",
-      "published": "Fri, 11 Sep 2026 06:17:04 GMT",
-      "source": "Business Upturn",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 0.2
-    },
-    {
-      "title": "RBI announces 26-day VRRR auction to absorb Rs 5 lakh crore surplus liquidity - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVU4wMUFjdTdMX19FMVZ3OFhaNmRQYUVlclJIRlJpQ1V5MTFCbFhyNDNILS1LRWF2MjBsQkhTcXFZX3dJWjM0T0hRc01uQUtSVEE1YXFmMy1KWXBuTk5kcnVxbG1IaXdHZXdTTC1fZHlycDF3akNBTWdZRXlCaE81N09nUFVPdW1HcGlBMkd4a0JIS01iQlVLUExlQjZEMGEycFktdWN0bFdjSk5MdV9oZ2h1Q0lreFlYTHpwT2JhZ2p3SFFLSk9SdUtnQzk2dE4yTFhyMnhpcnZBZHFpMGxXTnFPUWp2SE44NlIwaNIB7AFBVV95cUxPVU4wMUFjdTdMX19FMVZ3OFhaNmRQYUVlclJIRlJpQ1V5MTFCbFhyNDNILS1LRWF2MjBsQkhTcXFZX3dJWjM0T0hRc01uQUtSVEE1YXFmMy1KWXBuTk5kcnVxbG1IaXdHZXdTTC1fZHlycDF3akNBTWdZRXlCaE81N09nUFVPdW1HcGlBMkd4a0JIS01iQlVLUExlQjZEMGEycFktdWN0bFdjSk5MdV9oZ2h1Q0lreFlYTHpwT2JhZ2p3SFFLSk9SdUtnQzk2dE4yTFhyMnhpcnZBZHFpMGxXTnFPUWp2SE44NlIwaA?oc=5",
-      "published": "Thu, 10 Sep 2026 14:53:00 GMT",
-      "source": "The Economic Times",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.6
-    },
-    {
-      "title": "Thermal Abatement Chamber Liners Market Forecast to 2035: Semiconductor Fab Expansion Drives 5.2% CAGR - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGNYODhXbmVydWVmSGk3ZVRaVXlPQVZRcVd1aURoSE5iS3FzZjdXZ00wNDN6bnBCeHFpWlBiaUtWY25PRDNyRUdpeHVoSkg3U3F6eWRXS0JrcFFlTDUzM1pBTTA5MHMwLTBhUFk3VDFsNkY4eHFIWTBMZ2pOV2o3akwwc0I2NE1iU09tSnFnUGxVMFZialJuR0Iwa1FqRlV4TnJFNGxIa0ZYLTQ5RC1IX2JiU080aXZEVnJCaGdOQkRnQjVIOG5vaVh3?oc=5",
-      "published": "Thu, 10 Sep 2026 12:31:11 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 17.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -401,6 +358,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-11T06:27:02.501331+00:00"
+  ]
 }
