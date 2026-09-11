@@ -17,7 +17,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.1
+      "freshness_hours": 10.1
     },
     {
       "title": "RBI Announces Rs 1 Lakh Cr OMO Sales to Manage Liquidity - Rediff MoneyWiz",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.7
+      "freshness_hours": 5.7
     },
     {
       "title": "India approves $11.6 billion in military purchases, mostly from domestic manufacturers - UA.NEWS",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 8.3
+      "freshness_hours": 9.4
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-11T19:20:02.538598+00:00"
+  "landed_updated_utc": "2026-09-11T20:21:36.707425+00:00"
 }
