@@ -17,13 +17,13 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.5
+      "freshness_hours": 4.5
     },
     {
-      "title": "Exclusive | RBI Governor says won't rule out any tool to withdraw surplus liquidity - CNBC TV18 - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclV2RURhSmpDN1hvMnlGVVNJWmtmTlVCNnNjNkVfWjlpeTM3VU9PdFVlVXBOQ2VqUG44Nkp6bGpWaTdBbzl0ZUR4VjktRmw1a01Tb0s0S1FJdXcyT3lWbXlwYUszM3lKWmtBTnVWbm15RnFVYVFtYzd2dlVDTnItNTRVSGFwYzhfV3VfY1RUWG9EV0NaZ25QWjNGeFRoZUxDWEk0aTNlal9hcTFRbWVxRWVn?oc=5",
-      "published": "Fri, 11 Sep 2026 10:10:36 GMT",
-      "source": "LinkedIn",
+      "title": "RBI announces ₹1 lakh crore OMO sale after Governor flags liquidity tools - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHJEQW1MRjRoVUpndExkd2hTZG95c2xuRE5sWnVIYjhLV0djbzFRMUJzeFdZS3Nlc3V3N0JXaWM4YjR1N0R6TEE2bmg3OTNXcVZIOTAxSUdLTkRBRkUzXzdTUUhaeFBvTWR0U0ZPNkc1WjlpUHNTbW1vQTduaVhzYlc2cTMza1JrZV9tZ3hPTTFzODRBT3BzSy1COEN0amp4ZlFaVG1vUWhtSDRSQzVLdlU5Vk9kd2ZrQ2owRXFR0gHDAUFVX3lxTE94bTFwdkNYRVE0UDhTdUNtVU15QWpfaHNSS1Q2UEs0ZUVEN0tRdGRwMnN0NHM5cGdoUWMtSEF6UG95bk9CRzg4OGg5WWdITU13ZEdvZXBHd2RIVXdkMEw0ZWdFY1VEVnVEd3NCS1Z4TTVNamtZSTFjU3Z1SXk2b3prRkhFSF9DR3ZxTnREcWZsZlFhYl8yUWd2UTF1MGd6dUhYTU1mSERiRWJHWFMyQWNNdExGTkRWTkxJTG1BWElTWFNwRQ?oc=5",
+      "published": "Fri, 11 Sep 2026 14:01:09 GMT",
+      "source": "CNBC TV18",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
+      "freshness_hours": 0.4
     },
     {
       "title": "India approves $11.6 billion in military purchases, mostly from domestic manufacturers - UA.NEWS",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.4
+      "freshness_hours": 3.4
     }
   ],
   "opportunities": [
@@ -392,5 +392,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-11T13:22:36.940588+00:00"
+  "landed_updated_utc": "2026-09-11T14:23:01.814088+00:00"
 }
