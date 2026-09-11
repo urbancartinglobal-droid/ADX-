@@ -17,7 +17,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 1.9
+      "freshness_hours": 2.9
     },
     {
       "title": "RBI's FCNR(B) window boosts cash surplus, creating a new liquidity management challenge - Traders Union",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.9
+      "freshness_hours": 2.9
     },
     {
       "title": "Thermal Abatement Chamber Liners Market Forecast to 2035: Semiconductor Fab Expansion Drives 5.2% CAGR - IndexBox",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 19.9
+      "freshness_hours": 20.9
     }
   ],
   "opportunities": [
@@ -402,5 +402,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-11T08:24:00.777519+00:00"
+  "landed_updated_utc": "2026-09-11T09:22:32.273009+00:00"
 }
