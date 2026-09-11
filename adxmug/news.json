@@ -4,50 +4,7 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Alembic Pharmaceuticals Completes Unannounced USFDA Bioequivalence Inspection With No Form 483 Remarks - Sahi",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpEcG14VEdqS093V2M5bHl0enhXa3VrT3BoVVNrRVpIaTY5eWo2RzVYTjJQbWtZLURzcmNWLXk1alFVekkwYmE0b0diSE5YdmRWdWw3RGdja21SeDZzVUUzZ3JLSy15djczdFJQay0tQkpsaTdnT291dUdYaVZsN0kwZ05DT2JDcFNydjRDSE9STFNSbk9XWDFUSTJhaUZINWNvZFVWRmxGcW5wTkRGQjhkQnk0Y3lWdVNvcFNVY1BGbUQtMm1HY2M4YmNuR044Vi1VMUxRQTg?oc=5",
-      "published": "Fri, 11 Sep 2026 06:29:25 GMT",
-      "source": "Sahi",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.9
-    },
-    {
-      "title": "Exclusive | RBI Governor says won't rule out any tool to withdraw surplus liquidity - CNBC TV18 - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclV2RURhSmpDN1hvMnlGVVNJWmtmTlVCNnNjNkVfWjlpeTM3VU9PdFVlVXBOQ2VqUG44Nkp6bGpWaTdBbzl0ZUR4VjktRmw1a01Tb0s0S1FJdXcyT3lWbXlwYUszM3lKWmtBTnVWbm15RnFVYVFtYzd2dlVDTnItNTRVSGFwYzhfV3VfY1RUWG9EV0NaZ25QWjNGeFRoZUxDWEk0aTNlal9hcTFRbWVxRWVn?oc=5",
-      "published": "Fri, 11 Sep 2026 10:10:36 GMT",
-      "source": "LinkedIn",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.2
-    },
-    {
-      "title": "Thermal Abatement Chamber Liners Market Forecast to 2035: Semiconductor Fab Expansion Drives 5.2% CAGR - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGNYODhXbmVydWVmSGk3ZVRaVXlPQVZRcVd1aURoSE5iS3FzZjdXZ00wNDN6bnBCeHFpWlBiaUtWY25PRDNyRUdpeHVoSkg3U3F6eWRXS0JrcFFlTDUzM1pBTTA5MHMwLTBhUFk3VDFsNkY4eHFIWTBMZ2pOV2o3akwwc0I2NE1iU09tSnFnUGxVMFZialJuR0Iwa1FqRlV4TnJFNGxIa0ZYLTQ5RC1IX2JiU080aXZEVnJCaGdOQkRnQjVIOG5vaVh3?oc=5",
-      "published": "Thu, 10 Sep 2026 12:31:11 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 21.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -402,5 +359,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-11T10:22:31.166165+00:00"
+  "landed_updated_utc": "2026-09-11T11:21:21.499422+00:00"
 }
