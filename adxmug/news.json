@@ -17,13 +17,13 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 2.9
+      "freshness_hours": 3.9
     },
     {
-      "title": "RBI's FCNR(B) window boosts cash surplus, creating a new liquidity management challenge - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONk5hS29FeVVmbVhNVTdGZzUxQzN5OVBKNTVqdnBsTnZ5a3FZYUc3NU9VSFdaVDhsRk1DM1VEaUN0VkdySWFVRnNwVlpKdzlIQVBxV19EdDg4cnQ0VWpqaURHVmt5VnFsa0xoREtyYU14Rm1FdEh0cjUyOHZtV3hQX3dmNnRQM1pEbGZYdE5xemVIOEdndHFV?oc=5",
-      "published": "Fri, 11 Sep 2026 06:28:23 GMT",
-      "source": "Traders Union",
+      "title": "Exclusive | RBI Governor says won't rule out any tool to withdraw surplus liquidity - CNBC TV18 - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclV2RURhSmpDN1hvMnlGVVNJWmtmTlVCNnNjNkVfWjlpeTM3VU9PdFVlVXBOQ2VqUG44Nkp6bGpWaTdBbzl0ZUR4VjktRmw1a01Tb0s0S1FJdXcyT3lWbXlwYUszM3lKWmtBTnVWbm15RnFVYVFtYzd2dlVDTnItNTRVSGFwYzhfV3VfY1RUWG9EV0NaZ25QWjNGeFRoZUxDWEk0aTNlal9hcTFRbWVxRWVn?oc=5",
+      "published": "Fri, 11 Sep 2026 10:10:36 GMT",
+      "source": "LinkedIn",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.9
+      "freshness_hours": 0.2
     },
     {
       "title": "Thermal Abatement Chamber Liners Market Forecast to 2035: Semiconductor Fab Expansion Drives 5.2% CAGR - IndexBox",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 20.9
+      "freshness_hours": 21.9
     }
   ],
   "opportunities": [
@@ -402,5 +402,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-11T09:22:32.273009+00:00"
+  "landed_updated_utc": "2026-09-11T10:22:31.166165+00:00"
 }
