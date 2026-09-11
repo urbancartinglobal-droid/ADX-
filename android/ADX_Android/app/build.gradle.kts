@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace = "com.adx.voice"
-    compileSdk = 34
+    compileSdk = 35
     defaultConfig {
         applicationId = "com.adx.voice"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
     }
