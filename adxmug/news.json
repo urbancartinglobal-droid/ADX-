@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-12T00:33:23.920426+00:00",
+  "updated_utc": "2026-09-12T06:31:35.867613+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI To Sell Rs 1 Lakh Crore Of Government Securities In September As Banking System Flush With Surplus Liquidity - Swarajyamag",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRnZWLTEycS13TURFa21YcElic0FPbmtVU2s1eU8tdFl4OTJnRWNaTV9oOXNhLS1WU3h1ckJZYVlRYTQ2VGNnRGIwa08ycFRuU3hwYlRKN1d1U001Z1d5djR1ZU1QYUs0ZTVidlMtVkF4U1FkbmN0M2Q1R09qeW9XVmJhQkgxLXQ5WGdZLXJRRkJDMFlNcUpJTlRMRUI0WUZnRmdVQmpxbndpSnlNM3diUFZ3M0MzMHo1OXNmYl9ub2tNYVVuSTh5RkFPTjU1R1B5a2hQSEJzcGpWMmlpdVNlVG5iS05rMjBHRm5xM9IB7AFBVV95cUxQRnZWLTEycS13TURFa21YcElic0FPbmtVU2s1eU8tdFl4OTJnRWNaTV9oOXNhLS1WU3h1ckJZYVlRYTQ2VGNnRGIwa08ycFRuU3hwYlRKN1d1U001Z1d5djR1ZU1QYUs0ZTVidlMtVkF4U1FkbmN0M2Q1R09qeW9XVmJhQkgxLXQ5WGdZLXJRRkJDMFlNcUpJTlRMRUI0WUZnRmdVQmpxbndpSnlNM3diUFZ3M0MzMHo1OXNmYl9ub2tNYVVuSTh5RkFPTjU1R1B5a2hQSEJzcGpWMmlpdVNlVG5iS05rMjBHRm5xMw?oc=5",
-      "published": "Sat, 12 Sep 2026 05:12:31 GMT",
-      "source": "Swarajyamag",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.2
-    },
-    {
-      "title": "Alembic Pharmaceuticals Completes Unannounced USFDA Bioequivalence Inspection With No Form 483 Remarks - Sahi",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpEcG14VEdqS093V2M5bHl0enhXa3VrT3BoVVNrRVpIaTY5eWo2RzVYTjJQbWtZLURzcmNWLXk1alFVekkwYmE0b0diSE5YdmRWdWw3RGdja21SeDZzVUUzZ3JLSy15djczdFJQay0tQkpsaTdnT291dUdYaVZsN0kwZ05DT2JDcFNydjRDSE9STFNSbk9XWDFUSTJhaUZINWNvZFVWRmxGcW5wTkRGQjhkQnk0Y3lWdVNvcFNVY1BGbUQtMm1HY2M4YmNuR044Vi1VMUxRQTg?oc=5",
-      "published": "Fri, 11 Sep 2026 07:20:24 GMT",
-      "source": "Sahi",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 23.1
-    },
-    {
-      "title": "Cellulose Derivatives Clarifier Market Forecast to 2035: Demand Accelerates on Semiconductor Capacity Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWVxR28zMDJVT1RJMHMzTWJsN2R6UTdnU1AyZjZEdlJWZmt2ajlaOHRITVgzWXE5OVdRNGtWZHo1MkszRHc1UkxLNnktMzA4M0NndUpGbV9BSnJkTGttaHNiU0dFbzdUaTVPNXZabVFVcEF5NHdnbnUyODBqVGY2Y1U3V1NDZzJFVzJQRUFjTjZSZ2VELWRYRFdzZU1kUHVjT2pRRzRNQjk2dlNJRzBfeWUxSGNTd0k0RlpCRS1qNXFjSU5laENPeUM1WGZzVFdNNW1vUkZpcw?oc=5",
-      "published": "Sat, 12 Sep 2026 00:36:23 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.8
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -82,8 +39,8 @@
           "companies": []
         },
         {
-          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
-          "source": "The Economic Times",
+          "title": "India eases raw sugar import rules as it cracks down on hoarding - economictimes.com",
+          "source": "economictimes.com",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
           "triggers": [
             "POLICY",
@@ -220,8 +177,8 @@
           "companies": []
         },
         {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajyamag",
-          "source": "Swarajyamag",
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - swarajyamag.com",
+          "source": "swarajyamag.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
           "triggers": [
             "POLICY",
@@ -280,8 +237,8 @@
           ]
         },
         {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - india-briefing.com",
-          "source": "india-briefing.com",
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
+          "source": "India Briefing",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
           "triggers": [
             "POLICY"
@@ -372,8 +329,8 @@
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
-          "source": "india-briefing.com",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
@@ -424,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-12T06:25:16.583616+00:00"
+  ]
 }
