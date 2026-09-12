@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.1
+      "freshness_hours": 12.1
     },
     {
       "title": "Alembic Pharma's Vadodara bioequivalence facility clears USFDA inspection - pharma.economictimes.indiatimes.com",
@@ -31,13 +31,13 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 14.3
+      "freshness_hours": 15.3
     },
     {
-      "title": "Polyester Open-Cell Sponge Market Forecast to 2035: Demand Accelerates on Semiconductor Fab Expansion and Automation - IndexBox",
+      "title": "Polyester Open-Cell Sponge Market Forecast to 2035: Demand Accelerates on Semiconductor Fab Expansion and Automation - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVzVsb0Z4dUU4a2RuUXR0dFZJRHh1TzlJSkVteFJDQk9FbDV1OFJCV21yRldLU1FnUXVxTHRfM3ZUQl91RzJVbmtmZGRseWREcmtmUjRjc1N4dkJCejRFUkR3dGZZbGRXc2lSUTh1M0RBbDlOcUJaOGJURHBBRW44VUVJdkVkQXBBQ21WYUxUWEFqZzl1bldXRnJyRE96aVZPd2ZHekwzd1FFaHZJZ3d4c3JhQ2tIZmhEOXRVbkxnU2JDdVIwNzVOb3lPOVJacjVKa3BVeWwyeDZJUXQyZ1E?oc=5",
       "published": "Fri, 11 Sep 2026 21:51:17 GMT",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 18.5
+      "freshness_hours": 19.5
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-12T16:21:06.467837+00:00"
+  "landed_updated_utc": "2026-09-12T17:19:40.244218+00:00"
 }
