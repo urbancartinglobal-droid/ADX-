@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI To Sell Rs 1 Lakh Crore Of Government Securities In September As Banking System Flush With Surplus Liquidity - Swarajyamag",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTTREZmt1SzY1RHI4cmc5czhZZzZfenUxdkpjNjIzeU1aS2w3QlhmaDlVaGNna0lEeDdfTFQzZ1hQMjBfRXF5cVg4azJCamRFYkkzR2N3YU4zbFktaXlGUlY4eXdkM3lWT210Z1lkVnY5WW1XYVUzUGg0TlpSNWVzeTg4OURRS0QyOTVYMkJaTXp1TmpiTHFnWDFNblp0UzhLbUl3dGhmVlFpVHAwM1dNQk9RUzVGd3U5R0hsaHJPQTM4R01yNkY0Q0ZqSm1NajFkN1BIck81eWhQRkI50gHsAUFVX3lxTFBGdlYtMTJxLXdNREVrbVhwSWJzQU9ua1VTazV5Ty10WXg5MmdFY1pNX2g5c2EtLVZTeHVyQllhWVFhNDZUY2dEYjBrTzJwVG5TeHBiVEo3V3VTTTVnV3l2NHVlTVBhSzRlNWJ2Uy1WQXhTUWRuY3QzZDVHT2p5b1dWYmFCSDEtdDlYZ1ktclFGQkMwWU1xSklOVExFQjRZRmdGZ1VCanFud2lKeU0zd2JQVnczQzMwejU5c2ZiX25va01hVW5JOHlGQU9ONTVHUHlraFBIQnNwalYyaWl1U2VUbmJLTmsyMEdGbnEz?oc=5",
+      "published": "Sat, 12 Sep 2026 05:12:31 GMT",
+      "source": "Swarajyamag",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.1
+    },
+    {
+      "title": "Alembic Pharmaceuticals Completes Unannounced USFDA Bioequivalence Inspection With No Form 483 Remarks - Sahi",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpEcG14VEdqS093V2M5bHl0enhXa3VrT3BoVVNrRVpIaTY5eWo2RzVYTjJQbWtZLURzcmNWLXk1alFVekkwYmE0b0diSE5YdmRWdWw3RGdja21SeDZzVUUzZ3JLSy15djczdFJQay0tQkpsaTdnT291dUdYaVZsN0kwZ05DT2JDcFNydjRDSE9STFNSbk9XWDFUSTJhaUZINWNvZFVWRmxGcW5wTkRGQjhkQnk0Y3lWdVNvcFNVY1BGbUQtMm1HY2M4YmNuR044Vi1VMUxRQTg?oc=5",
+      "published": "Fri, 11 Sep 2026 07:20:24 GMT",
+      "source": "Sahi",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 24.0
+    },
+    {
+      "title": "Polyester Open-Cell Sponge Market Forecast to 2035: Demand Accelerates on Semiconductor Fab Expansion and Automation - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVzVsb0Z4dUU4a2RuUXR0dFZJRHh1TzlJSkVteFJDQk9FbDV1OFJCV21yRldLU1FnUXVxTHRfM3ZUQl91RzJVbmtmZGRseWREcmtmUjRjc1N4dkJCejRFUkR3dGZZbGRXc2lSUTh1M0RBbDlOcUJaOGJURHBBRW44VUVJdkVkQXBBQ21WYUxUWEFqZzl1bldXRnJyRE96aVZPd2ZHekwzd1FFaHZJZ3d4c3JhQ2tIZmhEOXRVbkxnU2JDdVIwNzVOb3lPOVJacjVKa3BVeWwyeDZJUXQyZ1E?oc=5",
+      "published": "Fri, 11 Sep 2026 21:51:17 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 9.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -381,5 +424,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-12T07:19:16.557493+00:00"
 }
