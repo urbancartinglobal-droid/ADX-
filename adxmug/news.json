@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 14.1
+      "freshness_hours": 15.2
     },
     {
       "title": "Alembic Pharma's Vadodara bioequivalence facility clears USFDA inspection - pharma.economictimes.indiatimes.com",
@@ -31,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 17.3
+      "freshness_hours": 18.4
     },
     {
       "title": "Polyester Open-Cell Sponge Market Forecast to 2035: Demand Accelerates on Semiconductor Fab Expansion and Automation - IndexBox",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 21.4
+      "freshness_hours": 22.5
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-12T19:17:47.748683+00:00"
+  "landed_updated_utc": "2026-09-12T20:22:00.972825+00:00"
 }
