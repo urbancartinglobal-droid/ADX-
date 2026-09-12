@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "SABIC AN approves major ammonia-urea expansion, awards EPC contract to Samsung E&A - indianchemicalnews.com",
+      "title": "SABIC AN approves major ammonia-urea expansion, awards EPC contract to Samsung E&A - Indian Chemical News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ0VjMFV3VzBidmoxVTdhdXN4OW1VZ3RtUzdOOHVkc0dOV1k0U3F0ZnJYbk9udjRvX0FJZlFzRll1MG1ic1FzSC1RdDhGdUc4ZXRWRU5hcF9rOV9Nb0Jjcll0aTFIaXpYQVExTy1RX3puZVpZd28wR0d6UzFteW03VVdocGFJZzVrMUxKOW9mSkRpWjBPRXN3UzBCQ2NIanVlQ3JxZnRHQ2dZRDFSbFotQkhGd0FiTjVMSHZSeDZjNkNIWGxQOXN4VWNRX0jSAdMBQVVfeXFMUHhldHl6bVpwbTNhMWdhc1VabEFqOHZuQmdueklrMVc3c2ItTXdIQUk4b1BKTXV2amFmT3FOOWkwamhGVEhaU3lKb3FlWTRmLWZWdzc5WTI4RWpCclZ6T2FJU2sxMlR2OHF6WENFZ3laem94dDJxMWQyWW5IRHFMMDFHMXZkTVR3REl4Z19JVGN2ZXJUYU9wLUhPOG5FbGJZMFM4UHZHSVQ0NE1DV1lDTTF6eEkyRWo1bzZpTGZONElDZFhaSm9rS3V4RFZHSWRIWDY5OA?oc=5",
       "published": "Fri, 11 Sep 2026 10:16:14 GMT",
-      "source": "indianchemicalnews.com",
+      "source": "Indian Chemical News",
       "sector": "Chemicals & Materials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,13 +17,13 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.0
+      "freshness_hours": 14.2
     },
     {
-      "title": "Polyester Open-Cell Sponge Market Forecast to 2035: Demand Accelerates on Semiconductor Fab Expansion and Automation - IndexBox",
+      "title": "Polyester Open-Cell Sponge Market Forecast to 2035: Demand Accelerates on Semiconductor Fab Expansion and Automation - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVzVsb0Z4dUU4a2RuUXR0dFZJRHh1TzlJSkVteFJDQk9FbDV1OFJCV21yRldLU1FnUXVxTHRfM3ZUQl91RzJVbmtmZGRseWREcmtmUjRjc1N4dkJCejRFUkR3dGZZbGRXc2lSUTh1M0RBbDlOcUJaOGJURHBBRW44VUVJdkVkQXBBQ21WYUxUWEFqZzl1bldXRnJyRE96aVZPd2ZHekwzd1FFaHZJZ3d4c3JhQ2tIZmhEOXRVbkxnU2JDdVIwNzVOb3lPOVJacjVKa3BVeWwyeDZJUXQyZ1E?oc=5",
       "published": "Fri, 11 Sep 2026 21:51:17 GMT",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,13 +31,13 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.5
+      "freshness_hours": 2.6
     },
     {
-      "title": "RBI Announces OMO Bond Sales Worth Rs 1 Lakh Crore To Absorb Excess Liquidity - ommcomnews.com",
+      "title": "RBI Announces OMO Bond Sales Worth Rs 1 Lakh Crore To Absorb Excess Liquidity - Ommcom News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjVmRWVyR1pucTNLUm9feXdGNDVkWTF6TUljemlWbkszTUlScE51dk5EQUs1OHJvbWJDR29VWTgyMWhlX2MtOHBMeEhMTnJ6MFppVGwtSlZpUGhkaGJQclhrdWZtdFlqQzlPTDYxbVJCSTA5WTN5aGNFRHZwTFlVd0hNc2hHNzZNVWEtUUNhZDNpT3JLUFF4anNpYTdtbkRYYTFMeFJWQWdHczVpYlh4ZDgwOHNxQQ?oc=5",
       "published": "Fri, 11 Sep 2026 16:16:13 GMT",
-      "source": "ommcomnews.com",
+      "source": "Ommcom News",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 7.0
+      "freshness_hours": 8.2
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-11T23:19:04.680490+00:00"
+  "landed_updated_utc": "2026-09-12T00:27:40.525248+00:00"
 }
