@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-12T06:31:35.867613+00:00",
+  "updated_utc": "2026-09-12T12:30:51.431020+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -39,8 +39,8 @@
           "companies": []
         },
         {
-          "title": "India eases raw sugar import rules as it cracks down on hoarding - economictimes.com",
-          "source": "economictimes.com",
+          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
+          "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
           "triggers": [
             "POLICY",
@@ -177,8 +177,8 @@
           "companies": []
         },
         {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - swarajyamag.com",
-          "source": "swarajyamag.com",
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
+          "source": "Swarajya",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
           "triggers": [
             "POLICY",
@@ -381,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-12T12:24:47.607340+00:00"
+  ]
 }
