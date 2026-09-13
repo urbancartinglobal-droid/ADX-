@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-13T12:31:11.804490+00:00",
+  "updated_utc": "2026-09-13T18:29:03.230514+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Wafer Carrier Boats Market Forecast to Double by 2035, Driven by Global Fab Expansion and 300mm Transition - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHY0MU9seV9naW56M1dtR3pvVGVNcnpudXJ0aThLYU5BSWxfM1RETTNSRGppUVl5RjVsbnpDbUlBanNmUzNYTW1FWWlDbUV3ZWtUSlhBZ1pPVUg0MWZGb1ZEdUF5MFR5MnYtZkctNENPcUtEb2pyTndvTU5BVHVBQlA1Z2V6bklGTWxOMTExVzZrV0ttek5jcm03eHdCc05xZ0F5RXhFTWxQU0NTZklYT3lMUmNCN3ZnelRrc3JEQTBoNnZ2ZEV1WWNyLWIxeGlD?oc=5",
-      "published": "Sun, 13 Sep 2026 14:56:14 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.4
-    },
-    {
-      "title": "India Becomes World’s Fourth-Largest Forex Holder After Record Dollar Inflows - Thekanal",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1R2VDd4OHdLMjRoc1hHUldfLTE2T19oSjlwWlpydk9SaVRfV3JZbWZpNXk1UXFqN1ZfVFRaVjhhSzhManNobmFuTHAtVGNLQlFLLTRKNE5yUHU0Q096UHN6LUZydWUteFJXbzNOak1aeVdydHJNR0JrMDlsR3RXa091QnlhcDU5b194dXZ2eFBxNm9paTZpcXFpZVVVTlVsT0tZWWdsMUZMa3NvUTBIYVVYTHlYRTQ?oc=5",
-      "published": "Sun, 13 Sep 2026 07:48:52 GMT",
-      "source": "Thekanal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 10.6
-    },
-    {
-      "title": "In denouncement of western bloc, Brics hits out at unilateral sanctions and tariff - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbTVHTWxQVmVvRndhZE80VHdGc0JtVElMWm5ubTlmVWliSlZwUWlzUnZxanBjQWMyTm9McmhXdUhWSEVndEQyM3JOcE5mV19hdXpHMzQ0T2lienBfOVdDbE54MzZralhLXzFiOExocEpyRkNEOHoyYm5pN1ktN0UxWFNnVXdEd2tPbzU2VjU0Ymp4T2RJTUpSTmpua1g3NmQ1SjJaRmdpbmZxaHZCb2ZmaGxVZnVmMHVkWFhaeXotRlV3ck9JNnFSUDVHQWZEQTkxaFdqNmlZRG5aSndUNG85VkRCQdIB6AFBVV95cUxPUWpXOGVOZGw0b21fbVh6S05sODF4anJsUXlkT0stLWJxXzRtLVdZUVd1Q0hJcDB1aS12ZzdwbmF3MFdXNlNvRTI5OXo2eDNCLWxKU08zclQyTFhoYVUzMFRLOHZVZ3hlSXdjS2lla1ljU0RfXzNuUXlJTkFmYW9FN1NHclZnWjJLSlVTcW8wb0xpUVBjYUF5NlRZTk9RTEswNHA1ajUwWTFRcm1HakNkQnJCNWxXM0M0TjY1QmpiR05tcTlKTXVJMGFON0JINTBaSHZzbU44MTBJejk2QnJKVEZCNU9tWDRZ?oc=5",
-      "published": "Sat, 12 Sep 2026 21:02:00 GMT",
-      "source": "The Times of India",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 21.4
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -156,22 +113,22 @@
           "companies": []
         },
         {
-          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
           "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
           "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
           ],
           "companies": []
         }
@@ -211,8 +168,8 @@
           "companies": []
         },
         {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - swarajyamag.com",
-          "source": "swarajyamag.com",
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajyamag",
+          "source": "Swarajyamag",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
           "triggers": [
             "POLICY",
@@ -260,8 +217,8 @@
       ],
       "evidence": [
         {
-          "title": "India Opens Missile And Ammunition Manufacturing To Private Sector for Long-Term Firepower Readiness: Report - swarajyamag.com",
-          "source": "swarajyamag.com",
+          "title": "India Opens Missile And Ammunition Manufacturing To Private Sector for Long-Term Firepower Readiness: Report - Swarajyamag",
+          "source": "Swarajyamag",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa3FRNERUYkY1ZjFfaWFyTU85WWRTNE5CTXFEUkU3YlBvbzhETl9lZGxjdVk3YTBtSzNVV1dxRkVlMVN0blhNRVptSGxXakVBUm5oZkhMWWdCRGo3N0NuS094a0p4dnBYU1Zvbk9GUEhnM09mRFdRZmJBckVyUTM5NnVJOVdtT05sUi1LV0xsazdOT0FacW5IMFQwNGhSWXFkRURBZTExQ3NUc3RfTU14MTBacktXOHpIeDJGX2VWaWxLamsydVRWT2Rqa0VPa1lmMlFHRkFB0gHmAUFVX3lxTE4tazVhOXRaZzZpYlRFRUdPNXVXLWJOX1B1LXgwQVpkVVk3ZUtFRHdIT0hhZGZQUjJBMzZldlB4eVBfNnJCQ3BVYk1KLWNOVmE4bTJWXzZCM1M1cWN2T1BTUGxzeFVPNmY2Nlk5S0llLW51UEpSR3lvT080bVlCRER2b29XdXBXTDBydl9pbU1KYW9CZzYxQXRyY29fZGd3VE9GNzlUZzlBOEpNcEx2WkZ2RnpiWTljSlo3b2hETXpkcnYwTWpTTmVNS2xzWnhCV0NCUXdMTGxhQ050OXZDbFpNT09QeHpn?oc=5",
           "triggers": [
             "CAPEX"
@@ -320,8 +277,8 @@
       ],
       "evidence": [
         {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - powermag.com",
-          "source": "powermag.com",
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
+          "source": "POWER Magazine",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
           "triggers": [
             "PRICING"
@@ -416,6 +373,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-13T18:23:09.033504+00:00"
+  ]
 }
