@@ -6,23 +6,9 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI To Sell Rs 1 Lakh Crore Of Government Securities In September As Banking System Flush With Surplus Liquidity - Swarajya",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRnZWLTEycS13TURFa21YcElic0FPbmtVU2s1eU8tdFl4OTJnRWNaTV9oOXNhLS1WU3h1ckJZYVlRYTQ2VGNnRGIwa08ycFRuU3hwYlRKN1d1U001Z1d5djR1ZU1QYUs0ZTVidlMtVkF4U1FkbmN0M2Q1R09qeW9XVmJhQkgxLXQ5WGdZLXJRRkJDMFlNcUpJTlRMRUI0WUZnRmdVQmpxbndpSnlNM3diUFZ3M0MzMHo1OXNmYl9ub2tNYVVuSTh5RkFPTjU1R1B5a2hQSEJzcGpWMmlpdVNlVG5iS05rMjBHRm5xM9IB7AFBVV95cUxQRnZWLTEycS13TURFa21YcElic0FPbmtVU2s1eU8tdFl4OTJnRWNaTV9oOXNhLS1WU3h1ckJZYVlRYTQ2VGNnRGIwa08ycFRuU3hwYlRKN1d1U001Z1d5djR1ZU1QYUs0ZTVidlMtVkF4U1FkbmN0M2Q1R09qeW9XVmJhQkgxLXQ5WGdZLXJRRkJDMFlNcUpJTlRMRUI0WUZnRmdVQmpxbndpSnlNM3diUFZ3M0MzMHo1OXNmYl9ub2tNYVVuSTh5RkFPTjU1R1B5a2hQSEJzcGpWMmlpdVNlVG5iS05rMjBHRm5xMw?oc=5",
-      "published": "Sat, 12 Sep 2026 05:12:31 GMT",
-      "source": "Swarajya",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 23.1
-    },
-    {
       "title": "IAF Seeks Urgent Tejas Mk1A Deliveries and More Rafale Orders to Plug Two-Front Deficit as Fighter Sqns Drop to 30 - Defence.in",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN2U2UHlDZkwwelpaUXl2Y0xGcnpUVGx0NkZ4ZnlwYXJCejlOSHZmTWtfWUhRVUFQdTBQNGpya1g4WVNMVnplX2tuRU9HYmYwOWhvX1p2TGVsWTV4bXZvQ1d0TDRrU2c1ZlZ3QkJ3NW5WSjdlTDE4LUM1N2J0SzZjdVpaNGRfUEdzdE5DMnloeVpZQVpjbmRiMEdtS1RNeV9nb0ZoakhpRGh4dnNDcFA2OXNOaklmcWNfRWEzNEQ3ODQ0Z1NNWWNCSzRJSkN2eFhpaTA4eHV6cXVkaG5SbTh6eDlB?oc=5",
-      "published": "Sun, 13 Sep 2026 01:32:29 GMT",
+      "published": "Sun, 13 Sep 2026 04:35:30 GMT",
       "source": "Defence.in",
       "sector": "Defence & Aerospace",
       "triggers": [
@@ -31,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.8
+      "freshness_hours": 0.7
     },
     {
       "title": "Alembic Pharma's Vadodara Bioequivalence Facility Clears USFDA Inspection With Zero Observations - Medical Dialogues",
@@ -45,7 +31,21 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 15.0
+      "freshness_hours": 16.0
+    },
+    {
+      "title": "RBI May Skip Immediate CRR Hike Amid Liquidity Surplus - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHV1Nlo4Y2JCWWJURHBNbmJYRDN1Q295TGZ6T1U1bFZaYXp4dUZ4dzJXRVp2RThyZ0dBRkF4NUNkejlOZklrdWk2YXFPa1Z6djlndF9JQmhvWXEwYkV3elhpMjhBOERkemZ2MUxfdmwwYnlyV2xPSmg4MVlwNmxiM21Cd1E5S0p4cEpIRU5rLV94TTNPMEpJXzdQZDBjNGc?oc=5",
+      "published": "Sat, 12 Sep 2026 10:04:00 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 19.3
     }
   ],
   "opportunities": [
@@ -441,5 +441,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-13T04:21:19.103999+00:00"
+  "landed_updated_utc": "2026-09-13T05:19:43.789316+00:00"
 }
