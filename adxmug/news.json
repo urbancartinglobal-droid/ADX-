@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "India Becomes World’s Fourth-Largest Forex Holder After Record Dollar Inflows - Thekanal",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1R2VDd4OHdLMjRoc1hHUldfLTE2T19oSjlwWlpydk9SaVRfV3JZbWZpNXk1UXFqN1ZfVFRaVjhhSzhManNobmFuTHAtVGNLQlFLLTRKNE5yUHU0Q096UHN6LUZydWUteFJXbzNOak1aeVdydHJNR0JrMDlsR3RXa091QnlhcDU5b194dXZ2eFBxNm9paTZpcXFpZVVVTlVsT0tZWWdsMUZMa3NvUTBIYVVYTHlYRTQ?oc=5",
+      "published": "Sun, 13 Sep 2026 07:41:18 GMT",
+      "source": "Thekanal",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.6
+    },
+    {
+      "title": "Puncture-Resistant Stoppers Market to Accelerate on Semiconductor Capacity Expansion, Reaching 2035 Growth - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVFMMFZpQmFXTG1UaUtkYmpUTWRIWmREWjJKblQyMDkyRkU4dTRVMHlRM0IwMzJMR3R6Wmtvb0JvR0xwVko2TzltajhDOUFlUnJfcXlKbG9FV1Y1aVlOaXM2ckJ5aDFvdUc0VTlNTnFmY1Q4STlHeFd5cVdvM1ZZV2pURXR5YkhDSTctRW9pdDllQ1o3LXdWUVZESklKNnJjT0RLbVVRNklQMGFWMzZOU1Zhb2FfS2pJZE1EdEFaRnhWY3RYbXV2WW9rZk9aYjdz?oc=5",
+      "published": "Sun, 13 Sep 2026 05:06:19 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 8.2
+    },
+    {
+      "title": "In denouncement of western bloc, Brics hits out at unilateral sanctions and tariff - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbTVHTWxQVmVvRndhZE80VHdGc0JtVElMWm5ubTlmVWliSlZwUWlzUnZxanBjQWMyTm9McmhXdUhWSEVndEQyM3JOcE5mV19hdXpHMzQ0T2lienBfOVdDbE54MzZralhLXzFiOExocEpyRkNEOHoyYm5pN1ktN0UxWFNnVXdEd2tPbzU2VjU0Ymp4T2RJTUpSTmpua1g3NmQ1SjJaRmdpbmZxaHZCb2ZmaGxVZnVmMHVkWFhaeXotRlV3ck9JNnFSUDVHQWZEQTkxaFdqNmlZRG5aSndUNG85VkRCQdIB6AFBVV95cUxPUWpXOGVOZGw0b21fbVh6S05sODF4anJsUXlkT0stLWJxXzRtLVdZUVd1Q0hJcDB1aS12ZzdwbmF3MFdXNlNvRTI5OXo2eDNCLWxKU08zclQyTFhoYVUzMFRLOHZVZ3hlSXdjS2lla1ljU0RfXzNuUXlJTkFmYW9FN1NHclZnWjJLSlVTcW8wb0xpUVBjYUF5NlRZTk9RTEswNHA1ajUwWTFRcm1HakNkQnJCNWxXM0M0TjY1QmpiR05tcTlKTXVJMGFON0JINTBaSHZzbU44MTBJejk2QnJKVEZCNU9tWDRZ?oc=5",
+      "published": "Sat, 12 Sep 2026 21:02:00 GMT",
+      "source": "The Times of India",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 16.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -373,5 +416,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-13T13:20:14.603138+00:00"
 }
