@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI To Sell Rs 1 Lakh Crore Of Government Securities In September As Banking System Flush With Surplus Liquidity - Swarajya",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRnZWLTEycS13TURFa21YcElic0FPbmtVU2s1eU8tdFl4OTJnRWNaTV9oOXNhLS1WU3h1ckJZYVlRYTQ2VGNnRGIwa08ycFRuU3hwYlRKN1d1U001Z1d5djR1ZU1QYUs0ZTVidlMtVkF4U1FkbmN0M2Q1R09qeW9XVmJhQkgxLXQ5WGdZLXJRRkJDMFlNcUpJTlRMRUI0WUZnRmdVQmpxbndpSnlNM3diUFZ3M0MzMHo1OXNmYl9ub2tNYVVuSTh5RkFPTjU1R1B5a2hQSEJzcGpWMmlpdVNlVG5iS05rMjBHRm5xM9IB7AFBVV95cUxQRnZWLTEycS13TURFa21YcElic0FPbmtVU2s1eU8tdFl4OTJnRWNaTV9oOXNhLS1WU3h1ckJZYVlRYTQ2VGNnRGIwa08ycFRuU3hwYlRKN1d1U001Z1d5djR1ZU1QYUs0ZTVidlMtVkF4U1FkbmN0M2Q1R09qeW9XVmJhQkgxLXQ5WGdZLXJRRkJDMFlNcUpJTlRMRUI0WUZnRmdVQmpxbndpSnlNM3diUFZ3M0MzMHo1OXNmYl9ub2tNYVVuSTh5RkFPTjU1R1B5a2hQSEJzcGpWMmlpdVNlVG5iS05rMjBHRm5xMw?oc=5",
+      "published": "Sat, 12 Sep 2026 05:12:31 GMT",
+      "source": "Swarajya",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 20.1
+    },
+    {
+      "title": "In denouncement of western bloc, Brics hits out at unilateral sanctions and tariff - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbTVHTWxQVmVvRndhZE80VHdGc0JtVElMWm5ubTlmVWliSlZwUWlzUnZxanBjQWMyTm9McmhXdUhWSEVndEQyM3JOcE5mV19hdXpHMzQ0T2lienBfOVdDbE54MzZralhLXzFiOExocEpyRkNEOHoyYm5pN1ktN0UxWFNnVXdEd2tPbzU2VjU0Ymp4T2RJTUpSTmpua1g3NmQ1SjJaRmdpbmZxaHZCb2ZmaGxVZnVmMHVkWFhaeXotRlV3ck9JNnFSUDVHQWZEQTkxaFdqNmlZRG5aSndUNG85VkRCQdIB6AFBVV95cUxPUWpXOGVOZGw0b21fbVh6S05sODF4anJsUXlkT0stLWJxXzRtLVdZUVd1Q0hJcDB1aS12ZzdwbmF3MFdXNlNvRTI5OXo2eDNCLWxKU08zclQyTFhoYVUzMFRLOHZVZ3hlSXdjS2lla1ljU0RfXzNuUXlJTkFmYW9FN1NHclZnWjJLSlVTcW8wb0xpUVBjYUF5NlRZTk9RTEswNHA1ajUwWTFRcm1HakNkQnJCNWxXM0M0TjY1QmpiR05tcTlKTXVJMGFON0JINTBaSHZzbU44MTBJejk2QnJKVEZCNU9tWDRZ?oc=5",
+      "published": "Sat, 12 Sep 2026 21:02:00 GMT",
+      "source": "The Times of India",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 4.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -397,5 +426,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-13T01:19:25.761203+00:00"
 }
