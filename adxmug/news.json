@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-09-12T18:28:02.309217+00:00",
+  "updated_utc": "2026-09-13T00:35:07.552784+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI To Sell Rs 1 Lakh Crore Of Government Securities In September As Banking System Flush With Surplus Liquidity - Swarajya",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRnZWLTEycS13TURFa21YcElic0FPbmtVU2s1eU8tdFl4OTJnRWNaTV9oOXNhLS1WU3h1ckJZYVlRYTQ2VGNnRGIwa08ycFRuU3hwYlRKN1d1U001Z1d5djR1ZU1QYUs0ZTVidlMtVkF4U1FkbmN0M2Q1R09qeW9XVmJhQkgxLXQ5WGdZLXJRRkJDMFlNcUpJTlRMRUI0WUZnRmdVQmpxbndpSnlNM3diUFZ3M0MzMHo1OXNmYl9ub2tNYVVuSTh5RkFPTjU1R1B5a2hQSEJzcGpWMmlpdVNlVG5iS05rMjBHRm5xM9IB7AFBVV95cUxQRnZWLTEycS13TURFa21YcElic0FPbmtVU2s1eU8tdFl4OTJnRWNaTV9oOXNhLS1WU3h1ckJZYVlRYTQ2VGNnRGIwa08ycFRuU3hwYlRKN1d1U001Z1d5djR1ZU1QYUs0ZTVidlMtVkF4U1FkbmN0M2Q1R09qeW9XVmJhQkgxLXQ5WGdZLXJRRkJDMFlNcUpJTlRMRUI0WUZnRmdVQmpxbndpSnlNM3diUFZ3M0MzMHo1OXNmYl9ub2tNYVVuSTh5RkFPTjU1R1B5a2hQSEJzcGpWMmlpdVNlVG5iS05rMjBHRm5xMw?oc=5",
-      "published": "Sat, 12 Sep 2026 05:12:31 GMT",
-      "source": "Swarajya",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 19.3
-    },
-    {
-      "title": "In denouncement of western bloc, Brics hits out at unilateral sanctions and tariff - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbTVHTWxQVmVvRndhZE80VHdGc0JtVElMWm5ubTlmVWliSlZwUWlzUnZxanBjQWMyTm9McmhXdUhWSEVndEQyM3JOcE5mV19hdXpHMzQ0T2lienBfOVdDbE54MzZralhLXzFiOExocEpyRkNEOHoyYm5pN1ktN0UxWFNnVXdEd2tPbzU2VjU0Ymp4T2RJTUpSTmpua1g3NmQ1SjJaRmdpbmZxaHZCb2ZmaGxVZnVmMHVkWFhaeXotRlV3ck9JNnFSUDVHQWZEQTkxaFdqNmlZRG5aSndUNG85VkRCQdIB6AFBVV95cUxPUWpXOGVOZGw0b21fbVh6S05sODF4anJsUXlkT0stLWJxXzRtLVdZUVd1Q0hJcDB1aS12ZzdwbmF3MFdXNlNvRTI5OXo2eDNCLWxKU08zclQyTFhoYVUzMFRLOHZVZ3hlSXdjS2lla1ljU0RfXzNuUXlJTkFmYW9FN1NHclZnWjJLSlVTcW8wb0xpUVBjYUF5NlRZTk9RTEswNHA1ajUwWTFRcm1HakNkQnJCNWxXM0M0TjY1QmpiR05tcTlKTXVJMGFON0JINTBaSHZzbU44MTBJejk2QnJKVEZCNU9tWDRZ?oc=5",
-      "published": "Sat, 12 Sep 2026 21:02:00 GMT",
-      "source": "The Times of India",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.5
-    },
-    {
-      "title": "Cellulose Derivatives Clarifier Market Forecast to 2035: Demand Accelerates on Semiconductor Capacity Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWVxR28zMDJVT1RJMHMzTWJsN2R6UTdnU1AyZjZEdlJWZmt2ajlaOHRITVgzWXE5OVdRNGtWZHo1MkszRHc1UkxLNnktMzA4M0NndUpGbV9BSnJkTGttaHNiU0dFbzdUaTVPNXZabVFVcEF5NHdnbnUyODBqVGY2Y1U3V1NDZzJFVzJQRUFjTjZSZ2VELWRYRFdzZU1kUHVjT2pRRzRNQjk2dlNJRzBfeWUxSGNTd0k0RlpCRS1qNXFjSU5laENPeUM1WGZzVFdNNW1vUkZpcw?oc=5",
-      "published": "Sat, 12 Sep 2026 00:36:23 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 23.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 76,
-      "article_count": 5,
-      "trigger_count": 9,
+      "score": 66,
+      "article_count": 4,
+      "trigger_count": 8,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -99,22 +56,13 @@
             "TRADE"
           ],
           "companies": []
-        },
-        {
-          "title": "Sugar price surge may hit ethanol output as mills eye better returns - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXNSd3p3ZE5CRzMxWWNjekJELU1BbkhnTE9OWDRqc2tjUHFUTWdWX0d6QkpjZ19kMnpHMjljOXBHMS14NTB1WjhoMXh0Y3cwdE04ZktOdGctUGFjd2p1MkpNZmMzeFYtU0RiTktjTFdBV3I5ZWVwbzlRT091VWVCRHhPdTdveUNHQTN0SVhPVjJRMkk1VldrelZpM1Z2N2ltVjlzZ1hVQXBSOS1Xd1pXenNOVGRIeEFfc1lZOE1vZXptT19YYk0tcXNTZWQzYXp2OFHSAdcBQVVfeXFMTThyU29Nc2ZaVjV3OVgwRUg2OGp5bTkxQ1J5RVJhMndlV0h3X0t4Q3hVN0ZxS091VS1EcGpvVnVBQ05xX1BWNE5rRmNsU0dDYkJtQjgzSHpza1hMQTVjaHprc09yOHRCM2ZRX1dFVGF5M3BhM3o0SmFwWDllbXA1U3BHLTIxVE5JQkVEMFowVHJzcm5BMTRHNmR2Yldibnh0bkMxMFk3c0NteGxTOG9fZTA1b0QtcmhEMFRYejdOUFJYRndwMGNsN0lWcWtyNUxZU19lWmVfWWc?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
         }
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
-      "source_count": 5,
-      "story_clusters": 5,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 4 independent sources.",
+      "source_count": 4,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -145,8 +93,8 @@
           "companies": []
         },
         {
-          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
-          "source": "Business Standard",
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - business-standard.com",
+          "source": "business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
           "triggers": [
             "POLICY",
@@ -165,8 +113,8 @@
           "companies": []
         },
         {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
-          "source": "Business Standard",
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - business-standard.com",
+          "source": "business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
           "triggers": [
             "POLICY",
@@ -175,8 +123,8 @@
           "companies": []
         },
         {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - business-standard.com",
+          "source": "business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
           "triggers": [
             "POLICY",
@@ -260,6 +208,47 @@
       "fresh_count": 0
     },
     {
+      "industry": "Pharma & Healthcare",
+      "score": 37,
+      "article_count": 2,
+      "trigger_count": 3,
+      "triggers": [
+        "CAPEX",
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "USFDA bans Ranbaxy's Toansa API plant, finds mfg violations - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUpUR01OaXgtLXR6SkpnVU1XakMzQXFGZTY0Y09jcWtEZHY5NVQ1Wm1zWW8tQ0p4cUw1bUhZc215a1Mxelh3cmFWUi11TmViVUdWSnFycFpqQmVsT0IyajFGXzZza1ZqbFlhV3NTeHN4NUlzRUJ3TmtzdkU1MDB2LVM4Mkl1c25HdHQ5YUNCUWJBQThxdlllNGxScnJsMTBFSURQaU80NW11WDA0VTBxU2lCWWhWaWVlRjRmTEp4SUzSAcYBQVVfeXFMTTRZUjJxbmtZamhUZEpVS2djeW9LSDB2OUdxRHVMc2lYam1DWnNiUFlrcnhMM0p6MTcxM2R5UDdWUXlhc1lCZWwzQlZiUFNkSzFjX0VQaW1HQmdSb2Y3QWJuVnJRMTJfeE9MZUJ3VnJWenBxVVhOdkl2aTdCbGszc1FYTW94OXJOMnhGcHZReHp1ZUYwMVA5OFFVcEt6NUJScGZFOENxS3VPQVkxYnFKM3RXazNiemhiTjBnUWlCcmdtNnkwU2dB?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, POLICY; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Auto & Components",
       "score": 22,
       "article_count": 2,
@@ -269,8 +258,8 @@
       ],
       "evidence": [
         {
-          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - autocarpro.in",
-          "source": "autocarpro.in",
+          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
+          "source": "Autocar Professional",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
           "triggers": [
             "POLICY"
@@ -297,6 +286,36 @@
       "companies": [
         "mahindra"
       ],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Defence & Aerospace",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "India Opens Missile And Ammunition Manufacturing To Private Sector for Long-Term Firepower Readiness: Report - Swarajya",
+          "source": "Swarajya",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa3FRNERUYkY1ZjFfaWFyTU85WWRTNE5CTXFEUkU3YlBvbzhETl9lZGxjdVk3YTBtSzNVV1dxRkVlMVN0blhNRVptSGxXakVBUm5oZkhMWWdCRGo3N0NuS094a0p4dnBYU1Zvbk9GUEhnM09mRFdRZmJBckVyUTM5NnVJOVdtT05sUi1LV0xsazdOT0FacW5IMFQwNGhSWXFkRURBZTExQ3NUc3RfTU14MTBacktXOHpIeDJGX2VWaWxLamsydVRWT2Rqa0VPa1lmMlFHRkFB0gHmAUFVX3lxTE4tazVhOXRaZzZpYlRFRUdPNXVXLWJOX1B1LXgwQVpkVVk3ZUtFRHdIT0hhZGZQUjJBMzZldlB4eVBfNnJCQ3BVYk1KLWNOVmE4bTJWXzZCM1M1cWN2T1BTUGxzeFVPNmY2Nlk5S0llLW51UEpSR3lvT080bVlCRER2b29XdXBXTDBydl9pbU1KYW9CZzYxQXRyY29fZGd3VE9GNzlUZzlBOEpNcEx2WkZ2RnpiWTljSlo3b2hETXpkcnYwTWpTTmVNS2xzWnhCV0NCUXdMTGxhQ050OXZDbFpNT09QeHpn?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
       ],
@@ -363,52 +382,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Pharma & Healthcare",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Defence & Aerospace",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
       "industry": "Chemicals & Materials",
       "score": 0,
       "article_count": 0,
@@ -424,6 +397,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-13T00:29:09.244907+00:00"
+  ]
 }
