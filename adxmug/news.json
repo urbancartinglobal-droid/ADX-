@@ -17,13 +17,27 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 22.1
+      "freshness_hours": 23.1
     },
     {
-      "title": "Alembic Pharma's Vadodara Bioequivalence Facility Clears USFDA Inspection With Zero Observations - medicaldialogues.in",
+      "title": "IAF Seeks Urgent Tejas Mk1A Deliveries and More Rafale Orders to Plug Two-Front Deficit as Fighter Sqns Drop to 30 - Defence.in",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN2U2UHlDZkwwelpaUXl2Y0xGcnpUVGx0NkZ4ZnlwYXJCejlOSHZmTWtfWUhRVUFQdTBQNGpya1g4WVNMVnplX2tuRU9HYmYwOWhvX1p2TGVsWTV4bXZvQ1d0TDRrU2c1ZlZ3QkJ3NW5WSjdlTDE4LUM1N2J0SzZjdVpaNGRfUEdzdE5DMnloeVpZQVpjbmRiMEdtS1RNeV9nb0ZoakhpRGh4dnNDcFA2OXNOaklmcWNfRWEzNEQ3ODQ0Z1NNWWNCSzRJSkN2eFhpaTA4eHV6cXVkaG5SbTh6eDlB?oc=5",
+      "published": "Sun, 13 Sep 2026 01:32:29 GMT",
+      "source": "Defence.in",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 2.8
+    },
+    {
+      "title": "Alembic Pharma's Vadodara Bioequivalence Facility Clears USFDA Inspection With Zero Observations - Medical Dialogues",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZlRVUUtWcXNqNzM4VTJuRkV4NDFFTERwSUZpR2s2RDYtRlp5U21VbGVGZmNtVUtHTGEyUWEzVHhkd3VIOG1BYWZrR3NiRWFCaG5veTdyTElmbmNiY1ZPVHdXUmQtVmtDcUVYMWxaQkVkZ1VZSkg4ZldtNDhoTGxmcC1zQmk5amJPMUxSa3F0ekx3SHhyQkpPY29BaF9JY3g5ZWQwcGxCUmdRRjE2MWZsdHpUanp5Tm5uWlJLTnAyWnJTTndOTmlaV0UzMEoteTdmNE56dEpTUklZT3JpTHpSMlY4UHR4UdIB6wFBVV95cUxOdzVJYXVjcExZSEZOYThfaDZSOV9OVW1vV1p3OU91X3RiZFV0QUl1ZnZtaEhOam0zaGlBQzZsNlhjVUU3TFh2ektjM1o1cmN0YVgtU2xsLWduc0ltblpqbjBiWVpSalBIb2JVRGk1YjVWZlozc29fejRkRmtTaEo5N056RUNVM0hOdTJLei1oQkdqQWcteURJQlR1dE9JOFVRMVlmM2lvZDE5bFdMaHBtd2JZZTdOSXhPeG9qQlgwakpWcEthWkppQVRTVC03X0pPcjNuZDhoaE5Gc3huanN0aDUzdkI0ZHBLRDM0?oc=5",
       "published": "Sat, 12 Sep 2026 13:19:57 GMT",
-      "source": "medicaldialogues.in",
+      "source": "Medical Dialogues",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 14.0
+      "freshness_hours": 15.0
     }
   ],
   "opportunities": [
@@ -427,5 +441,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-13T03:21:28.454884+00:00"
+  "landed_updated_utc": "2026-09-13T04:21:19.103999+00:00"
 }
