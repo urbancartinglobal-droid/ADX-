@@ -6,9 +6,23 @@
   "articles": [],
   "landed": [
     {
+      "title": "India semiconductor sector raises $1.4 billion across 281 companies - Tech Observer Magazine",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3Atd0RVb0xiM3J2RmFHZXlrck9BNnRNVGZuOUw4VVk4NWUxaGdDWlJLWktjS1h2cmg5cmhrZEo2Si1lOXF5Nk1XZlZSQmxCYlF2REVIUU1PWnQyb2hGblptNE9TQ2Nhamh3R2h6dmtVc0R3RngyT0o4SU1oanFmWXhMRlJwUnJXb3lEWWFPM25MeHRuSXFENzV2bVlwVDZCTGNiMUQ3T1RZZ1hu0gGsAUFVX3lxTE93cC13RFVvTGIzcnZGYUdleWtyT0E2dE1UZm45TDhVWTg1ZTFoZ0NaUktaS2NLWHZyaDlyaGtkSjZKLWU5cXk2TVdmVlJCbEJiUXZERUhRTU9adDJvaEZuWm00T1NDY2FqaHdHaHp2a1VzRHdGeDJPSjhJTWhqcWZZeExGUnBScldveURZYU8zbkx4dG5JcUQ3NXZtWXBUNkJMY2IxRDdPVFlnWG4?oc=5",
+      "published": "Sun, 13 Sep 2026 12:44:52 GMT",
+      "source": "Tech Observer Magazine",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 1.6
+    },
+    {
       "title": "India Becomes World’s Fourth-Largest Forex Holder After Record Dollar Inflows - Thekanal",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1R2VDd4OHdLMjRoc1hHUldfLTE2T19oSjlwWlpydk9SaVRfV3JZbWZpNXk1UXFqN1ZfVFRaVjhhSzhManNobmFuTHAtVGNLQlFLLTRKNE5yUHU0Q096UHN6LUZydWUteFJXbzNOak1aeVdydHJNR0JrMDlsR3RXa091QnlhcDU5b194dXZ2eFBxNm9paTZpcXFpZVVVTlVsT0tZWWdsMUZMa3NvUTBIYVVYTHlYRTQ?oc=5",
-      "published": "Sun, 13 Sep 2026 07:41:18 GMT",
+      "published": "Sun, 13 Sep 2026 07:26:41 GMT",
       "source": "Thekanal",
       "sector": "Banking & Financials",
       "triggers": [
@@ -17,21 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.6
-    },
-    {
-      "title": "Puncture-Resistant Stoppers Market to Accelerate on Semiconductor Capacity Expansion, Reaching 2035 Growth - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVFMMFZpQmFXTG1UaUtkYmpUTWRIWmREWjJKblQyMDkyRkU4dTRVMHlRM0IwMzJMR3R6Wmtvb0JvR0xwVko2TzltajhDOUFlUnJfcXlKbG9FV1Y1aVlOaXM2ckJ5aDFvdUc0VTlNTnFmY1Q4STlHeFd5cVdvM1ZZV2pURXR5YkhDSTctRW9pdDllQ1o3LXdWUVZESklKNnJjT0RLbVVRNklQMGFWMzZOU1Zhb2FfS2pJZE1EdEFaRnhWY3RYbXV2WW9rZk9aYjdz?oc=5",
-      "published": "Sun, 13 Sep 2026 05:06:19 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.2
+      "freshness_hours": 6.9
     },
     {
       "title": "In denouncement of western bloc, Brics hits out at unilateral sanctions and tariff - The Times of India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.3
+      "freshness_hours": 17.3
     }
   ],
   "opportunities": [
@@ -417,5 +417,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-13T13:20:14.603138+00:00"
+  "landed_updated_utc": "2026-09-13T14:20:27.409271+00:00"
 }
