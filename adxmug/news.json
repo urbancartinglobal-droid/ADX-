@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 21.1
+      "freshness_hours": 22.1
     },
     {
-      "title": "Alembic Pharma's Vadodara Bioequivalence Facility Clears USFDA Inspection With Zero Observations - Medical Dialogues",
+      "title": "Alembic Pharma's Vadodara Bioequivalence Facility Clears USFDA Inspection With Zero Observations - medicaldialogues.in",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZlRVUUtWcXNqNzM4VTJuRkV4NDFFTERwSUZpR2s2RDYtRlp5U21VbGVGZmNtVUtHTGEyUWEzVHhkd3VIOG1BYWZrR3NiRWFCaG5veTdyTElmbmNiY1ZPVHdXUmQtVmtDcUVYMWxaQkVkZ1VZSkg4ZldtNDhoTGxmcC1zQmk5amJPMUxSa3F0ekx3SHhyQkpPY29BaF9JY3g5ZWQwcGxCUmdRRjE2MWZsdHpUanp5Tm5uWlJLTnAyWnJTTndOTmlaV0UzMEoteTdmNE56dEpTUklZT3JpTHpSMlY4UHR4UdIB6wFBVV95cUxOdzVJYXVjcExZSEZOYThfaDZSOV9OVW1vV1p3OU91X3RiZFV0QUl1ZnZtaEhOam0zaGlBQzZsNlhjVUU3TFh2ektjM1o1cmN0YVgtU2xsLWduc0ltblpqbjBiWVpSalBIb2JVRGk1YjVWZlozc29fejRkRmtTaEo5N056RUNVM0hOdTJLei1oQkdqQWcteURJQlR1dE9JOFVRMVlmM2lvZDE5bFdMaHBtd2JZZTdOSXhPeG9qQlgwakpWcEthWkppQVRTVC03X0pPcjNuZDhoaE5Gc3huanN0aDUzdkI0ZHBLRDM0?oc=5",
       "published": "Sat, 12 Sep 2026 13:19:57 GMT",
-      "source": "Medical Dialogues",
+      "source": "medicaldialogues.in",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 13.0
+      "freshness_hours": 14.0
     }
   ],
   "opportunities": [
@@ -427,5 +427,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-13T02:21:07.682631+00:00"
+  "landed_updated_utc": "2026-09-13T03:21:28.454884+00:00"
 }
