@@ -7,7 +7,7 @@
   "landed": [
     {
       "title": "Telix Pharmaceuticals (ASX:TLX): FDA Approval for Pixclara Expands US Imaging Portfolio - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnJTSjVxWWN3cHd0WkMwZC15OTNPN2xCMXItUGxibUJlZVZGb0tZcTdNMERkY1I2QU81aG1hVkttTW9Jd09FWWRYTUE2S0ZRbGlMUkkzODAyaHJBSjZoY2dYMEl3UDFwYUM4OC1vbThSZE9KdGwxaV9Ka3ZzNFJGLW5aYVgyUHhiaWMxeEdnYU52b2FJekxOWEFzX1NuMnBZMllrSE1mUlpDZGFSbDFHeFBBcEI5WDk5STBSNUhTdG1BUGw5bG9lem9XVFM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdHloTmZUWWlCS3VrMlh4VU9GaXVILWJTbmM5SGlFTk4yd21WMUhFRjV4WG8wYUh1TUhYLU5WV1AyUUF2NG9sOVZvWmdLZFNIM2FwRGhjQ3lRckxLRllxWkc1QzZ0N2hsdmRVZ2QtUGNLLUVrTzJCY2ZCakNwcWdFcjhTXzVVbzhiemd6TWZSWVFoU0kyWHF2d1lSYkt5WldrZkRvbFdNbUd5ZlhITE11VWFjNHYtVXVtNUpwcmpKdw?oc=5",
       "published": "Mon, 14 Sep 2026 08:59:00 GMT",
       "source": "Kalkine",
       "sector": "Pharma & Healthcare",
@@ -17,7 +17,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 1.4
+      "freshness_hours": 2.4
     },
     {
       "title": "RBI liquidity surplus hits record: Will loans get cheaper? - NewsBytes",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.4
+      "freshness_hours": 7.4
     },
     {
       "title": "Wafer Carrier Boats Market Forecast to Double by 2035, Driven by Global Fab Expansion and 300mm Transition - IndexBox",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 19.4
+      "freshness_hours": 20.4
     }
   ],
   "opportunities": [
@@ -403,5 +403,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-14T10:23:02.685746+00:00"
+  "landed_updated_utc": "2026-09-14T11:22:48.521718+00:00"
 }
