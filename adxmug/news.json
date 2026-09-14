@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Wafer Carrier Boats Market Forecast to Double by 2035, Driven by Global Fab Expansion and 300mm Transition - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHY0MU9seV9naW56M1dtR3pvVGVNcnpudXJ0aThLYU5BSWxfM1RETTNSRGppUVl5RjVsbnpDbUlBanNmUzNYTW1FWWlDbUV3ZWtUSlhBZ1pPVUg0MWZGb1ZEdUF5MFR5MnYtZkctNENPcUtEb2pyTndvTU5BVHVBQlA1Z2V6bklGTWxOMTExVzZrV0ttek5jcm03eHdCc05xZ0F5RXhFTWxQU0NTZklYT3lMUmNCN3ZnelRrc3JEQTBoNnZ2ZEV1WWNyLWIxeGlD?oc=5",
+      "published": "Sun, 13 Sep 2026 14:56:14 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 10.4
+    },
+    {
+      "title": "USFDA Issues Two Observations After Records Assessment of Dr. Reddy's Mexico API Facility - Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ1ZKY2sxWGo2d0xxN3JVU2NaVHBxTWZ2Zk1hYWc1Z1Joc3A4cVAtbDJkX3hmTzY1eTZjN1NZMzZVZnYwcnhXMm5mbVZOdElnMEU5SkxDRUlPZUVkdGNRMkFkc0RUOXZxa3RRMGhhNG5sejQ1VUltR0VQc1RtT1pGWW84NzFMQWYwTnhnY0lNTl9Sa2EteFVua21xQWJPS3VEZ242bW1WSlpwaFVOdmFPUGpQT3ZCcUlXQUgxS1lDRW9vT3lMak9RQXROREJZdjBXbXEwbDkwQU9NT2vSAeABQVVfeXFMTWRKVnQ2QVpFZ2Y1UWhPdi1qVi1qbVVsQlFId25ERGttX2NMMFZXcmFwdmV1RnlVbk1DYUNWNjBSMm1sNDBobXM0VzhLZXpEdlRCUmh5Q3JEaDNkaHRxZWtMOTY1SkZueGJyVDJJeG1ZSW5fVkhLcUN4ZUlYcmhBeDZVdDdDTjVOQ2dsX0YzR2Y5NF9JTTRIbEQxOXdGWWtCeEpwYktUUGo3aFlzVkJTbVhUUUEwVzItRFhMMFdyVGF0MGF6d0xWenA5T1pYRmI2cG1la19PLS12U3RWZWxMbkQ?oc=5",
+      "published": "Sun, 13 Sep 2026 12:30:17 GMT",
+      "source": "Medical Dialogues",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 12.8
+    },
+    {
+      "title": "India Becomes World’s Fourth-Largest Forex Holder After Record Dollar Inflows - Thekanal",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1R2VDd4OHdLMjRoc1hHUldfLTE2T19oSjlwWlpydk9SaVRfV3JZbWZpNXk1UXFqN1ZfVFRaVjhhSzhManNobmFuTHAtVGNLQlFLLTRKNE5yUHU0Q096UHN6LUZydWUteFJXbzNOak1aeVdydHJNR0JrMDlsR3RXa091QnlhcDU5b194dXZ2eFBxNm9paTZpcXFpZVVVTlVsT0tZWWdsMUZMa3NvUTBIYVVYTHlYRTQ?oc=5",
+      "published": "Sun, 13 Sep 2026 07:26:43 GMT",
+      "source": "Thekanal",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 17.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -368,5 +411,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-14T01:21:16.195689+00:00"
 }
