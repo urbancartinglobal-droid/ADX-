@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI May Skip Immediate CRR Hike Amid Liquidity Surplus - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHV1Nlo4Y2JCWWJURHBNbmJYRDN1Q295TGZ6T1U1bFZaYXp4dUZ4dzJXRVp2RThyZ0dBRkF4NUNkejlOZklrdWk2YXFPa1Z6djlndF9JQmhvWXEwYkV3elhpMjhBOERkemZ2MUxfdmwwYnlyV2xPSmg4MVlwNmxiM21Cd1E5S0p4cEpIRU5rLV94TTNPMEpJXzdQZDBjNGc?oc=5",
+      "published": "Mon, 14 Sep 2026 15:40:45 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 3.7
+    },
+    {
+      "title": "The Transformer Lead-Time Crisis: Global Core Steel Shortages Delaying Western Substation Modernization - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUlIWk01UXFBSXo1Wi1KLXpQNXR1YV9fYWRyTFNwVXBRZVN1SUFaczk1UUZ4UmF6c3FaYXJjWWdhMVRFajdmYlZ2SjBSQnhsWi12c2cyS2pzX18zaVp6eFBqRUNwTXZHSnlrU2c3MFlteDNudGpES3RYVlV5OU9LQUgycUZ5Q2psaURCSFU0M2xKcWNXSmtaWWpMVFAxdUhNNTFULV9MdG1uQVlQa3ZvUg?oc=5",
+      "published": "Mon, 14 Sep 2026 14:00:00 GMT",
+      "source": "streamlinefeed.co.ke",
+      "sector": "Power & Grid",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
+      "freshness_hours": 5.4
+    },
+    {
+      "title": "Torrent Pharmaceuticals: Oncology Facility At Bileshwarpura Clears USFDA Inspection With Zero Observations - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeGZSN0hlTDg3SW0wNE13RndPNG52aDREdXkzT044UXA5NXlBWXIxWTM2aVZRRFpIdVRkMnBWeEUyREVYdUVwNEZDYWR0ZDFCSXlBVXhEYVFsZ2hORXpOVXI5dFk4WGVqNlZVZElna1puN0ZzemUxdmZBa1JqdHNFR0VLSnVKbWNJcnZFc1phSk56dnlCdnJDaEVaWG9Kc0k5RUdBc2FNdWZtcTl3YkZEMDVnYzh6c1A5WUZkRGhwVGpzMTUyOHVndHFBZmt2ajVNT1UtcVhTdWI4NE92cXh5X01KWk5NdW1P?oc=5",
+      "published": "Sun, 13 Sep 2026 20:32:29 GMT",
+      "source": "scanx.trade",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 22.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -405,5 +448,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-14T19:22:28.914389+00:00"
 }
