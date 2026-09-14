@@ -17,13 +17,13 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.1
+      "freshness_hours": 4.1
     },
     {
-      "title": "RBI liquidity surplus hits record: Will loans get cheaper? - NewsBytes",
+      "title": "RBI liquidity surplus hits record: Will loans get cheaper? - newsbytesapp.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNElfNUVaUGxhOVJNNlFVSDFLdlVoQlNXWFBsVnRNZXNabTg3b28wYm9Id0dfYS01ZVhQVklLMWVDbnA1em96X2lqWmZ6dEhoelE0ZkMyVUY0ZGc0R1YtWnFVcUt3dkJZR1c4bXRzVndlZWw4d1N2cTFqb0drNHEyaG5pTDNia0JCQUNBSlJ5d3hNRVNJRlFoUmlFRlFvNjdVbXJTaUtBaw?oc=5",
       "published": "Mon, 14 Sep 2026 03:58:22 GMT",
-      "source": "NewsBytes",
+      "source": "newsbytesapp.com",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.4
+      "freshness_hours": 4.4
     },
     {
       "title": "Wafer Carrier Boats Market Forecast to Double by 2035, Driven by Global Fab Expansion and 300mm Transition - IndexBox",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 16.5
+      "freshness_hours": 17.5
     }
   ],
   "opportunities": [
@@ -403,5 +403,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-14T07:23:44.619808+00:00"
+  "landed_updated_utc": "2026-09-14T08:24:29.954921+00:00"
 }
