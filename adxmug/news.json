@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "RBI may take until Q2FY28 to absorb ₹4 trn durable liquidity surplus - business-standard.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjl4bzdDdWhqSWVXMllULWY3T3pGajlBMmRCX1d5ejhUdDNwQkNFam1acENVcWwwa2RQd1BGbTBDb1hwdUtaUTdvbWdiLU1tSUFQV1R3cDdKWEtBbFF3V3ZuRktIVHN1eHozcUFOOWtWazNsM3NsYmg4TVl5QWZ2M1NSMXhpUlpsZ29ZSDdYR1lCX1JHc3B3U043TUdreTJZQ2RYM1FhLURLNnV5b1EzTTRQUFJlRUFVeGpfQXNzWkltZUQ3ZWx6MGtuMUYxbVnSAdQBQVVfeXFMTUtSN2g4VUZ2RkFoQ012bWg0dzE0VEdhRkREQVNlcFpMcTIySE1FaGlVNURxLW9EVEM4N0pQSm5HOVFYY2F0bDNoa0VuNzJ4eHJGenJGTVZaTlMtdzJiOEdGVTJhR3BSbDhUUjV2My1kS1VnNGlfVloyTE5uQTl4Y1ZnZHZwakt2Mlp6OU9aQTFKencyVjZfMExHVjgwcXYxazhQak81anhtdkJ0emgwT2lMMVRlT2pjY1lIZmRRV3dXQ092QURrN1NLb0g2STRIZEtoRlk?oc=5",
+      "published": "Mon, 14 Sep 2026 13:19:48 GMT",
+      "source": "business-standard.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 1.1
+    },
+    {
       "title": "The Transformer Lead-Time Crisis: Global Core Steel Shortages Delaying Western Substation Modernization - streamlinefeed.co.ke",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUlIWk01UXFBSXo1Wi1KLXpQNXR1YV9fYWRyTFNwVXBRZVN1SUFaczk1UUZ4UmF6c3FaYXJjWWdhMVRFajdmYlZ2SjBSQnhsWi12c2cyS2pzX18zaVp6eFBqRUNwTXZHSnlrU2c3MFlteDNudGpES3RYVlV5OU9LQUgycUZ5Q2psaURCSFU0M2xKcWNXSmtaWWpMVFAxdUhNNTFULV9MdG1uQVlQa3ZvUg?oc=5",
       "published": "Mon, 14 Sep 2026 12:13:19 GMT",
@@ -17,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 1.2
+      "freshness_hours": 2.2
     },
     {
       "title": "Telix Pharmaceuticals (ASX:TLX): FDA Approval for Pixclara Expands US Imaging Portfolio - Kalkine",
@@ -31,21 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 4.4
-    },
-    {
-      "title": "RBI liquidity surplus hits record: Will loans get cheaper? - NewsBytes",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNElfNUVaUGxhOVJNNlFVSDFLdlVoQlNXWFBsVnRNZXNabTg3b28wYm9Id0dfYS01ZVhQVklLMWVDbnA1em96X2lqWmZ6dEhoelE0ZkMyVUY0ZGc0R1YtWnFVcUt3dkJZR1c4bXRzVndlZWw4d1N2cTFqb0drNHEyaG5pTDNia0JCQUNBSlJ5d3hNRVNJRlFoUmlFRlFvNjdVbXJTaUtBaw?oc=5",
-      "published": "Mon, 14 Sep 2026 03:58:22 GMT",
-      "source": "NewsBytes",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.4
+      "freshness_hours": 5.4
     }
   ],
   "opportunities": [
@@ -440,5 +440,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-14T13:25:21.194227+00:00"
+  "landed_updated_utc": "2026-09-14T14:24:41.049371+00:00"
 }
