@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.7
+      "freshness_hours": 5.7
     },
     {
       "title": "The Transformer Lead-Time Crisis: Global Core Steel Shortages Delaying Western Substation Modernization - streamlinefeed.co.ke",
@@ -31,13 +31,13 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 6.4
+      "freshness_hours": 7.4
     },
     {
-      "title": "Torrent Pharmaceuticals: Oncology Facility At Bileshwarpura Clears USFDA Inspection With Zero Observations - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeGZSN0hlTDg3SW0wNE13RndPNG52aDREdXkzT044UXA5NXlBWXIxWTM2aVZRRFpIdVRkMnBWeEUyREVYdUVwNEZDYWR0ZDFCSXlBVXhEYVFsZ2hORXpOVXI5dFk4WGVqNlZVZElna1puN0ZzemUxdmZBa1JqdHNFR0VLSnVKbWNJcnZFc1phSk56dnlCdnJDaEVaWG9Kc0k5RUdBc2FNdWZtcTl3YkZEMDVnYzh6c1A5WUZkRGhwVGpzMTUyOHVndHFBZmt2ajVNT1UtcVhTdWI4NE92cXh5X01KWk5NdW1P?oc=5",
-      "published": "Sun, 13 Sep 2026 20:32:29 GMT",
-      "source": "scanx.trade",
+      "title": "Aurobindo Pharma's Apitoria clears US FDA inspection with zero observations - Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdi1WcFVKRTRLemhoWjJUa3pSSFNFS3hCR2tmZzVuMXVkMi0yNE1uOF9qbk9VQ3ctcEF1WjcyTGQydGlZQmI5VVpldC1LdzBSTHk2dnB3MWpneWVwVkJxLTEyeUtoZjMzdzNBLWhWQ1VsM1RsYlF2SlROeFI2SHhfeG9KUmc0ZDMwaHdWZ3JxelJIMzFydi1EQlRxTTVTN2JFM3RHZEp3bU5oZGhyQXdmUmY2Y083SU9GcnfSAcABQVVfeXFMTTVzYk1TUnVtVVhKeE5oVmcxbVFrWjBVdEVTWEdjYnVmRDcwcUNaeWdKRF9xYms2cHZwUi1kMjZWcXlXMW9iaXd4Y2J1ZXRFZnhaM0NUNnVuNnE4dVVRLS1Hck5RRnhTdFp0NVAwdkNwYXZ2X1czaWNBRmtMZHdPRTk5X2hPR3BRRy1hc3dWUmp4T0JWVnNaTi1qNEZybUpBYVZvVnpvVXhPWHpkVlZuc3hjZUtmYWdsWUZabTU0YW9R?oc=5",
+      "published": "Mon, 14 Sep 2026 04:32:29 GMT",
+      "source": "Indian Pharma Post",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 23.8
+      "freshness_hours": 16.8
     }
   ],
   "opportunities": [
@@ -449,5 +449,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-14T20:21:47.726333+00:00"
+  "landed_updated_utc": "2026-09-14T21:21:02.941668+00:00"
 }
