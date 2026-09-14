@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI may take until Q2FY28 to absorb ₹4 trn durable liquidity surplus - business-standard.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjl4bzdDdWhqSWVXMllULWY3T3pGajlBMmRCX1d5ejhUdDNwQkNFam1acENVcWwwa2RQd1BGbTBDb1hwdUtaUTdvbWdiLU1tSUFQV1R3cDdKWEtBbFF3V3ZuRktIVHN1eHozcUFOOWtWazNsM3NsYmg4TVl5QWZ2M1NSMXhpUlpsZ29ZSDdYR1lCX1JHc3B3U043TUdreTJZQ2RYM1FhLURLNnV5b1EzTTRQUFJlRUFVeGpfQXNzWkltZUQ3ZWx6MGtuMUYxbVnSAdQBQVVfeXFMTUtSN2g4VUZ2RkFoQ012bWg0dzE0VEdhRkREQVNlcFpMcTIySE1FaGlVNURxLW9EVEM4N0pQSm5HOVFYY2F0bDNoa0VuNzJ4eHJGenJGTVZaTlMtdzJiOEdGVTJhR3BSbDhUUjV2My1kS1VnNGlfVloyTE5uQTl4Y1ZnZHZwakt2Mlp6OU9aQTFKencyVjZfMExHVjgwcXYxazhQak81anhtdkJ0emgwT2lMMVRlT2pjY1lIZmRRV3dXQ092QURrN1NLb0g2STRIZEtoRlk?oc=5",
+      "title": "RBI may take until Q2FY28 to absorb ₹4 trn durable liquidity surplus - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS1I3aDhVRnZGQWhDTXZtaDR3MTRUR2FGRERBU2VwWkxxMjJITUVoaVU1RHEtb0RUQzg3SlBKbkc5UVhjYXRsM2hrRW43Mnh4ckZ6ckZNVlpOUy13MmI4R0ZVMmFHcFJsOFRSNXYzLWRLVWc0aV9WWjJMTm5BOXhjVmdkdnBqS3YyWno5T1pBMUp6dzJWNl8wTEdWODBxdjFrOFBqTzVqeG12QnR6aDBPaUwxVGVPamNjWUhmZFFXd1dDT3ZBRGs3U0tvSDZJNEhkS2hGWdIB1AFBVV95cUxNS1I3aDhVRnZGQWhDTXZtaDR3MTRUR2FGRERBU2VwWkxxMjJITUVoaVU1RHEtb0RUQzg3SlBKbkc5UVhjYXRsM2hrRW43Mnh4ckZ6ckZNVlpOUy13MmI4R0ZVMmFHcFJsOFRSNXYzLWRLVWc0aV9WWjJMTm5BOXhjVmdkdnBqS3YyWno5T1pBMUp6dzJWNl8wTEdWODBxdjFrOFBqTzVqeG12QnR6aDBPaUwxVGVPamNjWUhmZFFXd1dDT3ZBRGs3U0tvSDZJNEhkS2hGWQ?oc=5",
       "published": "Mon, 14 Sep 2026 13:19:48 GMT",
-      "source": "business-standard.com",
+      "source": "Business Standard",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.1
+      "freshness_hours": 2.1
     },
     {
       "title": "The Transformer Lead-Time Crisis: Global Core Steel Shortages Delaying Western Substation Modernization - streamlinefeed.co.ke",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 2.2
+      "freshness_hours": 3.2
     },
     {
       "title": "Telix Pharmaceuticals (ASX:TLX): FDA Approval for Pixclara Expands US Imaging Portfolio - Kalkine",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 5.4
+      "freshness_hours": 6.4
     }
   ],
   "opportunities": [
@@ -440,5 +440,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-14T14:24:41.049371+00:00"
+  "landed_updated_utc": "2026-09-14T15:25:04.596044+00:00"
 }
