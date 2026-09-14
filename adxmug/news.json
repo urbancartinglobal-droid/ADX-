@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Aurobindo Pharma's Apitoria clears US FDA inspection with zero observations - indianpharmapost.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdi1WcFVKRTRLemhoWjJUa3pSSFNFS3hCR2tmZzVuMXVkMi0yNE1uOF9qbk9VQ3ctcEF1WjcyTGQydGlZQmI5VVpldC1LdzBSTHk2dnB3MWpneWVwVkJxLTEyeUtoZjMzdzNBLWhWQ1VsM1RsYlF2SlROeFI2SHhfeG9KUmc0ZDMwaHdWZ3JxelJIMzFydi1EQlRxTTVTN2JFM3RHZEp3bU5oZGhyQXdmUmY2Y083SU9GcnfSAcABQVVfeXFMTTVzYk1TUnVtVVhKeE5oVmcxbVFrWjBVdEVTWEdjYnVmRDcwcUNaeWdKRF9xYms2cHZwUi1kMjZWcXlXMW9iaXd4Y2J1ZXRFZnhaM0NUNnVuNnE4dVVRLS1Hck5RRnhTdFp0NVAwdkNwYXZ2X1czaWNBRmtMZHdPRTk5X2hPR3BRRy1hc3dWUmp4T0JWVnNaTi1qNEZybUpBYVZvVnpvVXhPWHpkVlZuc3hjZUtmYWdsWUZabTU0YW9R?oc=5",
-      "published": "Mon, 14 Sep 2026 04:19:44 GMT",
-      "source": "indianpharmapost.com",
+      "title": "Telix Pharmaceuticals (ASX:TLX): FDA Approval for Pixclara Expands US Imaging Portfolio - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnJTSjVxWWN3cHd0WkMwZC15OTNPN2xCMXItUGxibUJlZVZGb0tZcTdNMERkY1I2QU81aG1hVkttTW9Jd09FWWRYTUE2S0ZRbGlMUkkzODAyaHJBSjZoY2dYMEl3UDFwYUM4OC1vbThSZE9KdGwxaV9Ka3ZzNFJGLW5aYVgyUHhiaWMxeEdnYU52b2FJekxOWEFzX1NuMnBZMllrSE1mUlpDZGFSbDFHeFBBcEI5WDk5STBSNUhTdG1BUGw5bG9lem9XVFM?oc=5",
+      "published": "Mon, 14 Sep 2026 08:59:00 GMT",
+      "source": "Kalkine",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 4.1
+      "freshness_hours": 0.4
     },
     {
       "title": "RBI liquidity surplus hits record: Will loans get cheaper? - newsbytesapp.com",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.4
+      "freshness_hours": 5.4
     },
     {
       "title": "Wafer Carrier Boats Market Forecast to Double by 2035, Driven by Global Fab Expansion and 300mm Transition - IndexBox",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 17.5
+      "freshness_hours": 18.5
     }
   ],
   "opportunities": [
@@ -403,5 +403,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-14T08:24:29.954921+00:00"
+  "landed_updated_utc": "2026-09-14T09:24:32.409140+00:00"
 }
