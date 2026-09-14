@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Aurobindo Pharma's Apitoria clears US FDA inspection with zero observations - indianpharmapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdi1WcFVKRTRLemhoWjJUa3pSSFNFS3hCR2tmZzVuMXVkMi0yNE1uOF9qbk9VQ3ctcEF1WjcyTGQydGlZQmI5VVpldC1LdzBSTHk2dnB3MWpneWVwVkJxLTEyeUtoZjMzdzNBLWhWQ1VsM1RsYlF2SlROeFI2SHhfeG9KUmc0ZDMwaHdWZ3JxelJIMzFydi1EQlRxTTVTN2JFM3RHZEp3bU5oZGhyQXdmUmY2Y083SU9GcnfSAcABQVVfeXFMTTVzYk1TUnVtVVhKeE5oVmcxbVFrWjBVdEVTWEdjYnVmRDcwcUNaeWdKRF9xYms2cHZwUi1kMjZWcXlXMW9iaXd4Y2J1ZXRFZnhaM0NUNnVuNnE4dVVRLS1Hck5RRnhTdFp0NVAwdkNwYXZ2X1czaWNBRmtMZHdPRTk5X2hPR3BRRy1hc3dWUmp4T0JWVnNaTi1qNEZybUpBYVZvVnpvVXhPWHpkVlZuc3hjZUtmYWdsWUZabTU0YW9R?oc=5",
+      "published": "Mon, 14 Sep 2026 04:19:44 GMT",
+      "source": "indianpharmapost.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 3.1
+    },
+    {
+      "title": "RBI liquidity surplus hits record: Will loans get cheaper? - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNElfNUVaUGxhOVJNNlFVSDFLdlVoQlNXWFBsVnRNZXNabTg3b28wYm9Id0dfYS01ZVhQVklLMWVDbnA1em96X2lqWmZ6dEhoelE0ZkMyVUY0ZGc0R1YtWnFVcUt3dkJZR1c4bXRzVndlZWw4d1N2cTFqb0drNHEyaG5pTDNia0JCQUNBSlJ5d3hNRVNJRlFoUmlFRlFvNjdVbXJTaUtBaw?oc=5",
+      "published": "Mon, 14 Sep 2026 03:58:22 GMT",
+      "source": "NewsBytes",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 3.4
+    },
+    {
+      "title": "Wafer Carrier Boats Market Forecast to Double by 2035, Driven by Global Fab Expansion and 300mm Transition - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHY0MU9seV9naW56M1dtR3pvVGVNcnpudXJ0aThLYU5BSWxfM1RETTNSRGppUVl5RjVsbnpDbUlBanNmUzNYTW1FWWlDbUV3ZWtUSlhBZ1pPVUg0MWZGb1ZEdUF5MFR5MnYtZkctNENPcUtEb2pyTndvTU5BVHVBQlA1Z2V6bklGTWxOMTExVzZrV0ttek5jcm03eHdCc05xZ0F5RXhFTWxQU0NTZklYT3lMUmNCN3ZnelRrc3JEQTBoNnZ2ZEV1WWNyLWIxeGlD?oc=5",
+      "published": "Sun, 13 Sep 2026 14:56:14 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 16.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -359,5 +402,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-14T07:23:44.619808+00:00"
 }
