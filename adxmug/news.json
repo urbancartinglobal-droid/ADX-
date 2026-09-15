@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-09-15T12:33:13.754459+00:00",
+  "updated_utc": "2026-09-15T18:28:52.962456+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI absorbs Rs 3.93 lakh crore surplus liquidity in banking system via VRRR auction - mid-day.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUhJSGpvOTVQM1dqSzctcW5lUWtVaVJFMXE3MEJ6SlVCcW9GbUlWRThXY2FvT3RfQ1N0R2tKeFlWd052T3JxVk5EOEtLWmtONEgyQzVoUzBZdkZBaDBLVTZyZm5mNUpEU0s4NDd5UGwzLTlRQXZyZXh2VW5HOEJraWlPZzFtTDNVV2kzLWhDejU5Z0daQS1IVXNVc2xwc3lzTW04UzZ6UWpEUWdzcWFhUmdDTTk4NkNzMHZFVXU5bUNHc0lQbWtoRGZoNGxvTmxBdFN5emUxT1RJMzVHZ01F0gHkAUFVX3lxTE9SWUdhRDdyYjZUVnF4b3d1MDhCTzIxYUxCZDRLc0ptYktrVmc1ajFyOG1WMXFUNngyRlJ3OFNJN3ZZWmNiaXh1RXJ2aE1jMDdHZnJ1aVRFSmZ3U2M2SVJ0VHBuM1FaVmkxM3ZqWW9Dbm92WXI5Mnh3YktfNWRRdXBtNXZzUnByUDVLdlBKUUVzbnNrcXZ1emdiOVZjYUEwYlY5SWFVTUhyM01xdWFrNUtVZ2lBanZxbFNXV1hlZmk3VHN6X3lCVzJrRWRWeWtkdF9LbjV5aGVncHlLeUMxeVBaQndVdQ?oc=5",
-      "published": "Tue, 15 Sep 2026 08:35:00 GMT",
-      "source": "mid-day.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.8
-    },
-    {
-      "title": "Fiberglass Microglass Cartridges Market Forecast to 2035: Growth Accelerates on Semiconductor Fab Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUlkd0tOdC1hVVVoQVVlbVFUZ3IwaXY1NjZsZUlhMnRIX09BamdaNHo4NFVueUwwaXhfQmRrekRPODc1OGVsODdFbGFWUFZmY3o3MVZNTkFiUzd3R1cyQkE0ZEFpdjJpZHlvRnZmQko3aUowSHpHNzdjaDJoWWJfa0dXM21OaGxoLUdJNG1RdmJIc3M1enBDX3VtQmZ3OU1uWkRja2pZRWFZMWxudTlPMTFzVEpGaFQzdXVwZWgxSmp6ZVlJR3hMWmFydEpndmlfcUE?oc=5",
-      "published": "Tue, 15 Sep 2026 12:16:14 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -78,8 +49,8 @@
           "companies": []
         },
         {
-          "title": "India opens door to sugar imports after decade as stocks shrink and prices surge - AgroSpectrum India",
-          "source": "AgroSpectrum India",
+          "title": "India opens door to sugar imports after decade as stocks shrink and prices surge - agrospectrumindia.com",
+          "source": "agrospectrumindia.com",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkc0VzVWcE1XUUtkZ1poQkRjUFN6SC0xRExsTXBWdW03d2VVa3NTZVBWMGJXdlBEWVFwRFhJVmxXN3NDR29LQmZfcmRBNkJWck5GeTI3V2FzaVRHa2RJWldxS3Bid2FONWNuV0xvcFZTSlotVzhHNWlsZEpVM3VPSm9yVHlSX0ZNeGg4c0dPVHdXN0RLS2ZwaWcxQ0N3UU1YLTJCbGF1Q3pralphSHd3MDRiOGF2NlV2U0R2X1FpWUo2aVVOOGwtcDF3?oc=5",
           "triggers": [
             "TRADE",
@@ -187,24 +158,14 @@
     },
     {
       "industry": "Rail & Infrastructure",
-      "score": 50,
-      "article_count": 4,
-      "trigger_count": 6,
+      "score": 37,
+      "article_count": 3,
+      "trigger_count": 4,
       "triggers": [
         "CAPEX",
         "POLICY"
       ],
       "evidence": [
-        {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
-          "source": "Swarajya",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
-          "triggers": [
-            "POLICY",
-            "CAPEX"
-          ],
-          "companies": []
-        },
         {
           "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - Construction World",
           "source": "Construction World",
@@ -234,11 +195,11 @@
           "companies": []
         }
       ],
-      "confidence": "medium",
+      "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, POLICY; 4 distinct story clusters; 2 independent sources.",
-      "source_count": 2,
-      "story_clusters": 4,
+      "reason": "Cross-signal CAPEX, POLICY; 3 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 3,
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
@@ -418,8 +379,8 @@
       ],
       "evidence": [
         {
-          "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - ET Chemicals",
-          "source": "ET Chemicals",
+          "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - chemicals.economictimes.indiatimes.com",
+          "source": "chemicals.economictimes.indiatimes.com",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbjdHWW5JN3ZmUlAyRXR0bUl1SjhMZUlLM1JyLUtaN1FmZk5CX2cyUG9wVVZ5bFNDcFctUE1zQ0FHbF85d1lEQm5qd1daTGc2UkNFNHBPRGRFNWY0RlVPYzNzQV9oUHVZcjdya01IS3NCZ1VjRm1ZZC1qTXN5WXJELVY5MlFET1lrMncyYVQ4eXdfVlhTOGxHTVdxMHRQeGRSc2hwS1doM1dvMm91N2xBYWZtS0JJU216MGtWODYyYnAtdUo1azNtMzJ6TEE0SXE1dGxpUHBvQ2xlVGlkVlBPaXpjbUZaRTRmenJUdnFMaGhSSlJoT1pYWtIB_gFBVV95cUxOREpkYVRvcFhpR2RKRHRxQWVMbTlaNXpxVzE2Y3RTZXlWbDRkd0tOaUVyZ011UGg3aThJclFyd0ZQTHdNb1RYMEJNZXA4M0Fzclowc2ZtNWotVE1sZXVYZUhMUDFOWHJtVDh0VjJxX21NZVZTYWdOSHhncHVKemRXc1doYUFTS0l2eVRGUUpDQU1tZ0wyd0Z2bkNrU0NPa0tZTHZBVHJUX3FKbDBtZWppTTZrUHpfQ05yajRMNVJnR25kMENIQzlxTWhuYlNwRURNMmVKdU0ybXRQOGdkMGtaNHIwU3VaSU5iTThESVUyTGJ5M3hJVWRCbUNLbS1WQQ?oc=5",
           "triggers": [
             "PRICING"
@@ -438,6 +399,5 @@
       ],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-15T18:23:08.760139+00:00"
+  ]
 }
