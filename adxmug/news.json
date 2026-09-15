@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
+      "freshness_hours": 1.9
     },
     {
       "title": "Demister Mesh Cartridge Element Media Market To 2035: Semiconductor Fab Expansion and Replacement Cycles Fuel Growth - News and Statistics - IndexBox",
@@ -31,13 +31,13 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.1
+      "freshness_hours": 9.1
     },
     {
-      "title": "US FDA Approves Telix’s Pixclara as First FET-PET Imaging Drug for Brain Cancer - biopharmaapac.com",
+      "title": "US FDA Approves Telix’s Pixclara as First FET-PET Imaging Drug for Brain Cancer - BioPharma APAC",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0d1cjROSGJmQndtbTJ5SmtvSEFqMjdfWV92RUpCdFk1QU5JQ1p3ajJyWkhyUExlYkxEc0tiN0Utb1IwMXFMX2lNR0swdlN5X05zU0IxelBDa05fRVFocnZkYzFBT1FuNUk1ejlVelJ1NGVKd3d6VURlejlrUUx0SnZCWkdlLXlwajdubnUzMi12a3l1bjk0QzUwVXFna0QwOGJ2YVJoYUVSUHJyN3NmV29QR09KZUFGS2RndUpSaw?oc=5",
       "published": "Tue, 15 Sep 2026 00:26:22 GMT",
-      "source": "biopharmaapac.com",
+      "source": "BioPharma APAC",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.0
+      "freshness_hours": 8.0
     }
   ],
   "opportunities": [
@@ -463,5 +463,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-15T07:24:45.085387+00:00"
+  "landed_updated_utc": "2026-09-15T08:25:34.034333+00:00"
 }
