@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.8
+      "freshness_hours": 14.7
     },
     {
       "title": "Dispersion Agent Compounds Market To 2035: Semiconductor Fab Expansion Drives Growth - News and Statistics - IndexBox",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.0
+      "freshness_hours": 5.0
     }
   ],
   "opportunities": [
@@ -429,5 +429,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-15T22:21:04.848764+00:00"
+  "landed_updated_utc": "2026-09-15T23:19:51.810498+00:00"
 }
