@@ -1,45 +1,16 @@
 {
-  "updated_utc": "2026-09-15T06:35:18.459557+00:00",
+  "updated_utc": "2026-09-15T12:33:13.754459+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Uttar Pradesh: Sugarcane shortage puts roadblocks on Khadda’s ethanol ambitions - ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX054U2poYjl3VFlmTGRPRzRCempYc3l1azlXeV9PcnRzY1Z2bEF5RC1vUDB0dnpzTDB3aUdyYUxiQzE1M0JQc01nU3RiVTBMYm5EWXpzaEhUTy12RlpTVXVfV1BzdVlIR1MxbkRiMm9pMjZxS2tYcy1PemxQZ0NlUHROSU5LOWFOWXBWQl9IWm5PSXlsXzNKd2tMYU5tckRTb0pTZUhVc2U?oc=5",
-      "published": "Tue, 15 Sep 2026 06:31:54 GMT",
-      "source": "ChiniMandi",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 5.9
-    },
-    {
-      "title": "Demister Mesh Cartridge Element Media Market To 2035: Semiconductor Fab Expansion and Replacement Cycles Fuel Growth - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSEVaRmV3SWt3OUMzQmJVRDF3SjlaY2ZRLWdYenRzdjZOWDBGenRxWWhBNDRXT2hFa2FLaExaOV9mbUw0OUJSdkpRWTVXMnBPTTBmQXJQVy1PNWt1Y3BOZ3AzSVUwR1RoT2hyQmdSM1RnLWsxVHZTQVpobmJsenZKNC1HR252dl9YMlVTazMwN29LX2RLQUVncWZSUVhpZGctMkhhaHY3eVpJS1VPY09TQ1VXdDB3aXpjUnpuSllEMDJOdDRMMmNxUENrS2dRLVJMa1E1cG9RcjlaVE9VRjBj?oc=5",
-      "published": "Mon, 14 Sep 2026 23:21:18 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 13.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
       "score": 76,
-      "article_count": 5,
-      "trigger_count": 9,
+      "article_count": 6,
+      "trigger_count": 11,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -58,8 +29,8 @@
           "companies": []
         },
         {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-          "source": "A2Z Taxcorp LLP",
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - a2ztaxcorp.net",
+          "source": "a2ztaxcorp.net",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
           "triggers": [
             "POLICY",
@@ -78,18 +49,19 @@
           "companies": []
         },
         {
-          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
-          "source": "Global Agriculture",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
+          "title": "India opens door to sugar imports after decade as stocks shrink and prices surge - AgroSpectrum India",
+          "source": "AgroSpectrum India",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkc0VzVWcE1XUUtkZ1poQkRjUFN6SC0xRExsTXBWdW03d2VVa3NTZVBWMGJXdlBEWVFwRFhJVmxXN3NDR29LQmZfcmRBNkJWck5GeTI3V2FzaVRHa2RJWldxS3Bid2FONWNuV0xvcFZTSlotVzhHNWlsZEpVM3VPSm9yVHlSX0ZNeGg4c0dPVHdXN0RLS2ZwaWcxQ0N3UU1YLTJCbGF1Q3pralphSHd3MDRiOGF2NlV2U0R2X1FpWUo2aVVOOGwtcDF3?oc=5",
           "triggers": [
-            "TRADE"
+            "TRADE",
+            "PRICING"
           ],
           "companies": []
         },
         {
-          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVIzVVlXNzk5VkREeFUzTm9NczlXSUU3WjRsbGdGdnI0RTJ4R0Q3QWJuTmt5UVZLUTdiWktsQjV6OFQwRkY2SW45bE14b3dKMVFNd3JsV1Y3b2pLRzNtQS1tZFVzcFp0UUhMZkNDcld3TWZ0Sng4aXByQ3VNUmt1MXdKM2VPVVhzNmRmaV9pT3dLQmkzQm9NVl94VmpPa09LMHdGY0dpdUpZZHd2WS1VV3ppbHBnaHM4RFlJMnVFVXJOWWhjbnZFNU05aHZGYUJLdExwMTRpMHJkOTlnTy1KZjZMQmJwZ9IB6wFBVV95cUxOSzZtU05qNHQzS0RkdnVzeE5NOHREMWc4SVFCMGJGOGlVSFpkOUF6WFdjUFVwcUloM3BNS21WMWFtR0tldlFLd1RtVF9KdFN4eXgzdXkwZ2o2aVRpZ0pfLWc1X29RU1ZNcXo1VUdtLUhnUVIzbUkxMk1CQTZMMkJ3V3FIcVZPNnB5Y2hGR2lhdzVJVURSN1BPakduVDNYeGFJMHJETjNRZGdKbzRVUWxQd0U2akduaEpJSEk3cE9ZTFczQ1NPanM4NlNMS2FmeEdpTkdBdVRrWEdBMENWWEZjRlgzUEtaSkpPM1dn?oc=5",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
             "TRADE"
           ],
@@ -98,9 +70,9 @@
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
-      "source_count": 5,
-      "story_clusters": 5,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 6 independent sources.",
+      "source_count": 6,
+      "story_clusters": 6,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -112,8 +84,8 @@
     {
       "industry": "Banking & Financials",
       "score": 64,
-      "article_count": 5,
-      "trigger_count": 10,
+      "article_count": 6,
+      "trigger_count": 12,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -124,6 +96,16 @@
           "title": "RBI liquidity boost cuts wholesale funding costs, but banks remain locked in deposit battle - bfsi.economictimes.indiatimes.com",
           "source": "bfsi.economictimes.indiatimes.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVUQzhPcVlRMHVrcU9MS0xFUGdteVpyd21JVFoxSGhRdWJQdnEyZHJXTlZVYV9jMWVoU2ppSzNDUDFPUzl6cUoxdm4yeGVVVnlfTjdId2l4cTFOR1B4WFdNemFabEctNEZ4a1FReEtSSGc0aExOUHpRc2I5RWxIUjh5LS1XSU9kSURiV0dydFFDdlczdmZkMDZFNV9oNU5mSjNrMy1zdUdkOWp6Z1dLLU1GRGxzSEpOOGxzUDFuYW1uM1nSAcgBQVVfeXFMT2ZLQm1rdWctbml2ekZxZjJCc1ZSVnBSTTMxU2hpeUUyRGp3OWJOT1hPMTlxcW1nTUpOVFMwMVRsWm5EeGI5N2NLNU1jVkFfRjNfOTlnWnkyS2J0a1lYRWs4VHM4QWFEdFFEYnpYY0YxQTU1ZjR6NzdVUFdnWVh6NzFmd2FXUmhaQU5hdFJwMG96a0hkSXQ0cG16R0hkdVhnRDktZ01aT3dZd0FEbnJiYThjbjBQRlRwYmJid0lQOWw0dktQbnpnVUk?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI's CRR cut may provide 3-4 bps relief to banks on margins front ; liquidity challenges remain - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWtvTTVGMXhTSTZCSHVNQ2tqMmZ2MDYtQUdvT2ZZREoyTVpTbTNQS3hHUjltN0x1R3pveWQ2TkhYZzhGYWl2MVBBNmVvM21tSUdXdVNzcmpPTVg5UEdHQjlSYmQySVVrOEZ6cGowYmkwNmVMbmZUMTBReDFPWnRnTTd5b2JIZUxVVjNaREtPOEdfOEpNQUh2YnV2NUx4bE1HblRvTzB3a2ZGOTZ1RlFKN3NPeXdHanoxakk0T0FYdWw5dURDZFVUNXk1VDFXb2VkV3BnOE1FNkVKcDlWNWlfNmtkRTBvY1k4cHM0ZnNB0gHzAUFVX3lxTE1oQnJndDFFT1BPV2RfcnAwRDV6OG1qdHBOd2s2ZXMxVUFnMTl0Z3VudUJnbWVTbVpoVmh2NV84TEEyN09keDFDTDBkUmM3OGFicmpFNmRybHlZYWNqRlh0RXc1YjFBb05yOXdVZXk5aUVlWWtUV3V5c1FyOUI0YU9yZjBDVWctNjR1ZUpsNGg0X2pZOE1URjR4ZDB1eEtzSGxGQ1JKTk1lcEFTQkR4M2ZwbFFUZ19vUlVzQzh4djFZbDczeHhiNnpxTWFzNkpnS1dXcGdQa3F5QkVxTXJ0NlRrT2NQWVJvOGpmYlZEQTNtczlONA?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
@@ -159,23 +141,13 @@
             "PRICING"
           ],
           "companies": []
-        },
-        {
-          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 5,
+      "story_clusters": 6,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -186,25 +158,14 @@
     },
     {
       "industry": "Rail & Infrastructure",
-      "score": 58,
-      "article_count": 5,
-      "trigger_count": 8,
+      "score": 50,
+      "article_count": 4,
+      "trigger_count": 6,
       "triggers": [
         "CAPEX",
-        "CORPORATE",
         "POLICY"
       ],
       "evidence": [
-        {
-          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
-          "triggers": [
-            "CAPEX",
-            "CORPORATE"
-          ],
-          "companies": []
-        },
         {
           "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
           "source": "Swarajya",
@@ -246,12 +207,12 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, CORPORATE, POLICY; 5 distinct story clusters; 2 independent sources.",
+      "reason": "Cross-signal CAPEX, POLICY; 4 distinct story clusters; 2 independent sources.",
       "source_count": 2,
-      "story_clusters": 5,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
-        "Corporate action reinforced by capex/orders is a stronger operating signal."
+        "Repeated sector-specific change evidence warrants company-level verification."
       ],
       "fresh_count": 0
     },
@@ -448,6 +409,5 @@
       ],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-15T12:26:56.055022+00:00"
+  ]
 }
