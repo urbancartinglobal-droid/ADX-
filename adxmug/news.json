@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Uttar Pradesh: Sugarcane shortage puts roadblocks on Khadda’s ethanol ambitions - ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX054U2poYjl3VFlmTGRPRzRCempYc3l1azlXeV9PcnRzY1Z2bEF5RC1vUDB0dnpzTDB3aUdyYUxiQzE1M0JQc01nU3RiVTBMYm5EWXpzaEhUTy12RlpTVXVfV1BzdVlIR1MxbkRiMm9pMjZxS2tYcy1PemxQZ0NlUHROSU5LOWFOWXBWQl9IWm5PSXlsXzNKd2tMYU5tckRTb0pTZUhVc2U?oc=5",
+      "published": "Tue, 15 Sep 2026 06:31:54 GMT",
+      "source": "ChiniMandi",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 0.9
+    },
+    {
+      "title": "Demister Mesh Cartridge Element Media Market To 2035: Semiconductor Fab Expansion and Replacement Cycles Fuel Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSEVaRmV3SWt3OUMzQmJVRDF3SjlaY2ZRLWdYenRzdjZOWDBGenRxWWhBNDRXT2hFa2FLaExaOV9mbUw0OUJSdkpRWTVXMnBPTTBmQXJQVy1PNWt1Y3BOZ3AzSVUwR1RoT2hyQmdSM1RnLWsxVHZTQVpobmJsenZKNC1HR252dl9YMlVTazMwN29LX2RLQUVncWZSUVhpZGctMkhhaHY3eVpJS1VPY09TQ1VXdDB3aXpjUnpuSllEMDJOdDRMMmNxUENrS2dRLVJMa1E1cG9RcjlaVE9VRjBj?oc=5",
+      "published": "Mon, 14 Sep 2026 23:21:18 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 8.1
+    },
+    {
+      "title": "US FDA Approves Telix’s Pixclara as First FET-PET Imaging Drug for Brain Cancer - biopharmaapac.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0d1cjROSGJmQndtbTJ5SmtvSEFqMjdfWV92RUpCdFk1QU5JQ1p3ajJyWkhyUExlYkxEc0tiN0Utb1IwMXFMX2lNR0swdlN5X05zU0IxelBDa05fRVFocnZkYzFBT1FuNUk1ejlVelJ1NGVKd3d6VURlejlrUUx0SnZCWkdlLXlwajdubnUzMi12a3l1bjk0QzUwVXFna0QwOGJ2YVJoYUVSUHJyN3NmV29QR09KZUFGS2RndUpSaw?oc=5",
+      "published": "Tue, 15 Sep 2026 00:26:22 GMT",
+      "source": "biopharmaapac.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 7.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -419,5 +462,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-15T07:24:45.085387+00:00"
 }
