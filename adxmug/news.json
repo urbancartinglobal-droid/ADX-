@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "RBI likely uses FX swaps to absorb surplus banking liquidity - Prop News Time",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVlqWlByTzhuUnV0OVA4MjQxc3A3bFp6ZzU1MTVLWWNqb3BUNnp6VlZuOWh6T0w2LU9JWjZYS3BiYnRCUlFmLVlEU3EwWWNOZFdFRURuM0RnNjU2T1MxandUcWkwb01KMEdsVG45eXJXNHNhTHF5YVNBYjU2bWxNNmg3NjNfMHlwWnExckp5Vi1RUzJSakhKV0lWTVM5WDRLeW4yZVJLaTFBOURDTzNHMnlR?oc=5",
+      "published": "Tue, 15 Sep 2026 04:00:35 GMT",
+      "source": "Prop News Time",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.4
+    },
+    {
       "title": "Foam Protective Shipping Pad Materials Market Forecast to 2035: Semiconductor Fab Expansion Drives 4-7% CAGR - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWGt0R0x3Z3pkcG1MOE5ndk90MjRSazJkM292dVJ1WDhwSFB3RGFKVVFxV25adkdwbkhZWEpfczZpMVlBZlFPZm91djlndXFTd2JSM1Z2OE1EODRWZFd5ay11SGRCNWdmenhtRk5vMVByT2NhWUtGTTgweGNtNi1MUEFWeWZQbHpkU1g5SUhpV09WOXBoR3hueHlKOXVhblRoaE5waGFNdzVjVnctM1M4WU56b0EyNk9WUHgxcGVBV1QzTmxqYWR6YnN2QmEya0pEbUE?oc=5",
       "published": "Mon, 14 Sep 2026 16:31:10 GMT",
@@ -17,21 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 10.9
-    },
-    {
-      "title": "RBI May Skip Immediate CRR Hike Amid Liquidity Surplus - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHV1Nlo4Y2JCWWJURHBNbmJYRDN1Q295TGZ6T1U1bFZaYXp4dUZ4dzJXRVp2RThyZ0dBRkF4NUNkejlOZklrdWk2YXFPa1Z6djlndF9JQmhvWXEwYkV3elhpMjhBOERkemZ2MUxfdmwwYnlyV2xPSmg4MVlwNmxiM21Cd1E5S0p4cEpIRU5rLV94TTNPMEpJXzdQZDBjNGc?oc=5",
-      "published": "Mon, 14 Sep 2026 15:40:45 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.7
+      "freshness_hours": 11.9
     },
     {
       "title": "US FDA Approves Telix’s Pixclara as First FET-PET Imaging Drug for Brain Cancer - BioPharma APAC",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.0
+      "freshness_hours": 4.0
     }
   ],
   "opportunities": [
@@ -460,5 +460,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-15T03:24:02.777985+00:00"
+  "landed_updated_utc": "2026-09-15T04:23:45.834862+00:00"
 }
