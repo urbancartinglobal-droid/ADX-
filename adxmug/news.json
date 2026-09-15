@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI absorbs Rs 3.93 lakh crore surplus liquidity in banking system via VRRR auction - Mid-Day",
+      "title": "RBI absorbs Rs 3.93 lakh crore surplus liquidity in banking system via VRRR auction - mid-day.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUhJSGpvOTVQM1dqSzctcW5lUWtVaVJFMXE3MEJ6SlVCcW9GbUlWRThXY2FvT3RfQ1N0R2tKeFlWd052T3JxVk5EOEtLWmtONEgyQzVoUzBZdkZBaDBLVTZyZm5mNUpEU0s4NDd5UGwzLTlRQXZyZXh2VW5HOEJraWlPZzFtTDNVV2kzLWhDejU5Z0daQS1IVXNVc2xwc3lzTW04UzZ6UWpEUWdzcWFhUmdDTTk4NkNzMHZFVXU5bUNHc0lQbWtoRGZoNGxvTmxBdFN5emUxT1RJMzVHZ01F0gHkAUFVX3lxTE9SWUdhRDdyYjZUVnF4b3d1MDhCTzIxYUxCZDRLc0ptYktrVmc1ajFyOG1WMXFUNngyRlJ3OFNJN3ZZWmNiaXh1RXJ2aE1jMDdHZnJ1aVRFSmZ3U2M2SVJ0VHBuM1FaVmkxM3ZqWW9Dbm92WXI5Mnh3YktfNWRRdXBtNXZzUnByUDVLdlBKUUVzbnNrcXZ1emdiOVZjYUEwYlY5SWFVTUhyM01xdWFrNUtVZ2lBanZxbFNXV1hlZmk3VHN6X3lCVzJrRWRWeWtkdF9LbjV5aGVncHlLeUMxeVBaQndVdQ?oc=5",
       "published": "Tue, 15 Sep 2026 08:35:00 GMT",
-      "source": "Mid-Day",
+      "source": "mid-day.com",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 8.7
+      "freshness_hours": 9.8
     },
     {
       "title": "Fiberglass Microglass Cartridges Market Forecast to 2035: Growth Accelerates on Semiconductor Fab Expansion - IndexBox",
@@ -31,21 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.1
-    },
-    {
-      "title": "Aurobindo Pharma: USFDA Approves Beclomethasone Dipropionate HFA Inhaler - InvestyWise",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFc1bHN6eXM3SUxseUVZS01VdGgxVFRvVEN6SjVfdjJoY1BSWTJ1b1dGcE5QQmlrQmdRb1FPcF92eFpBekZ1dDJOZnJYQk1PTnkxendaZ2lyTDcydGVKS0U0NVJNQm9SYkNHVzM3VUUwLW16ekk5bTd0ajVJVHRHMXptT2prUjBjdDA1bUJ2N1pMSnlkemRvaVdDRkUzVDdzdE1CSnR2d1ZWSkhjWnJERTJ4b0VzSElSUm5pSlh3aGo?oc=5",
-      "published": "Tue, 15 Sep 2026 07:44:48 GMT",
-      "source": "InvestyWise",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 9.6
+      "freshness_hours": 6.1
     }
   ],
   "opportunities": [
@@ -453,5 +439,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-15T17:19:56.288221+00:00"
+  "landed_updated_utc": "2026-09-15T18:23:08.760139+00:00"
 }
