@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Foam Protective Shipping Pad Materials Market Forecast to 2035: Semiconductor Fab Expansion Drives 4-7% CAGR - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWGt0R0x3Z3pkcG1MOE5ndk90MjRSazJkM292dVJ1WDhwSFB3RGFKVVFxV25adkdwbkhZWEpfczZpMVlBZlFPZm91djlndXFTd2JSM1Z2OE1EODRWZFd5ay11SGRCNWdmenhtRk5vMVByT2NhWUtGTTgweGNtNi1MUEFWeWZQbHpkU1g5SUhpV09WOXBoR3hueHlKOXVhblRoaE5waGFNdzVjVnctM1M4WU56b0EyNk9WUHgxcGVBV1QzTmxqYWR6YnN2QmEya0pEbUE?oc=5",
+      "published": "Mon, 14 Sep 2026 16:31:10 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 8.9
+    },
+    {
+      "title": "RBI May Skip Immediate CRR Hike Amid Liquidity Surplus - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHV1Nlo4Y2JCWWJURHBNbmJYRDN1Q295TGZ6T1U1bFZaYXp4dUZ4dzJXRVp2RThyZ0dBRkF4NUNkejlOZklrdWk2YXFPa1Z6djlndF9JQmhvWXEwYkV3elhpMjhBOERkemZ2MUxfdmwwYnlyV2xPSmg4MVlwNmxiM21Cd1E5S0p4cEpIRU5rLV94TTNPMEpJXzdQZDBjNGc?oc=5",
+      "published": "Mon, 14 Sep 2026 15:40:45 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 9.7
+    },
+    {
+      "title": "US FDA Approves Telix’s Pixclara as First FET-PET Imaging Drug for Brain Cancer - BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0d1cjROSGJmQndtbTJ5SmtvSEFqMjdfWV92RUpCdFk1QU5JQ1p3ajJyWkhyUExlYkxEc0tiN0Utb1IwMXFMX2lNR0swdlN5X05zU0IxelBDa05fRVFocnZkYzFBT1FuNUk1ejlVelJ1NGVKd3d6VURlejlrUUx0SnZCWkdlLXlwajdubnUzMi12a3l1bjk0QzUwVXFna0QwOGJ2YVJoYUVSUHJyN3NmV29QR09KZUFGS2RndUpSaw?oc=5",
+      "published": "Tue, 15 Sep 2026 00:22:30 GMT",
+      "source": "BioPharma APAC",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 1.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -416,5 +459,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-15T01:24:09.459810+00:00"
 }
