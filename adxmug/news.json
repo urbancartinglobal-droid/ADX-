@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI absorbs Rs 3.93 lakh crore surplus liquidity in banking system via VRRR auction - mid-day.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUhJSGpvOTVQM1dqSzctcW5lUWtVaVJFMXE3MEJ6SlVCcW9GbUlWRThXY2FvT3RfQ1N0R2tKeFlWd052T3JxVk5EOEtLWmtONEgyQzVoUzBZdkZBaDBLVTZyZm5mNUpEU0s4NDd5UGwzLTlRQXZyZXh2VW5HOEJraWlPZzFtTDNVV2kzLWhDejU5Z0daQS1IVXNVc2xwc3lzTW04UzZ6UWpEUWdzcWFhUmdDTTk4NkNzMHZFVXU5bUNHc0lQbWtoRGZoNGxvTmxBdFN5emUxT1RJMzVHZ01F0gHkAUFVX3lxTE9SWUdhRDdyYjZUVnF4b3d1MDhCTzIxYUxCZDRLc0ptYktrVmc1ajFyOG1WMXFUNngyRlJ3OFNJN3ZZWmNiaXh1RXJ2aE1jMDdHZnJ1aVRFSmZ3U2M2SVJ0VHBuM1FaVmkxM3ZqWW9Dbm92WXI5Mnh3YktfNWRRdXBtNXZzUnByUDVLdlBKUUVzbnNrcXZ1emdiOVZjYUEwYlY5SWFVTUhyM01xdWFrNUtVZ2lBanZxbFNXV1hlZmk3VHN6X3lCVzJrRWRWeWtkdF9LbjV5aGVncHlLeUMxeVBaQndVdQ?oc=5",
+      "published": "Tue, 15 Sep 2026 08:35:00 GMT",
+      "source": "mid-day.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 4.8
+    },
+    {
+      "title": "Aurobindo Pharma Gains USFDA Inhaler Approval in $301 Million Market, Clears Unit-IV Audit - Sahi",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDhPdkw3b3JacHVTS1FQQlNjNWpoeG5Qcks2a3pLaGE3S2RkZE1RR3pDZHR3ZEZ4S1dYZEJKRDJJNk9IUkZNdGdlY01BdzczQ3psVnJIdjhXSXhqdTF5NExmdWtKT3FXSzNRUXpETER3UHBlVkpOeklzU3RfZVd2LUFEQUZlWXFlY1Z6dnZJMDJqZXVNMlowUjVMc01mdlZZMlpqT1FWeVhrNEwwYWRobk9sWno?oc=5",
+      "published": "Tue, 15 Sep 2026 12:22:18 GMT",
+      "source": "Sahi",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 1.0
+    },
+    {
+      "title": "Demister Mesh Cartridge Element Media Market To 2035: Semiconductor Fab Expansion and Replacement Cycles Fuel Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSEVaRmV3SWt3OUMzQmJVRDF3SjlaY2ZRLWdYenRzdjZOWDBGenRxWWhBNDRXT2hFa2FLaExaOV9mbUw0OUJSdkpRWTVXMnBPTTBmQXJQVy1PNWt1Y3BOZ3AzSVUwR1RoT2hyQmdSM1RnLWsxVHZTQVpobmJsenZKNC1HR252dl9YMlVTazMwN29LX2RLQUVncWZSUVhpZGctMkhhaHY3eVpJS1VPY09TQ1VXdDB3aXpjUnpuSllEMDJOdDRMMmNxUENrS2dRLVJMa1E1cG9RcjlaVE9VRjBj?oc=5",
+      "published": "Mon, 14 Sep 2026 23:21:18 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 14.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -409,5 +452,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-15T13:23:24.546049+00:00"
 }
