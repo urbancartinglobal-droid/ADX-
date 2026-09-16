@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI absorbs Rs 3.93 lakh crore surplus liquidity in banking system via VRRR auction - Mid-Day",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUhJSGpvOTVQM1dqSzctcW5lUWtVaVJFMXE3MEJ6SlVCcW9GbUlWRThXY2FvT3RfQ1N0R2tKeFlWd052T3JxVk5EOEtLWmtONEgyQzVoUzBZdkZBaDBLVTZyZm5mNUpEU0s4NDd5UGwzLTlRQXZyZXh2VW5HOEJraWlPZzFtTDNVV2kzLWhDejU5Z0daQS1IVXNVc2xwc3lzTW04UzZ6UWpEUWdzcWFhUmdDTTk4NkNzMHZFVXU5bUNHc0lQbWtoRGZoNGxvTmxBdFN5emUxT1RJMzVHZ01F0gHkAUFVX3lxTE9SWUdhRDdyYjZUVnF4b3d1MDhCTzIxYUxCZDRLc0ptYktrVmc1ajFyOG1WMXFUNngyRlJ3OFNJN3ZZWmNiaXh1RXJ2aE1jMDdHZnJ1aVRFSmZ3U2M2SVJ0VHBuM1FaVmkxM3ZqWW9Dbm92WXI5Mnh3YktfNWRRdXBtNXZzUnByUDVLdlBKUUVzbnNrcXZ1emdiOVZjYUEwYlY5SWFVTUhyM01xdWFrNUtVZ2lBanZxbFNXV1hlZmk3VHN6X3lCVzJrRWRWeWtkdF9LbjV5aGVncHlLeUMxeVBaQndVdQ?oc=5",
-      "published": "Tue, 15 Sep 2026 08:35:00 GMT",
-      "source": "Mid-Day",
+      "title": "RBI absorbs ₹2.9 trillion via two VRRR auctions amid surplus liquidity - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaDltSU50UnQ2MmY1X3BjbGt3Z1RBdG1yWmgyRVBKT2RqMlFMTFQ4MWhfS0dWSnZDdjc1Q0k3WF9KYU0wTUJqRjRIdlNzTDB6NjdocVJHSzRqVmlsWjdNNkdZSTNJaUFWX0VrLURKdWdBaFM2em9sdjJGVXhEWHI3Zk5TbzhyV2lNRS00Nkpta0F4YUJVU2hLajhjWVlJTUZCSEZ1cDVkOExLLWxYdUFMUUZXMjRtVUpoMndpV3BhWmctUmNXMkViZUEtZXo1Y21WaGfSAdcBQVVfeXFMTnRwNVY4bU5FdllJNldZQWNxS09fbnlDcEpsUi0xOHBKcjVtMjRBY2tjd2FkdkI0WmdNR1A3cHBjRm51eVIzREgtMEwwN0ZWejN2bW1JWmxRS1NNenVxVHJMR0VINng2WXk2bFQzY3BiajFZeDBaZ21PemtlMEFOLU5OT3l2YjI5MVV3LVEyRUJRb1pqNXozVFhZajdVU2w0d2ZCcWZnMklWd2stZ3Q4TFowYTg3Zm9GRHdpQklMVG1yei1qcXhBbGZaVmNtN1FJV2Q1UzBVVGc?oc=5",
+      "published": "Wed, 16 Sep 2026 08:06:16 GMT",
+      "source": "Business Standard",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 22.8
+      "freshness_hours": 0.3
     },
     {
       "title": "Dispersion Agent Compounds Market To 2035: Semiconductor Fab Expansion Drives Growth - News and Statistics - IndexBox",
@@ -31,7 +31,21 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 13.0
+      "freshness_hours": 14.0
+    },
+    {
+      "title": "Aurobindo Pharma Subsidiary Unit-II Clears US FDA Inspection With One Observation - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVnpxMXpydXNobTJiR1E0dHFEYlEyRkhJRjJlV0h2eGNwNkNsUG1vcC14aGZwcEpmWmVXS3ZXZmIyQnVwaGtWYTN2N0g4S216V3ExYW56T3EwNmlXaTU5eGY2QklhR295bXp3cWxzcXZibTA5TjlqdVJiaFpwNUMyZ3MxVHFySWpBOFEyU1Fvb1AxbktqeFI0NTNPa0lmd2RpZDNZTFV3Umg3a0lmZlMza3hnanFRc3FIYTBILXBFOE5Rb3I2MDgwVUptaDBWc25LQWc4cGMzNmI3NHV1bkJ6OEx0NGpIOGRPSDlLSDdYTkw1SHNRYVkxdzRmNmpFQlZ5QU1QZw?oc=5",
+      "published": "Wed, 16 Sep 2026 02:44:25 GMT",
+      "source": "Whalesbook",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 5.7
     }
   ],
   "opportunities": [
@@ -438,5 +452,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-16T07:22:55.968663+00:00"
+  "landed_updated_utc": "2026-09-16T08:24:00.263747+00:00"
 }
