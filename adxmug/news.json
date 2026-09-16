@@ -6,18 +6,18 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI absorbs Rs 2.90 lakh crore via variable rate reverse repo auctions amid surplus liquidity - Telegraph India",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdHhwNk9KblJ5QVVWaW0wTGZtVEtURzlCRkhrWENUOEEyZDhkQ2hLWFROWTdVODdDZGxFMEhYZlFFZ0FWcVVFVDgzYkVLQ3owdFMyRGF5dGt6OFA4b0t2aHIxMHkwRUdRbmF6eG0tRkpIM2IzSXhGb2lMdzRFLWFBaVBDSmVMaGNMYWpRalU0LTl1Wi1qMS1PQmFKUF9TOUVPc3V3SVRMV0tMOGF0QXBrNzVoU0tQb2Z6SjdwQ2JNZEktbjJ1SU41V21yWXQxQWk5dFBBaUpoRjdXellDNnh5YldXRFFrNXZ5RGZ3MjVkTlFqYm1UYlNEakxvQ25lcjFMN1HSAYcCQVVfeXFMT2FCWkMxem1Bc2ZHNkduM0xqdGRMVDB0SlNqZ1Bza2psTjNGeWpNRTBMdWtRV1pUNXE3bVdKQVEwN0xsbVlNS29kMjlOTmpyaHhaMkNYeWVqWjgwSXBkRGhXeUVtcDJvLXB5cTFiczI2ZnJXdWcwS2xUNjV0UjlPOGllLURTTkpzczhTUWJKN1ZHZlpJQzJmM3JoQ2paeVk2V2phY2JhSVU3a3RHR0RzZFZ2OVdIang2M0gzUW5iQjhKT2VFeDBVcG9hNVk3TWdSY25CUWF5Wm94UVJJRzFzaXlhSnpzbW9sbmVmaE4teVU0TnBtZGtqZHRPM3ZYR2o4bHBEVXl2d0k?oc=5",
-      "published": "Wed, 16 Sep 2026 08:41:18 GMT",
-      "source": "Telegraph India",
-      "sector": "Banking & Financials",
+      "title": "Uttar Pradesh: 102 Sugar Mills Make 100% Payment To Sugarcane Farmers, 94.86% Dues Cleared In 2025-26 - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN2J2WnZEVUQ3c2RjZDlGTW15Z3RGbGhGanBkUXRadnJLN1lhSXlNWXFUUnpZWVI4LXd5LW1aSzB4eDhXRmlVeXRVbElkdTFEOUhfY19oWFVHek9iNlJCM3RZa2JoaUVQU2c4bW0wc1AzWWlza3lDYzhUTWNiZnM5TXBYNThaNktXNmVPLVprY2NrcmR6NDBhaG9pdndHQ3E4bDA3dzBxQ2NFT2VlR1JmcXctcXA5SjRZOEVKRUlsM1E1b1lwTTh2QU1QMXp3WnhVdWJidWEwWXZNd9IB3wFBVV95cUxPTy1sX1B5UV9sU1RRTjNtY2wwZUhNV3VMR3JyUjBTN00wYVdJUWlrM3FlcUE4QXN4X2tYa2NBUzdySmRSWm5XRmNwWVdleHNPSHU5TTl0RktDT1oxZzlKU3J5WjZWX3dpSU9CdkFnV1FjSHZRYTNDV1ltSU9hMzJKVWlpYUVlNk1seThqM1FVWFZxRldIOUx1NTZLcXNhODk1UFo2MEpWVDFCdnF1U0V5WXlLVWE3ekFCcWhyd2pqRGZ2cE1EaWRaaHpOLVVuR0FPdFhibG9ySkNuTC1SZThJ?oc=5",
+      "published": "Wed, 16 Sep 2026 21:37:31 GMT",
+      "source": "Free Press Journal",
+      "sector": "Sugar & Ethanol",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 12.7
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 0.7
     },
     {
       "title": "Non-Ionic Surfactants Water Treatment Market to Accelerate on Semiconductor Demand, Reaching 2035 Expansion - IndexBox",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.2
+      "freshness_hours": 7.2
     },
     {
       "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 11.0
+      "freshness_hours": 12.0
     }
   ],
   "opportunities": [
@@ -453,5 +453,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-16T21:21:49.510592+00:00"
+  "landed_updated_utc": "2026-09-16T22:20:45.180220+00:00"
 }
