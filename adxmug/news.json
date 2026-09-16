@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-09-16T12:33:53.741935+00:00",
+  "updated_utc": "2026-09-16T18:30:44.669793+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Britain to double Sky Sabre systems as wider investment strengthens defence against air, drone and missile threats at home and overseas - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMnAwM0tDZVZHc3FNQlNlT2tVRjU2dUVFQVlheWxxREFKRm1VdV9sWnI5YnBPU1MzVEpjcUdFTm1leDdVV0tKZW5IcmRoRHp3TzRDMVgwYzQtVUpmU2g2VVpqUU5uV3FJenN2Z2QzMk1jNVpfWU1wZzVJUTlTTjlHaGpqWk5wVno5OFdGNDFzRHk2ekhBSGdQTGVuemVyY3lKaUJOZTJsa2J6UFQ3ZTZXU28wdThCZnBoNExzdmVFeVMtR3NlcmV4dGd4R2xnVkJMZlg0SldwX1VkMFhETUVrN0tBOGktSi0yQlgzaTNWZUhldHZvVkE?oc=5",
-      "published": "Wed, 16 Sep 2026 10:12:23 GMT",
-      "source": "Defence Industry Europe",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 8.2
-    },
-    {
-      "title": "RBI absorbs Rs 2.90 lakh crore via variable rate reverse repo auctions amid surplus liquidity - Telegraph India",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdHhwNk9KblJ5QVVWaW0wTGZtVEtURzlCRkhrWENUOEEyZDhkQ2hLWFROWTdVODdDZGxFMEhYZlFFZ0FWcVVFVDgzYkVLQ3owdFMyRGF5dGt6OFA4b0t2aHIxMHkwRUdRbmF6eG0tRkpIM2IzSXhGb2lMdzRFLWFBaVBDSmVMaGNMYWpRalU0LTl1Wi1qMS1PQmFKUF9TOUVPc3V3SVRMV0tMOGF0QXBrNzVoU0tQb2Z6SjdwQ2JNZEktbjJ1SU41V21yWXQxQWk5dFBBaUpoRjdXellDNnh5YldXRFFrNXZ5RGZ3MjVkTlFqYm1UYlNEakxvQ25lcjFMN1HSAYcCQVVfeXFMT2FCWkMxem1Bc2ZHNkduM0xqdGRMVDB0SlNqZ1Bza2psTjNGeWpNRTBMdWtRV1pUNXE3bVdKQVEwN0xsbVlNS29kMjlOTmpyaHhaMkNYeWVqWjgwSXBkRGhXeUVtcDJvLXB5cTFiczI2ZnJXdWcwS2xUNjV0UjlPOGllLURTTkpzczhTUWJKN1ZHZlpJQzJmM3JoQ2paeVk2V2phY2JhSVU3a3RHR0RzZFZ2OVdIang2M0gzUW5iQjhKT2VFeDBVcG9hNVk3TWdSY25CUWF5Wm94UVJJRzFzaXlhSnpzbW9sbmVmaE4teVU0TnBtZGtqZHRPM3ZYR2o4bHBEVXl2d0k?oc=5",
-      "published": "Wed, 16 Sep 2026 08:41:18 GMT",
-      "source": "Telegraph India",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.7
-    },
-    {
-      "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT09hN3hSdUU4Sk5pRWFoSDJHLTF6NlMzaXhTb1NuaTVTQXRLUGNjZTBISFd4VGktOEpSM1k5aUx0M005V2VEQnQ5b0FwR21OMHFtU2pROW5XSmIzUmw1SExjZ0F4Mmgxc1d0dWFhQ0RzYkJWQlNESnFnN01nTDNuaktGVVBuNzg2dWNvb2ZhclpyZFJDSzg4VGdjTFN5b2JjdHpyQ1RIcDM3NndjXzdRRlM1aDc2TG5Ka2czZUQySm1NZm4y?oc=5",
-      "published": "Wed, 16 Sep 2026 10:20:12 GMT",
-      "source": "Trade Brains",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 8.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
       "score": 76,
-      "article_count": 5,
-      "trigger_count": 9,
+      "article_count": 6,
+      "trigger_count": 12,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -61,8 +18,8 @@
       ],
       "evidence": [
         {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - policycircle.org",
-          "source": "policycircle.org",
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
+          "source": "Policy Circle",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
           "triggers": [
             "POLICY",
@@ -92,18 +49,20 @@
           "companies": []
         },
         {
-          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
-          "source": "Global Agriculture",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
           "triggers": [
-            "TRADE"
+            "POLICY",
+            "TRADE",
+            "PRICING"
           ],
           "companies": []
         },
         {
-          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVIzVVlXNzk5VkREeFUzTm9NczlXSUU3WjRsbGdGdnI0RTJ4R0Q3QWJuTmt5UVZLUTdiWktsQjV6OFQwRkY2SW45bE14b3dKMVFNd3JsV1Y3b2pLRzNtQS1tZFVzcFp0UUhMZkNDcld3TWZ0Sng4aXByQ3VNUmt1MXdKM2VPVVhzNmRmaV9pT3dLQmkzQm9NVl94VmpPa09LMHdGY0dpdUpZZHd2WS1VV3ppbHBnaHM4RFlJMnVFVXJOWWhjbnZFNU05aHZGYUJLdExwMTRpMHJkOTlnTy1KZjZMQmJwZ9IB6wFBVV95cUxOSzZtU05qNHQzS0RkdnVzeE5NOHREMWc4SVFCMGJGOGlVSFpkOUF6WFdjUFVwcUloM3BNS21WMWFtR0tldlFLd1RtVF9KdFN4eXgzdXkwZ2o2aVRpZ0pfLWc1X29RU1ZNcXo1VUdtLUhnUVIzbUkxMk1CQTZMMkJ3V3FIcVZPNnB5Y2hGR2lhdzVJVURSN1BPakduVDNYeGFJMHJETjNRZGdKbzRVUWxQd0U2akduaEpJSEk3cE9ZTFczQ1NPanM4NlNMS2FmeEdpTkdBdVRrWEdBMENWWEZjRlgzUEtaSkpPM1dn?oc=5",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
             "TRADE"
           ],
@@ -112,9 +71,9 @@
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
-      "source_count": 5,
-      "story_clusters": 5,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 6 independent sources.",
+      "source_count": 6,
+      "story_clusters": 6,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -220,6 +179,15 @@
           "companies": []
         },
         {
+          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWDBlWFVHakdaOHFWcm9VSThiTEEzSTdua2RHazBZMk5pTzUzRWVLMF84NXZ0cWliXzliV2VXTHFuS2psbTh1d3dKWHNOb1Atc0NrZ0tNX2dOcUVYSHRodjVOcE04eVB2ZXlfUzNndXE4MTdzRHBxcFIyN3Y4cFgzRXc2NmNhQUREUE9NUEZTZUFUWE9QcUttOXBTQnZ0WGxnTmtJOTlDZ28yeFBKYU9YNklnOTRTM1VTbF9pRmQ1RGRMUnBzRmxGVGY4c3Y1MWJNTk8zUk5YT3h6eXRSWHF0VkNWV05lcDQtQWpkTDdWbkJjZ0NQSThMTlpn?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
           "title": "Rs 18 Billion Rail Project Cleared for Northeast Region - Construction World",
           "source": "Construction World",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbWpLWndRUUdEQkVnS0lad0ZJU05UWl9oa1JWZXdsT3ZJb1RuZG1adjlBQVNSd3ctYnYwRWd2Vi1wamYwbllYb2hDejN3UmhLdjcza01oZnptZTZhXzZaZXZQaUppM2dUQ201b1FzYncyU0RYTVE5cER0bW9FREtRaU1XbmcxLXlmc1RYQ2RfRmNtWDZ0UGNnWGpheE5FdWFKTnRhYTNhVzBhdkl0cEM2TFE5Mzk4Wk94d2NLRVp1RjFLbUI3ei1BUlB0a3c3bjNfWjgtQU5hdjBpNzRZT1VNRG4za19ydXZCTWQtZWljUQ?oc=5",
@@ -234,15 +202,6 @@
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ1hXU09pTl81R3NtTDRsR3NVVnR3c21sUUhZQ1pxVWxiWk5BYTlSb2lZclRpaXU0ZGlvd0RQZF9LM2FYS3B4UjN4d1Z1MVJIczVEbUVjREg3akktd1RVVEY5aVRqMll2cVRQN1NIcl9WSHpxWmdBOU1KZzBEbzNURmYwdlN1Z24tWHpBZ3RPakhOZDdNM29kVnp2OWswS1R6TkdWTWk2d3pPLXBrSHRWUkR4eGVXYm5pRDh1aTR2YS1FY1VQNEs1bEtBNUxBVW5ESDZMbkp4djNKX091N3dIYlYzaWVjalZZSjRmUk5VQkRhUmY1YzVlZEJUMUsyQ1RIcF9HbmhpT3U3WWFqMEZScEZfQzlIdjYx?oc=5",
           "triggers": [
             "POLICY",
-            "CAPEX"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Indian Railways Approves Somtane Chikhli Chord Line Project - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNXJORU1CSXlxUHZMZ2ZtSHUyVFRzaVVYWnBpZHJQR0FBbVdya1pvajVhdXIwMDZ1TktRYTJYUzdlWkJKSUdFTkFwcUVJVWpzUE1xaVNuRVdDVExoMXVpeXdyRzd2cFlHc2lZVE4weHREcHc4WHJBb3JUZXlnc0NkTklxbXdHNElVd1YxZUZCbEtuVkFLbWhGSnRnYWdpdGN0VGhLaUx0ZUtLc3dzMzdxZEgzYkNUUjVKc0dDYnJhZGJfV1dLUXp5NHFqRm5fZzZFNlppUThBRWtCdjZFRjNCYU5ZT2xoWU9sV2F2dTVDRFZub3Uw?oc=5",
-          "triggers": [
             "CAPEX"
           ],
           "companies": []
@@ -280,8 +239,8 @@
           "companies": []
         },
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
@@ -400,8 +359,8 @@
       ],
       "evidence": [
         {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
           "triggers": [
             "POLICY"
@@ -450,6 +409,5 @@
       ],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-16T18:23:57.819003+00:00"
+  ]
 }
