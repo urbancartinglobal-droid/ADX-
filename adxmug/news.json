@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.7
+      "freshness_hours": 12.7
     },
     {
       "title": "Non-Ionic Surfactants Water Treatment Market to Accelerate on Semiconductor Demand, Reaching 2035 Expansion - IndexBox",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.2
+      "freshness_hours": 6.2
     },
     {
       "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 10.0
+      "freshness_hours": 11.0
     }
   ],
   "opportunities": [
@@ -453,5 +453,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-16T20:22:22.977824+00:00"
+  "landed_updated_utc": "2026-09-16T21:21:49.510592+00:00"
 }
