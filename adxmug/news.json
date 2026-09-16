@@ -17,27 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
+      "freshness_hours": 1.7
     },
     {
-      "title": "Odisha Set To Get Silicon Carbide Semiconductor Unit In Khordha With Rs 3,406 Crore Investment - etvbharat.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMzVPdV9PeDR1OHdlU1FpNDYxcEhtZm5ITWtmNVlJVlhrcjdMYmdtOVRudUFRVG9PV1E5XzBoQVlUdnRrZ2FCa25wMUItZWdrREg1YmM0cGlybE9ySGM2eXJEMFNxYUM2ZW5DTnNtaDNORG9acnMzOE9lU1JGNzh2ZTRWVF9ndnpfd0stRFVEb0xDUHRDUF9fUVhrTGtBNnBJTUJTaTJpZnR3eDVNd0pQckRoRk12LUowWEFEUi14MEE1aUptVDhwMllpRlQ3dmhhZXVMM05EU0JNTFFVR1ZZ0gHkAUFVX3lxTE9GNDRUSzRRSC1SNk5ZMkR5NlVIRWpQaUtZaHZXR2t2VVFHZXhLV1lCWjQzd3VPcWp6bGNkaHduR2lzdHNpblJhVHpXb0x5cXRGdDlmbElkbEk5ZUYxVkdQWHh4c1NaVVpORFRHZ3VIbkdFb0pHVXphUUxmN2IweGxDRlRISkdjRGRsVU5wSkx0dllPV1dMNDBScWJvYVhwNHN0YjBCT0MzV0M4bjlROG9QN056MnNTV3lRY2NCb1RsLUJpcHFMdllhSWs0NmhjUDVZTFJnYkxvZjVESmRTT09hYnQ4Tw?oc=5",
-      "published": "Wed, 16 Sep 2026 08:30:36 GMT",
-      "source": "etvbharat.com",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
-    },
-    {
-      "title": "Aurobindo Pharma Subsidiary Unit-II Clears US FDA Inspection With One Observation - Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVnpxMXpydXNobTJiR1E0dHFEYlEyRkhJRjJlV0h2eGNwNkNsUG1vcC14aGZwcEpmWmVXS3ZXZmIyQnVwaGtWYTN2N0g4S216V3ExYW56T3EwNmlXaTU5eGY2QklhR295bXp3cWxzcXZibTA5TjlqdVJiaFpwNUMyZ3MxVHFySWpBOFEyU1Fvb1AxbktqeFI0NTNPa0lmd2RpZDNZTFV3Umg3a0lmZlMza3hnanFRc3FIYTBILXBFOE5Rb3I2MDgwVUptaDBWc25LQWc4cGMzNmI3NHV1bkJ6OEx0NGpIOGRPSDlLSDdYTkw1SHNRYVkxdzRmNmpFQlZ5QU1QZw?oc=5",
-      "published": "Wed, 16 Sep 2026 02:44:25 GMT",
-      "source": "Whalesbook",
+      "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT09hN3hSdUU4Sk5pRWFoSDJHLTF6NlMzaXhTb1NuaTVTQXRLUGNjZTBISFd4VGktOEpSM1k5aUx0M005V2VEQnQ5b0FwR21OMHFtU2pROW5XSmIzUmw1SExjZ0F4Mmgxc1d0dWFhQ0RzYkJWQlNESnFnN01nTDNuaktGVVBuNzg2dWNvb2ZhclpyZFJDSzg4VGdjTFN5b2JjdHpyQ1RIcDM3NndjXzdRRlM1aDc2TG5Ka2czZUQySm1NZm4y?oc=5",
+      "published": "Wed, 16 Sep 2026 10:20:12 GMT",
+      "source": "Trade Brains",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +31,21 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 6.6
+      "freshness_hours": 0.1
+    },
+    {
+      "title": "Odisha Set To Get Silicon Carbide Semiconductor Unit In Khordha With Rs 3,406 Crore Investment - ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMzVPdV9PeDR1OHdlU1FpNDYxcEhtZm5ITWtmNVlJVlhrcjdMYmdtOVRudUFRVG9PV1E5XzBoQVlUdnRrZ2FCa25wMUItZWdrREg1YmM0cGlybE9ySGM2eXJEMFNxYUM2ZW5DTnNtaDNORG9acnMzOE9lU1JGNzh2ZTRWVF9ndnpfd0stRFVEb0xDUHRDUF9fUVhrTGtBNnBJTUJTaTJpZnR3eDVNd0pQckRoRk12LUowWEFEUi14MEE1aUptVDhwMllpRlQ3dmhhZXVMM05EU0JNTFFVR1ZZ0gHkAUFVX3lxTE9GNDRUSzRRSC1SNk5ZMkR5NlVIRWpQaUtZaHZXR2t2VVFHZXhLV1lCWjQzd3VPcWp6bGNkaHduR2lzdHNpblJhVHpXb0x5cXRGdDlmbElkbEk5ZUYxVkdQWHh4c1NaVVpORFRHZ3VIbkdFb0pHVXphUUxmN2IweGxDRlRISkdjRGRsVU5wSkx0dllPV1dMNDBScWJvYVhwNHN0YjBCT0MzV0M4bjlROG9QN056MnNTV3lRY2NCb1RsLUJpcHFMdllhSWs0NmhjUDVZTFJnYkxvZjVESmRTT09hYnQ4Tw?oc=5",
+      "published": "Wed, 16 Sep 2026 08:30:36 GMT",
+      "source": "ETV Bharat",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 1.9
     }
   ],
   "opportunities": [
@@ -452,5 +452,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-16T09:22:27.769754+00:00"
+  "landed_updated_utc": "2026-09-16T10:23:12.509862+00:00"
 }
