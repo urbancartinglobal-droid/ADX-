@@ -1,45 +1,16 @@
 {
-  "updated_utc": "2026-09-16T00:33:58.370459+00:00",
+  "updated_utc": "2026-09-16T06:34:05.934480+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Uttar Pradesh: Sugarcane shortage puts roadblocks on Khadda’s ethanol ambitions - chinimandi.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX054U2poYjl3VFlmTGRPRzRCempYc3l1azlXeV9PcnRzY1Z2bEF5RC1vUDB0dnpzTDB3aUdyYUxiQzE1M0JQc01nU3RiVTBMYm5EWXpzaEhUTy12RlpTVXVfV1BzdVlIR1MxbkRiMm9pMjZxS2tYcy1PemxQZ0NlUHROSU5LOWFOWXBWQl9IWm5PSXlsXzNKd2tMYU5tckRTb0pTZUhVc2U?oc=5",
-      "published": "Tue, 15 Sep 2026 06:31:54 GMT",
-      "source": "chinimandi.com",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 23.9
-    },
-    {
-      "title": "Dispersion Agent Compounds Market To 2035: Semiconductor Fab Expansion Drives Growth - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaXFsT3Y1MlRXNGtHOW0tWVVuaDl4UXg5S09IZE5IS3FzZi1KVlRLU2Z3TVFTMldpWFlCYmhBTjl4TUhtRG5hc3FyOHB1bzllWHdVTTZnOVJSZXhndGgwSHd6WjZJUGFZUVkxMWU1S1dnWkpzMXlNdkQ5eHVVUm1VWE03a3IwTWtPUjd6NDRLc3djLU9qVjhKRGFpRnp0ajI4amcwbXV1eGxMSGhEZkd1eG1BSWQtQmdncnhfUG1uN2d3cGZnNWtwT1FxMHhsVDFrNVlLb3pTZjFQU0gxU3pIZWtyeWVkSTZn?oc=5",
-      "published": "Tue, 15 Sep 2026 18:21:16 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 12.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
       "score": 76,
       "article_count": 5,
-      "trigger_count": 9,
+      "trigger_count": 10,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -47,8 +18,8 @@
       ],
       "evidence": [
         {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
-          "source": "Policy Circle",
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - policycircle.org",
+          "source": "policycircle.org",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
           "triggers": [
             "POLICY",
@@ -78,18 +49,19 @@
           "companies": []
         },
         {
-          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
-          "source": "Global Agriculture",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
+          "title": "India opens door to sugar imports after decade as stocks shrink and prices surge - AgroSpectrum India",
+          "source": "AgroSpectrum India",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkc0VzVWcE1XUUtkZ1poQkRjUFN6SC0xRExsTXBWdW03d2VVa3NTZVBWMGJXdlBEWVFwRFhJVmxXN3NDR29LQmZfcmRBNkJWck5GeTI3V2FzaVRHa2RJWldxS3Bid2FONWNuV0xvcFZTSlotVzhHNWlsZEpVM3VPSm9yVHlSX0ZNeGg4c0dPVHdXN0RLS2ZwaWcxQ0N3UU1YLTJCbGF1Q3pralphSHd3MDRiOGF2NlV2U0R2X1FpWUo2aVVOOGwtcDF3?oc=5",
           "triggers": [
-            "TRADE"
+            "TRADE",
+            "PRICING"
           ],
           "companies": []
         },
         {
-          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVIzVVlXNzk5VkREeFUzTm9NczlXSUU3WjRsbGdGdnI0RTJ4R0Q3QWJuTmt5UVZLUTdiWktsQjV6OFQwRkY2SW45bE14b3dKMVFNd3JsV1Y3b2pLRzNtQS1tZFVzcFp0UUhMZkNDcld3TWZ0Sng4aXByQ3VNUmt1MXdKM2VPVVhzNmRmaV9pT3dLQmkzQm9NVl94VmpPa09LMHdGY0dpdUpZZHd2WS1VV3ppbHBnaHM4RFlJMnVFVXJOWWhjbnZFNU05aHZGYUJLdExwMTRpMHJkOTlnTy1KZjZMQmJwZ9IB6wFBVV95cUxOSzZtU05qNHQzS0RkdnVzeE5NOHREMWc4SVFCMGJGOGlVSFpkOUF6WFdjUFVwcUloM3BNS21WMWFtR0tldlFLd1RtVF9KdFN4eXgzdXkwZ2o2aVRpZ0pfLWc1X29RU1ZNcXo1VUdtLUhnUVIzbUkxMk1CQTZMMkJ3V3FIcVZPNnB5Y2hGR2lhdzVJVURSN1BPakduVDNYeGFJMHJETjNRZGdKbzRVUWxQd0U2akduaEpJSEk3cE9ZTFczQ1NPanM4NlNMS2FmeEdpTkdBdVRrWEdBMENWWEZjRlgzUEtaSkpPM1dn?oc=5",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
           "triggers": [
             "TRADE"
           ],
@@ -161,12 +133,12 @@
           "companies": []
         },
         {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
+          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
           "triggers": [
             "POLICY",
-            "PRICING"
+            "TRADE"
           ],
           "companies": []
         }
@@ -186,21 +158,22 @@
     },
     {
       "industry": "Rail & Infrastructure",
-      "score": 50,
+      "score": 48,
       "article_count": 4,
       "trigger_count": 6,
       "triggers": [
         "CAPEX",
+        "CORPORATE",
         "POLICY"
       ],
       "evidence": [
         {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
-          "source": "Swarajya",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
           "triggers": [
-            "POLICY",
-            "CAPEX"
+            "CAPEX",
+            "CORPORATE"
           ],
           "companies": []
         },
@@ -233,11 +206,52 @@
           "companies": []
         }
       ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, CORPORATE, POLICY; 4 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 4,
+      "companies": [],
+      "connections": [
+        "Corporate action reinforced by capex/orders is a stronger operating signal."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 37,
+      "article_count": 2,
+      "trigger_count": 3,
+      "triggers": [
+        "CAPEX",
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "USFDA bans Ranbaxy's Toansa API plant, finds mfg violations - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUpUR01OaXgtLXR6SkpnVU1XakMzQXFGZTY0Y09jcWtEZHY5NVQ1Wm1zWW8tQ0p4cUw1bUhZc215a1Mxelh3cmFWUi11TmViVUdWSnFycFpqQmVsT0IyajFGXzZza1ZqbFlhV3NTeHN4NUlzRUJ3TmtzdkU1MDB2LVM4Mkl1c25HdHQ5YUNCUWJBQThxdlllNGxScnJsMTBFSURQaU80NW11WDA0VTBxU2lCWWhWaWVlRjRmTEp4SUzSAcYBQVVfeXFMTTRZUjJxbmtZamhUZEpVS2djeW9LSDB2OUdxRHVMc2lYam1DWnNiUFlrcnhMM0p6MTcxM2R5UDdWUXlhc1lCZWwzQlZiUFNkSzFjX0VQaW1HQmdSb2Y3QWJuVnJRMTJfeE9MZUJ3VnJWenBxVVhOdkl2aTdCbGszc1FYTW94OXJOMnhGcHZReHp1ZUYwMVA5OFFVcEt6NUJScGZFOENxS3VPQVkxYnFKM3RXazNiemhiTjBnUWlCcmdtNnkwU2dB?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, POLICY; 4 distinct story clusters; 2 independent sources.",
+      "reason": "Cross-signal CAPEX, POLICY; 2 distinct story clusters; 2 independent sources.",
       "source_count": 2,
-      "story_clusters": 4,
+      "story_clusters": 2,
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
@@ -365,36 +379,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Pharma & Healthcare",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Chemicals & Materials",
       "score": 18,
       "article_count": 1,
@@ -404,8 +388,8 @@
       ],
       "evidence": [
         {
-          "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - ET Chemicals",
-          "source": "ET Chemicals",
+          "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - Indiatimes",
+          "source": "Indiatimes",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbjdHWW5JN3ZmUlAyRXR0bUl1SjhMZUlLM1JyLUtaN1FmZk5CX2cyUG9wVVZ5bFNDcFctUE1zQ0FHbF85d1lEQm5qd1daTGc2UkNFNHBPRGRFNWY0RlVPYzNzQV9oUHVZcjdya01IS3NCZ1VjRm1ZZC1qTXN5WXJELVY5MlFET1lrMncyYVQ4eXdfVlhTOGxHTVdxMHRQeGRSc2hwS1doM1dvMm91N2xBYWZtS0JJU216MGtWODYyYnAtdUo1azNtMzJ6TEE0SXE1dGxpUHBvQ2xlVGlkVlBPaXpjbUZaRTRmenJUdnFMaGhSSlJoT1pYWtIB_gFBVV95cUxOREpkYVRvcFhpR2RKRHRxQWVMbTlaNXpxVzE2Y3RTZXlWbDRkd0tOaUVyZ011UGg3aThJclFyd0ZQTHdNb1RYMEJNZXA4M0Fzclowc2ZtNWotVE1sZXVYZUhMUDFOWHJtVDh0VjJxX21NZVZTYWdOSHhncHVKemRXc1doYUFTS0l2eVRGUUpDQU1tZ0wyd0Z2bkNrU0NPa0tZTHZBVHJUX3FKbDBtZWppTTZrUHpfQ05yajRMNVJnR25kMENIQzlxTWhuYlNwRURNMmVKdU0ybXRQOGdkMGtaNHIwU3VaSU5iTThESVUyTGJ5M3hJVWRCbUNLbS1WQQ?oc=5",
           "triggers": [
             "PRICING"
@@ -424,6 +408,5 @@
       ],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-16T06:27:48.927153+00:00"
+  ]
 }
