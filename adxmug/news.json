@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Uttar Pradesh: Sugarcane shortage puts roadblocks on Khadda’s ethanol ambitions - ChiniMandi",
+      "title": "Uttar Pradesh: Sugarcane shortage puts roadblocks on Khadda’s ethanol ambitions - chinimandi.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX054U2poYjl3VFlmTGRPRzRCempYc3l1azlXeV9PcnRzY1Z2bEF5RC1vUDB0dnpzTDB3aUdyYUxiQzE1M0JQc01nU3RiVTBMYm5EWXpzaEhUTy12RlpTVXVfV1BzdVlIR1MxbkRiMm9pMjZxS2tYcy1PemxQZ0NlUHROSU5LOWFOWXBWQl9IWm5PSXlsXzNKd2tMYU5tckRTb0pTZUhVc2U?oc=5",
       "published": "Tue, 15 Sep 2026 06:31:54 GMT",
-      "source": "ChiniMandi",
+      "source": "chinimandi.com",
       "sector": "Sugar & Ethanol",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 22.8
+      "freshness_hours": 23.9
     },
     {
       "title": "Dispersion Agent Compounds Market To 2035: Semiconductor Fab Expansion Drives Growth - News and Statistics - IndexBox",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 11.0
+      "freshness_hours": 12.1
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-16T05:21:03.116415+00:00"
+  "landed_updated_utc": "2026-09-16T06:27:48.927153+00:00"
 }
