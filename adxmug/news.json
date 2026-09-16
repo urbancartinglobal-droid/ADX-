@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI absorbs Rs 2.90 lakh crore via variable rate reverse repo auctions amid surplus liquidity - Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdHhwNk9KblJ5QVVWaW0wTGZtVEtURzlCRkhrWENUOEEyZDhkQ2hLWFROWTdVODdDZGxFMEhYZlFFZ0FWcVVFVDgzYkVLQ3owdFMyRGF5dGt6OFA4b0t2aHIxMHkwRUdRbmF6eG0tRkpIM2IzSXhGb2lMdzRFLWFBaVBDSmVMaGNMYWpRalU0LTl1Wi1qMS1PQmFKUF9TOUVPc3V3SVRMV0tMOGF0QXBrNzVoU0tQb2Z6SjdwQ2JNZEktbjJ1SU41V21yWXQxQWk5dFBBaUpoRjdXellDNnh5YldXRFFrNXZ5RGZ3MjVkTlFqYm1UYlNEakxvQ25lcjFMN1HSAYcCQVVfeXFMT2FCWkMxem1Bc2ZHNkduM0xqdGRMVDB0SlNqZ1Bza2psTjNGeWpNRTBMdWtRV1pUNXE3bVdKQVEwN0xsbVlNS29kMjlOTmpyaHhaMkNYeWVqWjgwSXBkRGhXeUVtcDJvLXB5cTFiczI2ZnJXdWcwS2xUNjV0UjlPOGllLURTTkpzczhTUWJKN1ZHZlpJQzJmM3JoQ2paeVk2V2phY2JhSVU3a3RHR0RzZFZ2OVdIang2M0gzUW5iQjhKT2VFeDBVcG9hNVk3TWdSY25CUWF5Wm94UVJJRzFzaXlhSnpzbW9sbmVmaE4teVU0TnBtZGtqZHRPM3ZYR2o4bHBEVXl2d0k?oc=5",
+      "published": "Wed, 16 Sep 2026 08:41:18 GMT",
+      "source": "Telegraph India",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 4.7
+    },
+    {
+      "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT09hN3hSdUU4Sk5pRWFoSDJHLTF6NlMzaXhTb1NuaTVTQXRLUGNjZTBISFd4VGktOEpSM1k5aUx0M005V2VEQnQ5b0FwR21OMHFtU2pROW5XSmIzUmw1SExjZ0F4Mmgxc1d0dWFhQ0RzYkJWQlNESnFnN01nTDNuaktGVVBuNzg2dWNvb2ZhclpyZFJDSzg4VGdjTFN5b2JjdHpyQ1RIcDM3NndjXzdRRlM1aDc2TG5Ka2czZUQySm1NZm4y?oc=5",
+      "published": "Wed, 16 Sep 2026 10:20:12 GMT",
+      "source": "Trade Brains",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 3.1
+    },
+    {
+      "title": "Odisha Set To Get Silicon Carbide Semiconductor Unit In Khordha With Rs 3,406 Crore Investment - etvbharat.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMzVPdV9PeDR1OHdlU1FpNDYxcEhtZm5ITWtmNVlJVlhrcjdMYmdtOVRudUFRVG9PV1E5XzBoQVlUdnRrZ2FCa25wMUItZWdrREg1YmM0cGlybE9ySGM2eXJEMFNxYUM2ZW5DTnNtaDNORG9acnMzOE9lU1JGNzh2ZTRWVF9ndnpfd0stRFVEb0xDUHRDUF9fUVhrTGtBNnBJTUJTaTJpZnR3eDVNd0pQckRoRk12LUowWEFEUi14MEE1aUptVDhwMllpRlQ3dmhhZXVMM05EU0JNTFFVR1ZZ0gHkAUFVX3lxTE9GNDRUSzRRSC1SNk5ZMkR5NlVIRWpQaUtZaHZXR2t2VVFHZXhLV1lCWjQzd3VPcWp6bGNkaHduR2lzdHNpblJhVHpXb0x5cXRGdDlmbElkbEk5ZUYxVkdQWHh4c1NaVVpORFRHZ3VIbkdFb0pHVXphUUxmN2IweGxDRlRISkdjRGRsVU5wSkx0dllPV1dMNDBScWJvYVhwNHN0YjBCT0MzV0M4bjlROG9QN056MnNTV3lRY2NCb1RsLUJpcHFMdllhSWs0NmhjUDVZTFJnYkxvZjVESmRTT09hYnQ4Tw?oc=5",
+      "published": "Wed, 16 Sep 2026 08:30:36 GMT",
+      "source": "etvbharat.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 4.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -407,5 +450,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-16T13:23:47.824363+00:00"
 }
