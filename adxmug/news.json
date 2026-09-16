@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 7.1
+      "freshness_hours": 8.2
     },
     {
       "title": "RBI absorbs Rs 2.90 lakh crore via variable rate reverse repo auctions amid surplus liquidity - Telegraph India",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 8.6
+      "freshness_hours": 9.7
     },
     {
       "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.0
+      "freshness_hours": 8.1
     }
   ],
   "opportunities": [
@@ -451,5 +451,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-16T17:19:46.818541+00:00"
+  "landed_updated_utc": "2026-09-16T18:23:57.819003+00:00"
 }
