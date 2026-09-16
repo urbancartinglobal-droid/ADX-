@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.7
+      "freshness_hours": 3.8
     },
     {
       "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
@@ -31,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 1.0
+      "freshness_hours": 2.1
     },
     {
       "title": "Odisha Set To Get Silicon Carbide Semiconductor Unit In Khordha With Rs 3,406 Crore Investment - ETV Bharat",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.9
+      "freshness_hours": 4.0
     }
   ],
   "opportunities": [
@@ -452,5 +452,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-16T11:22:40.477819+00:00"
+  "landed_updated_utc": "2026-09-16T12:27:36.541418+00:00"
 }
