@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI absorbs Rs 3.93 lakh crore surplus liquidity in banking system via VRRR auction - Mid-Day",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUhJSGpvOTVQM1dqSzctcW5lUWtVaVJFMXE3MEJ6SlVCcW9GbUlWRThXY2FvT3RfQ1N0R2tKeFlWd052T3JxVk5EOEtLWmtONEgyQzVoUzBZdkZBaDBLVTZyZm5mNUpEU0s4NDd5UGwzLTlRQXZyZXh2VW5HOEJraWlPZzFtTDNVV2kzLWhDejU5Z0daQS1IVXNVc2xwc3lzTW04UzZ6UWpEUWdzcWFhUmdDTTk4NkNzMHZFVXU5bUNHc0lQbWtoRGZoNGxvTmxBdFN5emUxT1RJMzVHZ01F0gHkAUFVX3lxTE9SWUdhRDdyYjZUVnF4b3d1MDhCTzIxYUxCZDRLc0ptYktrVmc1ajFyOG1WMXFUNngyRlJ3OFNJN3ZZWmNiaXh1RXJ2aE1jMDdHZnJ1aVRFSmZ3U2M2SVJ0VHBuM1FaVmkxM3ZqWW9Dbm92WXI5Mnh3YktfNWRRdXBtNXZzUnByUDVLdlBKUUVzbnNrcXZ1emdiOVZjYUEwYlY5SWFVTUhyM01xdWFrNUtVZ2lBanZxbFNXV1hlZmk3VHN6X3lCVzJrRWRWeWtkdF9LbjV5aGVncHlLeUMxeVBaQndVdQ?oc=5",
+      "published": "Tue, 15 Sep 2026 08:35:00 GMT",
+      "source": "Mid-Day",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 22.8
+    },
+    {
+      "title": "Dispersion Agent Compounds Market To 2035: Semiconductor Fab Expansion Drives Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaXFsT3Y1MlRXNGtHOW0tWVVuaDl4UXg5S09IZE5IS3FzZi1KVlRLU2Z3TVFTMldpWFlCYmhBTjl4TUhtRG5hc3FyOHB1bzllWHdVTTZnOVJSZXhndGgwSHd6WjZJUGFZUVkxMWU1S1dnWkpzMXlNdkQ5eHVVUm1VWE03a3IwTWtPUjd6NDRLc3djLU9qVjhKRGFpRnp0ajI4amcwbXV1eGxMSGhEZkd1eG1BSWQtQmdncnhfUG1uN2d3cGZnNWtwT1FxMHhsVDFrNVlLb3pTZjFQU0gxU3pIZWtyeWVkSTZn?oc=5",
+      "published": "Tue, 15 Sep 2026 18:21:16 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 13.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -408,5 +437,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-16T07:22:55.968663+00:00"
 }
