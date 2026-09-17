@@ -31,35 +31,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.3
+      "freshness_hours": 2.2
     },
     {
-      "title": "Japan, US in talks to build chip factory as part of tariff deal - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYzgxTnk4MHRuSXRLTU5SZmxGRHR1Rlpxc1BReklJTG01VWJrTG5DZXMtdm5WZHlEOGJCZVdKUnJ6Uy1rUlVpOGN0Rl9WLU15TnFFbHhRYWZjUUZSZFBGa3ZrYzhqUUFuOGZUWHVQZURxRXFHWkw1cnpBM1I1QjhRSi12OG1udFBwdXREYlBvNVlTdTNobGlrY3dSd29ZTi1ETTl1ODA1VQ?oc=5",
-      "published": "Thu, 17 Sep 2026 09:06:32 GMT",
-      "source": "scanx.trade",
+      "title": "Applied Materials India Investment: A $5 Billion Chip Bet - urbanacres.in",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV0liTWRZbWJfa3Zyb3hGOExGT0hzNnF4SWRROExNeDk4RUR5MzBqbEs3ZkRhbS00NHYwQlpCb2xQazhNOG1jcDhsUkNLQmxQelZJZUR0MDU2eDdOMmVNN0ZGMC1wS3FtX3pDdHQ2d1A5NGFxSFRDUjkyQklHYXI3amJxWFh6c2NUa21qaw?oc=5",
+      "published": "Thu, 17 Sep 2026 09:39:57 GMT",
+      "source": "urbanacres.in",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
-      "label": "GLOBAL",
+      "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.3
-    },
-    {
-      "title": "Uno Minda plans Rs14.15bn automotive component plant expansion - Just Auto",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQXNXMHQzLXJ4Q1FCdlBfQjFLeEVSOElVSS1vbVJxaXE0MEZBaGEwQTR3YzQ4bkMycnhHQnpOM0cyWkVXd1o4c3c2TjBmMmlzcTM4WG1Ec3dvQlBRYVNsaktPTjZ6cG1nOGcwWWlDcFh0c1g5cF94MUxveGZqNWZ4aDRJZVA?oc=5",
-      "published": "Wed, 16 Sep 2026 15:12:52 GMT",
-      "source": "Just Auto",
-      "sector": "Auto & Components",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 18.2
+      "freshness_hours": 0.7
     }
   ],
   "opportunities": [
@@ -479,5 +465,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-17T09:22:39.547310+00:00"
+  "landed_updated_utc": "2026-09-17T10:22:24.619504+00:00"
 }
