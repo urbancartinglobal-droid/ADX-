@@ -18,7 +18,50 @@
       "signal_score": 16.4
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Starts ₹1 Trillion Bond Sale to Absorb Surplus Liquidity - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX05OczFXbWtwdWtFVG1GalZvUEtUUGVDRVBEbDlxVnMwS01VSFJRWHhrb1d4Y2dlVzlFQ2NjTFczNzBIVjRaMmZHZE5qVTRQYy0wRXNrY3R4Ny1NbUlNck5ScXhZV2hqOUFWOTNDTkVyT1RFRWEtZ2xkZTFVSkNfeFhBMFdkZkhub1pDSDhTRlV6a2JoZ1hYdjN3NWVWYUVUNzBUd1ZwX1dlRXYyZGJlQ0M2STRMSWpUdmhsZmZTdFVad2NDdEFMLVpJTDlrdzA0X05zTzEtbw?oc=5",
+      "published": "Thu, 17 Sep 2026 00:38:45 GMT",
+      "source": "Whalesbook",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.7
+    },
+    {
+      "title": "Non-Ionic Surfactants Water Treatment Market to Accelerate on Semiconductor Demand, Reaching 2035 Expansion - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObl8ySVFCNGJOTzBwbmlFaTk3Ymc2bUVVTktWRlY5Nk9zcUN4cXJudV9SZnRid3lNRVJudjl4N1JaT3hValVLQnpudjVzbDM3eTNUcnVuY1d3aUZkcEM0b3lKaHRCd1p2SXpXM0JrVkRRS2ZMQTRiblgzZHh5V1RDNEJfczd0VHNTaFJKZWkweGU5MFlFRHVldkFMd2NpTmdpWTFtN2ZaZ2tYREgydndJOVdpcURKOU1SU1RKN3RXa3l2NFRfbFZneWRUbUJzQ3NuZFE?oc=5",
+      "published": "Wed, 16 Sep 2026 15:11:17 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 10.2
+    },
+    {
+      "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT09hN3hSdUU4Sk5pRWFoSDJHLTF6NlMzaXhTb1NuaTVTQXRLUGNjZTBISFd4VGktOEpSM1k5aUx0M005V2VEQnQ5b0FwR21OMHFtU2pROW5XSmIzUmw1SExjZ0F4Mmgxc1d0dWFhQ0RzYkJWQlNESnFnN01nTDNuaktGVVBuNzg2dWNvb2ZhclpyZFJDSzg4VGdjTFN5b2JjdHpyQ1RIcDM3NndjXzdRRlM1aDc2TG5Ka2czZUQySm1NZm4y?oc=5",
+      "published": "Wed, 16 Sep 2026 10:20:12 GMT",
+      "source": "Trade Brains",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 15.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -435,5 +478,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-17T01:21:10.987544+00:00"
 }
