@@ -20,6 +20,20 @@
   ],
   "landed": [
     {
+      "title": "RBI absorbs ₹2.40 lakh crore via VRRR auction amid huge surplus liquidity - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVNVaFdNcVhwZlNsaXdRbHhNRXlnQU9xbHg4ZkQ4WWFWOWZ0UWV3VGdZbE1GUVIyMHMzcWsxZ1FYelZrVXFRS29JX1Jrck9XM1pwVzEta3pkM25EVWtzMVhxTTE0VXFQaVBpYjZnWGJQTDFkQWlub1VSUVNPLWVOcHBjOVlpRTZQR0FEZ1BUc0tPbFNmdFZpbGMyWHBYSTk2UXhUX2lBdUhXeTNPM2I0Q2hpWVk5VEMtMlJYUFZPQnBYVmlmUkNBVllIdFVoZGExMTV2a0hHbmRNZ1BkZHFv0gHmAUFVX3lxTE1iR0twNW1VbUx4aFNXTkVTX211X3ZHSXNkWi1vbnVONlBpNW1oS3AzYUlReXN4elcxWkNQMTZ6Q2VIeV9rVDlsNGQ3MGlqVlV6VTdFVXAtZFlQVzJGTGZOWk44cTZ6ZGhTN1djdVc0elg1T0RjQjJQREc2bnNQMWwzQVV4UlgtT1Zxd0hDZEdFMVJoWUxybzlRM0JaVFd1R09sUHVnV3VFYnhOVnJyd2NqbFRZSmVMcG53VWoxb1k1Wld1X2NUdlVFQnlGTnpKc2Z5emd0dWRGdmo1aXh2aXdpdUZ5bGV3?oc=5",
+      "published": "Thu, 17 Sep 2026 08:07:32 GMT",
+      "source": "BusinessLine",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.3
+    },
+    {
       "title": "Fujifilm India Semiconductor Investment: ₹800 Crore Bet on a Homegrown Chip Ecosystem - TechnoSports Media Group",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ELS00VHRkMkc0NVQyb0p0cTZhOEZJSklXQVVmR01xcGZMaTh3d3VIbDFWSkl0YXRvdVZBQ3MyaWdZU0VtbXhvSWZnMFBRYkxWSUNsSkNPNTM4RTZma0xPYWlQQllaUkN4MzJEMHM0bWFBckpydmc?oc=5",
       "published": "Thu, 17 Sep 2026 05:32:13 GMT",
@@ -31,21 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.9
-    },
-    {
-      "title": "RBI Starts ₹1 Trillion Bond Sale to Absorb Surplus Liquidity - whalesbook.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX05OczFXbWtwdWtFVG1GalZvUEtUUGVDRVBEbDlxVnMwS01VSFJRWHhrb1d4Y2dlVzlFQ2NjTFczNzBIVjRaMmZHZE5qVTRQYy0wRXNrY3R4Ny1NbUlNck5ScXhZV2hqOUFWOTNDTkVyT1RFRWEtZ2xkZTFVSkNfeFhBMFdkZkhub1pDSDhTRlV6a2JoZ1hYdjN3NWVWYUVUNzBUd1ZwX1dlRXYyZGJlQ0M2STRMSWpUdmhsZmZTdFVad2NDdEFMLVpJTDlrdzA0X05zTzEtbw?oc=5",
-      "published": "Thu, 17 Sep 2026 00:38:45 GMT",
-      "source": "whalesbook.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.7
+      "freshness_hours": 2.9
     },
     {
       "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
@@ -59,7 +59,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 21.1
+      "freshness_hours": 22.1
     }
   ],
   "opportunities": [
@@ -479,5 +479,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-17T07:23:31.437219+00:00"
+  "landed_updated_utc": "2026-09-17T08:24:15.506870+00:00"
 }
