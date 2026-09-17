@@ -31,35 +31,35 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.3
+      "freshness_hours": 1.3
     },
     {
-      "title": "Fujifilm India Semiconductor Investment: ₹800 Crore Bet on a Homegrown Chip Ecosystem - TechnoSports Media Group",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ELS00VHRkMkc0NVQyb0p0cTZhOEZJSklXQVVmR01xcGZMaTh3d3VIbDFWSkl0YXRvdVZBQ3MyaWdZU0VtbXhvSWZnMFBRYkxWSUNsSkNPNTM4RTZma0xPYWlQQllaUkN4MzJEMHM0bWFBckpydmc?oc=5",
-      "published": "Thu, 17 Sep 2026 05:32:13 GMT",
-      "source": "TechnoSports Media Group",
+      "title": "Japan, US in talks to build chip factory as part of tariff deal - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYzgxTnk4MHRuSXRLTU5SZmxGRHR1Rlpxc1BReklJTG01VWJrTG5DZXMtdm5WZHlEOGJCZVdKUnJ6Uy1rUlVpOGN0Rl9WLU15TnFFbHhRYWZjUUZSZFBGa3ZrYzhqUUFuOGZUWHVQZURxRXFHWkw1cnpBM1I1QjhRSi12OG1udFBwdXREYlBvNVlTdTNobGlrY3dSd29ZTi1ETTl1ODA1VQ?oc=5",
+      "published": "Thu, 17 Sep 2026 09:06:32 GMT",
+      "source": "scanx.trade",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
-      "label": "GIGA+",
+      "label": "GLOBAL",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.9
+      "freshness_hours": 0.3
     },
     {
-      "title": "US Drug Tariff: 15 Pharma Stocks Likely to Be Impacted by Trump’s New Tariff Plan - Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT09hN3hSdUU4Sk5pRWFoSDJHLTF6NlMzaXhTb1NuaTVTQXRLUGNjZTBISFd4VGktOEpSM1k5aUx0M005V2VEQnQ5b0FwR21OMHFtU2pROW5XSmIzUmw1SExjZ0F4Mmgxc1d0dWFhQ0RzYkJWQlNESnFnN01nTDNuaktGVVBuNzg2dWNvb2ZhclpyZFJDSzg4VGdjTFN5b2JjdHpyQ1RIcDM3NndjXzdRRlM1aDc2TG5Ka2czZUQySm1NZm4y?oc=5",
-      "published": "Wed, 16 Sep 2026 10:20:12 GMT",
-      "source": "Trade Brains",
-      "sector": "Pharma & Healthcare",
+      "title": "Uno Minda plans Rs14.15bn automotive component plant expansion - Just Auto",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQXNXMHQzLXJ4Q1FCdlBfQjFLeEVSOElVSS1vbVJxaXE0MEZBaGEwQTR3YzQ4bkMycnhHQnpOM0cyWkVXd1o4c3c2TjBmMmlzcTM4WG1Ec3dvQlBRYVNsaktPTjZ6cG1nOGcwWWlDcFh0c1g5cF94MUxveGZqNWZ4aDRJZVA?oc=5",
+      "published": "Wed, 16 Sep 2026 15:12:52 GMT",
+      "source": "Just Auto",
+      "sector": "Auto & Components",
       "triggers": [
         "MATERIAL CHANGE"
       ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 22.1
+      "label": "GIGA+",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 18.2
     }
   ],
   "opportunities": [
@@ -479,5 +479,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-17T08:24:15.506870+00:00"
+  "landed_updated_utc": "2026-09-17T09:22:39.547310+00:00"
 }
