@@ -17,13 +17,13 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.4
+      "freshness_hours": 3.4
     },
     {
-      "title": "RBI sells ₹500 billion of bonds in OMO to drain surplus liquidity - cnbctv18.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTG5Sa0pxVnpfYTItOGhndUJ3VDlpTUJwUFU3alJiX1pGRXpGb25Cc0YyWGxJTzZCeTFrNU5TSzVwRERPcktRVmxELUlTTkY2bk5zQjhPTnBFcGZMWEJSVlFmTXJZOWhxQ0dVWFprVF8xejBSM0V6bEVtVDZjSVRVUzlnMGpxeElGeTU1LS11QXdhcTBQaWlnMFBXOS1QSlJoWjRkdk9RQWJ3dDl4Rm1uVGp30gG3AUFVX3lxTE05TkJVbGZTWEtSVXJxNHhpYTI1VVlNa05EZzBxcmJ4WFdqYjZ1WFBGdF9SeXFscWI3eWh4eFFPbXRUQmFhNHB6TjBySi00VjJmQjFkTXpKcXYtMFVFblJSem5Kd085d3RmTGdEbVdWVGZ2dzJ3a2VNRlJOeG9ybzk1VjF1V3FzM25yMWNEWl94QlpveFZCMTlXV1ktRHJIZ28wR3ZZWldCUnhTNGRNSVp4TDhVOVV3VQ?oc=5",
-      "published": "Thu, 17 Sep 2026 13:06:55 GMT",
-      "source": "cnbctv18.com",
+      "title": "RBI may increase debt sales to drain surplus liquidity after 9 years - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3JscWZidUs0VC1LcENDbS1iRmllZ3hrVVZWSndCTXBDWVgxZ2Z3WHpaWjhGRURpam5PU1FKaVVrMmthUWJBNVJJVUJFRC1PbWthVmZiQVNVdVRjWnZDQUdaTnJNYW0yWndNMzF3cnU3UmxZOXB0UkItMzJBa1RRMk5uR3Jfcl9IYUdqakRXZ3VqaXhJbElMQ1lsMWRiVU1UNDNULTh4aGJlNC02ckZBVmZNRVQwSUJlZFJhNXdVRnNWOXJkZzItcTMxMUpLYmlE0gHWAUFVX3lxTE9UY0F0MlR5MHFuMkxhdzRGRWdZOWlOcTExOEl0X1pJTEYxc3lhRTFocjFpRXQ4TzZZODc2dk9DellqMXprcFEtak0teVdTamIxb2hRQ2RXcW5pLXZRdHFUUm9MSHliSDBjV1phT1c0OEtBUFlGUG9BX0pLX05yWjdQNWNqR2pSMEVrdmRYX3NXREJaeUlqVE5TOW5Gc1dwUkl5bVU1dVdFNWsxRlUwa2JfY1BmUHB3TEJhRVRISWlrN3JmYU56cmRMYS1CX183QXhBNENKY1E?oc=5",
+      "published": "Thu, 17 Sep 2026 12:39:19 GMT",
+      "source": "Business Standard",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.3
+      "freshness_hours": 2.7
+    },
+    {
+      "title": "Statistics Canada Fertilizer Data: Q3 & Q4 2025/2026 Released - News and Statistics - indexbox.io",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRENFcVJFVV94WTNWOUR5Ny1EemRKOHJLb1BUUE5QaE1uUEJHS0t3QTNqN01LbF9OR1hFcF9nbVdxcmNSRFFHUkFFRkgzZ0ctbkhPekg2YzFuOU9qSzY3VHVoTHotc2lOZWRja3RNWHpNVzN3R29TSnd5SDZPSzhOcXNTZHFFZm5BUlNfRW1pelBjX3lod25Naw?oc=5",
+      "published": "Thu, 17 Sep 2026 13:00:28 GMT",
+      "source": "indexbox.io",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.4
     }
   ],
   "opportunities": [
@@ -438,5 +452,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-17T14:24:19.137380+00:00"
+  "landed_updated_utc": "2026-09-17T15:22:25.628955+00:00"
 }
