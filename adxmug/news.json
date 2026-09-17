@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.2
+      "freshness_hours": 3.2
     },
     {
       "title": "Applied Materials India Investment: A $5 Billion Chip Bet - urbanacres.in",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
+      "freshness_hours": 1.7
     }
   ],
   "opportunities": [
@@ -465,5 +465,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-17T10:22:24.619504+00:00"
+  "landed_updated_utc": "2026-09-17T11:21:22.947126+00:00"
 }
