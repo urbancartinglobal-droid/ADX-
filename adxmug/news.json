@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Railways Opens Five Gati Shakti Cargo Terminals in Gujarat - Construction World",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZG5HMjF3STZQT1ZITlRnbW1OcTdrb3U1RmRhVUNkdEFIcnp4bDNuN0ZXWm05UWQ1TFNpZ05XdmdmaVk3b015YlFCbkpWZkJ6RlV4VGstbmxlUXlaMFdNSDA2dGVocDVtWTRxYU1tV1dCWGNXd1UtVGdJQ09UM2pfSjdUNmVGVjEweWVsZEZtdjVfWGdaaDNnc0ZhbHRrLWQzOENnNndEWjVyNk16Q3JqZlYyRkVJM2lsMGlJTTI2UkF1ZHc5ckpPdThrNk9TZjh6dU5FcmNwWmNYYUd1QUgwdzh3RGo2R1ltTlFsU2s1SzNxZUU?oc=5",
+      "published": "Fri, 18 Sep 2026 06:32:36 GMT",
+      "source": "Construction World",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 0.8
+    },
+    {
+      "title": "Semicon India 2026: Micron, Tata, Infineon outline next steps in chip expansion - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN0hXRWJ6dkZFTmRBR2t3NDlMTTM0SE0wWktwRXZWdlZPUlE1RUwzRWlRanYtZ0sxVlJ0WFVBMFdVVUZiTmp3TUxWOWxjeFMxU0U3RmdVcVY4dmZNSEtXUUNwd25DMHJlSmFvdXJIbzdicVpqUGdycnNoT3o2Q0x6Nl9NcUQyVXV6cEwxVkQwb2xWaHJaOVQwR1JkVVBIR2hmQ3NCeXRPUUcxS1pxeE9hTUdZRzdlQ29lU1hHX2VlYmVKaENmVXBhRFJJcU5VbkVQc0pQbkZJSdIB3AFBVV95cUxPTTc3WlljdVZyMlNKVmFDdko5Z0Z6cHBoNmpHbC1TZEltSDR4bFB4MnJfTFdYV3RhSlluQ3NIc19wUkUwYmhHYzEtLTlTRUYtMlFHUmJUdU5IdENGYTBuZS1fRmFVQkpha3o3WE5ETXRLNEpUdGRSOW5hV1dNY3Z2NTFEME1hTEVockR4R2p0MkEyeTJZb01xM2d2TmpFemVkb2NGcVJZQm9wT2ItQkFtZS1vczZUT09wSmNIV0NsZk9PaFY5aDJ6VHJUUndLZFJ6azdyY2pxOG5Ob2dh?oc=5",
+      "published": "Thu, 17 Sep 2026 23:09:00 GMT",
+      "source": "The Times of India",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 8.2
+    },
+    {
+      "title": "Statistics Canada Fertilizer Data: Q3 & Q4 2025/2026 Released - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRENFcVJFVV94WTNWOUR5Ny1EemRKOHJLb1BUUE5QaE1uUEJHS0t3QTNqN01LbF9OR1hFcF9nbVdxcmNSRFFHUkFFRkgzZ0ctbkhPekg2YzFuOU9qSzY3VHVoTHotc2lOZWRja3RNWHpNVzN3R29TSnd5SDZPSzhOcXNTZHFFZm5BUlNfRW1pelBjX3lod25Naw?oc=5",
+      "published": "Thu, 17 Sep 2026 13:00:28 GMT",
+      "source": "IndexBox",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 18.4
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -420,5 +463,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-18T07:21:39.691024+00:00"
 }
