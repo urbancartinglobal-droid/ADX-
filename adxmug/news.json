@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-17T18:31:10.654112+00:00",
+  "updated_utc": "2026-09-18T00:33:59.303698+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Semiconductor Wet Chemicals Market Advances as Advanced Chip Manufacturing Expands Global Fab Capacity - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUHB1VXBQZ2RlVE1qZHQxSGNncVRoOWtweU5wam9hdW1la1pOZkpPZktxYkZBSjdHWmR1anl3RnloSjVvMFIxTUFkZFR6bHlNeXRrNFJ6cGNvLU1jY2JVZ3pJel85TUxlWXphOFRxVHdESklWTXd3bzBYWndlQkk2aW0tQzdDNWlKOHZZSnF1ajdFeHVHVWk2Wnh4RmlFSFNjN1lYeUU0V1hBUElXR1NKcDNsVEN3bDMzOHFuaFF0bWRHVHR6SGhpRDR0alRIczJjd3h6V01wZ0JtZ1c2QTRaYzJCNEQwNjJBcEtkR28zNUxjR1Y1VGExNGREVTU3dXM1X190Yg?oc=5",
-      "published": "Thu, 17 Sep 2026 12:00:00 GMT",
-      "source": "GlobeNewswire",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 12.5
-    },
-    {
-      "title": "RBI accepts Rs 50,000 crore in first OMO sale to absorb surplus liquidity - PSU Watch",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTk1Q2JpeDJ2Ul9Cd2l6dXZzYmo2RzJ5TTVxMFI2Q0l5RlhBN3BsQkVMTE96RkFjbDhYTjg5b2tPQkNUUmpEOVlraVc2end2dHl1OWUxVGE5OGtjOTVuODNVUlBSdG5LbFBxY2dpUFhzLUdqYmstd2c0WUJuZWZUd255eHZhdG9RczM1Nk1IWVdpTlZIUHJOdnJNb0Y1OUMtNkdabTRNUEXSAbYBQVVfeXFMTWxrX01DbVRVVWoxTXJIak92UFRyejlxeFJQOTUwLVAzaVU5YTJSSkxzbjBrZmVUcmgwd1FTOHB3QW95b1RwODdXdHRPMXR0X0NtZHBQdGc2NVhqSlFJOTJVUUtpaEtRSFMxMEhYWTZjeTNSbmlITVRpRVFJNDRLVU12WjlhUUMxV29ySWJpZ2o1TDBjdlRvNU5PWktibTNBMGZyVzdqWUFOQ3oyS2RlQlZISm03b3c?oc=5",
-      "published": "Thu, 17 Sep 2026 14:52:32 GMT",
-      "source": "PSU Watch",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.6
-    },
-    {
-      "title": "Statistics Canada Fertilizer Data: Q3 & Q4 2025/2026 Released - News and Statistics - indexbox.io",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRENFcVJFVV94WTNWOUR5Ny1EemRKOHJLb1BUUE5QaE1uUEJHS0t3QTNqN01LbF9OR1hFcF9nbVdxcmNSRFFHUkFFRkgzZ0ctbkhPekg2YzFuOU9qSzY3VHVoTHotc2lOZWRja3RNWHpNVzN3R29TSnd5SDZPSzhOcXNTZHFFZm5BUlNfRW1pelBjX3lod25Naw?oc=5",
-      "published": "Thu, 17 Sep 2026 13:00:28 GMT",
-      "source": "indexbox.io",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.5
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -61,8 +18,8 @@
       ],
       "evidence": [
         {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
-          "source": "Policy Circle",
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - policycircle.org",
+          "source": "policycircle.org",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
           "triggers": [
             "POLICY",
@@ -82,8 +39,8 @@
           "companies": []
         },
         {
-          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
-          "source": "The Economic Times",
+          "title": "India eases raw sugar import rules as it cracks down on hoarding - economictimes.com",
+          "source": "economictimes.com",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
           "triggers": [
             "POLICY",
@@ -197,6 +154,47 @@
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Defence & Aerospace",
+      "score": 37,
+      "article_count": 2,
+      "trigger_count": 3,
+      "triggers": [
+        "CAPEX",
+        "CORPORATE"
+      ],
+      "evidence": [
+        {
+          "title": "DRDO allows private sector partnership in missile production - ProjectsMonitor",
+          "source": "ProjectsMonitor",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUlNGX09UVndSZlplbmxDWFlHZ1JQbzIxMXluejBRaF8tR0xyWF9DM0dpX1JzNmhLRkpMalhJMl9TMWt5Xzk1QWZ4T1RRem5qRFNnblM3bjB4RF9MT0lFeUNfckVUZ1ZBVG1NZldVM2thRmVpcElwTV96YU1qa3ctMkE1eUNoODRGV0dlbWUwS2t1OGhQS080eDlCV19nVlFpZ3dYS1JMYw?oc=5",
+          "triggers": [
+            "CAPEX",
+            "CORPORATE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - economictimes.com",
+          "source": "economictimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, CORPORATE; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
+      "companies": [],
+      "connections": [
+        "Corporate action reinforced by capex/orders is a stronger operating signal."
       ],
       "fresh_count": 0
     },
@@ -335,36 +333,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Defence & Aerospace",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Power & Grid",
       "score": 18,
       "article_count": 1,
@@ -404,8 +372,8 @@
       ],
       "evidence": [
         {
-          "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - ET Chemicals",
-          "source": "ET Chemicals",
+          "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - Indiatimes",
+          "source": "Indiatimes",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbjdHWW5JN3ZmUlAyRXR0bUl1SjhMZUlLM1JyLUtaN1FmZk5CX2cyUG9wVVZ5bFNDcFctUE1zQ0FHbF85d1lEQm5qd1daTGc2UkNFNHBPRGRFNWY0RlVPYzNzQV9oUHVZcjdya01IS3NCZ1VjRm1ZZC1qTXN5WXJELVY5MlFET1lrMncyYVQ4eXdfVlhTOGxHTVdxMHRQeGRSc2hwS1doM1dvMm91N2xBYWZtS0JJU216MGtWODYyYnAtdUo1azNtMzJ6TEE0SXE1dGxpUHBvQ2xlVGlkVlBPaXpjbUZaRTRmenJUdnFMaGhSSlJoT1pYWtIB_gFBVV95cUxOREpkYVRvcFhpR2RKRHRxQWVMbTlaNXpxVzE2Y3RTZXlWbDRkd0tOaUVyZ011UGg3aThJclFyd0ZQTHdNb1RYMEJNZXA4M0Fzclowc2ZtNWotVE1sZXVYZUhMUDFOWHJtVDh0VjJxX21NZVZTYWdOSHhncHVKemRXc1doYUFTS0l2eVRGUUpDQU1tZ0wyd0Z2bkNrU0NPa0tZTHZBVHJUX3FKbDBtZWppTTZrUHpfQ05yajRMNVJnR25kMENIQzlxTWhuYlNwRURNMmVKdU0ybXRQOGdkMGtaNHIwU3VaSU5iTThESVUyTGJ5M3hJVWRCbUNLbS1WQQ?oc=5",
           "triggers": [
             "PRICING"
@@ -440,6 +408,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-18T00:27:58.688164+00:00"
+  ]
 }
