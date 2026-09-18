@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-18T00:33:59.303698+00:00",
+  "updated_utc": "2026-09-18T06:32:50.670392+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI accepts Rs 50,000 crore in first OMO sale to absorb surplus liquidity - PSU Watch",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTk1Q2JpeDJ2Ul9Cd2l6dXZzYmo2RzJ5TTVxMFI2Q0l5RlhBN3BsQkVMTE96RkFjbDhYTjg5b2tPQkNUUmpEOVlraVc2end2dHl1OWUxVGE5OGtjOTVuODNVUlBSdG5LbFBxY2dpUFhzLUdqYmstd2c0WUJuZWZUd255eHZhdG9RczM1Nk1IWVdpTlZIUHJOdnJNb0Y1OUMtNkdabTRNUEXSAbYBQVVfeXFMTWxrX01DbVRVVWoxTXJIak92UFRyejlxeFJQOTUwLVAzaVU5YTJSSkxzbjBrZmVUcmgwd1FTOHB3QW95b1RwODdXdHRPMXR0X0NtZHBQdGc2NVhqSlFJOTJVUUtpaEtRSFMxMEhYWTZjeTNSbmlITVRpRVFJNDRLVU12WjlhUUMxV29ySWJpZ2o1TDBjdlRvNU5PWktibTNBMGZyVzdqWUFOQ3oyS2RlQlZISm03b3c?oc=5",
-      "published": "Thu, 17 Sep 2026 14:52:32 GMT",
-      "source": "PSU Watch",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.6
-    },
-    {
-      "title": "Semicon India 2026: Micron, Tata, Infineon outline next steps in chip expansion - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN0hXRWJ6dkZFTmRBR2t3NDlMTTM0SE0wWktwRXZWdlZPUlE1RUwzRWlRanYtZ0sxVlJ0WFVBMFdVVUZiTmp3TUxWOWxjeFMxU0U3RmdVcVY4dmZNSEtXUUNwd25DMHJlSmFvdXJIbzdicVpqUGdycnNoT3o2Q0x6Nl9NcUQyVXV6cEwxVkQwb2xWaHJaOVQwR1JkVVBIR2hmQ3NCeXRPUUcxS1pxeE9hTUdZRzdlQ29lU1hHX2VlYmVKaENmVXBhRFJJcU5VbkVQc0pQbkZJSdIB3AFBVV95cUxPTTc3WlljdVZyMlNKVmFDdko5Z0Z6cHBoNmpHbC1TZEltSDR4bFB4MnJfTFdYV3RhSlluQ3NIc19wUkUwYmhHYzEtLTlTRUYtMlFHUmJUdU5IdENGYTBuZS1fRmFVQkpha3o3WE5ETXRLNEpUdGRSOW5hV1dNY3Z2NTFEME1hTEVockR4R2p0MkEyeTJZb01xM2d2TmpFemVkb2NGcVJZQm9wT2ItQkFtZS1vczZUT09wSmNIV0NsZk9PaFY5aDJ6VHJUUndLZFJ6azdyY2pxOG5Ob2dh?oc=5",
-      "published": "Thu, 17 Sep 2026 23:09:00 GMT",
-      "source": "The Times of India",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 7.3
-    },
-    {
-      "title": "Statistics Canada Fertilizer Data: Q3 & Q4 2025/2026 Released - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRENFcVJFVV94WTNWOUR5Ny1EemRKOHJLb1BUUE5QaE1uUEJHS0t3QTNqN01LbF9OR1hFcF9nbVdxcmNSRFFHUkFFRkgzZ0ctbkhPekg2YzFuOU9qSzY3VHVoTHotc2lOZWRja3RNWHpNVzN3R29TSnd5SDZPSzhOcXNTZHFFZm5BUlNfRW1pelBjX3lod25Naw?oc=5",
-      "published": "Thu, 17 Sep 2026 13:00:28 GMT",
-      "source": "IndexBox",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 17.4
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -61,8 +18,8 @@
       ],
       "evidence": [
         {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - policycircle.org",
-          "source": "policycircle.org",
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
+          "source": "Policy Circle",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
           "triggers": [
             "POLICY",
@@ -82,8 +39,8 @@
           "companies": []
         },
         {
-          "title": "India eases raw sugar import rules as it cracks down on hoarding - economictimes.com",
-          "source": "economictimes.com",
+          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
+          "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
           "triggers": [
             "POLICY",
@@ -201,6 +158,68 @@
       "fresh_count": 0
     },
     {
+      "industry": "Rail & Infrastructure",
+      "score": 54,
+      "article_count": 4,
+      "trigger_count": 7,
+      "triggers": [
+        "CAPEX",
+        "CORPORATE",
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajyamag",
+          "source": "Swarajyamag",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
+          "triggers": [
+            "CAPEX",
+            "CORPORATE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Railways Ministry Approves Flyover Project to Alleviate Traffic at Khurda Road Station - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ1hXU09pTl81R3NtTDRsR3NVVnR3c21sUUhZQ1pxVWxiWk5BYTlSb2lZclRpaXU0ZGlvd0RQZF9LM2FYS3B4UjN4d1Z1MVJIczVEbUVjREg3akktd1RVVEY5aVRqMll2cVRQN1NIcl9WSHpxWmdBOU1KZzBEbzNURmYwdlN1Z24tWHpBZ3RPakhOZDdNM29kVnp2OWswS1R6TkdWTWk2d3pPLXBrSHRWUkR4eGVXYm5pRDh1aTR2YS1FY1VQNEs1bEtBNUxBVW5ESDZMbkp4djNKX091N3dIYlYzaWVjalZZSjRmUk5VQkRhUmY1YzVlZEJUMUsyQ1RIcF9HbmhpT3U3WWFqMEZScEZfQzlIdjYx?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Indian Railways Approves Somtane Chikhli Chord Line Project - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNXJORU1CSXlxUHZMZ2ZtSHUyVFRzaVVYWnBpZHJQR0FBbVdya1pvajVhdXIwMDZ1TktRYTJYUzdlWkJKSUdFTkFwcUVJVWpzUE1xaVNuRVdDVExoMXVpeXdyRzd2cFlHc2lZVE4weHREcHc4WHJBb3JUZXlnc0NkTklxbXdHNElVd1YxZUZCbEtuVkFLbWhGSnRnYWdpdGN0VGhLaUx0ZUtLc3dzMzdxZEgzYkNUUjVKc0dDYnJhZGJfV1dLUXp5NHFqRm5fZzZFNlppUThBRWtCdjZFRjNCYU5ZT2xoWU9sV2F2dTVDRFZub3Uw?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, CORPORATE, POLICY; 4 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 4,
+      "companies": [],
+      "connections": [
+        "Corporate action reinforced by capex/orders is a stronger operating signal."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Defence & Aerospace",
       "score": 37,
       "article_count": 2,
@@ -221,8 +240,8 @@
           "companies": []
         },
         {
-          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - economictimes.com",
-          "source": "economictimes.com",
+          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - The Economic Times",
+          "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
           "triggers": [
             "CAPEX"
@@ -262,8 +281,8 @@
           "companies": []
         },
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
@@ -279,56 +298,6 @@
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Rail & Infrastructure",
-      "score": 37,
-      "article_count": 3,
-      "trigger_count": 4,
-      "triggers": [
-        "CAPEX",
-        "CORPORATE"
-      ],
-      "evidence": [
-        {
-          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
-          "triggers": [
-            "CAPEX",
-            "CORPORATE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Rs 18 Billion Rail Project Cleared for Northeast Region - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbWpLWndRUUdEQkVnS0lad0ZJU05UWl9oa1JWZXdsT3ZJb1RuZG1adjlBQVNSd3ctYnYwRWd2Vi1wamYwbllYb2hDejN3UmhLdjcza01oZnptZTZhXzZaZXZQaUppM2dUQ201b1FzYncyU0RYTVE5cER0bW9FREtRaU1XbmcxLXlmc1RYQ2RfRmNtWDZ0UGNnWGpheE5FdWFKTnRhYTNhVzBhdkl0cEM2TFE5Mzk4Wk94d2NLRVp1RjFLbUI3ei1BUlB0a3c3bjNfWjgtQU5hdjBpNzRZT1VNRG4za19ydXZCTWQtZWljUQ?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Indian Railways Approves Somtane Chikhli Chord Line Project - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNXJORU1CSXlxUHZMZ2ZtSHUyVFRzaVVYWnBpZHJQR0FBbVdya1pvajVhdXIwMDZ1TktRYTJYUzdlWkJKSUdFTkFwcUVJVWpzUE1xaVNuRVdDVExoMXVpeXdyRzd2cFlHc2lZVE4weHREcHc4WHJBb3JUZXlnc0NkTklxbXdHNElVd1YxZUZCbEtuVkFLbWhGSnRnYWdpdGN0VGhLaUx0ZUtLc3dzMzdxZEgzYkNUUjVKc0dDYnJhZGJfV1dLUXp5NHFqRm5fZzZFNlppUThBRWtCdjZFRjNCYU5ZT2xoWU9sV2F2dTVDRFZub3Uw?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, CORPORATE; 3 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 3,
-      "companies": [],
-      "connections": [
-        "Corporate action reinforced by capex/orders is a stronger operating signal."
       ],
       "fresh_count": 0
     },
@@ -353,8 +322,8 @@
           ]
         },
         {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
           "triggers": [
             "POLICY"
@@ -451,6 +420,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-18T06:26:25.553139+00:00"
+  ]
 }
