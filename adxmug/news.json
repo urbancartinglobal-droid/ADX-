@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.5
+      "freshness_hours": 12.5
     },
     {
       "title": "Semicon India 2026: Micron, Tata, Infineon outline next steps in chip expansion - The Times of India",
@@ -31,13 +31,13 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
+      "freshness_hours": 4.2
     },
     {
-      "title": "Statistics Canada Fertilizer Data: Q3 & Q4 2025/2026 Released - News and Statistics - IndexBox",
+      "title": "Statistics Canada Fertilizer Data: Q3 & Q4 2025/2026 Released - News and Statistics - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRENFcVJFVV94WTNWOUR5Ny1EemRKOHJLb1BUUE5QaE1uUEJHS0t3QTNqN01LbF9OR1hFcF9nbVdxcmNSRFFHUkFFRkgzZ0ctbkhPekg2YzFuOU9qSzY3VHVoTHotc2lOZWRja3RNWHpNVzN3R29TSnd5SDZPSzhOcXNTZHFFZm5BUlNfRW1pelBjX3lod25Naw?oc=5",
       "published": "Thu, 17 Sep 2026 13:00:28 GMT",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "sector": "Chemicals & Materials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.4
+      "freshness_hours": 14.3
     }
   ],
   "opportunities": [
@@ -452,5 +452,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-18T02:22:52.493039+00:00"
+  "landed_updated_utc": "2026-09-18T03:21:18.939718+00:00"
 }
