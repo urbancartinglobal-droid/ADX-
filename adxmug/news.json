@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Semiconductor Wet Chemicals Market Advances as Advanced Chip Manufacturing Expands Global Fab Capacity - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUHB1VXBQZ2RlVE1qZHQxSGNncVRoOWtweU5wam9hdW1la1pOZkpPZktxYkZBSjdHWmR1anl3RnloSjVvMFIxTUFkZFR6bHlNeXRrNFJ6cGNvLU1jY2JVZ3pJel85TUxlWXphOFRxVHdESklWTXd3bzBYWndlQkk2aW0tQzdDNWlKOHZZSnF1ajdFeHVHVWk2Wnh4RmlFSFNjN1lYeUU0V1hBUElXR1NKcDNsVEN3bDMzOHFuaFF0bWRHVHR6SGhpRDR0alRIczJjd3h6V01wZ0JtZ1c2QTRaYzJCNEQwNjJBcEtkR28zNUxjR1Y1VGExNGREVTU3dXM1X190Yg?oc=5",
+      "published": "Thu, 17 Sep 2026 12:00:00 GMT",
+      "source": "GlobeNewswire",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 13.3
+    },
+    {
+      "title": "Rs 50,000 Crore in OMO Sale: How RBI is Tackling Massive Liquidity Surplus In Banking System - The Daily Jagran",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVEh5NW4zbFRRY21DSmFnSURKSDh3eWs1WEV1bG5YOU0wOTR6aUluTVV0TkV4aWVabC0wT0VwSk5RYmlGMTNMMWRKTGtzODJYaHdJeWU5ZHVaT29pellEb2gtTXJBQ3cxdDFFd3ItWWdUU25mOXVmTFczeXJOZGFjalF0dkpiUnJ0akFJYWZ1RlRzSUFacmQtMFdXQkRlQ0lQNjFtRHoyN3V3MkxiZkI0ZXNDemozSXBxVTBfN1V1TjlDNW9BcW43bGMxcEZEV1QyZjNVMFgxOUtuTHhPNEHSAd4BQVVfeXFMUFRIeTVuM2xUUWNtQ0phZ0lESkg4d3lrNVhFdWxuWDlNMDk0emlJbk1VdE5FeGllWmwtME9FcEpOUWJpRjEzTDFkSkxrczgyWGh3SXllOWR1Wk9vaXpZRG9oLU1yQUN3MXQxRXdyLVlnVFNuZjl1ZkxXM3lyTmRhY2pRdHZKYlJydGpBSWFmdUZUc0lBWnJkLTBXV0JEZUNJUDYxbUR6Mjd1dzJMYmZCNGVzQ3pqM0lwcVUwXzdVdU45QzVvQXFuN2xjMXBGRFdUMmYzVTBYMTlLbkx4TzRB?oc=5",
+      "published": "Thu, 17 Sep 2026 11:47:00 GMT",
+      "source": "The Daily Jagran",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 13.6
+    },
+    {
+      "title": "Statistics Canada Fertilizer Data: Q3 & Q4 2025/2026 Released - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRENFcVJFVV94WTNWOUR5Ny1EemRKOHJLb1BUUE5QaE1uUEJHS0t3QTNqN01LbF9OR1hFcF9nbVdxcmNSRFFHUkFFRkgzZ0ctbkhPekg2YzFuOU9qSzY3VHVoTHotc2lOZWRja3RNWHpNVzN3R29TSnd5SDZPSzhOcXNTZHFFZm5BUlNfRW1pelBjX3lod25Naw?oc=5",
+      "published": "Thu, 17 Sep 2026 13:00:28 GMT",
+      "source": "IndexBox",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 12.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -408,5 +451,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-18T01:20:26.660939+00:00"
 }
