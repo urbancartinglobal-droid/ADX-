@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-09-18T06:32:50.670392+00:00",
+  "updated_utc": "2026-09-18T12:32:03.223942+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "L&T Semiconductor, Tata Electronics partner to scale India-designed chips for global markets - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHQ3bHhRTm8xYWNlenBmVFZEX2daZzlKQTd0eUsxM3hLNnFEbS1lYWRiZkpnTllEM2pRYlJOd0NsYlh0ejRrdG9pV3d4VHF3ME8xOExCSHU3eENZTTlRZ0htWi0yclRlVG1kWXJ6d1cyMXViWnR0UEd1M2Zvb3VhLWxpQUlpZHJiTjQtU2pNaTRmdXN2T21rbmx3cnhEZWRSTU15b0U4YlJJaXVVNUxVMGpLV2dSWlBRR3FfVXVWVDBKRXZCak40V3ZhXzdVdFFpZzNn0gHgAUFVX3lxTE13RlNnQW9sbDRWUUxKWmtoSHNzWm9SNUlveHZ1OHFCN0hlS3dTUmtSWDVqb2hsdFNuQzJ6YW5HSFR4Um5qTnoyaUE5MlE4Sld2Wms5Z0lkWmd2YUp1ZWRXSnRZMjhaWHc3RDlrZ0liT0Z3dVFSeGlta2pIUWNOYWdTZUZNcmRGQW9tOVhuQWVtREF3bDlkcmNaNGFSTnJPRnptdENaUTFwZnRFcFR6VWJzV2E2MXVIU1F3WTJ5QTlxb3A5eDFrMDBXc082ZDFlME5DR3dkaHVRMFdLQjJpX0lT?oc=5",
-      "published": "Fri, 18 Sep 2026 12:00:19 GMT",
-      "source": "Fortune India",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.4
-    },
-    {
-      "title": "RBI absorbs Rs 2.23 lakh crore via VRRR auction amid surplus liquidity - Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVlhMTJBWjN5Z0cySFNBWm9pU182cVpOcGxpbFRVN2l5ZzV5SFpvVGxrWUFONUpHNlBLaGJZYlF2NFJaZVFkTmVCMFltdkRCNmpVNTNUT3hJRjVCWlFRbnVvU0VUTDNuczFKMHpCbENtTTk1TE95NDVuMzdpUUFrczV3MUowaGpBSExrSVlnMHlTV0ViMmVqcnlaTS1DY0ZfX2kyTnc4YWkxaXNxQ1UwMTZPM0ljRmZQNllj?oc=5",
-      "published": "Fri, 18 Sep 2026 11:57:09 GMT",
-      "source": "Investment Guru India",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.5
-    },
-    {
-      "title": "Trump’s Tariff Pe Tariff: India’s Trade Defence Playbook Amid US Pressure Explained - News18",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSEpPNjBKOS1MVklGbTVETE5HZnNMUVZXSjlnQzR5aFR6R3R1c3RkLWFuQ3NITzdlMmphb1dCbEZmTXFUTjExdE9IaEpHVnpxZkRXV294MFZ4QlVoQzhTLWFIZ19wTUpOY3FEV2VuV2JuOVMyTXJZTHRRdzctYkZ4bXdkcGZCaHNUdEw5QU5EX3BYVmdlVmtReUg1WEt0bmdYazJ6bld1cHZPTnFPYlRUajRSSmQxOXR4WGZGMjNZVTRZbzRMWGJ0NlFTYndURmQwZVBadjB30gHWAUFVX3lxTE9ISk82MEo5LUxWSUZtNURMTkdmc0xRVldKOWdDNHloVHpHdHVzdGQtYW5Dc0hPN2UyamFvV0JsRmZNcVROMTF0T0hoSkdWenFmRFdXb3gwVnhCVWhDOFMtYUhnX3BNSk5jcURXZW5XYm45UzJNcllMdFF3Ny1iRnhtd2RwZkJoc1R0TDlBTkRfcFhWZ2VWa1F5SDVYS3RuZ1hrMnpuV3Vwdk9OcU9iVFRqNFJKZDE5dHhYZkYyM1lVNFlvNExYYnQ2UVNid1RGZDBlUFp2MHc?oc=5",
-      "published": "Fri, 18 Sep 2026 11:42:00 GMT",
-      "source": "News18",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 76,
-      "article_count": 6,
-      "trigger_count": 12,
+      "score": 66,
+      "article_count": 4,
+      "trigger_count": 8,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -92,17 +49,6 @@
           "companies": []
         },
         {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
-          "source": "ChiniMandi",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
           "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
           "source": "Global Agriculture",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
@@ -114,9 +60,9 @@
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 6 independent sources.",
-      "source_count": 6,
-      "story_clusters": 6,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 4 independent sources.",
+      "source_count": 4,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -128,8 +74,8 @@
     {
       "industry": "Banking & Financials",
       "score": 64,
-      "article_count": 5,
-      "trigger_count": 10,
+      "article_count": 6,
+      "trigger_count": 12,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -140,6 +86,16 @@
           "title": "RBI liquidity boost cuts wholesale funding costs, but banks remain locked in deposit battle - bfsi.economictimes.indiatimes.com",
           "source": "bfsi.economictimes.indiatimes.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVUQzhPcVlRMHVrcU9MS0xFUGdteVpyd21JVFoxSGhRdWJQdnEyZHJXTlZVYV9jMWVoU2ppSzNDUDFPUzl6cUoxdm4yeGVVVnlfTjdId2l4cTFOR1B4WFdNemFabEctNEZ4a1FReEtSSGc0aExOUHpRc2I5RWxIUjh5LS1XSU9kSURiV0dydFFDdlczdmZkMDZFNV9oNU5mSjNrMy1zdUdkOWp6Z1dLLU1GRGxzSEpOOGxzUDFuYW1uM1nSAcgBQVVfeXFMT2ZLQm1rdWctbml2ekZxZjJCc1ZSVnBSTTMxU2hpeUUyRGp3OWJOT1hPMTlxcW1nTUpOVFMwMVRsWm5EeGI5N2NLNU1jVkFfRjNfOTlnWnkyS2J0a1lYRWs4VHM4QWFEdFFEYnpYY0YxQTU1ZjR6NzdVUFdnWVh6NzFmd2FXUmhaQU5hdFJwMG96a0hkSXQ0cG16R0hkdVhnRDktZ01aT3dZd0FEbnJiYThjbjBQRlRwYmJid0lQOWw0dktQbnpnVUk?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI's CRR cut may provide 3-4 bps relief to banks on margins front ; liquidity challenges remain - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWtvTTVGMXhTSTZCSHVNQ2tqMmZ2MDYtQUdvT2ZZREoyTVpTbTNQS3hHUjltN0x1R3pveWQ2TkhYZzhGYWl2MVBBNmVvM21tSUdXdVNzcmpPTVg5UEdHQjlSYmQySVVrOEZ6cGowYmkwNmVMbmZUMTBReDFPWnRnTTd5b2JIZUxVVjNaREtPOEdfOEpNQUh2YnV2NUx4bE1HblRvTzB3a2ZGOTZ1RlFKN3NPeXdHanoxakk0T0FYdWw5dURDZFVUNXk1VDFXb2VkV3BnOE1FNkVKcDlWNWlfNmtkRTBvY1k4cHM0ZnNB0gHzAUFVX3lxTE1oQnJndDFFT1BPV2RfcnAwRDV6OG1qdHBOd2s2ZXMxVUFnMTl0Z3VudUJnbWVTbVpoVmh2NV84TEEyN09keDFDTDBkUmM3OGFicmpFNmRybHlZYWNqRlh0RXc1YjFBb05yOXdVZXk5aUVlWWtUV3V5c1FyOUI0YU9yZjBDVWctNjR1ZUpsNGg0X2pZOE1URjR4ZDB1eEtzSGxGQ1JKTk1lcEFTQkR4M2ZwbFFUZ19vUlVzQzh4djFZbDczeHhiNnpxTWFzNkpnS1dXcGdQa3F5QkVxTXJ0NlRrT2NQWVJvOGpmYlZEQTNtczlONA?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
@@ -175,90 +131,18 @@
             "TRADE"
           ],
           "companies": []
-        },
-        {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 5,
+      "story_clusters": 6,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Rail & Infrastructure",
-      "score": 54,
-      "article_count": 4,
-      "trigger_count": 7,
-      "triggers": [
-        "CAPEX",
-        "CORPORATE",
-        "POLICY"
-      ],
-      "evidence": [
-        {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajyamag",
-          "source": "Swarajyamag",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
-          "triggers": [
-            "POLICY",
-            "CAPEX"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
-          "triggers": [
-            "CAPEX",
-            "CORPORATE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Railways Ministry Approves Flyover Project to Alleviate Traffic at Khurda Road Station - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ1hXU09pTl81R3NtTDRsR3NVVnR3c21sUUhZQ1pxVWxiWk5BYTlSb2lZclRpaXU0ZGlvd0RQZF9LM2FYS3B4UjN4d1Z1MVJIczVEbUVjREg3akktd1RVVEY5aVRqMll2cVRQN1NIcl9WSHpxWmdBOU1KZzBEbzNURmYwdlN1Z24tWHpBZ3RPakhOZDdNM29kVnp2OWswS1R6TkdWTWk2d3pPLXBrSHRWUkR4eGVXYm5pRDh1aTR2YS1FY1VQNEs1bEtBNUxBVW5ESDZMbkp4djNKX091N3dIYlYzaWVjalZZSjRmUk5VQkRhUmY1YzVlZEJUMUsyQ1RIcF9HbmhpT3U3WWFqMEZScEZfQzlIdjYx?oc=5",
-          "triggers": [
-            "POLICY",
-            "CAPEX"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Indian Railways Approves Somtane Chikhli Chord Line Project - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNXJORU1CSXlxUHZMZ2ZtSHUyVFRzaVVYWnBpZHJQR0FBbVdya1pvajVhdXIwMDZ1TktRYTJYUzdlWkJKSUdFTkFwcUVJVWpzUE1xaVNuRVdDVExoMXVpeXdyRzd2cFlHc2lZVE4weHREcHc4WHJBb3JUZXlnc0NkTklxbXdHNElVd1YxZUZCbEtuVkFLbWhGSnRnYWdpdGN0VGhLaUx0ZUtLc3dzMzdxZEgzYkNUUjVKc0dDYnJhZGJfV1dLUXp5NHFqRm5fZzZFNlppUThBRWtCdjZFRjNCYU5ZT2xoWU9sV2F2dTVDRFZub3Uw?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, CORPORATE, POLICY; 4 distinct story clusters; 2 independent sources.",
-      "source_count": 2,
-      "story_clusters": 4,
-      "companies": [],
-      "connections": [
-        "Corporate action reinforced by capex/orders is a stronger operating signal."
       ],
       "fresh_count": 0
     },
@@ -341,6 +225,38 @@
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Rail & Infrastructure",
+      "score": 25,
+      "article_count": 1,
+      "trigger_count": 2,
+      "triggers": [
+        "CAPEX",
+        "CORPORATE"
+      ],
+      "evidence": [
+        {
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
+          "triggers": [
+            "CAPEX",
+            "CORPORATE"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, CORPORATE; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Corporate action reinforced by capex/orders is a stronger operating signal."
       ],
       "fresh_count": 0
     },
@@ -463,6 +379,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-18T12:25:54.013436+00:00"
+  ]
 }
