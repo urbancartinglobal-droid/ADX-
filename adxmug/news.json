@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "India’s Chip Industry Expands as Locally Made Semiconductors Reach Global Markets - boldnewsonline.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkpic1RsSlhBY0h6ZDNaeDBuZV94SXpSSXByYlpSR05MMlcweDR6N29ndHhiMEhLZTRuVlEzMHJZRzBHczFjbHlvOXp2cU9YRG9aRzYxcUN4YUF0bWhGR1F6VXR5ZU5UUVZBNktROW5IR3BEd0lseDV2UVNpbXFoQUZmSnRCdHNfaXhGcU1qM2dtUHEta20wT1ppWmZELUdkaTdSeHpxNjVwTUIzQlhzdnhn?oc=5",
-      "published": "Sat, 19 Sep 2026 07:20:53 GMT",
-      "source": "boldnewsonline.com",
+      "title": "L&T Semiconductor, Tata Electronics Join Hands To Manufacture India-Designed Chips For Global Markets - Swarajya",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTVJbVdybU81UTl1Q0xrcE9hc25ScDNXalU1TUNZb1ltbmNGeW1yMm0yaFU1S05rWm1tTE1WMmhESmZDYnFPM0NOUTlienFpN0F5Ykx1NHZMcGJGY3BuaGg5T2ptS3d5MkJCMkJoYnFSbWRiSHZEdkVEMmJaV3NKb3k2d0JsWFg1ZVdtVHFwYjdXalh4NkltZGFSTHowWExxel9JSU1UMW9xSHhDZmdtTWFFajNVMnZfRWoxSnZJWHYxRXRHUmtj0gHXAUFVX3lxTE82WWRINkhoWk85V2RrVzFFalI4bkwxQTIzSDh2TEw2dlRPLXh1RTNzWmZNdHUyMVFJTUlwUFhUV3ltNEkzaVZIVVJQY01iYTBwZWxpVkNQYlFaY1ZTUDl0cEN1R2NOY25UNzFsbm9NbTgwRzlDUnhfb2tGUXJrejhVRUoxTmx2aFhtVEt5RTZqbkFHQnVzdjNEUGQ2NEM4OHFzQmxManFTNkhQWTV0WXpoUUxsWWpKWm1jVlNVWkRfZC1XVE9TUWNzdzhmbWVCYWJCdlBjSTNz?oc=5",
+      "published": "Sat, 19 Sep 2026 09:10:27 GMT",
+      "source": "Swarajya",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.0
+      "freshness_hours": 1.2
     },
     {
       "title": "Indian Railways Approves ₹493 Cr Mukutban-Gadchandur New Rail Line in Maharashtra - Metro Rail News",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 2.6
+      "freshness_hours": 3.6
     },
     {
       "title": "US FDA approves Lilly's breast cancer drug combo - pharma.economictimes.indiatimes.com",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 6.5
+      "freshness_hours": 7.5
     }
   ],
   "opportunities": [
@@ -476,5 +476,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-19T09:20:45.637153+00:00"
+  "landed_updated_utc": "2026-09-19T10:20:53.072895+00:00"
 }
