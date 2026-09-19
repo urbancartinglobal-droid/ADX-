@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "L&T Semiconductor and Tata Electronics team up to make India-designed chips - iNews Zoombangla",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVhoSnBkdV9ncjFQWVRBcEVBdXd2NUwtblNFTFNZY1ZRSHlZT1NFWUpqck9JNUJib3JUZ1BpNEpsOFhZNlNLbDZwcUk2d0pLTjVucm5jWGRrWTc2cFpQdEY5X2JsY09YaFlESE1kUmJ6NzgwVWVDZng1YjVLdGg2blI4NUgwTGppRTZOOUhNQ3doVUZvY1VidlY0eFFidw?oc=5",
+      "published": "Sat, 19 Sep 2026 11:12:45 GMT",
+      "source": "iNews Zoombangla",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 2.1
+    },
+    {
+      "title": "RBI absorbs Rs 2.23 lakh crore via VRRR auction amid surplus liquidity - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVUNGODFnQ2FYZHFwb0pKamtFWE5JbmZlTTNGdnZMN01mZXFJTzh2dTAzN2VEczdXSmdwS3J6V0FVQkxLMXVhaDZFNW9FQzlyUTc1TldmdjZic3Q5QjhUMmszbW9fR1RlRUR4ZkxmVFlGRUhHdlUtVWZBbnplMk9wbmx5aTJLblo2OWFhUW81RlVUdWVfQW0zUHh1S2dTY2NadGlqRVQ5ZlloV2ZTSnc?oc=5",
+      "published": "Fri, 18 Sep 2026 22:02:06 GMT",
+      "source": "Social News XYZ",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 15.3
+    },
+    {
+      "title": "US FDA approves Lilly's breast cancer drug combo - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY1Nyd09pNmxqN3pTMFJocHdBcEtRZGI0TkZQdmQxdlZOX2U4dmthV3RxWE9hd2NwYmVJb1dkZHhIUE5RNWl0RFBOSzlfUjY4UTRBcEdmbzV5dTB1MjBJblZ1LU5VY1J6c0FYU0E4b24zOEhuWGtrT0Y3MFlucE5hTng0RXN1Mkg4Z1RHeGNsU3dhZnNZbGZFU1puaVl5WFNPOXhDLWFEQnRfZWUyNk9TWmxGM0FmdE5vRlQ5N3B2SWluclAtRDlpeHUyb3lEd01La1NkatIB1AFBVV95cUxOY1Nyd09pNmxqN3pTMFJocHdBcEtRZGI0TkZQdmQxdlZOX2U4dmthV3RxWE9hd2NwYmVJb1dkZHhIUE5RNWl0RFBOSzlfUjY4UTRBcEdmbzV5dTB1MjBJblZ1LU5VY1J6c0FYU0E4b24zOEhuWGtrT0Y3MFlucE5hTng0RXN1Mkg4Z1RHeGNsU3dhZnNZbGZFU1puaVl5WFNPOXhDLWFEQnRfZWUyNk9TWmxGM0FmdE5vRlQ5N3B2SWluclAtRDlpeHUyb3lEd01La1Nkag?oc=5",
+      "published": "Sat, 19 Sep 2026 02:49:17 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 10.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -406,5 +449,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-19T13:20:52.630863+00:00"
 }
