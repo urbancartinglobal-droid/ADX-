@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "L&T Semiconductor and Tata Electronics team up to make India-designed chips - iNews Zoombangla",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVhoSnBkdV9ncjFQWVRBcEVBdXd2NUwtblNFTFNZY1ZRSHlZT1NFWUpqck9JNUJib3JUZ1BpNEpsOFhZNlNLbDZwcUk2d0pLTjVucm5jWGRrWTc2cFpQdEY5X2JsY09YaFlESE1kUmJ6NzgwVWVDZng1YjVLdGg2blI4NUgwTGppRTZOOUhNQ3doVUZvY1VidlY0eFFidw?oc=5",
+      "published": "Sat, 19 Sep 2026 11:12:45 GMT",
+      "source": "iNews Zoombangla",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 8.1
+    },
+    {
+      "title": "RBI Orders Removal Of NCP's Babasaheb Patil From Latur Bank Board; Minister To Move High Court - The Daily Jagran",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVkZEUG5LOWZTRkFHa1paOUNBcVNubnpZQkVFN05LTVlfNmRJOGNidkhrTFJ3QmJ0Z3JURXRyRnhrd1ZxeWVfcE5JWlBaYUJyUk94LUxoWktFbWlTY1JtTGVyb3dPdzZJcVFtNEhqVloxVVJ1NmgzVzlYeTlYVFB1eHpydkJiN1FqYVVlb0piZ3NWdGJpOXM5N1E0SWsyM3VnRzJNd2M5cTA3ajAxck43UjBjeDVZMDIyTEg5ZjVrNVFEeTZEcUZYNmRqOXV4OC1qcDM5allKZmYzMVpmN0U4S3IwaEJvUdIB7AFBVV95cUxPSmdfbWpld2FIV0ZHNnE3R3hsN3FuTnMtcmpkTDlhcnJoVjJYZkRXZXpoRW1ydnlzeDdNSmlBZmpESUVRV1FULTd0REppNE84WXlTTW93RE94Y185VWhqdmxDWWhnZVBqdEx5S1hUNkF5c3JSbkREQnV2X1RrNnZheHN5Uk00Q2ZQMXdMRElXV2dqaWdMWmJIOFliRnhsY3JURHFOcllNaW94WFdENVVrcThoNzZ3Q2NtdlhVNjZVc3NXOXVqbTNTY3I1X2JKVnUtV2FjQ2RBZFNOMGlNWjV2OGQ4YnJta3VBNXpKMw?oc=5",
+      "published": "Sat, 19 Sep 2026 13:27:00 GMT",
+      "source": "The Daily Jagran",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.8
+    },
+    {
+      "title": "US FDA approves Lilly's breast cancer drug combo - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY1Nyd09pNmxqN3pTMFJocHdBcEtRZGI0TkZQdmQxdlZOX2U4dmthV3RxWE9hd2NwYmVJb1dkZHhIUE5RNWl0RFBOSzlfUjY4UTRBcEdmbzV5dTB1MjBJblZ1LU5VY1J6c0FYU0E4b24zOEhuWGtrT0Y3MFlucE5hTng0RXN1Mkg4Z1RHeGNsU3dhZnNZbGZFU1puaVl5WFNPOXhDLWFEQnRfZWUyNk9TWmxGM0FmdE5vRlQ5N3B2SWluclAtRDlpeHUyb3lEd01La1NkatIB1AFBVV95cUxOY1Nyd09pNmxqN3pTMFJocHdBcEtRZGI0TkZQdmQxdlZOX2U4dmthV3RxWE9hd2NwYmVJb1dkZHhIUE5RNWl0RFBOSzlfUjY4UTRBcEdmbzV5dTB1MjBJblZ1LU5VY1J6c0FYU0E4b24zOEhuWGtrT0Y3MFlucE5hTng0RXN1Mkg4Z1RHeGNsU3dhZnNZbGZFU1puaVl5WFNPOXhDLWFEQnRfZWUyNk9TWmxGM0FmdE5vRlQ5N3B2SWluclAtRDlpeHUyb3lEd01La1Nkag?oc=5",
+      "published": "Sat, 19 Sep 2026 02:49:17 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 16.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -412,5 +455,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-19T19:17:25.572240+00:00"
 }
