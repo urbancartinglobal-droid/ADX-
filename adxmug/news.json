@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Semicon India 2026 draws global chipmakers as India expands semiconductor ecosystem - government.economictimes.indiatimes.com",
+      "title": "Semicon India 2026 draws global chipmakers as India expands semiconductor ecosystem - ET Government",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPREt5WjRBdHV3RDVnREVKaDlVRGZneG1RamgzdHQ5WnpuLVhyanFBZW9jWUM2VVpmM0hWVUlVa01tVVlhVUlpR1psTlQyR0VSWWZWR0t0ckRhQjhYRmd6NFFDdXdhNC1wZGZkUWJVdVJvR2piWVFWSGNaRWxENmxQMzRYM1h5QXlmNVA0WEZ4Rm1RSEM3SU1QNjJLemo4Y0U4dmxVOGYwWjgwUWE5Tm5xWm5xcFRhN2g1QVpWdzRBWC1Tby1KYTdYSXpnY3YtcVBkYnFiZWl4eGJCQVR6Q2lrWTF3ekpMMXpwcjhwODZNbGRtUXc2aGZ4SzlXeXNSdU9zSTg5d2loYS1MMTdGUDdTUHh6eGpYbkpHYkZsM2RHQi1lclMwM1BMVFF3?oc=5",
       "published": "Sun, 20 Sep 2026 06:55:45 GMT",
-      "source": "government.economictimes.indiatimes.com",
+      "source": "ET Government",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.4
+      "freshness_hours": 4.4
     },
     {
       "title": "RBI Absorbs Rs 2.40 Lakh Cr Via VRRR Auction Amid Surplus Liquidity - BW Businessworld",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.0
+      "freshness_hours": 5.0
     }
   ],
   "opportunities": [
@@ -423,5 +423,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-20T10:20:11.628482+00:00"
+  "landed_updated_utc": "2026-09-20T11:19:38.305726+00:00"
 }
