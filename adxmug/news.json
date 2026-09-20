@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI Absorbs Rs 2.40 Lakh Cr Via VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "title": "RBI Absorbs Rs 2.40 Lakh Cr Via VRRR Auction Amid Surplus Liquidity - businessworld.in",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN21zS2E4MFFFazRQeTlkM3BsVFp6ellKVW9lSWxGZlVoQllzZUpHTUM1aF9qak5hUGoydnNtYUlqc19jdlNESC12Vk9MSXk0eDBXYk5lZVZWNzVmZ0VieTVDMjJCQmpiNFhDWjdVZXJHbU5nN0NMMktRUHBCbjdlcVV5LWJwNTdKU0VxaW9WMnhZdm0tT3RxeFh6eTZpdGxrVVNmYmFIaThRckFKTFh4dQ?oc=5",
       "published": "Sun, 20 Sep 2026 06:19:25 GMT",
-      "source": "BW Businessworld",
+      "source": "businessworld.in",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.0
+      "freshness_hours": 12.1
     },
     {
       "title": "Defence Minister Rajnath Singh clears proposals worth over two lakh crore to augment defence capabilities - News On AIR",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.4
+      "freshness_hours": 3.4
     }
   ],
   "opportunities": [
@@ -407,5 +407,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-20T17:19:19.744195+00:00"
+  "landed_updated_utc": "2026-09-20T18:22:30.830411+00:00"
 }
