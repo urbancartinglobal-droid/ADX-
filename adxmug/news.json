@@ -6,24 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI Absorbs Rs 2.40 Lakh Cr Via VRRR Auction Amid Surplus Liquidity - businessworld.in",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN21zS2E4MFFFazRQeTlkM3BsVFp6ellKVW9lSWxGZlVoQllzZUpHTUM1aF9qak5hUGoydnNtYUlqc19jdlNESC12Vk9MSXk0eDBXYk5lZVZWNzVmZ0VieTVDMjJCQmpiNFhDWjdVZXJHbU5nN0NMMktRUHBCbjdlcVV5LWJwNTdKU0VxaW9WMnhZdm0tT3RxeFh6eTZpdGxrVVNmYmFIaThRckFKTFh4dQ?oc=5",
-      "published": "Sun, 20 Sep 2026 06:19:25 GMT",
-      "source": "businessworld.in",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.0
-    },
-    {
-      "title": "L&T Semiconductor, Tata Electronics Join Hands To Manufacture India-Designed Chips For Global Markets - Swarajya",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNllkSDZIaFpPOVdka1cxRWpSOG5MMUEyM0g4dkxMNnZUTy14dUUzc1pmTXR1MjFRSU1JcFBYVFd5bTRJM2lWSFVSUGNNYmEwcGVsaVZDUGJRWmNWU1A5dHBDdUdjTmNuVDcxbG5vTW04MEc5Q1J4X29rRlFya3o4VUVKMU5sdmhYbVRLeUU2am5BR0J1c3YzRFBkNjRDODhxc0JsTGpxUzZIUFk1dFl6aFFMbFlqSlptY1ZTVVpEX2QtV1RPU1Fjc3c4Zm1lQmFiQnZQY0kzc9IB1wFBVV95cUxPNllkSDZIaFpPOVdka1cxRWpSOG5MMUEyM0g4dkxMNnZUTy14dUUzc1pmTXR1MjFRSU1JcFBYVFd5bTRJM2lWSFVSUGNNYmEwcGVsaVZDUGJRWmNWU1A5dHBDdUdjTmNuVDcxbG5vTW04MEc5Q1J4X29rRlFya3o4VUVKMU5sdmhYbVRLeUU2am5BR0J1c3YzRFBkNjRDODhxc0JsTGpxUzZIUFk1dFl6aFFMbFlqSlptY1ZTVVpEX2QtV1RPU1Fjc3c4Zm1lQmFiQnZQY0kzcw?oc=5",
-      "published": "Sat, 19 Sep 2026 09:10:27 GMT",
-      "source": "Swarajya",
+      "title": "Semicon India 2026 draws global chipmakers as India expands semiconductor ecosystem - ET Government",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPREt5WjRBdHV3RDVnREVKaDlVRGZneG1RamgzdHQ5WnpuLVhyanFBZW9jWUM2VVpmM0hWVUlVa01tVVlhVUlpR1psTlQyR0VSWWZWR0t0ckRhQjhYRmd6NFFDdXdhNC1wZGZkUWJVdVJvR2piWVFWSGNaRWxENmxQMzRYM1h5QXlmNVA0WEZ4Rm1RSEM3SU1QNjJLemo4Y0U4dmxVOGYwWjgwUWE5Tm5xWm5xcFRhN2g1QVpWdzRBWC1Tby1KYTdYSXpnY3YtcVBkYnFiZWl4eGJCQVR6Q2lrWTF3ekpMMXpwcjhwODZNbGRtUXc2aGZ4SzlXeXNSdU9zSTg5d2loYS1MMTdGUDdTUHh6eGpYbkpHYkZsM2RHQi1lclMwM1BMVFF3?oc=5",
+      "published": "Sun, 20 Sep 2026 06:55:45 GMT",
+      "source": "ET Government",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +17,21 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 22.2
+      "freshness_hours": 1.4
+    },
+    {
+      "title": "RBI Absorbs Rs 2.40 Lakh Cr Via VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN21zS2E4MFFFazRQeTlkM3BsVFp6ellKVW9lSWxGZlVoQllzZUpHTUM1aF9qak5hUGoydnNtYUlqc19jdlNESC12Vk9MSXk0eDBXYk5lZVZWNzVmZ0VieTVDMjJCQmpiNFhDWjdVZXJHbU5nN0NMMktRUHBCbjdlcVV5LWJwNTdKU0VxaW9WMnhZdm0tT3RxeFh6eTZpdGxrVVNmYmFIaThRckFKTFh4dQ?oc=5",
+      "published": "Sun, 20 Sep 2026 06:19:25 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.0
     }
   ],
   "opportunities": [
@@ -423,5 +423,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-20T07:20:15.729540+00:00"
+  "landed_updated_utc": "2026-09-20T08:21:44.803370+00:00"
 }
