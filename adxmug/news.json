@@ -1,51 +1,33 @@
 {
-  "updated_utc": "2026-09-20T06:31:28.926120+00:00",
+  "updated_utc": "2026-09-20T12:31:05.395967+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI Absorbs Rs 2.40 Lakh Cr Via VRRR Auction Amid Surplus Liquidity - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN21zS2E4MFFFazRQeTlkM3BsVFp6ellKVW9lSWxGZlVoQllzZUpHTUM1aF9qak5hUGoydnNtYUlqc19jdlNESC12Vk9MSXk0eDBXYk5lZVZWNzVmZ0VieTVDMjJCQmpiNFhDWjdVZXJHbU5nN0NMMktRUHBCbjdlcVV5LWJwNTdKU0VxaW9WMnhZdm0tT3RxeFh6eTZpdGxrVVNmYmFIaThRckFKTFh4dQ?oc=5",
-      "published": "Sun, 20 Sep 2026 06:19:25 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.1
-    },
-    {
-      "title": "Tata Electronics signs seven semiconductor and materials agreements at Semicon India - iNews Zoombangla",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGRhUXp2YWxHYzlRWlowcVV2TGFaeDlJbTdDNjFKcE5mNHFLOHBVZDRQS3N5dW5PSnlqSTdQT2JrWHVteDJ6d19YRW5NWXFmVks0V1V4NE1UMXV5NXVZU3hyWnQ0aldYWU0zWGtHakZEcnFQeXJFRGttWG1WQldkVDcyTFp6dXZiVUlYMkVYY3RVaXM4?oc=5",
-      "published": "Sun, 20 Sep 2026 10:05:23 GMT",
-      "source": "iNews Zoombangla",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
       "score": 76,
-      "article_count": 7,
-      "trigger_count": 15,
+      "article_count": 6,
+      "trigger_count": 14,
       "triggers": [
         "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
+        {
+          "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNUd3ZCVHIxWmxiYTVqZkg2QVZNZTkycXVObXFldGxtMDNjZnZXb3I2RUdhUnZ3ckhZMDVlUTBTMU1wMWdXZWFyQnEtZkhwaWU1Y2F2d2Nua2VqNkpkVjNOeV9yUjJuMmcwX1ZTRE9lLUpPNldzY2JKUUJwczZGVWN0NW93ZmhvT29pUVhfeHNlTW1KOWlwb01OVkFNMjRCRWJVUzdR?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
         {
           "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
           "source": "Policy Circle",
@@ -78,16 +60,6 @@
           "companies": []
         },
         {
-          "title": "India opens door to sugar imports after decade as stocks shrink and prices surge - AgroSpectrum India",
-          "source": "AgroSpectrum India",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkc0VzVWcE1XUUtkZ1poQkRjUFN6SC0xRExsTXBWdW03d2VVa3NTZVBWMGJXdlBEWVFwRFhJVmxXN3NDR29LQmZfcmRBNkJWck5GeTI3V2FzaVRHa2RJWldxS3Bid2FONWNuV0xvcFZTSlotVzhHNWlsZEpVM3VPSm9yVHlSX0ZNeGg4c0dPVHdXN0RLS2ZwaWcxQ0N3UU1YLTJCbGF1Q3pralphSHd3MDRiOGF2NlV2U0R2X1FpWUo2aVVOOGwtcDF3?oc=5",
-          "triggers": [
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
           "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
           "source": "ChiniMandi",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
@@ -101,9 +73,9 @@
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 7 distinct story clusters; 6 independent sources.",
-      "source_count": 6,
-      "story_clusters": 7,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 5 independent sources.",
+      "source_count": 5,
+      "story_clusters": 6,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -144,8 +116,8 @@
           "companies": []
         },
         {
-          "title": "RBI has enough tools to absorb liquidity surge, 'nothing off table': Governor Malhotra - inkl.com",
-          "source": "inkl.com",
+          "title": "RBI has enough tools to absorb liquidity surge, 'nothing off table': Governor Malhotra - inkl",
+          "source": "inkl",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEdBSDd5emFiRGF0SXdRM3BhNThtQS1aVDRQN2hXa25xTEFLMEtiZUdZMlRkbFNSQ01PRlcwNWliekZrT0N2cGd6cXFhQ3ZWYi1vVnJNbUtOTlBnWHhWYjA5NHBSYXdmcjhhdmVfdHk0bmsyQjVUZG5vSGlIVUJsSWxUUV9ERTg0RXA5WDlxdXhiV0otQ08zdzBwZ2R1OUE0YjFWOXZldk1IYjBm?oc=5",
           "triggers": [
             "POLICY"
@@ -188,11 +160,12 @@
     },
     {
       "industry": "Rail & Infrastructure",
-      "score": 50,
-      "article_count": 4,
-      "trigger_count": 6,
+      "score": 44,
+      "article_count": 2,
+      "trigger_count": 4,
       "triggers": [
         "CAPEX",
+        "CORPORATE",
         "POLICY"
       ],
       "evidence": [
@@ -207,42 +180,24 @@
           "companies": []
         },
         {
-          "title": "Cabinet Approves Two Multitrack Rail Projects For UP And Andhra - Construction World",
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
           "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWDBlWFVHakdaOHFWcm9VSThiTEEzSTdua2RHazBZMk5pTzUzRWVLMF84NXZ0cWliXzliV2VXTHFuS2psbTh1d3dKWHNOb1Atc0NrZ0tNX2dOcUVYSHRodjVOcE04eVB2ZXlfUzNndXE4MTdzRHBxcFIyN3Y4cFgzRXc2NmNhQUREUE9NUEZTZUFUWE9QcUttOXBTQnZ0WGxnTmtJOTlDZ28yeFBKYU9YNklnOTRTM1VTbF9pRmQ1RGRMUnBzRmxGVGY4c3Y1MWJNTk8zUk5YT3h6eXRSWHF0VkNWV05lcDQtQWpkTDdWbkJjZ0NQSThMTlpn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
           "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Rs 18 Billion Rail Project Cleared for Northeast Region - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbWpLWndRUUdEQkVnS0lad0ZJU05UWl9oa1JWZXdsT3ZJb1RuZG1adjlBQVNSd3ctYnYwRWd2Vi1wamYwbllYb2hDejN3UmhLdjcza01oZnptZTZhXzZaZXZQaUppM2dUQ201b1FzYncyU0RYTVE5cER0bW9FREtRaU1XbmcxLXlmc1RYQ2RfRmNtWDZ0UGNnWGpheE5FdWFKTnRhYTNhVzBhdkl0cEM2TFE5Mzk4Wk94d2NLRVp1RjFLbUI3ei1BUlB0a3c3bjNfWjgtQU5hdjBpNzRZT1VNRG4za19ydXZCTWQtZWljUQ?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Railways Ministry Approves Flyover Project to Alleviate Traffic at Khurda Road Station - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ1hXU09pTl81R3NtTDRsR3NVVnR3c21sUUhZQ1pxVWxiWk5BYTlSb2lZclRpaXU0ZGlvd0RQZF9LM2FYS3B4UjN4d1Z1MVJIczVEbUVjREg3akktd1RVVEY5aVRqMll2cVRQN1NIcl9WSHpxWmdBOU1KZzBEbzNURmYwdlN1Z24tWHpBZ3RPakhOZDdNM29kVnp2OWswS1R6TkdWTWk2d3pPLXBrSHRWUkR4eGVXYm5pRDh1aTR2YS1FY1VQNEs1bEtBNUxBVW5ESDZMbkp4djNKX091N3dIYlYzaWVjalZZSjRmUk5VQkRhUmY1YzVlZEJUMUsyQ1RIcF9HbmhpT3U3WWFqMEZScEZfQzlIdjYx?oc=5",
-          "triggers": [
-            "POLICY",
-            "CAPEX"
+            "CAPEX",
+            "CORPORATE"
           ],
           "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, POLICY; 4 distinct story clusters; 2 independent sources.",
+      "reason": "Cross-signal CAPEX, CORPORATE, POLICY; 2 distinct story clusters; 2 independent sources.",
       "source_count": 2,
-      "story_clusters": 4,
+      "story_clusters": 2,
       "companies": [],
       "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
+        "Corporate action reinforced by capex/orders is a stronger operating signal."
       ],
       "fresh_count": 0
     },
@@ -370,8 +325,8 @@
       ],
       "evidence": [
         {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
-          "source": "POWER Magazine",
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - powermag.com",
+          "source": "powermag.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
           "triggers": [
             "PRICING"
@@ -422,6 +377,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-20T12:25:06.241632+00:00"
+  ]
 }
