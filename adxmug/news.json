@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "L&T Semiconductor and Tata Electronics team up to make India-designed chips - iNews Zoombangla",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVhoSnBkdV9ncjFQWVRBcEVBdXd2NUwtblNFTFNZY1ZRSHlZT1NFWUpqck9JNUJib3JUZ1BpNEpsOFhZNlNLbDZwcUk2d0pLTjVucm5jWGRrWTc2cFpQdEY5X2JsY09YaFlESE1kUmJ6NzgwVWVDZng1YjVLdGg2blI4NUgwTGppRTZOOUhNQ3doVUZvY1VidlY0eFFidw?oc=5",
+      "published": "Sat, 19 Sep 2026 11:12:45 GMT",
+      "source": "iNews Zoombangla",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 14.1
+    },
+    {
+      "title": "Indian Railways Approves ₹493 Cr Mukutban-Gadchandur New Rail Line in Maharashtra - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXaHNUZDdlYkhsajQyLXlRTUNSZDlIQW9DVjRUQjNtaHNHNVZETHMyU1ZfUE9fZnE3SC1ISWQ4R0dDYXhhU3E1T09UbG4teFhrbEJ3aEtBR2ZtQnVQUHNSODRpeUdRcHRTNlRUSlJraDdWUkZqcVZwa2FyQ2RNbjg?oc=5",
+      "published": "Sat, 19 Sep 2026 06:42:55 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 18.6
+    },
+    {
+      "title": "US FDA approves Lilly's breast cancer drug combo - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY1Nyd09pNmxqN3pTMFJocHdBcEtRZGI0TkZQdmQxdlZOX2U4dmthV3RxWE9hd2NwYmVJb1dkZHhIUE5RNWl0RFBOSzlfUjY4UTRBcEdmbzV5dTB1MjBJblZ1LU5VY1J6c0FYU0E4b24zOEhuWGtrT0Y3MFlucE5hTng0RXN1Mkg4Z1RHeGNsU3dhZnNZbGZFU1puaVl5WFNPOXhDLWFEQnRfZWUyNk9TWmxGM0FmdE5vRlQ5N3B2SWluclAtRDlpeHUyb3lEd01La1NkatIB1AFBVV95cUxOY1Nyd09pNmxqN3pTMFJocHdBcEtRZGI0TkZQdmQxdlZOX2U4dmthV3RxWE9hd2NwYmVJb1dkZHhIUE5RNWl0RFBOSzlfUjY4UTRBcEdmbzV5dTB1MjBJblZ1LU5VY1J6c0FYU0E4b24zOEhuWGtrT0Y3MFlucE5hTng0RXN1Mkg4Z1RHeGNsU3dhZnNZbGZFU1puaVl5WFNPOXhDLWFEQnRfZWUyNk9TWmxGM0FmdE5vRlQ5N3B2SWluclAtRDlpeHUyb3lEd01La1Nkag?oc=5",
+      "published": "Sat, 19 Sep 2026 02:49:17 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 22.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -403,5 +446,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-20T01:19:30.375906+00:00"
 }
