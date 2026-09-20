@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.0
+      "freshness_hours": 10.0
     },
     {
-      "title": "Tata Electronics signs seven semiconductor and materials agreements at Semicon India - iNews Zoombangla",
+      "title": "Tata Electronics signs seven semiconductor and materials agreements at Semicon India - inews.zoombangla.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGRhUXp2YWxHYzlRWlowcVV2TGFaeDlJbTdDNjFKcE5mNHFLOHBVZDRQS3N5dW5PSnlqSTdQT2JrWHVteDJ6d19YRW5NWXFmVks0V1V4NE1UMXV5NXVZU3hyWnQ0aldYWU0zWGtHakZEcnFQeXJFRGttWG1WQldkVDcyTFp6dXZiVUlYMkVYY3RVaXM4?oc=5",
       "published": "Sun, 20 Sep 2026 10:05:23 GMT",
-      "source": "iNews Zoombangla",
+      "source": "inews.zoombangla.com",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.2
+      "freshness_hours": 6.3
     }
   ],
   "opportunities": [
@@ -407,5 +407,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-20T15:20:05.571852+00:00"
+  "landed_updated_utc": "2026-09-20T16:21:00.535916+00:00"
 }
