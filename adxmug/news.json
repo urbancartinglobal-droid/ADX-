@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "RBI Absorbs Rs 2.40 Lakh Cr Via VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN21zS2E4MFFFazRQeTlkM3BsVFp6ellKVW9lSWxGZlVoQllzZUpHTUM1aF9qak5hUGoydnNtYUlqc19jdlNESC12Vk9MSXk0eDBXYk5lZVZWNzVmZ0VieTVDMjJCQmpiNFhDWjdVZXJHbU5nN0NMMktRUHBCbjdlcVV5LWJwNTdKU0VxaW9WMnhZdm0tT3RxeFh6eTZpdGxrVVNmYmFIaThRckFKTFh4dQ?oc=5",
+      "published": "Sun, 20 Sep 2026 06:19:25 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.1
+    },
+    {
       "title": "L&T Semiconductor and Tata Electronics team up to make India-designed chips - inews.zoombangla.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVhoSnBkdV9ncjFQWVRBcEVBdXd2NUwtblNFTFNZY1ZRSHlZT1NFWUpqck9JNUJib3JUZ1BpNEpsOFhZNlNLbDZwcUk2d0pLTjVucm5jWGRrWTc2cFpQdEY5X2JsY09YaFlESE1kUmJ6NzgwVWVDZng1YjVLdGg2blI4NUgwTGppRTZOOUhNQ3doVUZvY1VidlY0eFFidw?oc=5",
       "published": "Sat, 19 Sep 2026 11:12:45 GMT",
@@ -17,21 +31,21 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 18.1
+      "freshness_hours": 19.2
     },
     {
-      "title": "Indian Railways Approves ₹493 Cr Mukutban-Gadchandur New Rail Line in Maharashtra - Metro Rail News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXaHNUZDdlYkhsajQyLXlRTUNSZDlIQW9DVjRUQjNtaHNHNVZETHMyU1ZfUE9fZnE3SC1ISWQ4R0dDYXhhU3E1T09UbG4teFhrbEJ3aEtBR2ZtQnVQUHNSODRpeUdRcHRTNlRUSlJraDdWUkZqcVZwa2FyQ2RNbjg?oc=5",
-      "published": "Sat, 19 Sep 2026 06:42:55 GMT",
-      "source": "Metro Rail News",
-      "sector": "Rail & Infrastructure",
+      "title": "Supreme Court Allows Assessee in Excise Exemption Dispute on Raw Naphtha and Ammonia Used Captively. Duty Concession and Exemption Upheld as Molten Urea Classified as Chemical Fertiliser Under Chapter 31, Despite Ultimate Use in Melamine. - Lawtext",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ETVJMelBLdW96Q2drR05VQklIWXpUa1o0VjVOS053WmxkQ1VjVEZvbWx0U1ZONlEzLUl4T2x5QkV3SDhLTjdBejg0N1Y4SUt4YjQ3NEQ3NXBwU2o1RENIbnhzcTB1Zw?oc=5",
+      "published": "Sat, 19 Sep 2026 06:39:10 GMT",
+      "source": "Lawtext",
+      "sector": "Chemicals & Materials",
       "triggers": [
         "MATERIAL CHANGE"
       ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 22.6
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 23.8
     }
   ],
   "opportunities": [
@@ -433,5 +447,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-20T05:20:05.026948+00:00"
+  "landed_updated_utc": "2026-09-20T06:25:20.472484+00:00"
 }
