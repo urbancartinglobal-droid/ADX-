@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "L&T Semiconductor and Tata Electronics team up to make India-designed chips - iNews Zoombangla",
+      "title": "L&T Semiconductor and Tata Electronics team up to make India-designed chips - inews.zoombangla.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVhoSnBkdV9ncjFQWVRBcEVBdXd2NUwtblNFTFNZY1ZRSHlZT1NFWUpqck9JNUJib3JUZ1BpNEpsOFhZNlNLbDZwcUk2d0pLTjVucm5jWGRrWTc2cFpQdEY5X2JsY09YaFlESE1kUmJ6NzgwVWVDZng1YjVLdGg2blI4NUgwTGppRTZOOUhNQ3doVUZvY1VidlY0eFFidw?oc=5",
       "published": "Sat, 19 Sep 2026 11:12:45 GMT",
-      "source": "iNews Zoombangla",
+      "source": "inews.zoombangla.com",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 16.1
+      "freshness_hours": 17.1
     },
     {
       "title": "Indian Railways Approves ₹493 Cr Mukutban-Gadchandur New Rail Line in Maharashtra - Metro Rail News",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 20.6
+      "freshness_hours": 21.6
     }
   ],
   "opportunities": [
@@ -433,5 +433,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-20T03:21:30.829925+00:00"
+  "landed_updated_utc": "2026-09-20T04:21:43.910178+00:00"
 }
