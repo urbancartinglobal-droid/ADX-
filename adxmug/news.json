@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Absorbs Rs 2.40 Lakh Cr Via VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN21zS2E4MFFFazRQeTlkM3BsVFp6ellKVW9lSWxGZlVoQllzZUpHTUM1aF9qak5hUGoydnNtYUlqc19jdlNESC12Vk9MSXk0eDBXYk5lZVZWNzVmZ0VieTVDMjJCQmpiNFhDWjdVZXJHbU5nN0NMMktRUHBCbjdlcVV5LWJwNTdKU0VxaW9WMnhZdm0tT3RxeFh6eTZpdGxrVVNmYmFIaThRckFKTFh4dQ?oc=5",
+      "published": "Sun, 20 Sep 2026 06:19:25 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 14.0
+    },
+    {
+      "title": "Defence Minister Rajnath Singh clears proposals worth over two lakh crore to augment defence capabilities - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVdNQzNUNVRrUl9lc0Zab1FmTzJjTVBaYkVFNF9nU2g5VXhyZFRYckx6dmFsZlJFT0RyX0FWbVA4Z3o3ZFdnZ2w2Z3o3elF0VFNuNC1hMnVxNjdYdGhVMHZkcThXZENvWHJ4THpoVEtpY3YtVFlkcll3d2RQdDg0eHVJbWpSMk53VGVNUDRIcG5kcE9CdkljMmJMSWphanFpZkFDNldpb2l2bUFsczVFa2poLUlMOFV0NzZCdzRuclhIaWNGbUZuSUNxUQ?oc=5",
+      "published": "Sun, 20 Sep 2026 14:58:03 GMT",
+      "source": "News On AIR",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 5.4
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -367,5 +396,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-20T19:17:53.779766+00:00"
+  "landed_updated_utc": "2026-09-20T20:20:15.411166+00:00"
 }
