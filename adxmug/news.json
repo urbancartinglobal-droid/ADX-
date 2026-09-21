@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-21T12:31:00.287639+00:00",
+  "updated_utc": "2026-09-21T18:30:40.348582+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI Absorbs ₹25,000 Crore Banking System Liquidity Through Second OMO Bond Sale Amid Surplus Funds - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2Nvc0gwdXdOWFZpTnozVkRoV3VjQWxMR1B4ODR2U3g4eEMySUo3U3VHczhPVFhoWkRMY2FubWJlMHRYUWh4cXZqMHo3b0VZQVI0ZThJZEtwOHVJbWxuS2c5Z1cwTWk4LTYxZE5mVFdETGQwSU9HMGR1VnhnVDE1czNMU0E1Q25VblZnSE1haW92Zzh4VmdVRmNWMHZfOEhka3F1MC1hb1BNbXhrYVM4Tm9GSlhNZWpQOFNfTTBYT01BNWNnTG1jcHc0VkV5bU9uUXRTbktGQ0nSAdgBQVVfeXFMTkdjb3NIMHV3TlhWaU56M1ZEaFd1Y0FsTEdQeDg0dlN4OHhDMklKN1N1R3M4T1RYaFpETGNhbm1iZTB0WFFoeHF2ajB6N29FWUFSNGU4SWRLcDh1SW1sbktnOWdXME1pOC02MWROZlRXRExkMElPRzBkdVZ4Z1QxNXMzTFNBNUNuVW5WZ0hNYWlvdmc4eFZnVUZjVjB2XzhIZGtxdTAtYW9QTW14a2FTOE5vRkpYTWVqUDhTX00wWE9NQTVjZ0xtY3B3NFZFeW1PblF0U25LRkNJ?oc=5",
-      "published": "Mon, 21 Sep 2026 14:09:23 GMT",
-      "source": "Free Press Journal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.2
-    },
-    {
-      "title": "Japan’s Air Force Chief Flies Tejas as Fighter Deployment Expands India Defence Ties - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUZoMWhzVW5pdnp4cnl4S0hyb004bjhiWDRlbkhVOVUxcU05M0hQbVd4SXU5bnR6Vi1iekxpNHdzb3NWQ3BXZ0JuaEpCMzhGRU9zVkdaVHZSc25haW5xQkIxT2IyM3lWb2k2RlJ4d0x3VDNfVEdqaE5zRmRjYWo0MXNkN05hclVNc0tkV3YyYUVteERWekRwQzhYT19USTFrcEZv?oc=5",
-      "published": "Mon, 21 Sep 2026 13:57:04 GMT",
-      "source": "Defence Security Asia",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 4.4
-    },
-    {
-      "title": "Ghana Bets on Local Fertilizer Production to Cut Imports - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS05zQVRncmhGTzJkSUV4UVBvYU5oWGFKTUhYYV9YbjQ2dFZBUmlzajZwTGZnM1JfN0NsUm9PaU94WWx2T2ctLVVFSGlSdXNiakNYellGaDdPZElITlpXNUxYRFo3S01KcU91M21nZU0wOGFHSzl3dHNPbVhLYzQ2Snh5RzdPRFJVVFRCYkNhLWhhWEVYTVh6ZUVzQzdfLVdlR2NLRWJDdUhqT2M?oc=5",
-      "published": "Mon, 21 Sep 2026 08:52:20 GMT",
-      "source": "ChemAnalyst",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.5
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -224,8 +181,8 @@
           "companies": []
         },
         {
-          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - constructionworld.in",
-          "source": "constructionworld.in",
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
+          "source": "Construction World",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
           "triggers": [
             "CAPEX",
@@ -283,36 +240,6 @@
       "companies": [
         "mahindra"
       ],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Defence & Aerospace",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
       ],
@@ -409,6 +336,22 @@
       "fresh_count": 0
     },
     {
+      "industry": "Defence & Aerospace",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
+    },
+    {
       "industry": "Chemicals & Materials",
       "score": 0,
       "article_count": 0,
@@ -424,6 +367,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-21T18:24:01.767322+00:00"
+  ]
 }
