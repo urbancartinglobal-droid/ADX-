@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-21T06:35:31.880288+00:00",
+  "updated_utc": "2026-09-21T12:31:00.287639+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Behind India's Semiconductor Investment Boom: Still Not a Single Locally Made Chip from Wafer Fabrication - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNW0xRjB1cUR5SnhjS1VLRnlzZXRwTkNHMjdFUHFqZUFjdlk2NWZQdkFOVUV5U1lYVDZnZmZlMFRQNHhFVWxEb0FsVEM3ZHhKeGludV9VU1VKR2dtZHpzZFhGbEllcnJlbnRhX2xwbi1OVHVwSkE?oc=5",
-      "published": "Sun, 20 Sep 2026 18:15:00 GMT",
-      "source": "finance.biggo.com",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 18.2
-    },
-    {
-      "title": "RBI Absorbs Rs 91,665 Cr As Liquidity Surplus Hits Rs 10.66 Lakh Cr - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2pmSHEyX3Y5bU93S1lDcjdySG83YjZfdWZ4UEFIcWNyVVhVMGlKOXN5UllzenNiMGtjcVYyWVhBUWdjVFlfUDhBWjNNc3RyT2djWk1UOC1QZUFTNmF1NXBzdno3TjZxVVRmODdVZk41dVJDRGxjM2RKcktqRVA0SDhQWkhKY2t0Tk9KQ004cE1hbVBKRTZza3lELVpQalE5cVhoUHNiVVBDSVlUbFRLYw?oc=5",
-      "published": "Mon, 21 Sep 2026 10:20:10 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.1
-    },
-    {
-      "title": "Ghana Bets on Local Fertilizer Production to Cut Imports - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS05zQVRncmhGTzJkSUV4UVBvYU5oWGFKTUhYYV9YbjQ2dFZBUmlzajZwTGZnM1JfN0NsUm9PaU94WWx2T2ctLVVFSGlSdXNiakNYellGaDdPZElITlpXNUxYRFo3S01KcU91M21nZU0wOGFHSzl3dHNPbVhLYzQ2Snh5RzdPRFJVVFRCYkNhLWhhWEVYTVh6ZUVzQzdfLVdlR2NLRWJDdUhqT2M?oc=5",
-      "published": "Mon, 21 Sep 2026 08:52:20 GMT",
-      "source": "ChemAnalyst",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.5
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -224,8 +181,8 @@
           "companies": []
         },
         {
-          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
-          "source": "Construction World",
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - constructionworld.in",
+          "source": "constructionworld.in",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
           "triggers": [
             "CAPEX",
@@ -424,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-21T12:25:16.673248+00:00"
+  ]
 }
