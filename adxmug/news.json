@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.2
+      "freshness_hours": 1.2
     },
     {
       "title": "Behind India's Semiconductor Investment Boom: Still Not a Single Locally Made Chip from Wafer Fabrication - finance.biggo.com",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 20.1
+      "freshness_hours": 21.1
     },
     {
       "title": "Ghana Bets on Local Fertilizer Production to Cut Imports - ChemAnalyst",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.5
+      "freshness_hours": 6.5
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-21T14:22:29.091107+00:00"
+  "landed_updated_utc": "2026-09-21T15:20:13.890859+00:00"
 }
