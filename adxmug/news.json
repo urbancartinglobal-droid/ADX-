@@ -17,21 +17,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
+      "freshness_hours": 4.2
     },
     {
-      "title": "Behind India's Semiconductor Investment Boom: Still Not a Single Locally Made Chip from Wafer Fabrication - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNW0xRjB1cUR5SnhjS1VLRnlzZXRwTkNHMjdFUHFqZUFjdlk2NWZQdkFOVUV5U1lYVDZnZmZlMFRQNHhFVWxEb0FsVEM3ZHhKeGludV9VU1VKR2dtZHpzZFhGbEllcnJlbnRhX2xwbi1OVHVwSkE?oc=5",
-      "published": "Sun, 20 Sep 2026 18:15:00 GMT",
-      "source": "finance.biggo.com",
-      "sector": "Electronics & Semiconductors",
+      "title": "Japan’s Air Force Chief Flies Tejas as Fighter Deployment Expands India Defence Ties - Defence Security Asia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUZoMWhzVW5pdnp4cnl4S0hyb004bjhiWDRlbkhVOVUxcU05M0hQbVd4SXU5bnR6Vi1iekxpNHdzb3NWQ3BXZ0JuaEpCMzhGRU9zVkdaVHZSc25haW5xQkIxT2IyM3lWb2k2RlJ4d0x3VDNfVEdqaE5zRmRjYWo0MXNkN05hclVNc0tkV3YyYUVteERWekRwQzhYT19USTFrcEZv?oc=5",
+      "published": "Mon, 21 Sep 2026 13:57:04 GMT",
+      "source": "Defence Security Asia",
+      "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 23.1
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 4.4
     },
     {
       "title": "Ghana Bets on Local Fertilizer Production to Cut Imports - ChemAnalyst",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 8.4
+      "freshness_hours": 9.5
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-21T17:18:43.768203+00:00"
+  "landed_updated_utc": "2026-09-21T18:24:01.767322+00:00"
 }
