@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Behind India's Semiconductor Investment Boom: Still Not a Single Locally Made Chip from Wafer Fabrication - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNW0xRjB1cUR5SnhjS1VLRnlzZXRwTkNHMjdFUHFqZUFjdlk2NWZQdkFOVUV5U1lYVDZnZmZlMFRQNHhFVWxEb0FsVEM3ZHhKeGludV9VU1VKR2dtZHpzZFhGbEllcnJlbnRhX2xwbi1OVHVwSkE?oc=5",
+      "published": "Sun, 20 Sep 2026 18:15:00 GMT",
+      "source": "finance.biggo.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 7.1
+    },
+    {
+      "title": "RBI Absorbs Rs 2.40 Lakh Cr Via VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN21zS2E4MFFFazRQeTlkM3BsVFp6ellKVW9lSWxGZlVoQllzZUpHTUM1aF9qak5hUGoydnNtYUlqc19jdlNESC12Vk9MSXk0eDBXYk5lZVZWNzVmZ0VieTVDMjJCQmpiNFhDWjdVZXJHbU5nN0NMMktRUHBCbjdlcVV5LWJwNTdKU0VxaW9WMnhZdm0tT3RxeFh6eTZpdGxrVVNmYmFIaThRckFKTFh4dQ?oc=5",
+      "published": "Sun, 20 Sep 2026 06:19:25 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 19.0
+    },
+    {
+      "title": "Torrent Pharma Launches Sembolic and Semalix Semaglutide Brands in India - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT3FSbDdlM0NsVlduMlFkYks4ODAtNUdUeTZWb29sSGQzakpzSWRnQVJDQlV0X0J1QTFBa2lWZU5jRlp4MTRHbmhaVzZJeERTdHNUYUZDX2RPNzh3SzJ3X1lUNnFCS2w1N0N5TlhBdktVZmQ2aU5UQjJBd3dSNGZWdjVpd3N6R0pjNV9WZmJoR203c0VVRFRraVJQMDZqUUY5d3FUNldST1BMSWJNWWtYbnQ0aWc3bnFnVFkyQWZoRXh1M2NlSU85aktWX3dRczZZUzJpTFpmRUdPWHhZM3FLcUI2dVI?oc=5",
+      "published": "Sun, 20 Sep 2026 09:47:40 GMT",
+      "source": "scanx.trade",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 15.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -380,5 +423,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-21T01:20:35.479986+00:00"
 }
