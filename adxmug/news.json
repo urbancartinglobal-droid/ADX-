@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Absorbs ₹25,000 Crore Banking System Liquidity Through Second OMO Bond Sale Amid Surplus Funds - freepressjournal.in",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2Nvc0gwdXdOWFZpTnozVkRoV3VjQWxMR1B4ODR2U3g4eEMySUo3U3VHczhPVFhoWkRMY2FubWJlMHRYUWh4cXZqMHo3b0VZQVI0ZThJZEtwOHVJbWxuS2c5Z1cwTWk4LTYxZE5mVFdETGQwSU9HMGR1VnhnVDE1czNMU0E1Q25VblZnSE1haW92Zzh4VmdVRmNWMHZfOEhka3F1MC1hb1BNbXhrYVM4Tm9GSlhNZWpQOFNfTTBYT01BNWNnTG1jcHc0VkV5bU9uUXRTbktGQ0nSAdgBQVVfeXFMTkdjb3NIMHV3TlhWaU56M1ZEaFd1Y0FsTEdQeDg0dlN4OHhDMklKN1N1R3M4T1RYaFpETGNhbm1iZTB0WFFoeHF2ajB6N29FWUFSNGU4SWRLcDh1SW1sbktnOWdXME1pOC02MWROZlRXRExkMElPRzBkdVZ4Z1QxNXMzTFNBNUNuVW5WZ0hNYWlvdmc4eFZnVUZjVjB2XzhIZGtxdTAtYW9QTW14a2FTOE5vRkpYTWVqUDhTX00wWE9NQTVjZ0xtY3B3NFZFeW1PblF0U25LRkNJ?oc=5",
+      "published": "Mon, 21 Sep 2026 14:09:23 GMT",
+      "source": "freepressjournal.in",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.2
+    },
+    {
+      "title": "Japan’s Air Force Chief Flies Tejas as Fighter Deployment Expands India Defence Ties - Defence Security Asia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUZoMWhzVW5pdnp4cnl4S0hyb004bjhiWDRlbkhVOVUxcU05M0hQbVd4SXU5bnR6Vi1iekxpNHdzb3NWQ3BXZ0JuaEpCMzhGRU9zVkdaVHZSc25haW5xQkIxT2IyM3lWb2k2RlJ4d0x3VDNfVEdqaE5zRmRjYWo0MXNkN05hclVNc0tkV3YyYUVteERWekRwQzhYT19USTFrcEZv?oc=5",
+      "published": "Mon, 21 Sep 2026 13:57:04 GMT",
+      "source": "Defence Security Asia",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 5.4
+    },
+    {
+      "title": "Cohance Lifesciences announces completion of USFDA inspection at Jaggaiahpet facility - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOEdMejcxbTNRMDV5S3pzaDJJMjBucG1RWEVZWGp3ZzBYeHhTZmZsYTJJd0JZQ1VUN1BOd1dWcFFnV0czWS1DdjZqTG9OTnYyQ0lMUGNkVHFVLVhnMnhkZVZiYzJHWGtzajJkV1o0SWJwVmtqMUp6UHZ2TGttMllUU2VianU5MzZxd21wWVRZdjMtN2lyV3BsdHM4SWxGd1phSVZVUkJERzN1eFNuNlpKYlRMenVLWFE2Vkd5UDZQTQ?oc=5",
+      "published": "Mon, 21 Sep 2026 06:34:31 GMT",
+      "source": "Business Upturn",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 12.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -367,5 +410,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-21T19:20:49.929119+00:00"
 }
