@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-21T00:34:48.429107+00:00",
+  "updated_utc": "2026-09-21T06:35:31.880288+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Behind India's Semiconductor Investment Boom: Still Not a Single Locally Made Chip from Wafer Fabrication - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNW0xRjB1cUR5SnhjS1VLRnlzZXRwTkNHMjdFUHFqZUFjdlk2NWZQdkFOVUV5U1lYVDZnZmZlMFRQNHhFVWxEb0FsVEM3ZHhKeGludV9VU1VKR2dtZHpzZFhGbEllcnJlbnRhX2xwbi1OVHVwSkE?oc=5",
-      "published": "Sun, 20 Sep 2026 18:15:00 GMT",
-      "source": "finance.biggo.com",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 12.2
-    },
-    {
-      "title": "Luzon Economic Corridor Investment Forum: Railway Projects in the Philippines - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXJ3RXB1WnJCSVowT0h5aWZsb3NfcU5hNmlzWV9FY1pqSkZfTktubUpGUHZ0OVoyYl94X3p3VVNfVURtZGxPX3RYZ09XaUJvOEQ5d0VucWFJRGpEcjg2c1hfZFBVbGVrNHJCM1R4SWlKVTktOVM1Vy1pWTZNVEdmMnhGUTl4OGZZMmZzXzRsbVoxV0Y3d0VzVjFsZWlVR1p4eTBseU0tbTVCTkJYSEw4M3UwV1JIVmNV?oc=5",
-      "published": "Mon, 21 Sep 2026 05:33:36 GMT",
-      "source": "IndexBox",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
-    },
-    {
-      "title": "Torrent Pharma Launches Sembolic and Semalix Semaglutide Brands in India - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT3FSbDdlM0NsVlduMlFkYks4ODAtNUdUeTZWb29sSGQzakpzSWRnQVJDQlV0X0J1QTFBa2lWZU5jRlp4MTRHbmhaVzZJeERTdHNUYUZDX2RPNzh3SzJ3X1lUNnFCS2w1N0N5TlhBdktVZmQ2aU5UQjJBd3dSNGZWdjVpd3N6R0pjNV9WZmJoR203c0VVRFRraVJQMDZqUUY5d3FUNldST1BMSWJNWWtYbnQ0aWc3bnFnVFkyQWZoRXh1M2NlSU85aktWX3dRczZZUzJpTFpmRUdPWHhZM3FLcUI2dVI?oc=5",
-      "published": "Sun, 20 Sep 2026 09:47:40 GMT",
-      "source": "scanx.trade",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 20.7
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -129,9 +86,9 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 70,
-      "article_count": 6,
-      "trigger_count": 11,
+      "score": 64,
+      "article_count": 5,
+      "trigger_count": 10,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -159,15 +116,6 @@
           "companies": []
         },
         {
-          "title": "RBI has enough tools to absorb liquidity surge, 'nothing off table': Governor Malhotra - inkl.com",
-          "source": "inkl.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEdBSDd5emFiRGF0SXdRM3BhNThtQS1aVDRQN2hXa25xTEFLMEtiZUdZMlRkbFNSQ01PRlcwNWliekZrT0N2cGd6cXFhQ3ZWYi1vVnJNbUtOTlBnWHhWYjA5NHBSYXdmcjhhdmVfdHk0bmsyQjVUZG5vSGlIVUJsSWxUUV9ERTg0RXA5WDlxdXhiV0otQ08zdzBwZ2R1OUE0YjFWOXZldk1IYjBm?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        },
-        {
           "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
           "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
@@ -186,13 +134,23 @@
             "TRADE"
           ],
           "companies": []
+        },
+        {
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 4 independent sources.",
-      "source_count": 4,
-      "story_clusters": 6,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
+      "source_count": 3,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -213,8 +171,8 @@
       ],
       "evidence": [
         {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - swarajyamag.com",
-          "source": "swarajyamag.com",
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
+          "source": "Swarajya",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
           "triggers": [
             "POLICY",
@@ -423,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-21T06:29:05.070258+00:00"
+  ]
 }
