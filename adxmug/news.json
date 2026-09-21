@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "RBI Absorbs ₹25,000 Crore Banking System Liquidity Through Second OMO Bond Sale Amid Surplus Funds - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFZkbzVsV1JRZU41UUZSWll4WHZkMWNVWko4VnpISUMzdjR6WU5XYWhDYU5seERlR1R0RjNvYWRNU2FUS3lpZmUtWXRMSjRUZkZiSlV6aG1GNjN4TW5TY3pyU3A1V3RQejdSVGtiRGZIcnM0TE1sUXA3OFB2V1VfNWx5Smh3bUhGZWNSNlR0ZWdtWlBDUzVGZC1sQ0d1SWNsQjJoY2JjUHpTRjlqdXc4YjgyOTNuM3ZJVGMzbDFOQXFudWlNVEo4R1lReDkzbkZYLXVB0gHYAUFVX3lxTE5HY29zSDB1d05YVmlOejNWRGhXdWNBbExHUHg4NHZTeDh4QzJJSjdTdUdzOE9UWGhaRExjYW5tYmUwdFhRaHhxdmowejdvRVlBUjRlOElkS3A4dUltbG5LZzlnVzBNaTgtNjFkTmZUV0RMZDBJT0cwZHVWeGdUMTVzM0xTQTVDblVuVmdITWFpb3ZnOHhWZ1VGY1Ywdl84SGRrcXUwLWFvUE1teGthUzhOb0ZKWE1lalA4U19NMFhPTUE1Y2dMbWNwdzRWRXltT25RdFNuS0ZDSQ?oc=5",
+      "published": "Mon, 21 Sep 2026 14:09:23 GMT",
+      "source": "Free Press Journal",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.2
+    },
+    {
       "title": "Behind India's Semiconductor Investment Boom: Still Not a Single Locally Made Chip from Wafer Fabrication - finance.biggo.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNW0xRjB1cUR5SnhjS1VLRnlzZXRwTkNHMjdFUHFqZUFjdlk2NWZQdkFOVUV5U1lYVDZnZmZlMFRQNHhFVWxEb0FsVEM3ZHhKeGludV9VU1VKR2dtZHpzZFhGbEllcnJlbnRhX2xwbi1OVHVwSkE?oc=5",
       "published": "Sun, 20 Sep 2026 18:15:00 GMT",
@@ -17,27 +31,13 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 19.1
+      "freshness_hours": 20.1
     },
     {
-      "title": "RBI Sells Rs 25,000 Cr Securities to Drain Surplus Liquidity - Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDRzNjhLZzhTLVZ3bFRwYlYwZDZWTFRhUUlSQkNEM2NkVGJqVFRaZ00yYWdPR3ZKTUQtYWxFQlUzc2U2N2FPNnBzVzlvWkIycTBBLXNVb3BicXZleEJVRmh3Vk1idVhoZ0Z0SF9JdkxCa3hiUGhXc2tMazB4TXpRc3ZpNmRoYllqOGVmZU1uM0FwdHpJc29fVTFSbjZtMVpUb0M4LUFwWm5CaFRaZ08xZ2hR0gG3AUFVX3lxTE1WM3lYM0otdExXem45WUFtN3IxUl9FX0E0cWJkaHJ1NUt0VmtpaXdPNXNmWEl4SlFrT0swR2JOaVNBMENHVU9FdlY1ZkFRWjM2b09nX3JrVVVrdGJPaUtCcF9sdDd4WnBTTmRGbTlZdFdGMW1sRzVYMGhoS19BMVY0MGpaekxrWXV1R3g3XzhwNGdiT2lEbnljS2Nwc3lxcDVxbUlHTkdkTm9nS1dEOW54MDBpelRBOA?oc=5",
-      "published": "Mon, 21 Sep 2026 12:55:30 GMT",
-      "source": "Rediff MoneyWiz",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.4
-    },
-    {
-      "title": "Ghana Bets on Local Fertilizer Production to Cut Imports - chemanalyst.com",
+      "title": "Ghana Bets on Local Fertilizer Production to Cut Imports - ChemAnalyst",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS05zQVRncmhGTzJkSUV4UVBvYU5oWGFKTUhYYV9YbjQ2dFZBUmlzajZwTGZnM1JfN0NsUm9PaU94WWx2T2ctLVVFSGlSdXNiakNYellGaDdPZElITlpXNUxYRFo3S01KcU91M21nZU0wOGFHSzl3dHNPbVhLYzQ2Snh5RzdPRFJVVFRCYkNhLWhhWEVYTVh6ZUVzQzdfLVdlR2NLRWJDdUhqT2M?oc=5",
       "published": "Mon, 21 Sep 2026 08:52:20 GMT",
-      "source": "chemanalyst.com",
+      "source": "ChemAnalyst",
       "sector": "Chemicals & Materials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.5
+      "freshness_hours": 5.5
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-21T13:21:39.582006+00:00"
+  "landed_updated_utc": "2026-09-21T14:22:29.091107+00:00"
 }
