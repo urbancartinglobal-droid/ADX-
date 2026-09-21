@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Behind India's Semiconductor Investment Boom: Still Not a Single Locally Made Chip from Wafer Fabrication - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNW0xRjB1cUR5SnhjS1VLRnlzZXRwTkNHMjdFUHFqZUFjdlk2NWZQdkFOVUV5U1lYVDZnZmZlMFRQNHhFVWxEb0FsVEM3ZHhKeGludV9VU1VKR2dtZHpzZFhGbEllcnJlbnRhX2xwbi1OVHVwSkE?oc=5",
+      "published": "Sun, 20 Sep 2026 18:15:00 GMT",
+      "source": "finance.biggo.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 13.1
+    },
+    {
+      "title": "Luzon Economic Corridor Investment Forum: Railway Projects in the Philippines - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXJ3RXB1WnJCSVowT0h5aWZsb3NfcU5hNmlzWV9FY1pqSkZfTktubUpGUHZ0OVoyYl94X3p3VVNfVURtZGxPX3RYZ09XaUJvOEQ5d0VucWFJRGpEcjg2c1hfZFBVbGVrNHJCM1R4SWlKVTktOVM1Vy1pWTZNVEdmMnhGUTl4OGZZMmZzXzRsbVoxV0Y3d0VzVjFsZWlVR1p4eTBseU0tbTVCTkJYSEw4M3UwV1JIVmNV?oc=5",
+      "published": "Mon, 21 Sep 2026 05:33:36 GMT",
+      "source": "IndexBox",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 1.8
+    },
+    {
+      "title": "Torrent Pharma Launches Sembolic and Semalix Semaglutide Brands in India - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT3FSbDdlM0NsVlduMlFkYks4ODAtNUdUeTZWb29sSGQzakpzSWRnQVJDQlV0X0J1QTFBa2lWZU5jRlp4MTRHbmhaVzZJeERTdHNUYUZDX2RPNzh3SzJ3X1lUNnFCS2w1N0N5TlhBdktVZmQ2aU5UQjJBd3dSNGZWdjVpd3N6R0pjNV9WZmJoR203c0VVRFRraVJQMDZqUUY5d3FUNldST1BMSWJNWWtYbnQ0aWc3bnFnVFkyQWZoRXh1M2NlSU85aktWX3dRczZZUzJpTFpmRUdPWHhZM3FLcUI2dVI?oc=5",
+      "published": "Sun, 20 Sep 2026 09:47:40 GMT",
+      "source": "scanx.trade",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 21.6
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -381,5 +424,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-21T07:23:33.024064+00:00"
 }
