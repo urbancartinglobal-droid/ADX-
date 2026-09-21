@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 7.2
+      "freshness_hours": 8.2
     },
     {
       "title": "Japan’s Air Force Chief Flies Tejas as Fighter Deployment Expands India Defence Ties - Defence Security Asia",
@@ -31,13 +31,13 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 7.4
+      "freshness_hours": 8.4
     },
     {
-      "title": "Ghana Bets on Local Fertilizer Production to Cut Imports - chemanalyst.com",
+      "title": "Ghana Bets on Local Fertilizer Production to Cut Imports - ChemAnalyst",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS05zQVRncmhGTzJkSUV4UVBvYU5oWGFKTUhYYV9YbjQ2dFZBUmlzajZwTGZnM1JfN0NsUm9PaU94WWx2T2ctLVVFSGlSdXNiakNYellGaDdPZElITlpXNUxYRFo3S01KcU91M21nZU0wOGFHSzl3dHNPbVhLYzQ2Snh5RzdPRFJVVFRCYkNhLWhhWEVYTVh6ZUVzQzdfLVdlR2NLRWJDdUhqT2M?oc=5",
       "published": "Mon, 21 Sep 2026 08:52:20 GMT",
-      "source": "chemanalyst.com",
+      "source": "ChemAnalyst",
       "sector": "Chemicals & Materials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 12.5
+      "freshness_hours": 13.5
     }
   ],
   "opportunities": [
@@ -411,5 +411,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-21T21:20:47.267345+00:00"
+  "landed_updated_utc": "2026-09-21T22:21:10.563591+00:00"
 }
