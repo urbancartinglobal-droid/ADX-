@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI Absorbs ₹25,000 Crore Banking System Liquidity Through Second OMO Bond Sale Amid Surplus Funds - Free Press Journal",
+      "title": "RBI Absorbs ₹25,000 Crore Banking System Liquidity Through Second OMO Bond Sale Amid Surplus Funds - freepressjournal.in",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2Nvc0gwdXdOWFZpTnozVkRoV3VjQWxMR1B4ODR2U3g4eEMySUo3U3VHczhPVFhoWkRMY2FubWJlMHRYUWh4cXZqMHo3b0VZQVI0ZThJZEtwOHVJbWxuS2c5Z1cwTWk4LTYxZE5mVFdETGQwSU9HMGR1VnhnVDE1czNMU0E1Q25VblZnSE1haW92Zzh4VmdVRmNWMHZfOEhka3F1MC1hb1BNbXhrYVM4Tm9GSlhNZWpQOFNfTTBYT01BNWNnTG1jcHc0VkV5bU9uUXRTbktGQ0nSAdgBQVVfeXFMTkdjb3NIMHV3TlhWaU56M1ZEaFd1Y0FsTEdQeDg0dlN4OHhDMklKN1N1R3M4T1RYaFpETGNhbm1iZTB0WFFoeHF2ajB6N29FWUFSNGU4SWRLcDh1SW1sbktnOWdXME1pOC02MWROZlRXRExkMElPRzBkdVZ4Z1QxNXMzTFNBNUNuVW5WZ0hNYWlvdmc4eFZnVUZjVjB2XzhIZGtxdTAtYW9QTW14a2FTOE5vRkpYTWVqUDhTX00wWE9NQTVjZ0xtY3B3NFZFeW1PblF0U25LRkNJ?oc=5",
       "published": "Mon, 21 Sep 2026 14:09:23 GMT",
-      "source": "Free Press Journal",
+      "source": "freepressjournal.in",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,21 +17,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 8.2
+      "freshness_hours": 9.2
     },
     {
-      "title": "Japan’s Air Force Chief Flies Tejas as Fighter Deployment Expands India Defence Ties - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUZoMWhzVW5pdnp4cnl4S0hyb004bjhiWDRlbkhVOVUxcU05M0hQbVd4SXU5bnR6Vi1iekxpNHdzb3NWQ3BXZ0JuaEpCMzhGRU9zVkdaVHZSc25haW5xQkIxT2IyM3lWb2k2RlJ4d0x3VDNfVEdqaE5zRmRjYWo0MXNkN05hclVNc0tkV3YyYUVteERWekRwQzhYT19USTFrcEZv?oc=5",
-      "published": "Mon, 21 Sep 2026 13:57:04 GMT",
-      "source": "Defence Security Asia",
-      "sector": "Defence & Aerospace",
+      "title": "Swing Check Valves Market Forecast to 2035: Semiconductor Fab Expansion and Replacement Demand Drive Mid-Single-Digit Growth - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbnVURm9GUzZ4Wk96QlFmN3RxcFhwdWs5WDZxR0hoTFEzZnpLSEI0akVxSlpzUWM1T0pOdmdqYy1fSjNFX3htQzdna2ZFdS1QeV8yMGh2Rzhya0pOdXlUVml3UHpGYVc2RGxYRXJORlhic1ZKWU4yVlhBVlVwM1c2YTJUbVU4RFBUQVdPMGV4Wl85Y3FhdjhvbGNNanZ3S1lMUVQzLS01Tm5vdG5rU3h3aHRkMnRMb25TQzk5amMyWWh1UWlHUjVKdll5SnIxY3BOOUJrYkpBeDBjWkJDLWd4MHI3U0l3T2tz?oc=5",
+      "published": "Mon, 21 Sep 2026 18:21:22 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 8.4
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 5.0
     },
     {
       "title": "Ghana Bets on Local Fertilizer Production to Cut Imports - ChemAnalyst",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.5
+      "freshness_hours": 14.5
     }
   ],
   "opportunities": [
@@ -411,5 +411,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-21T22:21:10.563591+00:00"
+  "landed_updated_utc": "2026-09-21T23:20:38.200266+00:00"
 }
