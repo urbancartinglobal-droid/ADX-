@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.2
+      "freshness_hours": 16.3
     },
     {
-      "title": "Tata Electronics Signs Five MoUs Across Semiconductor Value Chain - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEg3ZHNReXJLZlB2UlBuRk1pTUh4MFBDWFFiZC1JY0VrSEhPTlhSRnhIQVRETlN6VU9wc1BNU0xHYkdYeTFkX3NYLW9kT3lSVFVGWW1uaW9jV3pvcU1BS3pSS0EycW94WnFjMTcyaGs1VlJxb1FuTEZfWG1WazVqaktYTkVnNUZOQnNSQVFiN2Zuek5iei1KZkR0Nm5SYWktZUtEdGZfZ3FNb3dZVHc?oc=5",
-      "published": "Tue, 22 Sep 2026 00:09:58 GMT",
-      "source": "BW Businessworld",
+      "title": "Kaynes Weighs $1bn OSAT Investment Under India’s ISM 2.0 - Electronics For You BUSINESS",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3dmY1JhdlRxVDA4WGl0QmpONkhzMzQzUW1XeVFNYjQxV2t1dElzZjBhaXkwUkV3UHZSb0Z4cV9sVVdGZkl5UUdDcF8zUUJPaUtPaHFBdko1eTNseGNLYlpHSjZ6Zm1wRW53LW5vd3NUSmxXV3pSMVoxWk0yanE0emZzQ21oTU5OWEJzMVFjX2VYWjdQb2hieWZXYkNyQTZDZDBSS3Jn?oc=5",
+      "published": "Tue, 22 Sep 2026 06:19:13 GMT",
+      "source": "Electronics For You BUSINESS",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.2
+      "freshness_hours": 0.1
     },
     {
       "title": "Cohance Lifesciences announces completion of USFDA inspection at Jaggaiahpet facility - Business Upturn",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 22.8
+      "freshness_hours": 23.9
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-22T05:20:51.371152+00:00"
+  "landed_updated_utc": "2026-09-22T06:26:41.859623+00:00"
 }
