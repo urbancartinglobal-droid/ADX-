@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-22T00:33:51.559267+00:00",
+  "updated_utc": "2026-09-22T06:33:21.961830+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI Absorbs ₹25,000 Crore Banking System Liquidity Through Second OMO Bond Sale Amid Surplus Funds - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2Nvc0gwdXdOWFZpTnozVkRoV3VjQWxMR1B4ODR2U3g4eEMySUo3U3VHczhPVFhoWkRMY2FubWJlMHRYUWh4cXZqMHo3b0VZQVI0ZThJZEtwOHVJbWxuS2c5Z1cwTWk4LTYxZE5mVFdETGQwSU9HMGR1VnhnVDE1czNMU0E1Q25VblZnSE1haW92Zzh4VmdVRmNWMHZfOEhka3F1MC1hb1BNbXhrYVM4Tm9GSlhNZWpQOFNfTTBYT01BNWNnTG1jcHc0VkV5bU9uUXRTbktGQ0nSAdgBQVVfeXFMTkdjb3NIMHV3TlhWaU56M1ZEaFd1Y0FsTEdQeDg0dlN4OHhDMklKN1N1R3M4T1RYaFpETGNhbm1iZTB0WFFoeHF2ajB6N29FWUFSNGU4SWRLcDh1SW1sbktnOWdXME1pOC02MWROZlRXRExkMElPRzBkdVZ4Z1QxNXMzTFNBNUNuVW5WZ0hNYWlvdmc4eFZnVUZjVjB2XzhIZGtxdTAtYW9QTW14a2FTOE5vRkpYTWVqUDhTX00wWE9NQTVjZ0xtY3B3NFZFeW1PblF0U25LRkNJ?oc=5",
-      "published": "Mon, 21 Sep 2026 14:09:23 GMT",
-      "source": "Free Press Journal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.3
-    },
-    {
-      "title": "Kaynes Weighs $1bn OSAT Investment Under India’s ISM 2.0 - Electronics For You BUSINESS",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3dmY1JhdlRxVDA4WGl0QmpONkhzMzQzUW1XeVFNYjQxV2t1dElzZjBhaXkwUkV3UHZSb0Z4cV9sVVdGZkl5UUdDcF8zUUJPaUtPaHFBdko1eTNseGNLYlpHSjZ6Zm1wRW53LW5vd3NUSmxXV3pSMVoxWk0yanE0emZzQ21oTU5OWEJzMVFjX2VYWjdQb2hieWZXYkNyQTZDZDBSS3Jn?oc=5",
-      "published": "Tue, 22 Sep 2026 06:19:13 GMT",
-      "source": "Electronics For You BUSINESS",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.1
-    },
-    {
-      "title": "Cohance Lifesciences announces completion of USFDA inspection at Jaggaiahpet facility - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOEdMejcxbTNRMDV5S3pzaDJJMjBucG1RWEVZWGp3ZzBYeHhTZmZsYTJJd0JZQ1VUN1BOd1dWcFFnV0czWS1DdjZqTG9OTnYyQ0lMUGNkVHFVLVhnMnhkZVZiYzJHWGtzajJkV1o0SWJwVmtqMUp6UHZ2TGttMllUU2VianU5MzZxd21wWVRZdjMtN2lyV3BsdHM4SWxGd1phSVZVUkJERzN1eFNuNlpKYlRMenVLWFE2Vkd5UDZQTQ?oc=5",
-      "published": "Mon, 21 Sep 2026 06:34:31 GMT",
-      "source": "Business Upturn",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 23.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -424,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-22T06:26:41.859623+00:00"
+  ]
 }
