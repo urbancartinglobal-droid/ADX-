@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Absorbs ₹71,971 Crore Surplus Liquidity Through Overnight VRRR Auction - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdnZMMzViU21HbzBqUDM4MWllVDRjSWxIQU5EZ0QwN0NwOXAtRVRIS2lyU3Z4OGtNMThWV29sS0xhY1ZnYTFUWUsta051YVk3clVZLVBLcXVoeE1FRnNfUzlERDFVZGh2Ty1Cc3lnbmotc1J5NGZQUWVxWEZtMklJUTdiNzVndHZLQktZRm8ta1Uwd0dyd2JNbzhLbEZYcGwzVnNNUzdFZTYyZ1U?oc=5",
+      "published": "Tue, 22 Sep 2026 11:57:36 GMT",
+      "source": "News On AIR",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 1.4
+    },
+    {
+      "title": "India Warns Semiconductor Industry of Cyberattacks, Disruption as Chip Manufacturing Expands - boldnewsonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjVZYWFlQjFvSjJ0dDlpTFRHcGJTamZrZlhTU2hvZ185dnVEdmlHaWhod0pENGNLWUNidVVUUE8tTEhrUEp2R29ieVZfV2FrWFpzZ2YteVY1YzRkZmU3Wno0MXlFRHJyNWx1T2Q3U0wtRUlkRFJZNDE0bjZoYjloc3pQUWdncFdPTTl1UUlzR3VrMm5RUUhZcU1lTE1mTmoyU05BU3NYQTQ1YVFjcUhTYVRoYXFDVV84Rndv?oc=5",
+      "published": "Tue, 22 Sep 2026 05:17:27 GMT",
+      "source": "boldnewsonline.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 8.1
+    },
+    {
+      "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdUJOZWJUME9HdjdtWmtrNFNQQUYyaXduaFBEN2oyTHotaldyc1RTN2xDbGxoUnJSMWoyQjZiYm9RZG8yQ2NIbFVzajA4blVROWw3ci0wSThzMlY0RTYycVJyOFlfM2Vzb3BOejVIOWM0SUdkWS05alItTmw4eHBEQVV5aXF1OHFuSTVtbDVCS1NZekhhVzRDZTBXd25OcVFBTHRxdzF6dEVibzdKb3VuZTlWNUxOTmFaOHpxM19yTU4xNC1RNDhtSHpGVkI2eHBYOUlSbmRRVHFtWHZTWXdsOFl0ZU9BSHhXVWpJUGFoQVJmUTQzcUktX1ROX3RXd2RzUVh0WnlmT1ZuVEdmczBWNjdGTjg?oc=5",
+      "published": "Tue, 22 Sep 2026 10:24:40 GMT",
+      "source": "Investment Guru India",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 3.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -381,5 +424,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-22T13:22:40.874572+00:00"
 }
