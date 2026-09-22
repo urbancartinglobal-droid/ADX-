@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.4
+      "freshness_hours": 2.4
     },
     {
       "title": "India Warns Semiconductor Industry of Cyberattacks, Disruption as Chip Manufacturing Expands - boldnewsonline.com",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.1
+      "freshness_hours": 9.1
     },
     {
       "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.0
+      "freshness_hours": 4.0
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-22T13:22:40.874572+00:00"
+  "landed_updated_utc": "2026-09-22T14:22:37.058261+00:00"
 }
