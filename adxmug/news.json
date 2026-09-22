@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI absorbs Rs 71,971 cr via overnight VRRR auction amid huge surplus liquidity - Daily Excelsior",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEF4Q1lXM0dQSjZrWDZrV0xvZUIzRU5FanFnYWZCMEw5YndqTGp2cEp3bExiQWt6NU55M1NabmcxZ1VTVVNXNnRTZVZrekljX1NiZVh5NElOMFlONENjLXEwYzhhbXA5VVlKWFJUQ1hGWDZmR3VoQUxDWHh3S1NKVE40aHBpempFQWhkV2hITHhkREpLNUJmdFFIWUhidF9lSkFDTkNjNTNhdVB1Nll4TVlIakfSAbQBQVVfeXFMT1hBeENZVzNHUEo2a1g2a1dMb2VCM0VORWpxZ2FmQjBMOWJ3akxqdnBKd2xMYkFrejVOeTNTWm5nMWdVU1VTVzZ0U2VWa3pJY19TYmVYeTRJTjBZTjRDYy1xMGM4YW1wOVVZSlhSVENYRlg2Zkd1aEFMQ1h4d0tTSlRONGhwaXpqRUFoZFdoSEx4ZERKSzVCZnRRSFlIYnRfZUpBQ05DYzUzYXVQdTZZeE1ZSGpH?oc=5",
-      "published": "Tue, 22 Sep 2026 10:45:38 GMT",
-      "source": "Daily Excelsior",
+      "title": "RBI Absorbs ₹71,971 Crore Surplus Liquidity Through Overnight VRRR Auction - newsonair.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdnZMMzViU21HbzBqUDM4MWllVDRjSWxIQU5EZ0QwN0NwOXAtRVRIS2lyU3Z4OGtNMThWV29sS0xhY1ZnYTFUWUsta051YVk3clVZLVBLcXVoeE1FRnNfUzlERDFVZGh2Ty1Cc3lnbmotc1J5NGZQUWVxWEZtMklJUTdiNzVndHZLQktZRm8ta1Uwd0dyd2JNbzhLbEZYcGwzVnNNUzdFZTYyZ1U?oc=5",
+      "published": "Tue, 22 Sep 2026 11:57:36 GMT",
+      "source": "newsonair.gov.in",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.6
+      "freshness_hours": 0.5
     },
     {
       "title": "India Warns Semiconductor Industry of Cyberattacks, Disruption as Chip Manufacturing Expands - boldnewsonline.com",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.1
+      "freshness_hours": 7.1
     },
     {
       "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
+      "freshness_hours": 2.0
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-22T11:21:10.907375+00:00"
+  "landed_updated_utc": "2026-09-22T12:26:22.712646+00:00"
 }
