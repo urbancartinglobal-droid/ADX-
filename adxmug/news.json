@@ -6,32 +6,32 @@
   "articles": [],
   "landed": [
     {
-      "title": "Wafer Retainer Rings and Holders Market To 2035: Replacement Demand and 300mm Fab Expansion Drive Growth - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmIxaUZZVzhvRGRUNXdvZjI1Ylg2RGIxNlFmaVA5bVEtY1NBdE1oUFJySV9KdV9HQUNrWGNkLW0waWI0WkNrRlU1VmlUQzZHV2xfZDdMdGFuOEF5Nk1DVUpiV29HQlVlb1pwcXo3X1JoM1AxdmZRMkpVaXJuNzZqaVZPYkxPeWJsZ3czMTVXWUMtc3BpcXNpVzc3eVNtRVNRMEgwdWkxMTVDTkg0Rk1PXzdZOHhqd05jVlNJZDk0NkFLenRsaXMwWXVqMnEzU2pfTEFfakZxaHFnUQ?oc=5",
-      "published": "Wed, 23 Sep 2026 05:31:12 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.9
-    },
-    {
-      "title": "Haryana cooperative sugar mills win national awards for technical efficiency - ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTE5Uc0lmTERGM1VSSGVuZ3BKSzdGblFDd0JvOVJYdGRuV29sLVZrOFEtZlZIbGxFVHpCRFhBbk93Vl9pN1NlUHZTNnMtY01qNlJtcTRUOWpRSkhwVzV3TnQtMWxWMVduVXFnWmtjSF9nVGpTQk01U0pTNzk0WmtMVlhtRnFYRVRxbUZLc1ZMbjNFY0hwNDhnbnFpb21zT0tmbzNXRUVkZw?oc=5",
-      "published": "Wed, 23 Sep 2026 06:17:04 GMT",
-      "source": "ChiniMandi",
-      "sector": "Sugar & Ethanol",
+      "title": "RBI moves, tax outflows shrink liquidity surplus | Financial Express Mumbai - newspaper - Magzter",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQai03OEVCVi1TeTM1Z0tKekRkOWxLSmszWXpYSFNmdjNsakQwOEc2XzhLVlpqNDdXeThoaDgzc25lNVNyaU1wXzFVUWY5N3NoSUxvOS1yRVlNa1NlbFB0OVBnNkt2aWNMVnRwdGlnMWtUdXl2REE5MUlYU21fR1lXWGVxNUtBblNJOUptTmVyVEM2cjAzRHpJdXU2Ty11YzVvUVhsY19RM0VDQ1NGOTNDRG52c1I?oc=5",
+      "published": "Wed, 23 Sep 2026 03:31:13 GMT",
+      "source": "Magzter",
+      "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 1.1
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 4.9
+    },
+    {
+      "title": "Business Watch: Ineos opens Danish carbon storage site, and more - Chemical & Engineering News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVk5OaXBJeFV6M2NkMjdBOGxlQUs4MUwzRFRDN2l0bWNCODRNa19nbUZESzk4a3g2UWZzX0lReWdUeFQxNlR3N2tIb21xRWVTblFKZ1VMZjZONnNjMlVIZVVUd1VmY0VZaUQzQ002NDlhNEx6ZVJValIybDhtYTBSTUxoMXV6bE81SFNXRXpfcXY5Rkwxc1RoVExqN1J3dzgtSS1hTw?oc=5",
+      "published": "Tue, 22 Sep 2026 18:54:05 GMT",
+      "source": "Chemical & Engineering News",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 13.5
     },
     {
       "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 21.0
+      "freshness_hours": 22.0
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-23T07:22:39.166631+00:00"
+  "landed_updated_utc": "2026-09-23T08:23:12.477107+00:00"
 }
