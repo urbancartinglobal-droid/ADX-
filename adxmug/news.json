@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-23T00:32:34.909103+00:00",
+  "updated_utc": "2026-09-23T06:34:06.655865+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI moves, tax outflows shrink liquidity surplus | Financial Express Mumbai - newspaper - Magzter",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQai03OEVCVi1TeTM1Z0tKekRkOWxLSmszWXpYSFNmdjNsakQwOEc2XzhLVlpqNDdXeThoaDgzc25lNVNyaU1wXzFVUWY5N3NoSUxvOS1yRVlNa1NlbFB0OVBnNkt2aWNMVnRwdGlnMWtUdXl2REE5MUlYU21fR1lXWGVxNUtBblNJOUptTmVyVEM2cjAzRHpJdXU2Ty11YzVvUVhsY19RM0VDQ1NGOTNDRG52c1I?oc=5",
-      "published": "Wed, 23 Sep 2026 03:31:13 GMT",
-      "source": "Magzter",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.9
-    },
-    {
-      "title": "Conductive Electrostatic-Dissipative Laminate Market Forecast to 2035 Driven by Semiconductor Cleanroom Mandates - News and Statistics - indexbox.io",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTERXT2dPckpieGZqb0ZSRnV2UVpKNEVwcWFBNi0tYTdyM2hBci1KOHJFUWE0THA5Nmt5b1F3ODd5Y2RNRzNxVHlKVHpGU0RxTVF5cGd0MV9Jb2M3NjlDZ041MzZUeVhjeWlHZFZBcGltVEY4UTI4UHVNT1ZpY1dGUXl6NklWZ1BTbGhkMWFjMW8yNk9OSXQ1WFZhM0dKNzBMQlNzVXRmeFBaRkFnNlNUX3hzdUc5VTdJN1Z3YWFjbGNHTFBFQjVTX3djamkwUXE0TVF2eVU4VTNIZTlRdWtnYmtOYVVURDZvdkE?oc=5",
-      "published": "Tue, 22 Sep 2026 18:31:12 GMT",
-      "source": "indexbox.io",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 11.9
-    },
-    {
-      "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdUJOZWJUME9HdjdtWmtrNFNQQUYyaXduaFBEN2oyTHotaldyc1RTN2xDbGxoUnJSMWoyQjZiYm9RZG8yQ2NIbFVzajA4blVROWw3ci0wSThzMlY0RTYycVJyOFlfM2Vzb3BOejVIOWM0SUdkWS05alItTmw4eHBEQVV5aXF1OHFuSTVtbDVCS1NZekhhVzRDZTBXd25OcVFBTHRxdzF6dEVibzdKb3VuZTlWNUxOTmFaOHpxM19yTU4xNC1RNDhtSHpGVkI2eHBYOUlSbmRRVHFtWHZTWXdsOFl0ZU9BSHhXVWpJUGFoQVJmUTQzcUktX1ROX3RXd2RzUVh0WnlmT1ZuVEdmczBWNjdGTjg?oc=5",
-      "published": "Tue, 22 Sep 2026 10:24:40 GMT",
-      "source": "Investment Guru India",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 20.0
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -224,8 +181,8 @@
           "companies": []
         },
         {
-          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World",
-          "source": "Construction World",
+          "title": "Land Acquisition Clears Way For Rs 12.5 Billion Rail Projects At Tirupati - Construction World India",
+          "source": "Construction World India",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQTZqVHpxazI2dGVEbGc5RHE5YTZNUll4UDBBNS1SekU2ZW5BNXd0X3RYQ3ZLTi1SWUx4Uy1GN2dScGtLYUlXTWR2RFJqMWxrQmhKM1RHUUdRNlRnV0diR0NERWQ2S19xZ3JlaGdMdS03bmo0VTNXdHFqU0tEbzdpYWQxTFNlVFdGT1BDVzF3QUgzWjRJWVByN3BqckRaNVMtcE9rdjc2NVhUWm94MFlmb2lEanlZeEdPMlc1cGpQU2dudmhvWXhVRndpeHlTVjVHVVN0ZDhGcHZjVld5aF9DOHE5TUJxSzFmZmxFQkROazFKdkZ0dUJvQWRVeHgyMWdvZGM1bklQaw?oc=5",
           "triggers": [
             "CAPEX",
@@ -424,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-23T06:27:20.443452+00:00"
+  ]
 }
