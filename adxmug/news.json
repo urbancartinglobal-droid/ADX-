@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-22T18:31:30.399836+00:00",
+  "updated_utc": "2026-09-23T00:32:34.909103+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI Absorbs Rs 71,971 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - businessworld.in",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHRMSUc2akFhcFhWWEVRcWxIT3dhTzFMRHBQMGdJMHFwVjg5VGN5dzR5eEVDM2daOGlKSDBoRFlSalJLTXlJR1Btb2JfSmloZ2RwYjZfUFpBT0R5bE9VUC1qRl9ocVJpYUhBWTVIY2J5VlR2eVI2UWl5Tm1qMm9vQjh0bDBuYzMtMmlpX25vNlNOLTQ2LUpwNEcyQ3BJQ2dBWTRBUm5YUHN1RkJxdHhVczRDMG5rRU1NNlE?oc=5",
-      "published": "Tue, 22 Sep 2026 13:40:23 GMT",
-      "source": "businessworld.in",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 10.8
-    },
-    {
-      "title": "Conductive Electrostatic-Dissipative Laminate Market Forecast to 2035 Driven by Semiconductor Cleanroom Mandates - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTERXT2dPckpieGZqb0ZSRnV2UVpKNEVwcWFBNi0tYTdyM2hBci1KOHJFUWE0THA5Nmt5b1F3ODd5Y2RNRzNxVHlKVHpGU0RxTVF5cGd0MV9Jb2M3NjlDZ041MzZUeVhjeWlHZFZBcGltVEY4UTI4UHVNT1ZpY1dGUXl6NklWZ1BTbGhkMWFjMW8yNk9OSXQ1WFZhM0dKNzBMQlNzVXRmeFBaRkFnNlNUX3hzdUc5VTdJN1Z3YWFjbGNHTFBFQjVTX3djamkwUXE0TVF2eVU4VTNIZTlRdWtnYmtOYVVURDZvdkE?oc=5",
-      "published": "Tue, 22 Sep 2026 18:31:12 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.9
-    },
-    {
-      "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdUJOZWJUME9HdjdtWmtrNFNQQUYyaXduaFBEN2oyTHotaldyc1RTN2xDbGxoUnJSMWoyQjZiYm9RZG8yQ2NIbFVzajA4blVROWw3ci0wSThzMlY0RTYycVJyOFlfM2Vzb3BOejVIOWM0SUdkWS05alItTmw4eHBEQVV5aXF1OHFuSTVtbDVCS1NZekhhVzRDZTBXd25OcVFBTHRxdzF6dEVibzdKb3VuZTlWNUxOTmFaOHpxM19yTU4xNC1RNDhtSHpGVkI2eHBYOUlSbmRRVHFtWHZTWXdsOFl0ZU9BSHhXVWpJUGFoQVJmUTQzcUktX1ROX3RXd2RzUVh0WnlmT1ZuVEdmczBWNjdGTjg?oc=5",
-      "published": "Tue, 22 Sep 2026 10:24:40 GMT",
-      "source": "Investment Guru India",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 14.0
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -424,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-23T00:26:52.218739+00:00"
+  ]
 }
