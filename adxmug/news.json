@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.9
+      "freshness_hours": 3.8
     },
     {
       "title": "Threaded Steel Rod Stock Market to Accelerate on Semiconductor Fab Construction, Reaching 2035 Expansion - IndexBox",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 10.3
+      "freshness_hours": 11.3
     }
   ],
   "opportunities": [
@@ -422,5 +422,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-23T22:20:43.299349+00:00"
+  "landed_updated_utc": "2026-09-23T23:17:57.788245+00:00"
 }
