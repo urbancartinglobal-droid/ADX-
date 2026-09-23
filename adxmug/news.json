@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-09-23T12:33:09.887993+00:00",
+  "updated_utc": "2026-09-23T18:30:49.388770+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Semiconductor Manufacturing Equipment Market Growth is Driven by AI Chips, Fab Expansion and Advanced Packaging Globally - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTEl0OTNiRGR5TW9WUmhMa2NoQXlnQ21pY0xIUWNyU1RJNWQtRjdjTVluY293eW4zS2l5cDVIR2hxQ3BDdGRiVXpXXzFFT3pwNktISWJKOG1La0tuRjVSUF9fZlpFXzlEM1JpRVdmM2tGQ3hxQ2hKdmtTUHpNN21yTzdzYmxxSFcwd1JwbllLUWNLM2dkZWFSN1BQT2FXRFotN2tZRE9nemd1M0g4VGg2VGR4Um9ndEsxMzYxbWlGaWEycFZ3ZWJkMnBET2hEejlrVmdzMTVacENpcEFBMVBaXzQ2WEJNNGJkQnEtVm44dw?oc=5",
-      "published": "Tue, 22 Sep 2026 19:41:48 GMT",
-      "source": "Business Upturn",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 22.7
-    },
-    {
-      "title": "RBI Absorbs ₹75,026 Crore Via Overnight VRRR Auction Amid Surplus Liquidity - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjRNcDUxWDcxUi1CQ3dfb1JKaHloeXZTOWo3VUFyMEtneHJHTk5ic2dlYzJwWXU1UEwzQjJlVk1ONnhtVzNkUmNxbkdDSVJCclpsTUotOExKUHdmNzYwNFVQUmlZMGZqUzR3V2pYOXFPam0zOVhuOFY1LXRIdzFXOElTQWFVenIwOGtlMUtjUVh2RjBLejFyUjltVkQzZTZDOURaNkVPYm5pblJpRE03bGVCQW7SAboBQVVfeXFMT0ZMWFdhNVlfYUVxbmd2eXA2ZmVpWHcyWXpqUmF0SkR4bW9JY2gzX0NCMzFPWWlwVjRoMnNUdGI4TmVwcmpQS2tqNEpsYXBhRjZEdU9UaUF5YUVSN3FnT1huRzFYeWZWcDRydzVjeGZwZWhSQlI4VFJnem1HU3YxZ3VZR3RxMmlFR0w2a045WC13V29oZ0Z6ZS1uR2lmNzRyMW0zY2o3N1RlMXhIdHVMVzU3RWhYQjdzQVB3?oc=5",
-      "published": "Wed, 23 Sep 2026 13:18:44 GMT",
-      "source": "Free Press Journal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -190,12 +161,13 @@
     },
     {
       "industry": "Rail & Infrastructure",
-      "score": 44,
-      "article_count": 2,
-      "trigger_count": 4,
+      "score": 49,
+      "article_count": 3,
+      "trigger_count": 5,
       "triggers": [
         "CAPEX",
         "CORPORATE",
+        "ORDERS",
         "POLICY"
       ],
       "evidence": [
@@ -218,15 +190,25 @@
             "CORPORATE"
           ],
           "companies": []
+        },
+        {
+          "title": "Kolkata: Metro Railway Floats Rs 1,587 Crore Tender For Baranagar-Barrackpore Corridor After 16 Year Delay - Swarajya",
+          "source": "Swarajya",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVdlWHNkeVR2OEJPNEllR05hcHU2N3g2LWc4b0NCMFByVkpEUkhUQ1d1aXc1RzRZUlBoeUV6NHpYTGEzVGpvRUpNYmlvQmdhUlhoR2xzeUoxLW9hb1ZCWDFjSENtQlRvTlJKbV9lUll0M1ZJRjR2UEF1cDM1UDVxZEM4N2xUSnY5OGFHVU1Kb1U0UmFyVm80ajZVQWNNcWNSTjd3VlVFVXJNUEZseC1xd29tT1YwOTNuMl9sanR2Nk9IaHNTbDJxZGVwUdIB2wFBVV95cUxQdC1hNlNMdGZjdWthelBKeXYyU2QwdDAwWXY0MDlUcm54S050Z0JXMEYwLWZCLVpzcFQwR1NWdnNfcWNKT3VRcTJtVVFYWElfSUlMMU9LRWs1eVBlQXBocmpiTE1ERmtkTFpLbkx3WjJnSE9VOXZtcmh5a2xtMDh5UWg4S2ZNQTV1R1dRUWFXN0NzWTE5OGNOZFY0MFFuS3VUNFNBa2JmUVhhZFhlRzQ5NG1VRTJlb1NFeXM4TU5vRWdqTHFVbEdGV0tNMlJ5VnNVMVo3SFhCLWQtcEU?oc=5",
+          "triggers": [
+            "ORDERS"
+          ],
+          "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, CORPORATE, POLICY; 2 distinct story clusters; 2 independent sources.",
+      "reason": "Cross-signal CAPEX, CORPORATE, ORDERS, POLICY; 3 distinct story clusters; 2 independent sources.",
       "source_count": 2,
-      "story_clusters": 2,
+      "story_clusters": 3,
       "companies": [],
       "connections": [
+        "Capacity spending + orders can indicate a demand/capacity cycle rather than headline noise.",
         "Corporate action reinforced by capex/orders is a stronger operating signal."
       ],
       "fresh_count": 0
@@ -252,8 +234,8 @@
           ]
         },
         {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
           "triggers": [
             "POLICY"
@@ -314,8 +296,8 @@
       ],
       "evidence": [
         {
-          "title": "India's Semiconductor Sector: Three New Plants Get Approved - India Briefing",
-          "source": "India Briefing",
+          "title": "India's Semiconductor Sector: Three New Plants Get Approved - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG5UU21TV3dYeFYyaG5rcG5XWjB4RXlaV1ZrRjBwTHhQNlZPMGd5cTRsWWRsemYwQVE4dUw0Z2tHcHNXc29wZktnZG14b2h4cGwtaTc1WGgyRHZveFk1bkt4NzRUbnpqcndEWV80aERrNGZsOTdFU2d6MjhJbVViR3UzN3VkcG8zVkg0WG1MaWF5NkNWWDZsSFBKNWpyaEtYUV9hVmdwNGlzc3k1Yk9pVmlYNVU?oc=5",
           "triggers": [
             "CAPEX"
@@ -374,8 +356,8 @@
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
@@ -410,6 +392,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-23T18:25:09.073526+00:00"
+  ]
 }
