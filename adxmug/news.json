@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI absorbs ₹75,026 cr via overnight VRRR auction amid surplus liquidity - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSDZnMTBGTy01OHdmektZS1kzaWkxdkFUeGFiTS1oNFo2UUFWSUpmN3RYZWZ2aE1BV1ZWZk1PS0E3d1N3LVRLMHJkV0I0dFA4UUZac1liR3V3R2o5VnBsYm1SSGNRYTRfenlSQkxmTzQxLXlVZ3lOTzRXdDBHNTE1Z0EwWWN0cGd3eEppckc1NU9iX1E5ZWNrbl9CeW55ZUVLZ2pXaS1QbmpjVFJFcVNuLXJKdlk0aXlaM3VlbGJKMjNrc2FhUE9FREs3YWZGODVHalpRS9IB2gFBVV95cUxPdVVzTUxxaUszdG1HaEVJNGRhbG9NdW9lZ3EwTTRpMWpjdXFBSnY2M05ZOGVzbHhHdU9kRHJwX2JHbmFFUjRXa1RLUzRRTFB6NDNEWHJBbGp1Y3RVc0ZfQWo0ZlJZb3BhbFZkNzQ5MUYxbXNLN3NRbVljR1pCOE00Mnp1dEM2NFdTQmF2RUJEa3hRNnpIR3h4R2huamFsQlhPYktCOFk1My1RVE1tR2Vra0x1NTMtanNhRmhaM2V2MFZBb0tyNE5peXJpX0NtdDhSbUJHaVFfZWFVZw?oc=5",
-      "published": "Wed, 23 Sep 2026 09:02:34 GMT",
-      "source": "Business Standard",
+      "title": "RBI absorbs Rs 75,026 crore via VRRR auction to drain surplus liquidity - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY29UdGdycmVScUJrclhkckgxaHpFTXY0aGJfWEM1dHlWd1hIS1Z4U2dMdlJUdmt2bWNrZmtsZ2xDWHpoVDc2eUhiZ19VQmZ0dUE4MHdJalREVWtFWTdxWGRPRnRLOVdGT3E5dDZDTEx6aTNDd2prUzFYU0lkLW5KWjV2VWk3SDQxNllydk0xWjdkR3dVS3VzNDZJSXN5NDltd2dkT3pMVlk5c1pnakE?oc=5",
+      "published": "Wed, 23 Sep 2026 09:06:20 GMT",
+      "source": "Social News XYZ",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.3
+      "freshness_hours": 1.3
     },
     {
       "title": "India needs 'whole-of-industry' approach to build global electronics, semiconductor hub - Investment Guru India",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.5
+      "freshness_hours": 1.5
     },
     {
       "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 23.0
+      "freshness_hours": 24.0
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-23T09:22:16.873114+00:00"
+  "landed_updated_utc": "2026-09-23T10:21:57.067135+00:00"
 }
