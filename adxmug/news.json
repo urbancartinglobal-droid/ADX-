@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Wafer Retainer Rings and Holders Market To 2035: Replacement Demand and 300mm Fab Expansion Drive Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmIxaUZZVzhvRGRUNXdvZjI1Ylg2RGIxNlFmaVA5bVEtY1NBdE1oUFJySV9KdV9HQUNrWGNkLW0waWI0WkNrRlU1VmlUQzZHV2xfZDdMdGFuOEF5Nk1DVUpiV29HQlVlb1pwcXo3X1JoM1AxdmZRMkpVaXJuNzZqaVZPYkxPeWJsZ3czMTVXWUMtc3BpcXNpVzc3eVNtRVNRMEgwdWkxMTVDTkg0Rk1PXzdZOHhqd05jVlNJZDk0NkFLenRsaXMwWXVqMnEzU2pfTEFfakZxaHFnUQ?oc=5",
+      "published": "Wed, 23 Sep 2026 05:31:12 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 1.9
+    },
+    {
+      "title": "Haryana cooperative sugar mills win national awards for technical efficiency - ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTE5Uc0lmTERGM1VSSGVuZ3BKSzdGblFDd0JvOVJYdGRuV29sLVZrOFEtZlZIbGxFVHpCRFhBbk93Vl9pN1NlUHZTNnMtY01qNlJtcTRUOWpRSkhwVzV3TnQtMWxWMVduVXFnWmtjSF9nVGpTQk01U0pTNzk0WmtMVlhtRnFYRVRxbUZLc1ZMbjNFY0hwNDhnbnFpb21zT0tmbzNXRUVkZw?oc=5",
+      "published": "Wed, 23 Sep 2026 06:17:04 GMT",
+      "source": "ChiniMandi",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 1.1
+    },
+    {
+      "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdUJOZWJUME9HdjdtWmtrNFNQQUYyaXduaFBEN2oyTHotaldyc1RTN2xDbGxoUnJSMWoyQjZiYm9RZG8yQ2NIbFVzajA4blVROWw3ci0wSThzMlY0RTYycVJyOFlfM2Vzb3BOejVIOWM0SUdkWS05alItTmw4eHBEQVV5aXF1OHFuSTVtbDVCS1NZekhhVzRDZTBXd25OcVFBTHRxdzF6dEVibzdKb3VuZTlWNUxOTmFaOHpxM19yTU4xNC1RNDhtSHpGVkI2eHBYOUlSbmRRVHFtWHZTWXdsOFl0ZU9BSHhXVWpJUGFoQVJmUTQzcUktX1ROX3RXd2RzUVh0WnlmT1ZuVEdmczBWNjdGTjg?oc=5",
+      "published": "Tue, 22 Sep 2026 10:24:40 GMT",
+      "source": "Investment Guru India",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 21.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -381,5 +424,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-23T07:22:39.166631+00:00"
 }
