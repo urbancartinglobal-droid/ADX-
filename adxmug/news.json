@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-09-23T06:34:06.655865+00:00",
+  "updated_utc": "2026-09-23T12:33:09.887993+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Threaded Steel Rod Stock Market to Accelerate on Semiconductor Fab Construction, Reaching 2035 Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeWUtT1BFTGtCZTVDb2ViSHBUcEJIbk1adlhyeTduVHhMX29wYUwzeFVQQ2JRRVl2RUJDcE93TTRoTUJQcE1wZ3BEbGRwZ1V0RlNCM0Y1OGhGN1RmZkJJcWV4STlxb0ctZndyT0w4T1NGMzNhaDd2al9GdkJuY1NmQ3hlY1BhOXU5aGhaVlhlTnhvT19MNmlkdHBPWnl1NWtsakhHZ1Y4cXNMZ3NkWVFNQldaUnRabDZ0SmFKMHE0azkwYVpYeEk3cGtHcmQyUQ?oc=5",
-      "published": "Wed, 23 Sep 2026 12:01:10 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.4
-    },
-    {
-      "title": "RBI absorbs Rs 75,026 crore through VRRR auction amid surplus liquidity - Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNamtVTW5kam9ERUR0c3VkNEtxbVQ0d1VNOFFNRnlUNlhuQTU3MTJCREtpdkFkRXlsbTI2VlRhSHp6LWFQb0poOUszdFQ3VUJ4SGxNaTdLUDEwa0YxeHRMdG1wZjdBME8tWGxYS3I0ekdUWjEyaFVpZXFFWnRiczNNTmtwVVZEaWEzQ1dZU3NVcGdCMGNENWc4anM5VFZYdw?oc=5",
-      "published": "Wed, 23 Sep 2026 11:55:41 GMT",
-      "source": "Telangana Today",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.5
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -410,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-23T12:26:56.801946+00:00"
+  ]
 }
