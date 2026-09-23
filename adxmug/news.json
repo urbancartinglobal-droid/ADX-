@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 14.7
+      "freshness_hours": 15.7
     },
     {
-      "title": "India Warns Semiconductor Industry of Cyberattacks, Disruption as Chip Manufacturing Expands - boldnewsonline.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjVZYWFlQjFvSjJ0dDlpTFRHcGJTamZrZlhTU2hvZ185dnVEdmlHaWhod0pENGNLWUNidVVUUE8tTEhrUEp2R29ieVZfV2FrWFpzZ2YteVY1YzRkZmU3Wno0MXlFRHJyNWx1T2Q3U0wtRUlkRFJZNDE0bjZoYjloc3pQUWdncFdPTTl1UUlzR3VrMm5RUUhZcU1lTE1mTmoyU05BU3NYQTQ1YVFjcUhTYVRoYXFDVV84Rndv?oc=5",
-      "published": "Tue, 22 Sep 2026 05:17:27 GMT",
-      "source": "boldnewsonline.com",
+      "title": "Conductive Electrostatic-Dissipative Laminate Market Forecast to 2035 Driven by Semiconductor Cleanroom Mandates - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTERXT2dPckpieGZqb0ZSRnV2UVpKNEVwcWFBNi0tYTdyM2hBci1KOHJFUWE0THA5Nmt5b1F3ODd5Y2RNRzNxVHlKVHpGU0RxTVF5cGd0MV9Jb2M3NjlDZ041MzZUeVhjeWlHZFZBcGltVEY4UTI4UHVNT1ZpY1dGUXl6NklWZ1BTbGhkMWFjMW8yNk9OSXQ1WFZhM0dKNzBMQlNzVXRmeFBaRkFnNlNUX3hzdUc5VTdJN1Z3YWFjbGNHTFBFQjVTX3djamkwUXE0TVF2eVU4VTNIZTlRdWtnYmtOYVVURDZvdkE?oc=5",
+      "published": "Tue, 22 Sep 2026 18:31:12 GMT",
+      "source": "IndexBox",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 23.1
+      "freshness_hours": 10.8
     },
     {
       "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 18.0
+      "freshness_hours": 18.9
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-23T04:22:49.686160+00:00"
+  "landed_updated_utc": "2026-09-23T05:20:57.851435+00:00"
 }
