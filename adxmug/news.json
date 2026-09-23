@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI moves, tax outflows shrink liquidity surplus | Financial Express Mumbai - newspaper - Magzter",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQai03OEVCVi1TeTM1Z0tKekRkOWxLSmszWXpYSFNmdjNsakQwOEc2XzhLVlpqNDdXeThoaDgzc25lNVNyaU1wXzFVUWY5N3NoSUxvOS1yRVlNa1NlbFB0OVBnNkt2aWNMVnRwdGlnMWtUdXl2REE5MUlYU21fR1lXWGVxNUtBblNJOUptTmVyVEM2cjAzRHpJdXU2Ty11YzVvUVhsY19RM0VDQ1NGOTNDRG52c1I?oc=5",
-      "published": "Wed, 23 Sep 2026 03:31:13 GMT",
-      "source": "Magzter",
+      "title": "RBI absorbs ₹75,026 cr via overnight VRRR auction amid surplus liquidity - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSDZnMTBGTy01OHdmektZS1kzaWkxdkFUeGFiTS1oNFo2UUFWSUpmN3RYZWZ2aE1BV1ZWZk1PS0E3d1N3LVRLMHJkV0I0dFA4UUZac1liR3V3R2o5VnBsYm1SSGNRYTRfenlSQkxmTzQxLXlVZ3lOTzRXdDBHNTE1Z0EwWWN0cGd3eEppckc1NU9iX1E5ZWNrbl9CeW55ZUVLZ2pXaS1QbmpjVFJFcVNuLXJKdlk0aXlaM3VlbGJKMjNrc2FhUE9FREs3YWZGODVHalpRS9IB2gFBVV95cUxPdVVzTUxxaUszdG1HaEVJNGRhbG9NdW9lZ3EwTTRpMWpjdXFBSnY2M05ZOGVzbHhHdU9kRHJwX2JHbmFFUjRXa1RLUzRRTFB6NDNEWHJBbGp1Y3RVc0ZfQWo0ZlJZb3BhbFZkNzQ5MUYxbXNLN3NRbVljR1pCOE00Mnp1dEM2NFdTQmF2RUJEa3hRNnpIR3h4R2huamFsQlhPYktCOFk1My1RVE1tR2Vra0x1NTMtanNhRmhaM2V2MFZBb0tyNE5peXJpX0NtdDhSbUJHaVFfZWFVZw?oc=5",
+      "published": "Wed, 23 Sep 2026 09:02:34 GMT",
+      "source": "Business Standard",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,21 +17,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.9
+      "freshness_hours": 0.3
     },
     {
-      "title": "Business Watch: Ineos opens Danish carbon storage site, and more - Chemical & Engineering News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVk5OaXBJeFV6M2NkMjdBOGxlQUs4MUwzRFRDN2l0bWNCODRNa19nbUZESzk4a3g2UWZzX0lReWdUeFQxNlR3N2tIb21xRWVTblFKZ1VMZjZONnNjMlVIZVVUd1VmY0VZaUQzQ002NDlhNEx6ZVJValIybDhtYTBSTUxoMXV6bE81SFNXRXpfcXY5Rkwxc1RoVExqN1J3dzgtSS1hTw?oc=5",
-      "published": "Tue, 22 Sep 2026 18:54:05 GMT",
-      "source": "Chemical & Engineering News",
-      "sector": "Chemicals & Materials",
+      "title": "India needs 'whole-of-industry' approach to build global electronics, semiconductor hub - Investment Guru India",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkFFUTNGaWV5aWFkY2Nka09ybm1YOXF5b3BWTmgwV3RHQlZPNTlJS24tREF4bFRyLVlVUVZWZWtTY0FoUXAxLWJveXh1eDRPcWRwV0FXTkF6Mk1WTjV0bWJVWjhiRHJqZjZOT2xWZ1NUcl9GamNDQkwwcGpJR3JVNjhKN1FjaWwtSldzZGVpNHlmV2VWcW5VbGctU080Q3hsT3hKUEtRdzdoVmQ1UWg3aHVJeFEyZVplZ011OHZlLWRzNlZuaVlVWEtEUEtKUQ?oc=5",
+      "published": "Wed, 23 Sep 2026 08:51:43 GMT",
+      "source": "Investment Guru India",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.5
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 0.5
     },
     {
       "title": "India's Textile Sector Poised for Global Scale-Up as Trade Tailwinds and Supply-Chain Diversification Create New Opportunities: PL Capital - Investment Guru India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 22.0
+      "freshness_hours": 23.0
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-23T08:23:12.477107+00:00"
+  "landed_updated_utc": "2026-09-23T09:22:16.873114+00:00"
 }
