@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Pakistan Orders US Drones as Washington–Beijing Arms Rivalry Reaches South Asia - defencesecurityasia.com",
+      "title": "Pakistan Orders US Drones as Washington–Beijing Arms Rivalry Reaches South Asia - Defence Security Asia",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX211WWNQa19rTU1ueU9CcW55RkFNSU1RYWVUMXZMNFVzUmZ0OWdYcjFLUGZqUG1maC00WS1BOEh5WXVLRTFIT0luNG5qY3FiVFp3emdBWlpWRUJZUmhQa2dtdU5kUkpkWlJESG1yXzZTNl9sNUNLOHRZcnZYZVZscHc3ZWtRUQ?oc=5",
       "published": "Thu, 24 Sep 2026 11:09:21 GMT",
-      "source": "defencesecurityasia.com",
+      "source": "Defence Security Asia",
       "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 8.2
+      "freshness_hours": 9.2
     },
     {
       "title": "RBI sells INR 25,000 crore govt securities in second OMO tranche to drain surplus liquidity - Prop News Time",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 10.3
+      "freshness_hours": 11.4
     }
   ],
   "opportunities": [
@@ -422,5 +422,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-24T19:20:31.502306+00:00"
+  "landed_updated_utc": "2026-09-24T20:23:31.648351+00:00"
 }
