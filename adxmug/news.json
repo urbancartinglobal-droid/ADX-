@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Pakistan Orders US Drones as Washington–Beijing Arms Rivalry Reaches South Asia - defencesecurityasia.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX211WWNQa19rTU1ueU9CcW55RkFNSU1RYWVUMXZMNFVzUmZ0OWdYcjFLUGZqUG1maC00WS1BOEh5WXVLRTFIT0luNG5qY3FiVFp3emdBWlpWRUJZUmhQa2dtdU5kUkpkWlJESG1yXzZTNl9sNUNLOHRZcnZYZVZscHc3ZWtRUQ?oc=5",
+      "published": "Thu, 24 Sep 2026 11:09:21 GMT",
+      "source": "defencesecurityasia.com",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 8.2
+    },
+    {
+      "title": "RBI sells INR 25,000 crore govt securities in second OMO tranche to drain surplus liquidity - Prop News Time",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWE9nemo1LUtRLTFETS1Lc2U0MmpjdlJaa2FVdmlDejczSTBFNkpYX256RDFFX2JPOC1pbHB3WENFX0tlT1EtN21DUEREZ1J0OXBuLXdQWWVPdjFnRmxVd25JVmJZVFpFa1Z5dGNoWDFaR21VSklLSGVuQWJtYmlQVVVKM0lvSHVSWTNUODltekhCbFRhLUx5Q0lfcjdNM2liX2k1S3FiS2k0Vko1YWNOTFZfMFRqcTJSeWRwTV9iYmJNbmkxZDd4UmhOUzZpUk45WnVNRkpYNWJidzg?oc=5",
+      "published": "Thu, 24 Sep 2026 09:00:21 GMT",
+      "source": "Prop News Time",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 10.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -392,5 +421,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-24T19:20:31.502306+00:00"
 }
