@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Pakistan Orders US Drones as Washington–Beijing Arms Rivalry Reaches South Asia - defencesecurityasia.com",
+      "title": "Pakistan Orders US Drones as Washington–Beijing Arms Rivalry Reaches South Asia - Defence Security Asia",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX211WWNQa19rTU1ueU9CcW55RkFNSU1RYWVUMXZMNFVzUmZ0OWdYcjFLUGZqUG1maC00WS1BOEh5WXVLRTFIT0luNG5qY3FiVFp3emdBWlpWRUJZUmhQa2dtdU5kUkpkWlJESG1yXzZTNl9sNUNLOHRZcnZYZVZscHc3ZWtRUQ?oc=5",
       "published": "Thu, 24 Sep 2026 11:09:21 GMT",
-      "source": "defencesecurityasia.com",
+      "source": "Defence Security Asia",
       "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 10.2
+      "freshness_hours": 11.2
     },
     {
       "title": "RBI sells INR 25,000 crore govt securities in second OMO tranche to drain surplus liquidity - Prop News Time",
@@ -31,7 +31,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 12.3
+      "freshness_hours": 13.4
+    },
+    {
+      "title": "Pharma Supply Chains in Flux: Navigating Tariffs, Trade and Geopolitics - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGJucTFweTVfbUxtdVJMNjRJYW9VTDV2aXZOQnpJd1FIc09Pdmg2YTFqTXdyQXJ0X2hnMkVxNVJyQ2xfR01Vam5idmpZN29meGczN0Q1cGtPRUNLMDRtZzFBMnR5cE1NUEdVRnNvRmRxYWFwN1BYdm43ejhxSGRSVlV1Z1RKYzl4Tkk1VTRvY0U3WjdQVkF1Q2s3b1lmRG1pT1Flc0JiWjlEcV9fNEJQMDFVdXJpdTBMZEgtTXVyeFhLNm9RS2NnS1lKeFhmaEVWX1M3S3hFSWZ1XzdqeExNUzlyTDFXbzdzTWRzcUJ4dGvSAfABQVVfeXFMUExibnExcHk1X21MbXVSTDY0SWFvVUw1dml2TkJ6SXdRSHNPT3ZoNmExak13ckFydF9oZzJFcTVSckNsX0dNVWpuYnZqWTdvZnhnMzdENXBrT0VDSzA0bWcxQTJ0eXBNTVBHVUZzb0ZkcWFhcDdQWHZuN3o4cUhkUlZVdWdUSmM5eE5JNVU0b2NFN1o3UFZBdUNrN29ZZkRtaU9RZXNCYlo5RHFfXzRCUDAxVXVyaXUwTGRILU11cnhYSzZvUUtjZ0tZSnhYZmhFVl9TN0t4RUlmdV83anhMTVM5ckwxV283c01kc3FCeHRr?oc=5",
+      "published": "Thu, 24 Sep 2026 17:30:16 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 4.9
     }
   ],
   "opportunities": [
@@ -422,5 +436,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-24T21:21:09.767572+00:00"
+  "landed_updated_utc": "2026-09-24T22:21:46.267115+00:00"
 }
