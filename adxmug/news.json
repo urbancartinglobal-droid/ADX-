@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "India to mandate use of locally designed chips in smart meters from mid-2028: Power Secy Pankaj Agarwal - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXRDUmlSMURaV0dzOEhUS2xCd2hVMzRQSHQ4S0ZRNjR6aUItVTlDTlB5NWx3QXJmQWhMdWJiM2YyTzN2Vkt2SkEzM05qc2N0WE1CZ2xJQ2VTQzI5anZ1dDNQMldaQWtIUWh3TVczWVZ4WXo1NGxlVksyQl8wWnVyYVg3dFZNaVpmSkRKaVlUOUVjSnM3dkRISzl3TFdSRUgxMi1aeVoxOWdLcVo2OGZGZXFoR0V1bDBrcGF1WkV2WU5oSDdoazZ2T3VlQTNUOUJlR3hxVGdweHoxUmROMTZyX3Z3ZkV5UkNpME1GcGZCQ03SAfYBQVVfeXFMTTJWcW5LVENnakI2d2RGQUFyVmhkQjV3eGh1SDZvX3Y1c2FhMzF4WTEyUTZ3TEVuM3FEdzVMSVJpN0VMVUhFcmJSdFRlU0JrTl9tdF9qNG1PaUUxQ2RvdVYweFlxaXIxTzZ3LV9TVGZoMjlyY0FnZnRyY0NpSktjalFRSUQyOC1mLXJLc3lvLUNBamd4Zm14SkZNSWswZERyMl9wMTltUFdvbGlVOW14eFVGeWtFV01fSWVIRXViRm8xcWY0dVFuT1lWNTduS0ZSdGpDV2Z6RWxvSFlvMnJNeEZXSTF1RmVqNXZ3R280RVp0UmpwLXN3?oc=5",
+      "published": "Thu, 24 Sep 2026 10:57:09 GMT",
+      "source": "Moneycontrol.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 1.5
+    },
+    {
       "title": "RBI sells INR 25,000 crore govt securities in second OMO tranche to drain surplus liquidity - Prop News Time",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWE9nemo1LUtRLTFETS1Lc2U0MmpjdlJaa2FVdmlDejczSTBFNkpYX256RDFFX2JPOC1pbHB3WENFX0tlT1EtN21DUEREZ1J0OXBuLXdQWWVPdjFnRmxVd25JVmJZVFpFa1Z5dGNoWDFaR21VSklLSGVuQWJtYmlQVVVKM0lvSHVSWTNUODltekhCbFRhLUx5Q0lfcjdNM2liX2k1S3FiS2k0Vko1YWNOTFZfMFRqcTJSeWRwTV9iYmJNbmkxZDd4UmhOUzZpUk45WnVNRkpYNWJidzg?oc=5",
       "published": "Thu, 24 Sep 2026 09:00:21 GMT",
@@ -17,21 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.4
-    },
-    {
-      "title": "Semiconductor Gases Market To 2035: Growth Backed by Fab Expansion and Node Migration - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXlkQkpOU3RjM2V1Tm5ncGZhbndlTE9SdE1FMDYtcHJRRVpUZ2RkMWFicWdxLVJCNWw2Mjdha19aZ3hWanY1NG9hNHgzeVZRTG1BbkdLRlF0VkRpaEo2bHdENkplUmlRRzRZRWJqbExoVnRBa3RkQUl4M0EtR0NpTEQtTGlqcnRwZkFydmFsTXFuaWgwdE1wMjM0RWZkUnVEYXVUT2pEWndOU0pKY2o3NnluMkJhS2lyNjkwckFPOVBUb0ZQaHFsNDYzd1gwYWNMUG13?oc=5",
-      "published": "Wed, 23 Sep 2026 19:56:04 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 15.4
+      "freshness_hours": 3.4
     }
   ],
   "opportunities": [
@@ -422,5 +422,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-24T11:21:53.529009+00:00"
+  "landed_updated_utc": "2026-09-24T12:27:10.274066+00:00"
 }
