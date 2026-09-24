@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Semiconductor Gases Market To 2035: Growth Backed by Fab Expansion and Node Migration - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXlkQkpOU3RjM2V1Tm5ncGZhbndlTE9SdE1FMDYtcHJRRVpUZ2RkMWFicWdxLVJCNWw2Mjdha19aZ3hWanY1NG9hNHgzeVZRTG1BbkdLRlF0VkRpaEo2bHdENkplUmlRRzRZRWJqbExoVnRBa3RkQUl4M0EtR0NpTEQtTGlqcnRwZkFydmFsTXFuaWgwdE1wMjM0RWZkUnVEYXVUT2pEWndOU0pKY2o3NnluMkJhS2lyNjkwckFPOVBUb0ZQaHFsNDYzd1gwYWNMUG13?oc=5",
+      "published": "Wed, 23 Sep 2026 19:56:04 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 11.4
+    },
+    {
+      "title": "RBI Absorbs Rs 71,971 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHRMSUc2akFhcFhWWEVRcWxIT3dhTzFMRHBQMGdJMHFwVjg5VGN5dzR5eEVDM2daOGlKSDBoRFlSalJLTXlJR1Btb2JfSmloZ2RwYjZfUFpBT0R5bE9VUC1qRl9ocVJpYUhBWTVIY2J5VlR2eVI2UWl5Tm1qMm9vQjh0bDBuYzMtMmlpX25vNlNOLTQ2LUpwNEcyQ3BJQ2dBWTRBUm5YUHN1RkJxdHhVczRDMG5rRU1NNlE?oc=5",
+      "published": "Wed, 23 Sep 2026 19:28:37 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 11.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -392,5 +421,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-24T07:22:28.340782+00:00"
 }
