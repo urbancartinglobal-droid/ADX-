@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Italian Navy orders 2 DDX destroyers to strengthen its air defence for €3.7 billion - Meta-Defense",
+      "title": "Italian Navy orders 2 DDX destroyers to strengthen its air defence for €3.7 billion - meta-defense.fr",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VU1J2dFdyOEU1NkJ2NnJWSkVwY3gxZXF5OHZCdU95c3FCeFh3X3cyck4yX2N3NnN1SHlKbTFodEs5X0RxcWFremUyeDA2aGN6SU9vajFYdF9IVno3RFEwWGx2bHdSZ0s1aWN3Q2xqTDRUVnZiZWstb25yUm8xOFU?oc=5",
       "published": "Thu, 24 Sep 2026 16:26:45 GMT",
-      "source": "Meta-Defense",
+      "source": "meta-defense.fr",
       "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 14.9
+      "freshness_hours": 16.0
     },
     {
       "title": "India Infrastructure Projects Are Cutting Travel Times - urbanacres.in",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 5.1
+      "freshness_hours": 6.2
     },
     {
       "title": "Pharma Supply Chains in Flux: Navigating Tariffs, Trade and Geopolitics - pharma.economictimes.indiatimes.com",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 13.9
+      "freshness_hours": 14.9
     }
   ],
   "opportunities": [
@@ -436,5 +436,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-25T07:22:57.117343+00:00"
+  "landed_updated_utc": "2026-09-25T08:24:01.036931+00:00"
 }
