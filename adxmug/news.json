@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Italian Navy orders 2 DDX destroyers to strengthen its air defence for €3.7 billion - Meta-Defense",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VU1J2dFdyOEU1NkJ2NnJWSkVwY3gxZXF5OHZCdU95c3FCeFh3X3cyck4yX2N3NnN1SHlKbTFodEs5X0RxcWFremUyeDA2aGN6SU9vajFYdF9IVno3RFEwWGx2bHdSZ0s1aWN3Q2xqTDRUVnZiZWstb25yUm8xOFU?oc=5",
+      "published": "Thu, 24 Sep 2026 16:26:45 GMT",
+      "source": "Meta-Defense",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 14.9
+    },
+    {
+      "title": "India Infrastructure Projects Are Cutting Travel Times - urbanacres.in",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TWWd5UHdMMFR5djRTLTdpNHJYVm1ILU9SbzlpYm5JTzE5WkdQc2N3UVFwR0w0djV4TElNbkhXd1kyTlZFMktidGhRdlB4R2hSMmJmY0o4UmhXZUtTZUx2dEIySW96QklJZ1pOYTJhMzQtMXNNeTRhQ1BNRzFBS28?oc=5",
+      "published": "Fri, 25 Sep 2026 02:14:35 GMT",
+      "source": "urbanacres.in",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 5.1
+    },
+    {
+      "title": "Pharma Supply Chains in Flux: Navigating Tariffs, Trade and Geopolitics - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGJucTFweTVfbUxtdVJMNjRJYW9VTDV2aXZOQnpJd1FIc09Pdmg2YTFqTXdyQXJ0X2hnMkVxNVJyQ2xfR01Vam5idmpZN29meGczN0Q1cGtPRUNLMDRtZzFBMnR5cE1NUEdVRnNvRmRxYWFwN1BYdm43ejhxSGRSVlV1Z1RKYzl4Tkk1VTRvY0U3WjdQVkF1Q2s3b1lmRG1pT1Flc0JiWjlEcV9fNEJQMDFVdXJpdTBMZEgtTXVyeFhLNm9RS2NnS1lKeFhmaEVWX1M3S3hFSWZ1XzdqeExNUzlyTDFXbzdzTWRzcUJ4dGvSAfABQVVfeXFMUExibnExcHk1X21MbXVSTDY0SWFvVUw1dml2TkJ6SXdRSHNPT3ZoNmExak13ckFydF9oZzJFcTVSckNsX0dNVWpuYnZqWTdvZnhnMzdENXBrT0VDSzA0bWcxQTJ0eXBNTVBHVUZzb0ZkcWFhcDdQWHZuN3o4cUhkUlZVdWdUSmM5eE5JNVU0b2NFN1o3UFZBdUNrN29ZZkRtaU9RZXNCYlo5RHFfXzRCUDAxVXVyaXUwTGRILU11cnhYSzZvUUtjZ0tZSnhYZmhFVl9TN0t4RUlmdV83anhMTVM5ckwxV283c01kc3FCeHRr?oc=5",
+      "published": "Thu, 24 Sep 2026 17:30:16 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 13.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -392,5 +435,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-25T07:22:57.117343+00:00"
 }
