@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 11.7
+      "freshness_hours": 12.7
     },
     {
       "title": "RBI Absorbs Rs 91,665 Cr As Liquidity Surplus Hits Rs 10.66 Lakh Cr - BW Businessworld",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.6
+      "freshness_hours": 1.6
     },
     {
       "title": "FDA approves Lilly’s Onswik for type 2 diabetes in adults - Pharmaceutical Technology",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 8.8
+      "freshness_hours": 9.8
     }
   ],
   "opportunities": [
@@ -422,5 +422,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-25T22:21:27.656333+00:00"
+  "landed_updated_utc": "2026-09-25T23:19:50.454549+00:00"
 }
