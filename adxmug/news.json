@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "Cognex launches AI-powered wafer reader for chip fabs - eenewseurope.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczRINVNZbEZyb2lTNmxmWk5ZN0FvR0FIdzFrSUc2VzJaSElwcDgzcS1ROW1NNHMwZnpnZ2p1dm1LdUtiSlJ5SUNkZm1CODFsZ2lXbkVkSXVXMHRQT0RHR1lhUEVDblBGR3Z1MnRMeDJEN0dpUElYbkU3NWh5dnNPMndnV244QUVHU2wtSm1YNA?oc=5",
+      "published": "Fri, 25 Sep 2026 07:53:25 GMT",
+      "source": "eenewseurope.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 3.5
+    },
+    {
       "title": "New US Tariffs on Chinese Drones Raise Costs for Spray-Drone Farmers - Global Agriculture",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTF1X2xhTWZMRWl3U1Y4RExWU1E3ZGxCSkZ4OXJZLXo5Y3ZlLUZwbkkwWUNHLTRxYkEyaU9LZ0VoNUlyalpZOTNuWEc5VFNtdThueGlxUG5OS2xUdFM3a2ZlOHdkanh6RUstWnF6V3ZFYzVzWGpHcFhMcE5rQXBDR0l3LWV5ZGkxYUFRZnhQSHp5aGhIQ1dNRlhWQnM4VUMxNWdPNWJ0Y3ZyLWtqaUI2R25yZExWVVl3czF0akdWaXBtV0tNX3Iwcg?oc=5",
       "published": "Fri, 25 Sep 2026 09:53:14 GMT",
@@ -17,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 0.5
+      "freshness_hours": 1.5
     },
     {
       "title": "FII Investments In G-Secs Tax-Exempt: RBI Takes Measures To Attract Foreign Capital - fintechbiznews.com",
@@ -31,21 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.2
-    },
-    {
-      "title": "India to mandate use of locally designed chips in smart meters from mid-2028: Power Secy Pankaj Agarwal - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXRDUmlSMURaV0dzOEhUS2xCd2hVMzRQSHQ4S0ZRNjR6aUItVTlDTlB5NWx3QXJmQWhMdWJiM2YyTzN2Vkt2SkEzM05qc2N0WE1CZ2xJQ2VTQzI5anZ1dDNQMldaQWtIUWh3TVczWVZ4WXo1NGxlVksyQl8wWnVyYVg3dFZNaVpmSkRKaVlUOUVjSnM3dkRISzl3TFdSRUgxMi1aeVoxOWdLcVo2OGZGZXFoR0V1bDBrcGF1WkV2WU5oSDdoazZ2T3VlQTNUOUJlR3hxVGdweHoxUmROMTZyX3Z3ZkV5UkNpME1GcGZCQ03SAfYBQVVfeXFMTTJWcW5LVENnakI2d2RGQUFyVmhkQjV3eGh1SDZvX3Y1c2FhMzF4WTEyUTZ3TEVuM3FEdzVMSVJpN0VMVUhFcmJSdFRlU0JrTl9tdF9qNG1PaUUxQ2RvdVYweFlxaXIxTzZ3LV9TVGZoMjlyY0FnZnRyY0NpSktjalFRSUQyOC1mLXJLc3lvLUNBamd4Zm14SkZNSWswZERyMl9wMTltUFdvbGlVOW14eFVGeWtFV01fSWVIRXViRm8xcWY0dVFuT1lWNTduS0ZSdGpDV2Z6RWxvSFlvMnJNeEZXSTF1RmVqNXZ3R280RVp0UmpwLXN3?oc=5",
-      "published": "Thu, 24 Sep 2026 10:57:09 GMT",
-      "source": "Moneycontrol.com",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 23.4
+      "freshness_hours": 6.2
     }
   ],
   "opportunities": [
@@ -436,5 +436,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-25T10:22:24.929959+00:00"
+  "landed_updated_utc": "2026-09-25T11:22:07.424073+00:00"
 }
