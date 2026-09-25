@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-25T06:34:11.693942+00:00",
+  "updated_utc": "2026-09-25T12:33:45.022544+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "India Eyes Mid-2028 Mandate For Domestically Designed Chips In Smart Electricity Meters - Swarajya",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzc2RWt5bElJUmo2Q1lzSmVwQVRZNVVNNVFqRGJIUkFTM0RKNWlia0otTmMwY29yRmRRYUpnaER1VGtFaDMtM21ib2xHdF94N2hNMjV4SUtZV2NsdlhLMzJZaWRKQUpkTzgyM0tsQzVnN2U4S3B2LVhsbHNxX1h3LTNuRUZJT3RHSk14LThyakVIa282TEZUNXJlQVJxOTRzWmJOTWZmcEw3S3FCNnBaTktaVXdaSnfSAccBQVVfeXFMTXFFaHJ4OVlJb19VSVBEVEg1VGM2WXp0eThpY3c4OWp5REZVN0Jfb0JoWDdLUFpwLWRVWmxCclFfTnlQbGp6YURLcVJCb1h3dlRPZl9YYWFKdGt0RjRnb1ZKUEEzeDZKcWlwZWRUaTRoTVBzTDZ1b0szUGhxUjllX01YYVNKVVl4bklXRWRFeXJic0pWVHk1MFJ6SS01U2tBaHItREVLRFZ1TEVjMW0yLTY5ejUtaXdJMHJTU0JOUGY2SWo5cWdzNA?oc=5",
-      "published": "Fri, 25 Sep 2026 10:42:45 GMT",
-      "source": "Swarajya",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.7
-    },
-    {
-      "title": "New US Tariffs on Chinese Drones Raise Costs for Spray-Drone Farmers - Global Agriculture",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTF1X2xhTWZMRWl3U1Y4RExWU1E3ZGxCSkZ4OXJZLXo5Y3ZlLUZwbkkwWUNHLTRxYkEyaU9LZ0VoNUlyalpZOTNuWEc5VFNtdThueGlxUG5OS2xUdFM3a2ZlOHdkanh6RUstWnF6V3ZFYzVzWGpHcFhMcE5rQXBDR0l3LWV5ZGkxYUFRZnhQSHp5aGhIQ1dNRlhWQnM4VUMxNWdPNWJ0Y3ZyLWtqaUI2R25yZExWVVl3czF0akdWaXBtV0tNX3Iwcg?oc=5",
-      "published": "Fri, 25 Sep 2026 09:53:14 GMT",
-      "source": "Global Agriculture",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.6
-    },
-    {
-      "title": "FII Investments In G-Secs Tax-Exempt: RBI Takes Measures To Attract Foreign Capital - fintechbiznews.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkhHMUVxbll3RktrQjBhZERGdUxfb2VhSmpDeWxVbXRlbVBLQTZac25wRjZqdnpmdE80N05TTGhod04xSjhTT2xtQ0lzLU50ZFNlVWpycXRCSlpZX0FCX3hXWnhMNjV1bHotY1kxYnlWOUNfMk5EUjFYN0xMSGswb3ZFa2VFM1AwbE9iREFINnRLdDRoaWJ3?oc=5",
-      "published": "Fri, 25 Sep 2026 05:11:16 GMT",
-      "source": "fintechbiznews.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 7.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -61,8 +18,8 @@
       ],
       "evidence": [
         {
-          "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
-          "source": "ChiniMandi",
+          "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - chinimandi.com",
+          "source": "chinimandi.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNUd3ZCVHIxWmxiYTVqZkg2QVZNZTkycXVObXFldGxtMDNjZnZXb3I2RUdhUnZ3ckhZMDVlUTBTMU1wMWdXZWFyQnEtZkhwaWU1Y2F2d2Nua2VqNkpkVjNOeV9yUjJuMmcwX1ZTRE9lLUpPNldzY2JKUUJwczZGVWN0NW93ZmhvT29pUVhfeHNlTW1KOWlwb01OVkFNMjRCRWJVUzdR?oc=5",
           "triggers": [
             "POLICY",
@@ -103,8 +60,8 @@
           "companies": []
         },
         {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
-          "source": "ChiniMandi",
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - chinimandi.com",
+          "source": "chinimandi.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
           "triggers": [
             "POLICY",
@@ -149,8 +106,8 @@
           "companies": []
         },
         {
-          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
-          "source": "Business Standard",
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - business-standard.com",
+          "source": "business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
           "triggers": [
             "POLICY",
@@ -159,8 +116,8 @@
           "companies": []
         },
         {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
-          "source": "Business Standard",
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - business-standard.com",
+          "source": "business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
           "triggers": [
             "POLICY",
@@ -179,8 +136,8 @@
           "companies": []
         },
         {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - business-standard.com",
+          "source": "business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
           "triggers": [
             "POLICY",
@@ -435,6 +392,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-25T12:27:19.052571+00:00"
+  ]
 }
