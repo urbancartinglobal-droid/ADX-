@@ -6,10 +6,24 @@
   "articles": [],
   "landed": [
     {
-      "title": "Italian Navy orders 2 DDX destroyers to strengthen its air defence for €3.7 billion - meta-defense.fr",
+      "title": "FII Investments In G-Secs Tax-Exempt: RBI Takes Measures To Attract Foreign Capital - fintechbiznews.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkhHMUVxbll3RktrQjBhZERGdUxfb2VhSmpDeWxVbXRlbVBLQTZac25wRjZqdnpmdE80N05TTGhod04xSjhTT2xtQ0lzLU50ZFNlVWpycXRCSlpZX0FCX3hXWnhMNjV1bHotY1kxYnlWOUNfMk5EUjFYN0xMSGswb3ZFa2VFM1AwbE9iREFINnRLdDRoaWJ3?oc=5",
+      "published": "Fri, 25 Sep 2026 05:11:16 GMT",
+      "source": "fintechbiznews.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 4.2
+    },
+    {
+      "title": "Italian Navy orders 2 DDX destroyers to strengthen its air defence for €3.7 billion - Meta-Defense",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VU1J2dFdyOEU1NkJ2NnJWSkVwY3gxZXF5OHZCdU95c3FCeFh3X3cyck4yX2N3NnN1SHlKbTFodEs5X0RxcWFremUyeDA2aGN6SU9vajFYdF9IVno3RFEwWGx2bHdSZ0s1aWN3Q2xqTDRUVnZiZWstb25yUm8xOFU?oc=5",
       "published": "Thu, 24 Sep 2026 16:26:45 GMT",
-      "source": "meta-defense.fr",
+      "source": "Meta-Defense",
       "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,21 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 16.0
-    },
-    {
-      "title": "India Infrastructure Projects Are Cutting Travel Times - urbanacres.in",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TWWd5UHdMMFR5djRTLTdpNHJYVm1ILU9SbzlpYm5JTzE5WkdQc2N3UVFwR0w0djV4TElNbkhXd1kyTlZFMktidGhRdlB4R2hSMmJmY0o4UmhXZUtTZUx2dEIySW96QklJZ1pOYTJhMzQtMXNNeTRhQ1BNRzFBS28?oc=5",
-      "published": "Fri, 25 Sep 2026 02:14:35 GMT",
-      "source": "urbanacres.in",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 6.2
+      "freshness_hours": 16.9
     },
     {
       "title": "Pharma Supply Chains in Flux: Navigating Tariffs, Trade and Geopolitics - pharma.economictimes.indiatimes.com",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 14.9
+      "freshness_hours": 15.9
     }
   ],
   "opportunities": [
@@ -436,5 +436,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-25T08:24:01.036931+00:00"
+  "landed_updated_utc": "2026-09-25T09:23:27.050952+00:00"
 }
