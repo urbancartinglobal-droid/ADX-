@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Germany Approves Defence Package Including AMRAAM Missiles for F-35 Jets, Maritime IRIS-T SLM - Defensemirror.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOclpPT21VRXhwV0EweWZyXzU3M0xKdkJXQTBrcTRQeDlaOURwREdmOWlHTll0UkEyanAtZHhSalFZNGxIYUVIT0ZiS3p4b0FINEZ0UXltdU9xVjlPZ09MbWd5WFVQZ3dHWVNTMUJiMERaQ0lyeDFPMlhvcFl5T3BUbk85T2k5cXNUdEwzUVRldmFCRWwtNTZwSy1IdmYzSWppRV9IcTlySVo4R2VHRU5PTDY4V3ZvaUtid1k4SjlIajZ2VmdvSTA5MDVR?oc=5",
+      "published": "Fri, 25 Sep 2026 10:39:05 GMT",
+      "source": "Defensemirror.com",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 8.7
+    },
+    {
+      "title": "FDA approves Lilly’s Onswik for type 2 diabetes in adults - Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHlVOUVqSW12NVBOWmFmVDVHVktzOTZQbldsWVdRNlZXa2o1QjViZ1dVWkhUMGk0ZHhYd0NpX2tVWGZGUV9tX3JiN0FpakFYWHctb3RNdzlGYXBKd01jOWU1UmQ0U3dQUGM1VjdITXRlX1o4RU9sZ1VlSWszMDVYMF9MRkZMeTRO?oc=5",
+      "published": "Fri, 25 Sep 2026 13:32:06 GMT",
+      "source": "Pharmaceutical Technology",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 5.8
+    },
+    {
+      "title": "RBI Drains 60% of Banking System Surplus to Strengthen Monetary Transmission - psuindia.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemc1TEtqS0J2STdETEN6b28tUzctUlM4UUdWLTlwT2RlZXNlNk03Nl9PWlJacWllNVlSU19NQTliRExjVW5lVlZWejdMekYxUTN2MVZ0bVlzX0FMZENHTzVwdEZsejd1bmJkRVlSelROY1c2T085WVJCS09mWXh3X28yUFpFNTlYblFfb3A5VTdQYjhrN1dIbXg1RUNSaFFjajdUSzZla1B6NklORG1vaUFpS2xURkdaWlpDaXBn0gHDAUFVX3lxTE85R0tUQ0N2NmV6TEZmQ1pSOXJUb1hCWU9XZTB3Rk5GRm1OQWVJRmM1MHNxTzNIOHFzQVFmbi0yQm12ZzhiSmdCRGM5SGZPRjdaNWw5SG9yMmlueWpLZ09kaHAybnVacm9IRnozUkkzVWpfQ3laVFI5ZlFLY2UzM29LSG84NTlGM3lyWWh4OUNoTGxkN20wWE1YVlQ2c1cxSmFkVlZCdF9qR000XzRwYzVxTThULVR6N21zazZnZWNxeFhxSQ?oc=5",
+      "published": "Fri, 25 Sep 2026 06:44:19 GMT",
+      "source": "psuindia.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 12.6
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -378,5 +421,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-25T19:19:56.214212+00:00"
 }
