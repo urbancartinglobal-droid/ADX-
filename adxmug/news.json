@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-24T18:31:28.184451+00:00",
+  "updated_utc": "2026-09-25T00:35:38.072820+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Pakistan Orders US Drones as Washington–Beijing Arms Rivalry Reaches South Asia - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX211WWNQa19rTU1ueU9CcW55RkFNSU1RYWVUMXZMNFVzUmZ0OWdYcjFLUGZqUG1maC00WS1BOEh5WXVLRTFIT0luNG5qY3FiVFp3emdBWlpWRUJZUmhQa2dtdU5kUkpkWlJESG1yXzZTNl9sNUNLOHRZcnZYZVZscHc3ZWtRUQ?oc=5",
-      "published": "Thu, 24 Sep 2026 11:09:21 GMT",
-      "source": "Defence Security Asia",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 13.3
-    },
-    {
-      "title": "RBI Conducts At Least $10 Bn Currency Swaps To Drain Surplus Liquidity: Report - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHRpNmlKMHJsbXJkUnZxTElkaVVpLUk4YzRrOW5oVG92cXB3ZWlBbXZhTGFYS0hJVnhaLW9SejRKbDVJYXkyWTZhVGJWWHhiU0lEQWYxclBsUmdpaEEwY0Z5WjVaQVdTRER0ZVhqMENaOGJWN09QcUV5ZFhsS2l5aWxnQ3RkYlZpa05Tbkp0QnpWRXR1aUpVVlBjMXVWU05zN1VtXzBTZUN1M1F4d0E2OWZ3NTBucjVmVjBYcw?oc=5",
-      "published": "Thu, 24 Sep 2026 10:57:39 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.5
-    },
-    {
-      "title": "Pharma Supply Chains in Flux: Navigating Tariffs, Trade and Geopolitics - pharma.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGJucTFweTVfbUxtdVJMNjRJYW9VTDV2aXZOQnpJd1FIc09Pdmg2YTFqTXdyQXJ0X2hnMkVxNVJyQ2xfR01Vam5idmpZN29meGczN0Q1cGtPRUNLMDRtZzFBMnR5cE1NUEdVRnNvRmRxYWFwN1BYdm43ejhxSGRSVlV1Z1RKYzl4Tkk1VTRvY0U3WjdQVkF1Q2s3b1lmRG1pT1Flc0JiWjlEcV9fNEJQMDFVdXJpdTBMZEgtTXVyeFhLNm9RS2NnS1lKeFhmaEVWX1M3S3hFSWZ1XzdqeExNUzlyTDFXbzdzTWRzcUJ4dGvSAfABQVVfeXFMUExibnExcHk1X21MbXVSTDY0SWFvVUw1dml2TkJ6SXdRSHNPT3ZoNmExak13ckFydF9oZzJFcTVSckNsX0dNVWpuYnZqWTdvZnhnMzdENXBrT0VDSzA0bWcxQTJ0eXBNTVBHVUZzb0ZkcWFhcDdQWHZuN3o4cUhkUlZVdWdUSmM5eE5JNVU0b2NFN1o3UFZBdUNrN29ZZkRtaU9RZXNCYlo5RHFfXzRCUDAxVXVyaXUwTGRILU11cnhYSzZvUUtjZ0tZSnhYZmhFVl9TN0t4RUlmdV83anhMTVM5ckwxV283c01kc3FCeHRr?oc=5",
-      "published": "Thu, 24 Sep 2026 17:30:16 GMT",
-      "source": "pharma.economictimes.indiatimes.com",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.0
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -215,8 +172,8 @@
       ],
       "evidence": [
         {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - swarajyamag.com",
-          "source": "swarajyamag.com",
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
+          "source": "Swarajya",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
           "triggers": [
             "POLICY",
@@ -235,8 +192,8 @@
           "companies": []
         },
         {
-          "title": "Kolkata: Metro Railway Floats Rs 1,587 Crore Tender For Baranagar-Barrackpore Corridor After 16 Year Delay - swarajyamag.com",
-          "source": "swarajyamag.com",
+          "title": "Kolkata: Metro Railway Floats Rs 1,587 Crore Tender For Baranagar-Barrackpore Corridor After 16 Year Delay - Swarajya",
+          "source": "Swarajya",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVdlWHNkeVR2OEJPNEllR05hcHU2N3g2LWc4b0NCMFByVkpEUkhUQ1d1aXc1RzRZUlBoeUV6NHpYTGEzVGpvRUpNYmlvQmdhUlhoR2xzeUoxLW9hb1ZCWDFjSENtQlRvTlJKbV9lUll0M1ZJRjR2UEF1cDM1UDVxZEM4N2xUSnY5OGFHVU1Kb1U0UmFyVm80ajZVQWNNcWNSTjd3VlVFVXJNUEZseC1xd29tT1YwOTNuMl9sanR2Nk9IaHNTbDJxZGVwUdIB2wFBVV95cUxQdC1hNlNMdGZjdWthelBKeXYyU2QwdDAwWXY0MDlUcm54S050Z0JXMEYwLWZCLVpzcFQwR1NWdnNfcWNKT3VRcTJtVVFYWElfSUlMMU9LRWs1eVBlQXBocmpiTE1ERmtkTFpLbkx3WjJnSE9VOXZtcmh5a2xtMDh5UWg4S2ZNQTV1R1dRUWFXN0NzWTE5OGNOZFY0MFFuS3VUNFNBa2JmUVhhZFhlRzQ5NG1VRTJlb1NFeXM4TU5vRWdqTHFVbEdGV0tNMlJ5VnNVMVo3SFhCLWQtcEU?oc=5",
           "triggers": [
             "ORDERS"
@@ -435,6 +392,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-25T00:29:58.200208+00:00"
+  ]
 }
