@@ -17,7 +17,21 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 10.7
+      "freshness_hours": 11.7
+    },
+    {
+      "title": "RBI Absorbs Rs 91,665 Cr As Liquidity Surplus Hits Rs 10.66 Lakh Cr - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2pmSHEyX3Y5bU93S1lDcjdySG83YjZfdWZ4UEFIcWNyVVhVMGlKOXN5UllzenNiMGtjcVYyWVhBUWdjVFlfUDhBWjNNc3RyT2djWk1UOC1QZUFTNmF1NXBzdno3TjZxVVRmODdVZk41dVJDRGxjM2RKcktqRVA0SDhQWkhKY2t0Tk9KQ004cE1hbVBKRTZza3lELVpQalE5cVhoUHNiVVBDSVlUbFRLYw?oc=5",
+      "published": "Fri, 25 Sep 2026 21:42:39 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.6
     },
     {
       "title": "FDA approves Lilly’s Onswik for type 2 diabetes in adults - Pharmaceutical Technology",
@@ -31,21 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.8
-    },
-    {
-      "title": "RBI Drains 60% of Banking System Surplus to Strengthen Monetary Transmission - psuindia.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemc1TEtqS0J2STdETEN6b28tUzctUlM4UUdWLTlwT2RlZXNlNk03Nl9PWlJacWllNVlSU19NQTliRExjVW5lVlZWejdMekYxUTN2MVZ0bVlzX0FMZENHTzVwdEZsejd1bmJkRVlSelROY1c2T085WVJCS09mWXh3X28yUFpFNTlYblFfb3A5VTdQYjhrN1dIbXg1RUNSaFFjajdUSzZla1B6NklORG1vaUFpS2xURkdaWlpDaXBn0gHDAUFVX3lxTE85R0tUQ0N2NmV6TEZmQ1pSOXJUb1hCWU9XZTB3Rk5GRm1OQWVJRmM1MHNxTzNIOHFzQVFmbi0yQm12ZzhiSmdCRGM5SGZPRjdaNWw5SG9yMmlueWpLZ09kaHAybnVacm9IRnozUkkzVWpfQ3laVFI5ZlFLY2UzM29LSG84NTlGM3lyWWh4OUNoTGxkN20wWE1YVlQ2c1cxSmFkVlZCdF9qR000XzRwYzVxTThULVR6N21zazZnZWNxeFhxSQ?oc=5",
-      "published": "Fri, 25 Sep 2026 06:44:19 GMT",
-      "source": "psuindia.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 14.6
+      "freshness_hours": 8.8
     }
   ],
   "opportunities": [
@@ -422,5 +422,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-25T21:21:21.682263+00:00"
+  "landed_updated_utc": "2026-09-25T22:21:27.656333+00:00"
 }
