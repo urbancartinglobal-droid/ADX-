@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "​Taurus Cruise Missile Integration on Gripen Aircraft Completed in Record Time - Defense Express",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1FwVEdfOWt3ODQ0LVp1NFFHOWhLcGJhbndFTE0yY3YyVURpenp3dzkwUEhuRVAyNG5yM3p4NVpEQ0hHLUN6YnR6TmVCRFItSy02Mmx6X2dDMEhoUFk0cFRmc3hWcDNnSE5fcU5Eb00zZ2FBdGU3UVZQeW9GZjU5Q3dmSEwzcUMtNUlQMVV3SkdEd3pZQ1hkQkNkSGxBVDltMndsRkNZdHBDemFIbmkxN0JYRUhzX0xKbl9j?oc=5",
-      "published": "Fri, 25 Sep 2026 08:43:56 GMT",
-      "source": "Defense Express",
+      "title": "Germany Approves Defence Package Including AMRAAM Missiles for F-35 Jets, Maritime IRIS-T SLM - Defensemirror.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOclpPT21VRXhwV0EweWZyXzU3M0xKdkJXQTBrcTRQeDlaOURwREdmOWlHTll0UkEyanAtZHhSalFZNGxIYUVIT0ZiS3p4b0FINEZ0UXltdU9xVjlPZ09MbWd5WFVQZ3dHWVNTMUJiMERaQ0lyeDFPMlhvcFl5T3BUbk85T2k5cXNUdEwzUVRldmFCRWwtNTZwSy1IdmYzSWppRV9IcTlySVo4R2VHRU5PTDY4V3ZvaUtid1k4SjlIajZ2VmdvSTA5MDVR?oc=5",
+      "published": "Fri, 25 Sep 2026 10:39:05 GMT",
+      "source": "Defensemirror.com",
       "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,13 +17,13 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 7.7
+      "freshness_hours": 6.7
     },
     {
-      "title": "FDA approves Lilly’s Onswik for type 2 diabetes in adults - Pharmaceutical Technology",
+      "title": "FDA approves Lilly’s Onswik for type 2 diabetes in adults - pharmaceutical-technology.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHlVOUVqSW12NVBOWmFmVDVHVktzOTZQbldsWVdRNlZXa2o1QjViZ1dVWkhUMGk0ZHhYd0NpX2tVWGZGUV9tX3JiN0FpakFYWHctb3RNdzlGYXBKd01jOWU1UmQ0U3dQUGM1VjdITXRlX1o4RU9sZ1VlSWszMDVYMF9MRkZMeTRO?oc=5",
       "published": "Fri, 25 Sep 2026 13:32:06 GMT",
-      "source": "Pharmaceutical Technology",
+      "source": "pharmaceutical-technology.com",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 2.9
+      "freshness_hours": 3.8
     },
     {
       "title": "RBI Drains 60% of Banking System Surplus to Strengthen Monetary Transmission - psuindia.com",
@@ -45,7 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.7
+      "freshness_hours": 10.6
     }
   ],
   "opportunities": [
@@ -436,5 +436,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-25T16:24:00.271529+00:00"
+  "landed_updated_utc": "2026-09-25T17:21:29.076752+00:00"
 }
