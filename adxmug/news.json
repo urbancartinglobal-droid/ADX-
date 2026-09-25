@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "​Taurus Cruise Missile Integration on Gripen Aircraft Completed in Record Time - Defense Express",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1FwVEdfOWt3ODQ0LVp1NFFHOWhLcGJhbndFTE0yY3YyVURpenp3dzkwUEhuRVAyNG5yM3p4NVpEQ0hHLUN6YnR6TmVCRFItSy02Mmx6X2dDMEhoUFk0cFRmc3hWcDNnSE5fcU5Eb00zZ2FBdGU3UVZQeW9GZjU5Q3dmSEwzcUMtNUlQMVV3SkdEd3pZQ1hkQkNkSGxBVDltMndsRkNZdHBDemFIbmkxN0JYRUhzX0xKbl9j?oc=5",
+      "published": "Fri, 25 Sep 2026 08:43:56 GMT",
+      "source": "Defense Express",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 4.7
+    },
+    {
+      "title": "FII Investments In G-Secs Tax-Exempt: RBI Takes Measures To Attract Foreign Capital - fintechbiznews.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkhHMUVxbll3RktrQjBhZERGdUxfb2VhSmpDeWxVbXRlbVBLQTZac25wRjZqdnpmdE80N05TTGhod04xSjhTT2xtQ0lzLU50ZFNlVWpycXRCSlpZX0FCX3hXWnhMNjV1bHotY1kxYnlWOUNfMk5EUjFYN0xMSGswb3ZFa2VFM1AwbE9iREFINnRLdDRoaWJ3?oc=5",
+      "published": "Fri, 25 Sep 2026 05:11:16 GMT",
+      "source": "fintechbiznews.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 8.2
+    },
+    {
+      "title": "Pharma Supply Chains in Flux: Navigating Tariffs, Trade and Geopolitics - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGJucTFweTVfbUxtdVJMNjRJYW9VTDV2aXZOQnpJd1FIc09Pdmg2YTFqTXdyQXJ0X2hnMkVxNVJyQ2xfR01Vam5idmpZN29meGczN0Q1cGtPRUNLMDRtZzFBMnR5cE1NUEdVRnNvRmRxYWFwN1BYdm43ejhxSGRSVlV1Z1RKYzl4Tkk1VTRvY0U3WjdQVkF1Q2s3b1lmRG1pT1Flc0JiWjlEcV9fNEJQMDFVdXJpdTBMZEgtTXVyeFhLNm9RS2NnS1lKeFhmaEVWX1M3S3hFSWZ1XzdqeExNUzlyTDFXbzdzTWRzcUJ4dGvSAfABQVVfeXFMUExibnExcHk1X21MbXVSTDY0SWFvVUw1dml2TkJ6SXdRSHNPT3ZoNmExak13ckFydF9oZzJFcTVSckNsX0dNVWpuYnZqWTdvZnhnMzdENXBrT0VDSzA0bWcxQTJ0eXBNTVBHVUZzb0ZkcWFhcDdQWHZuN3o4cUhkUlZVdWdUSmM5eE5JNVU0b2NFN1o3UFZBdUNrN29ZZkRtaU9RZXNCYlo5RHFfXzRCUDAxVXVyaXUwTGRILU11cnhYSzZvUUtjZ0tZSnhYZmhFVl9TN0t4RUlmdV83anhMTVM5ckwxV283c01kc3FCeHRr?oc=5",
+      "published": "Thu, 24 Sep 2026 17:30:16 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 19.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -392,5 +435,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-25T13:23:30.804189+00:00"
 }
