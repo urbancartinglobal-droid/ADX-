@@ -17,21 +17,21 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 12.9
+      "freshness_hours": 14.0
     },
     {
-      "title": "RBI Conducts At Least $10 Bn Currency Swaps To Drain Surplus Liquidity: Report - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHRpNmlKMHJsbXJkUnZxTElkaVVpLUk4YzRrOW5oVG92cXB3ZWlBbXZhTGFYS0hJVnhaLW9SejRKbDVJYXkyWTZhVGJWWHhiU0lEQWYxclBsUmdpaEEwY0Z5WjVaQVdTRER0ZVhqMENaOGJWN09QcUV5ZFhsS2l5aWxnQ3RkYlZpa05Tbkp0QnpWRXR1aUpVVlBjMXVWU05zN1VtXzBTZUN1M1F4d0E2OWZ3NTBucjVmVjBYcw?oc=5",
-      "published": "Thu, 24 Sep 2026 10:57:39 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
+      "title": "India Infrastructure Projects Are Cutting Travel Times - urbanacres.in",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TWWd5UHdMMFR5djRTLTdpNHJYVm1ILU9SbzlpYm5JTzE5WkdQc2N3UVFwR0w0djV4TElNbkhXd1kyTlZFMktidGhRdlB4R2hSMmJmY0o4UmhXZUtTZUx2dEIySW96QklJZ1pOYTJhMzQtMXNNeTRhQ1BNRzFBS28?oc=5",
+      "published": "Fri, 25 Sep 2026 02:14:35 GMT",
+      "source": "urbanacres.in",
+      "sector": "Rail & Infrastructure",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 18.4
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 4.2
     },
     {
       "title": "Pharma Supply Chains in Flux: Navigating Tariffs, Trade and Geopolitics - pharma.economictimes.indiatimes.com",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 11.9
+      "freshness_hours": 13.0
     }
   ],
   "opportunities": [
@@ -436,5 +436,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-25T05:21:25.041083+00:00"
+  "landed_updated_utc": "2026-09-25T06:27:29.099885+00:00"
 }
