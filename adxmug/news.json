@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI Absorbs Rs 71,971 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "title": "RBI Absorbs Rs 71,971 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - businessworld.in",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHRMSUc2akFhcFhWWEVRcWxIT3dhTzFMRHBQMGdJMHFwVjg5VGN5dzR5eEVDM2daOGlKSDBoRFlSalJLTXlJR1Btb2JfSmloZ2RwYjZfUFpBT0R5bE9VUC1qRl9ocVJpYUhBWTVIY2J5VlR2eVI2UWl5Tm1qMm9vQjh0bDBuYzMtMmlpX25vNlNOLTQ2LUpwNEcyQ3BJQ2dBWTRBUm5YUHN1RkJxdHhVczRDMG5rRU1NNlE?oc=5",
       "published": "Sat, 26 Sep 2026 01:11:43 GMT",
-      "source": "BW Businessworld",
+      "source": "businessworld.in",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,21 +17,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.2
+      "freshness_hours": 7.2
     },
     {
-      "title": "Cognex launches AI-powered wafer reader for chip fabs - eenewseurope.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczRINVNZbEZyb2lTNmxmWk5ZN0FvR0FIdzFrSUc2VzJaSElwcDgzcS1ROW1NNHMwZnpnZ2p1dm1LdUtiSlJ5SUNkZm1CODFsZ2lXbkVkSXVXMHRQT0RHR1lhUEVDblBGR3Z1MnRMeDJEN0dpUElYbkU3NWh5dnNPMndnV244QUVHU2wtSm1YNA?oc=5",
-      "published": "Fri, 25 Sep 2026 07:53:25 GMT",
-      "source": "eenewseurope.com",
-      "sector": "Electronics & Semiconductors",
+      "title": "Germany Approves Defence Package Including AMRAAM Missiles for F-35 Jets, Maritime IRIS-T SLM - Defensemirror.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOclpPT21VRXhwV0EweWZyXzU3M0xKdkJXQTBrcTRQeDlaOURwREdmOWlHTll0UkEyanAtZHhSalFZNGxIYUVIT0ZiS3p4b0FINEZ0UXltdU9xVjlPZ09MbWd5WFVQZ3dHWVNTMUJiMERaQ0lyeDFPMlhvcFl5T3BUbk85T2k5cXNUdEwzUVRldmFCRWwtNTZwSy1IdmYzSWppRV9IcTlySVo4R2VHRU5PTDY4V3ZvaUtid1k4SjlIajZ2VmdvSTA5MDVR?oc=5",
+      "published": "Fri, 25 Sep 2026 10:39:05 GMT",
+      "source": "Defensemirror.com",
+      "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 23.5
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 21.7
     },
     {
       "title": "FDA approves Lilly’s Onswik for type 2 diabetes in adults - Pharmaceutical Technology",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 17.8
+      "freshness_hours": 18.8
     }
   ],
   "opportunities": [
@@ -411,5 +411,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-26T07:20:51.288170+00:00"
+  "landed_updated_utc": "2026-09-26T08:22:55.406173+00:00"
 }
