@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-26T00:33:54.261128+00:00",
+  "updated_utc": "2026-09-26T06:32:22.206770+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI Absorbs Rs 71,971 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - businessworld.in",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHRMSUc2akFhcFhWWEVRcWxIT3dhTzFMRHBQMGdJMHFwVjg5VGN5dzR5eEVDM2daOGlKSDBoRFlSalJLTXlJR1Btb2JfSmloZ2RwYjZfUFpBT0R5bE9VUC1qRl9ocVJpYUhBWTVIY2J5VlR2eVI2UWl5Tm1qMm9vQjh0bDBuYzMtMmlpX25vNlNOLTQ2LUpwNEcyQ3BJQ2dBWTRBUm5YUHN1RkJxdHhVczRDMG5rRU1NNlE?oc=5",
-      "published": "Sat, 26 Sep 2026 01:11:43 GMT",
-      "source": "businessworld.in",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.2
-    },
-    {
-      "title": "Germany Approves Defence Package Including AMRAAM Missiles for F-35 Jets, Maritime IRIS-T SLM - Defensemirror.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOclpPT21VRXhwV0EweWZyXzU3M0xKdkJXQTBrcTRQeDlaOURwREdmOWlHTll0UkEyanAtZHhSalFZNGxIYUVIT0ZiS3p4b0FINEZ0UXltdU9xVjlPZ09MbWd5WFVQZ3dHWVNTMUJiMERaQ0lyeDFPMlhvcFl5T3BUbk85T2k5cXNUdEwzUVRldmFCRWwtNTZwSy1IdmYzSWppRV9IcTlySVo4R2VHRU5PTDY4V3ZvaUtid1k4SjlIajZ2VmdvSTA5MDVR?oc=5",
-      "published": "Fri, 25 Sep 2026 10:39:05 GMT",
-      "source": "Defensemirror.com",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 19.8
-    },
-    {
-      "title": "FDA approves Lilly’s Onswik for type 2 diabetes in adults - Pharmaceutical Technology",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHlVOUVqSW12NVBOWmFmVDVHVktzOTZQbldsWVdRNlZXa2o1QjViZ1dVWkhUMGk0ZHhYd0NpX2tVWGZGUV9tX3JiN0FpakFYWHctb3RNdzlGYXBKd01jOWU1UmQ0U3dQUGM1VjdITXRlX1o4RU9sZ1VlSWszMDVYMF9MRkZMeTRO?oc=5",
-      "published": "Fri, 25 Sep 2026 13:32:06 GMT",
-      "source": "Pharmaceutical Technology",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 16.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -93,8 +50,8 @@
           "companies": []
         },
         {
-          "title": "India eases raw sugar import rules as it cracks down on hoarding - economictimes.com",
-          "source": "economictimes.com",
+          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
+          "source": "The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
           "triggers": [
             "POLICY",
@@ -204,13 +161,12 @@
     },
     {
       "industry": "Rail & Infrastructure",
-      "score": 49,
-      "article_count": 3,
-      "trigger_count": 5,
+      "score": 44,
+      "article_count": 2,
+      "trigger_count": 4,
       "triggers": [
         "CAPEX",
         "CORPORATE",
-        "ORDERS",
         "POLICY"
       ],
       "evidence": [
@@ -233,25 +189,15 @@
             "CORPORATE"
           ],
           "companies": []
-        },
-        {
-          "title": "Kolkata: Metro Railway Floats Rs 1,587 Crore Tender For Baranagar-Barrackpore Corridor After 16 Year Delay - Swarajya",
-          "source": "Swarajya",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVdlWHNkeVR2OEJPNEllR05hcHU2N3g2LWc4b0NCMFByVkpEUkhUQ1d1aXc1RzRZUlBoeUV6NHpYTGEzVGpvRUpNYmlvQmdhUlhoR2xzeUoxLW9hb1ZCWDFjSENtQlRvTlJKbV9lUll0M1ZJRjR2UEF1cDM1UDVxZEM4N2xUSnY5OGFHVU1Kb1U0UmFyVm80ajZVQWNNcWNSTjd3VlVFVXJNUEZseC1xd29tT1YwOTNuMl9sanR2Nk9IaHNTbDJxZGVwUdIB2wFBVV95cUxQdC1hNlNMdGZjdWthelBKeXYyU2QwdDAwWXY0MDlUcm54S050Z0JXMEYwLWZCLVpzcFQwR1NWdnNfcWNKT3VRcTJtVVFYWElfSUlMMU9LRWs1eVBlQXBocmpiTE1ERmtkTFpLbkx3WjJnSE9VOXZtcmh5a2xtMDh5UWg4S2ZNQTV1R1dRUWFXN0NzWTE5OGNOZFY0MFFuS3VUNFNBa2JmUVhhZFhlRzQ5NG1VRTJlb1NFeXM4TU5vRWdqTHFVbEdGV0tNMlJ5VnNVMVo3SFhCLWQtcEU?oc=5",
-          "triggers": [
-            "ORDERS"
-          ],
-          "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, CORPORATE, ORDERS, POLICY; 3 distinct story clusters; 2 independent sources.",
+      "reason": "Cross-signal CAPEX, CORPORATE, POLICY; 2 distinct story clusters; 2 independent sources.",
       "source_count": 2,
-      "story_clusters": 3,
+      "story_clusters": 2,
       "companies": [],
       "connections": [
-        "Capacity spending + orders can indicate a demand/capacity cycle rather than headline noise.",
         "Corporate action reinforced by capex/orders is a stronger operating signal."
       ],
       "fresh_count": 0
@@ -421,6 +367,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-26T06:25:52.156236+00:00"
+  ]
 }
