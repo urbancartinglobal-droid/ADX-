@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "RBI absorbs ₹75,026 crore through overnight VRRR auction amid surplus liquidity - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFp3TTBObTY2a2JrRzJOQm0wU3RuSEhfdjVzUDZDVUh5VVphb3JvQWhXY3p4R3J4aUszbnUyd2o2NVQ2T01MUGg5cnhNT3oyTEZfQUg0ZUFmMlZtcmhJaFpPNXdGQWw4a2phNndycDV1bllFMFgwMEFSc2Q2WGN3RkVPN1lmTGJVRGR0TzYySklkWC1WaTJybEtnWjRhT09tVThGNHJWZHF0NnlqT3RuRnVR?oc=5",
+      "published": "Sat, 26 Sep 2026 12:46:18 GMT",
+      "source": "News On AIR",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.6
+    },
+    {
       "title": "Pakistan’s 2,000km Baykar K2 Drone Raises Deep-Strike Stakes for India - Defence Security Asia",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEpMbUVrQm1wbWRxbEFMUlp2dlp0X2NBWVlDR3ZyS2MtdU1Fb1pDZDR6d192LUpMM0VYMHY4eHlWdkV0NVVjSG1oVUdlcWx4dVJNemdKWmpVakVDVFBtaXp6T1U4SU9BdFNrRkdJeXROTHd5dlNOSWR6Umttc1ZBMGFTblVXNWd0a3hiQ2tB?oc=5",
       "published": "Sat, 26 Sep 2026 10:25:09 GMT",
@@ -17,21 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 3.9
-    },
-    {
-      "title": "RBI Absorbs Rs 71,971 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHRMSUc2akFhcFhWWEVRcWxIT3dhTzFMRHBQMGdJMHFwVjg5VGN5dzR5eEVDM2daOGlKSDBoRFlSalJLTXlJR1Btb2JfSmloZ2RwYjZfUFpBT0R5bE9VUC1qRl9ocVJpYUhBWTVIY2J5VlR2eVI2UWl5Tm1qMm9vQjh0bDBuYzMtMmlpX25vNlNOLTQ2LUpwNEcyQ3BJQ2dBWTRBUm5YUHN1RkJxdHhVczRDMG5rRU1NNlE?oc=5",
-      "published": "Sat, 26 Sep 2026 01:11:43 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.2
+      "freshness_hours": 4.9
     },
     {
       "title": "Import rules eased for specialised fabrics used in niche apparel - The Daily Star",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 14.1
+      "freshness_hours": 15.1
     }
   ],
   "opportunities": [
@@ -410,5 +410,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-26T14:21:02.669165+00:00"
+  "landed_updated_utc": "2026-09-26T15:20:55.061702+00:00"
 }
