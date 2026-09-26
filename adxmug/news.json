@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-09-26T06:32:22.206770+00:00",
+  "updated_utc": "2026-09-26T12:31:32.122654+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Pakistan’s 2,000km Baykar K2 Drone Raises Deep-Strike Stakes for India - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEpMbUVrQm1wbWRxbEFMUlp2dlp0X2NBWVlDR3ZyS2MtdU1Fb1pDZDR6d192LUpMM0VYMHY4eHlWdkV0NVVjSG1oVUdlcWx4dVJNemdKWmpVakVDVFBtaXp6T1U4SU9BdFNrRkdJeXROTHd5dlNOSWR6Umttc1ZBMGFTblVXNWd0a3hiQ2tB?oc=5",
-      "published": "Sat, 26 Sep 2026 10:25:09 GMT",
-      "source": "Defence Security Asia",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.0
-    },
-    {
-      "title": "RBI Absorbs Rs 71,971 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHRMSUc2akFhcFhWWEVRcWxIT3dhTzFMRHBQMGdJMHFwVjg5VGN5dzR5eEVDM2daOGlKSDBoRFlSalJLTXlJR1Btb2JfSmloZ2RwYjZfUFpBT0R5bE9VUC1qRl9ocVJpYUhBWTVIY2J5VlR2eVI2UWl5Tm1qMm9vQjh0bDBuYzMtMmlpX25vNlNOLTQ2LUpwNEcyQ3BJQ2dBWTRBUm5YUHN1RkJxdHhVczRDMG5rRU1NNlE?oc=5",
-      "published": "Sat, 26 Sep 2026 01:11:43 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.2
-    },
-    {
-      "title": "FDA approves Lilly’s Onswik for type 2 diabetes in adults - Pharmaceutical Technology",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHlVOUVqSW12NVBOWmFmVDVHVktzOTZQbldsWVdRNlZXa2o1QjViZ1dVWkhUMGk0ZHhYd0NpX2tVWGZGUV9tX3JiN0FpakFYWHctb3RNdzlGYXBKd01jOWU1UmQ0U3dQUGM1VjdITXRlX1o4RU9sZ1VlSWszMDVYMF9MRkZMeTRO?oc=5",
-      "published": "Fri, 25 Sep 2026 13:32:06 GMT",
-      "source": "Pharmaceutical Technology",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 22.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 76,
-      "article_count": 6,
-      "trigger_count": 14,
+      "score": 70,
+      "article_count": 5,
+      "trigger_count": 12,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -93,16 +50,6 @@
           "companies": []
         },
         {
-          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
           "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
           "source": "ChiniMandi",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
@@ -112,13 +59,22 @@
             "PRICING"
           ],
           "companies": []
+        },
+        {
+          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGQ3TUdxMHk0dk0wY2piWUs5SkNIdGZ6NlloRUZuUE1XYldUT1JLRUpFSzR5UW85MWFsbjI2UTd5bG4wZGx4dW9TT3d2NEZYX1VTRkl0SUdjZ05qcGtod1NWakFGaG1BUmdPNlJsWVdqaFVXdGxRT0NTQlR4NUZtcTdKajU4V2xZMjVXUkJ1bzU?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
         }
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 5 independent sources.",
-      "source_count": 5,
-      "story_clusters": 6,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 4 independent sources.",
+      "source_count": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -410,6 +366,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-26T12:25:13.296583+00:00"
+  ]
 }
