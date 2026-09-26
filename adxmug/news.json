@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Pakistan’s 2,000km Baykar K2 Drone Raises Deep-Strike Stakes for India - defencesecurityasia.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEpMbUVrQm1wbWRxbEFMUlp2dlp0X2NBWVlDR3ZyS2MtdU1Fb1pDZDR6d192LUpMM0VYMHY4eHlWdkV0NVVjSG1oVUdlcWx4dVJNemdKWmpVakVDVFBtaXp6T1U4SU9BdFNrRkdJeXROTHd5dlNOSWR6Umttc1ZBMGFTblVXNWd0a3hiQ2tB?oc=5",
+      "published": "Sat, 26 Sep 2026 10:25:09 GMT",
+      "source": "defencesecurityasia.com",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 2.9
+    },
+    {
+      "title": "RBI Absorbs Rs 71,971 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHRMSUc2akFhcFhWWEVRcWxIT3dhTzFMRHBQMGdJMHFwVjg5VGN5dzR5eEVDM2daOGlKSDBoRFlSalJLTXlJR1Btb2JfSmloZ2RwYjZfUFpBT0R5bE9VUC1qRl9ocVJpYUhBWTVIY2J5VlR2eVI2UWl5Tm1qMm9vQjh0bDBuYzMtMmlpX25vNlNOLTQ2LUpwNEcyQ3BJQ2dBWTRBUm5YUHN1RkJxdHhVczRDMG5rRU1NNlE?oc=5",
+      "published": "Sat, 26 Sep 2026 01:11:43 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 12.1
+    },
+    {
+      "title": "FDA approves Lilly’s Onswik for type 2 diabetes in adults - Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHlVOUVqSW12NVBOWmFmVDVHVktzOTZQbldsWVdRNlZXa2o1QjViZ1dVWkhUMGk0ZHhYd0NpX2tVWGZGUV9tX3JiN0FpakFYWHctb3RNdzlGYXBKd01jOWU1UmQ0U3dQUGM1VjdITXRlX1o4RU9sZ1VlSWszMDVYMF9MRkZMeTRO?oc=5",
+      "published": "Fri, 25 Sep 2026 13:32:06 GMT",
+      "source": "Pharmaceutical Technology",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 23.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -366,5 +409,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-26T13:20:18.254673+00:00"
 }
