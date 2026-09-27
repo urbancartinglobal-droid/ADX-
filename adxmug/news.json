@@ -1,25 +1,10 @@
 {
-  "updated_utc": "2026-09-27T06:33:09.165519+00:00",
+  "updated_utc": "2026-09-27T12:32:33.533781+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI Conducts At Least $10 Bn Currency Swaps To Drain Surplus Liquidity: Report - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHRpNmlKMHJsbXJkUnZxTElkaVVpLUk4YzRrOW5oVG92cXB3ZWlBbXZhTGFYS0hJVnhaLW9SejRKbDVJYXkyWTZhVGJWWHhiU0lEQWYxclBsUmdpaEEwY0Z5WjVaQVdTRER0ZVhqMENaOGJWN09QcUV5ZFhsS2l5aWxnQ3RkYlZpa05Tbkp0QnpWRXR1aUpVVlBjMXVWU05zN1VtXzBTZUN1M1F4d0E2OWZ3NTBucjVmVjBYcw?oc=5",
-      "published": "Sun, 27 Sep 2026 10:43:54 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.7
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -277,8 +262,8 @@
       ],
       "evidence": [
         {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - powermag.com",
-          "source": "powermag.com",
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
+          "source": "POWER Magazine",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
           "triggers": [
             "PRICING"
@@ -359,6 +344,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-27T12:26:13.393079+00:00"
+  ]
 }
