@@ -6,9 +6,9 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI Conducts At Least $10 Bn Currency Swaps To Drain Surplus Liquidity: Report - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHRpNmlKMHJsbXJkUnZxTElkaVVpLUk4YzRrOW5oVG92cXB3ZWlBbXZhTGFYS0hJVnhaLW9SejRKbDVJYXkyWTZhVGJWWHhiU0lEQWYxclBsUmdpaEEwY0Z5WjVaQVdTRER0ZVhqMENaOGJWN09QcUV5ZFhsS2l5aWxnQ3RkYlZpa05Tbkp0QnpWRXR1aUpVVlBjMXVWU05zN1VtXzBTZUN1M1F4d0E2OWZ3NTBucjVmVjBYcw?oc=5",
-      "published": "Sun, 27 Sep 2026 10:43:54 GMT",
+      "title": "RBI Absorbs Rs 75,026 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzhaV2JxZzlUQTBjVW9DUzZiYTBwRkw1OHhQOE1XWDdvYUJXNERwckMyVlUyR3JPd1BNMlpuNkNDNWpqcmRYYXZfRVJoemhYY1BGQU5abWlNSEZhbGJyRk1LVzF3cmhoeUFkRkFOajB5YkxOLVlNUDFjQUZQUkRDNEg2N2RZdUFjRmZtaEZUemRwLUwzdlB5UFloYzlCOEFUU0sycWJ6Z2lSWVh1czF3SXprXy1uVkZZUUJhSw?oc=5",
+      "published": "Sun, 27 Sep 2026 13:40:04 GMT",
       "source": "BW Businessworld",
       "sector": "Banking & Financials",
       "triggers": [
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.6
+      "freshness_hours": 0.7
     }
   ],
   "opportunities": [
@@ -360,5 +360,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-27T13:20:43.742211+00:00"
+  "landed_updated_utc": "2026-09-27T14:20:24.820721+00:00"
 }
