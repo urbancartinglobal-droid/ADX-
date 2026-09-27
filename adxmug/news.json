@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI absorbs ₹75,026 crore through overnight VRRR auction amid surplus liquidity - newsonair.gov.in",
+      "title": "RBI absorbs ₹75,026 crore through overnight VRRR auction amid surplus liquidity - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFp3TTBObTY2a2JrRzJOQm0wU3RuSEhfdjVzUDZDVUh5VVphb3JvQWhXY3p4R3J4aUszbnUyd2o2NVQ2T01MUGg5cnhNT3oyTEZfQUg0ZUFmMlZtcmhJaFpPNXdGQWw4a2phNndycDV1bllFMFgwMEFSc2Q2WGN3RkVPN1lmTGJVRGR0TzYySklkWC1WaTJybEtnWjRhT09tVThGNHJWZHF0NnlqT3RuRnVR?oc=5",
       "published": "Sat, 26 Sep 2026 12:46:18 GMT",
-      "source": "newsonair.gov.in",
+      "source": "News On AIR",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 14.6
+      "freshness_hours": 15.6
     },
     {
       "title": "Pakistan’s 2,000km Baykar K2 Drone Raises Deep-Strike Stakes for India - Defence Security Asia",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 16.9
+      "freshness_hours": 18.0
     }
   ],
   "opportunities": [
@@ -364,5 +364,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-27T03:21:58.743213+00:00"
+  "landed_updated_utc": "2026-09-27T04:22:33.808555+00:00"
 }
