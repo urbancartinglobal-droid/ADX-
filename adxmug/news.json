@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.6
+      "freshness_hours": 16.6
     },
     {
       "title": "Pakistan’s 2,000km Baykar K2 Drone Raises Deep-Strike Stakes for India - Defence Security Asia",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 18.0
+      "freshness_hours": 18.9
     }
   ],
   "opportunities": [
@@ -364,5 +364,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-27T04:22:33.808555+00:00"
+  "landed_updated_utc": "2026-09-27T05:20:52.307608+00:00"
 }
