@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI Absorbs Rs 75,026 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "title": "RBI Absorbs Rs 75,026 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - businessworld.in",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzhaV2JxZzlUQTBjVW9DUzZiYTBwRkw1OHhQOE1XWDdvYUJXNERwckMyVlUyR3JPd1BNMlpuNkNDNWpqcmRYYXZfRVJoemhYY1BGQU5abWlNSEZhbGJyRk1LVzF3cmhoeUFkRkFOajB5YkxOLVlNUDFjQUZQUkRDNEg2N2RZdUFjRmZtaEZUemRwLUwzdlB5UFloYzlCOEFUU0sycWJ6Z2lSWVh1czF3SXprXy1uVkZZUUJhSw?oc=5",
       "published": "Sun, 27 Sep 2026 13:40:04 GMT",
-      "source": "BW Businessworld",
+      "source": "businessworld.in",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.7
+      "freshness_hours": 7.7
     },
     {
       "title": "Beyond Banned Chips: How India builds silicon strategic autonomy in the age of geopolitical upheavals - organiser.org",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 13.7
+      "freshness_hours": 14.7
     }
   ],
   "opportunities": [
@@ -374,5 +374,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-27T20:21:25.648120+00:00"
+  "landed_updated_utc": "2026-09-27T21:20:36.785211+00:00"
 }
