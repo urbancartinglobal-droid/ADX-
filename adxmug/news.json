@@ -4,7 +4,22 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Beyond Banned Chips: How India builds silicon strategic autonomy in the age of geopolitical upheavals - organiser.org",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQal9sZjlFT0dCaWlrejRlMGxjMFh2Y21qRGdHYlpGMTZNUVUybEpiMzM4VzdMWmR3RGlsUXl6WDZRS1ZoVkhOSmVBbE44N00wN1JNbFZ3eUJ1VjFCemJsZl8tbjFEZFZESjFyMDRnbnJQQ1BubENZZGtHUlZZVER6bW9yZkFKT3pCWWNrSHFadHI3NVdKOXFlRmRIWHFNa2dsaE5MNjJJU1gwYUYzSTU5VTZ4SDlQeU5nNkRJa2hrU2o1TmtYRmJlTF9jREZoWTNXZmRBYnhaMkgwb3pDaXRUZFF30gHnAUFVX3lxTE1uVTJtX2RBalU3cHF2ZTFmWUk4eDdDaFZwWXNZQ0RJT0F2UkhZN1VQSXlVVXhyZXZkV2xzdlFmOWdCM0dQWGRYbk5LNFFXNlRiZVZkZWg1LTc1b2xQQVRpVnhjT2Q0dDVEZDh0ZmFDajl4N1VaRUVibHNfdkQwcV92cDhxQjlyN2djQUdERmdmNmxCRWRzNmdveVpRTU5wbmxvc3dYN1Y3aXduT1FVelh2NzNHcmprVk1NSk54Y0dVdlVoTGpOVDFFS2p6OXdBWkZIR3ZkZW1Cal9rdEd5UmppcUhTcW8xOA?oc=5",
+      "published": "Sun, 27 Sep 2026 06:37:47 GMT",
+      "source": "organiser.org",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 0.7
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -344,5 +359,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-27T07:21:36.513889+00:00"
 }
