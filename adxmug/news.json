@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI Absorbs Rs 75,026 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - businessworld.in",
+      "title": "RBI Absorbs Rs 75,026 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzhaV2JxZzlUQTBjVW9DUzZiYTBwRkw1OHhQOE1XWDdvYUJXNERwckMyVlUyR3JPd1BNMlpuNkNDNWpqcmRYYXZfRVJoemhYY1BGQU5abWlNSEZhbGJyRk1LVzF3cmhoeUFkRkFOajB5YkxOLVlNUDFjQUZQUkRDNEg2N2RZdUFjRmZtaEZUemRwLUwzdlB5UFloYzlCOEFUU0sycWJ6Z2lSWVh1czF3SXprXy1uVkZZUUJhSw?oc=5",
       "published": "Sun, 27 Sep 2026 13:40:04 GMT",
-      "source": "businessworld.in",
+      "source": "BW Businessworld",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.7
+      "freshness_hours": 2.7
     },
     {
-      "title": "Beyond Banned Chips: How India builds silicon strategic autonomy in the age of geopolitical upheavals - Organiser",
+      "title": "Beyond Banned Chips: How India builds silicon strategic autonomy in the age of geopolitical upheavals - organiser.org",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQal9sZjlFT0dCaWlrejRlMGxjMFh2Y21qRGdHYlpGMTZNUVUybEpiMzM4VzdMWmR3RGlsUXl6WDZRS1ZoVkhOSmVBbE44N00wN1JNbFZ3eUJ1VjFCemJsZl8tbjFEZFZESjFyMDRnbnJQQ1BubENZZGtHUlZZVER6bW9yZkFKT3pCWWNrSHFadHI3NVdKOXFlRmRIWHFNa2dsaE5MNjJJU1gwYUYzSTU5VTZ4SDlQeU5nNkRJa2hrU2o1TmtYRmJlTF9jREZoWTNXZmRBYnhaMkgwb3pDaXRUZFF30gHnAUFVX3lxTE1uVTJtX2RBalU3cHF2ZTFmWUk4eDdDaFZwWXNZQ0RJT0F2UkhZN1VQSXlVVXhyZXZkV2xzdlFmOWdCM0dQWGRYbk5LNFFXNlRiZVZkZWg1LTc1b2xQQVRpVnhjT2Q0dDVEZDh0ZmFDajl4N1VaRUVibHNfdkQwcV92cDhxQjlyN2djQUdERmdmNmxCRWRzNmdveVpRTU5wbmxvc3dYN1Y3aXduT1FVelh2NzNHcmprVk1NSk54Y0dVdlVoTGpOVDFFS2p6OXdBWkZIR3ZkZW1Cal9rdEd5UmppcUhTcW8xOA?oc=5",
       "published": "Sun, 27 Sep 2026 06:37:47 GMT",
-      "source": "Organiser",
+      "source": "organiser.org",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.7
+      "freshness_hours": 9.7
     }
   ],
   "opportunities": [
@@ -374,5 +374,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-27T15:20:50.411151+00:00"
+  "landed_updated_utc": "2026-09-27T16:21:59.976055+00:00"
 }
