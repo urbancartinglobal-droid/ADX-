@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.6
+      "freshness_hours": 2.6
     },
     {
       "title": "World’s second most powerful military sends Russia-derived air-defence system designed to stop cruise missiles to a powerful North African nation - Business Insider Africa",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 15.4
+      "freshness_hours": 16.4
     },
     {
       "title": "Zydus Lifesciences' New Jersey Office Clears USFDA Inspection With Nil Observations - Sahi",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 4.5
+      "freshness_hours": 5.5
     }
   ],
   "opportunities": [
@@ -397,5 +397,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-28T09:26:29.848392+00:00"
+  "landed_updated_utc": "2026-09-28T10:25:05.274024+00:00"
 }
