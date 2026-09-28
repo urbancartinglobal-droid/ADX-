@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 14.7
+      "freshness_hours": 15.7
     },
     {
-      "title": "Zydus Lifesciences' New Jersey Office Clears USFDA Inspection With Nil Observations - sahi.com",
+      "title": "Zydus Lifesciences' New Jersey Office Clears USFDA Inspection With Nil Observations - Sahi",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak12MzRLWUs3R2EyUU9oRHFMYnJMcVdYRXNaUWZHV2FJWVM2Y3E3MVJwMGtLQzdQWTkxQ0VFQXc2NHpGbWxFamZBSFhYWTdPbWZqaDFMNS1VY3BlVThiTll2Yk81aHVvS3JkZTR1blNRTUc4LTd4dHFhRlR3WUdLR3FoN291TWMwVWtZUE50MkFaTWtzR0E4eGFZYjB2TWtFVDVyOVlXTWtqUnYx?oc=5",
       "published": "Mon, 28 Sep 2026 01:07:30 GMT",
-      "source": "sahi.com",
+      "source": "Sahi",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,21 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.3
-    },
-    {
-      "title": "Beyond Banned Chips: How India builds silicon strategic autonomy in the age of geopolitical upheavals - organiser.org",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQal9sZjlFT0dCaWlrejRlMGxjMFh2Y21qRGdHYlpGMTZNUVUybEpiMzM4VzdMWmR3RGlsUXl6WDZRS1ZoVkhOSmVBbE44N00wN1JNbFZ3eUJ1VjFCemJsZl8tbjFEZFZESjFyMDRnbnJQQ1BubENZZGtHUlZZVER6bW9yZkFKT3pCWWNrSHFadHI3NVdKOXFlRmRIWHFNa2dsaE5MNjJJU1gwYUYzSTU5VTZ4SDlQeU5nNkRJa2hrU2o1TmtYRmJlTF9jREZoWTNXZmRBYnhaMkgwb3pDaXRUZFF3?oc=5",
-      "published": "Sun, 27 Sep 2026 06:46:40 GMT",
-      "source": "organiser.org",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 21.6
+      "freshness_hours": 4.3
     }
   ],
   "opportunities": [
@@ -388,5 +374,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-28T04:24:13.268403+00:00"
+  "landed_updated_utc": "2026-09-28T05:23:33.699887+00:00"
 }
