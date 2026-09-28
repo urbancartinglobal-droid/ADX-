@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-09-28T12:36:46.572173+00:00",
+  "updated_utc": "2026-09-28T18:33:21.197946+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI absorbs INR 75,026 crore through overnight VRRR auction amid surplus liquidity - Prop News Time",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcW8zejA3djdMaW16OVlMS2N4ZzYtX0VJc085RWtqSW55REg3MHFBQk05SVh4a21OdmJnZjN4dTNTMnV6NlFYd3A4WVRpNGc5QjYzZUVMR0Rpbno3bkRkMm1HVHc5V3V3QklhUTF4elQ5N3puT0hIUF9UcEZfLUUtNGZubEJBMkw1N1RvMm1wX01UNnl5alVKdmppTTY0eXlqZEVOWmgyREltZjZDbjBGSU1rS1I4VjRab3E2d3d3bVdmYUtJVUxpcGxWOGhhdWM?oc=5",
-      "published": "Mon, 28 Sep 2026 07:47:39 GMT",
-      "source": "Prop News Time",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 10.6
-    },
-    {
-      "title": "SCARA Horizontal Reach Robots Market To 2035: Growth Accelerates on Semiconductor Fab Expansion and Electronics Reshoring - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMm51TE1RZjJFQVRlX01lRER2ZWNpd05iUGQxOERBTmlPTmxtYmFtYWdEcmhUZWJqRWw0ek5lU3U1dDAwcFBHZTk3WGJMM3huT3NLcGphRkV1MXlwdGJuX05iLW5HbENVc2NON0pYbC0yYnNlbFVWdlBfMDh0TlRMNzJDZm5zM3hBNWI0Q0pqV3dzd2dfOTZ2dlUwMExtbnhVOGRxbFVNTHdySWttRDNYdjhjd2w2NmYwU2Y5YjZlVUlkRVFsNXhZSk9WMkh2TE53bWtDc0ZTNjdldTNNaHhhN0FKMnpIdlg5VW5YNlBZSFI?oc=5",
-      "published": "Mon, 28 Sep 2026 04:56:04 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 13.5
-    },
-    {
-      "title": "Sun Pharma partners with LIB Therapeutics for global rights to newly EU-approved cholesterol drug Lyrokaul - indianpharmapost.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSEdrQVpyTjBQZzV3TnRTcmlscV9YYlZBN0ZHV1k2bVlYVTFjdVY0a2ZvRnlVSU04OV95R3RJOG52eXEtcjQwdjJvSTJwcThEaFpLamxmTXk5QVkwWGFsbTJVLWRJT1ZxODQyR1N0YXJQQjVRa2VkNV9FSGZvdGNyR1BzWnFfak1hUzdHMTBSYXcyUTM1SzRVNlRtSDhrYjdPd2VCcTIwbTF6NTJ0TU4wM0NLaGQyaG14T2p1NDdrcXRJcTNVcTczZVVISEcwMXptaXNPX0lCbFJqdWZXenp6bk5iNnDSAesBQVVfeXFMUDh3XzNFTmNqelZNX1h2dGJ4NHkwMHJjenF3bGdMOUNUdmtabG1GQmk1WC1VcjNwWWtuS1BrU1NGSi1zXzNVV3ZRN2VSQ1l0cGJKTTYxcE56OG1ZcXFSamhOcGxka3RXTGJKTmcyQUliQWtUTTd6YU9xUmdtSWs3SmV3WVNjNUJVYjg3SW5wLWh2WjktUVJ0MTZzeS1pREpOVHBQa3o5R3NqaVZCY0tOWXB2b0xLeGRYVUlOb3B0cFRUMFJZcmxtZVdhd3RtY183MWVOeTFFdTNCZXNjdHRIbGZoTWozaTN0UGdrRQ?oc=5",
-      "published": "Mon, 28 Sep 2026 14:09:03 GMT",
-      "source": "indianpharmapost.com",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 4.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 66,
-      "article_count": 4,
-      "trigger_count": 9,
+      "score": 76,
+      "article_count": 5,
+      "trigger_count": 10,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -93,20 +50,29 @@
           "companies": []
         },
         {
-          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - sg.finance.yahoo.com",
-          "source": "sg.finance.yahoo.com",
+          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGQ3TUdxMHk0dk0wY2piWUs5SkNIdGZ6NlloRUZuUE1XYldUT1JLRUpFSzR5UW85MWFsbjI2UTd5bG4wZGx4dW9TT3d2NEZYX1VTRkl0SUdjZ05qcGtod1NWakFGaG1BUmdPNlJsWVdqaFVXdGxRT0NTQlR4NUZtcTdKajU4V2xZMjVXUkJ1bzU?oc=5",
           "triggers": [
             "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Record sugarcane, soaring prices: Inside India's sugar supply squeeze - India Today",
+          "source": "India Today",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVmU2YWYyVjFVQUhxY2tTQVF2UFVCejNHTFJNQUFva1lIMjVrZUpraHdnV3R6ZXRsTHNnUVc5WlJqM2plTmNSRURaWHRGbmZ0OS1QalhIbUFXcy1ocmFleVBlTGVSRmUwUGNhREE0T2ZDOExoTXB1a2lrQ3BsVHcxdHZBeENsWlp5cjV1Yi1CcXJ2aVMtbjROU2NSMFZVMFNkR2Vtd2tXNDdzQXNBeVhrUDQyMDV0eUphUTVVSzNKb3NKQXVHR3U5TGRMQjBNbkFqM3ZCSzBITTc5RVU4UEHSAeMBQVVfeXFMTm94R1JnRVRoc2ttZXRNRlRETGF5SGNjdWFDOHI5NnhmMnlPWkY5QWdDTkY2cmJxNmZVeUxmYzlsTWxPblR4b3VjTm5MaEZxMzY3cVhILTFCUGY2WXhfTXZncUh6enNCNURpX1A0WlJSdjNrS2gzaHh4bWt0U3NJZVNzY0VyMnNZU3dRUXJ0M29UbVJoMWtibXQ3dENfMGhJTnpuZ2xGN2pVOFcwMTREbXdDUTZaYlVXRkFDRUhVcjBmUzNVaUxWa3hEbWFaUG9qbjU1RUVNUHdjZFN1d2pGWUFBQ2M?oc=5",
+          "triggers": [
+            "PRICING"
           ],
           "companies": []
         }
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 4 independent sources.",
-      "source_count": 4,
-      "story_clusters": 4,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
+      "source_count": 5,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -232,8 +198,8 @@
       ],
       "evidence": [
         {
-          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
-          "source": "Autocar Professional",
+          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - autocarpro.in",
+          "source": "autocarpro.in",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
           "triggers": [
             "POLICY"
@@ -243,8 +209,8 @@
           ]
         },
         {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
           "triggers": [
             "POLICY"
@@ -275,8 +241,8 @@
       ],
       "evidence": [
         {
-          "title": "India's Semiconductor Sector: Three New Plants Get Approved - India Briefing",
-          "source": "India Briefing",
+          "title": "India's Semiconductor Sector: Three New Plants Get Approved - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG5UU21TV3dYeFYyaG5rcG5XWjB4RXlaV1ZrRjBwTHhQNlZPMGd5cTRsWWRsemYwQVE4dUw0Z2tHcHNXc29wZktnZG14b2h4cGwtaTc1WGgyRHZveFk1bkt4NzRUbnpqcndEWV80aERrNGZsOTdFU2d6MjhJbVViR3UzN3VkcG8zVkg0WG1MaWF5NkNWWDZsSFBKNWpyaEtYUV9hVmdwNGlzc3k1Yk9pVmlYNVU?oc=5",
           "triggers": [
             "CAPEX"
@@ -335,8 +301,8 @@
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
@@ -387,6 +353,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-28T18:26:09.041490+00:00"
+  ]
 }
