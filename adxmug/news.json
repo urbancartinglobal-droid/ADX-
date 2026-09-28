@@ -6,24 +6,38 @@
   "articles": [],
   "landed": [
     {
-      "title": "Railways Approves Rs. 166.5 mn Four-Lane ROB in Vadodara - Construction World India",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSzNMNEJ4ZVhYazlTMDYyQ2lzMTJJRHZiRVJPMm5tUGRxTVhZekdzaGJXUE5GVE1ZSzFaRVZVYm9tN0otUGV1RG02TzloYXJQU2dsZzh1dXprcVkteDF2NzNuMVhITUVKQ0RaT3Q3V2ZQcVN5UzZhVTRjcGRTdmNrNnJLRmF1YTNpeGFEakF2eElxQ0lXT2lpZzdab0xvTHhqM2xRSGwybV9zVktaWWJ2RXBhMlFMaXFLZHJjQWVZb2llY1VjVFRTN25Zb2prNVkyY21iS2pTemRHeVluQ2ZmdW1RYi1rcnlabzVuTC1PMkE?oc=5",
-      "published": "Mon, 28 Sep 2026 06:04:55 GMT",
-      "source": "Construction World India",
-      "sector": "Rail & Infrastructure",
+      "title": "RBI absorbs INR 75,026 crore through overnight VRRR auction amid surplus liquidity - Prop News Time",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcW8zejA3djdMaW16OVlMS2N4ZzYtX0VJc085RWtqSW55REg3MHFBQk05SVh4a21OdmJnZjN4dTNTMnV6NlFYd3A4WVRpNGc5QjYzZUVMR0Rpbno3bkRkMm1HVHc5V3V3QklhUTF4elQ5N3puT0hIUF9UcEZfLUUtNGZubEJBMkw1N1RvMm1wX01UNnl5alVKdmppTTY0eXlqZEVOWmgyREltZjZDbjBGSU1rS1I4VjRab3E2d3d3bVdmYUtJVUxpcGxWOGhhdWM?oc=5",
+      "published": "Mon, 28 Sep 2026 07:47:39 GMT",
+      "source": "Prop News Time",
+      "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 1.3
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.7
     },
     {
-      "title": "Zydus Lifesciences' New Jersey Office Clears USFDA Inspection With Nil Observations - sahi.com",
+      "title": "SCARA Horizontal Reach Robots Market Forecast to 2035: Growth Accelerates on Semiconductor Fab Expansion and Electronics Reshoring - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMm51TE1RZjJFQVRlX01lRER2ZWNpd05iUGQxOERBTmlPTmxtYmFtYWdEcmhUZWJqRWw0ek5lU3U1dDAwcFBHZTk3WGJMM3huT3NLcGphRkV1MXlwdGJuX05iLW5HbENVc2NON0pYbC0yYnNlbFVWdlBfMDh0TlRMNzJDZm5zM3hBNWI0Q0pqV3dzd2dfOTZ2dlUwMExtbnhVOGRxbFVNTHdySWttRDNYdjhjd2w2NmYwU2Y5YjZlVUlkRVFsNXhZSk9WMkh2TE53bWtDc0ZTNjdldTNNaHhhN0FKMnpIdlg5VW5YNlBZSFI?oc=5",
+      "published": "Mon, 28 Sep 2026 04:56:04 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 3.5
+    },
+    {
+      "title": "Zydus Lifesciences' New Jersey Office Clears USFDA Inspection With Nil Observations - Sahi",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak12MzRLWUs3R2EyUU9oRHFMYnJMcVdYRXNaUWZHV2FJWVM2Y3E3MVJwMGtLQzdQWTkxQ0VFQXc2NHpGbWxFamZBSFhYWTdPbWZqaDFMNS1VY3BlVThiTll2Yk81aHVvS3JkZTR1blNRTUc4LTd4dHFhRlR3WUdLR3FoN291TWMwVWtZUE50MkFaTWtzR0E4eGFZYjB2TWtFVDVyOVlXTWtqUnYx?oc=5",
       "published": "Mon, 28 Sep 2026 04:55:41 GMT",
-      "source": "sahi.com",
+      "source": "Sahi",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 2.5
+      "freshness_hours": 3.5
     }
   ],
   "opportunities": [
@@ -383,5 +397,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-28T07:25:41.025939+00:00"
+  "landed_updated_utc": "2026-09-28T08:26:43.443757+00:00"
 }
