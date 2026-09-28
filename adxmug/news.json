@@ -4,7 +4,22 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Absorbs Rs 75,026 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzhaV2JxZzlUQTBjVW9DUzZiYTBwRkw1OHhQOE1XWDdvYUJXNERwckMyVlUyR3JPd1BNMlpuNkNDNWpqcmRYYXZfRVJoemhYY1BGQU5abWlNSEZhbGJyRk1LVzF3cmhoeUFkRkFOajB5YkxOLVlNUDFjQUZQUkRDNEg2N2RZdUFjRmZtaEZUemRwLUwzdlB5UFloYzlCOEFUU0sycWJ6Z2lSWVh1czF3SXprXy1uVkZZUUJhSw?oc=5",
+      "published": "Sun, 27 Sep 2026 13:40:04 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 11.7
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -344,5 +359,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-28T01:21:57.368623+00:00"
 }
