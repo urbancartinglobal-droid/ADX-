@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "Eton Pharmaceuticals Announces U.S. Commercial Availability of IMPAVIDO® (miltefosine) Capsules - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHJqR0MyYWNRVDRrbUtYTnFDZFQzOFNRUE5VeEZYcUVya0FVMFhrUkFlbldwLVY2Vl9OZTg1STNGY0k2bm9BeHNhdjZoRUZfRnFaQ3p5c2tnM0Q1cWg4YnZ3VHBPc3VUR0ZjTnhJOHdPOVRLQ0VuMm0yZGRwMFNkLTd1X0ZXZDlaXzllZkdBc05rd2l3QzlJ?oc=5",
+      "published": "Mon, 28 Sep 2026 11:13:31 GMT",
+      "source": "Yahoo! Finance Canada",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 1.3
+    },
+    {
       "title": "RBI absorbs INR 75,026 crore through overnight VRRR auction amid surplus liquidity - Prop News Time",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcW8zejA3djdMaW16OVlMS2N4ZzYtX0VJc085RWtqSW55REg3MHFBQk05SVh4a21OdmJnZjN4dTNTMnV6NlFYd3A4WVRpNGc5QjYzZUVMR0Rpbno3bkRkMm1HVHc5V3V3QklhUTF4elQ5N3puT0hIUF9UcEZfLUUtNGZubEJBMkw1N1RvMm1wX01UNnl5alVKdmppTTY0eXlqZEVOWmgyREltZjZDbjBGSU1rS1I4VjRab3E2d3d3bVdmYUtJVUxpcGxWOGhhdWM?oc=5",
       "published": "Mon, 28 Sep 2026 07:47:39 GMT",
@@ -17,10 +31,10 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.6
+      "freshness_hours": 4.7
     },
     {
-      "title": "World’s second most powerful military sends Russia-derived air-defence system designed to stop cruise missiles to a powerful North African nation - Business Insider Africa",
+      "title": "World’s second most powerful military sends Russia-derived air-defence system designed to stop cruise missiles to powerful North African nation - Business Insider Africa",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMzhwTmpiUkdXWkFmalcwLThnekd5OGVrS3RyeGlLT0tjbjdvZ0dwRHdmY2NtT0xGZFNJa1hqaWtkTF9pMkM0eGI0Q3NNSXYzWmFiYmdTNE4wYjBwNHk1V2ozTldwTUVrNDk3V3NDT2dUUDBLZXFHdGRuN0IyQWJndjFVUDNrVU52OFZ4MTdRaTVFUzFyVGlhLTVfMDhRdy1MempnZFVtRHdHekZKel9PX2xOZm9aZ3N6U21wOGVFam5leGNpcTU3RnZocW5iY0FIcGxhY2lGR01udw?oc=5",
       "published": "Sun, 27 Sep 2026 18:00:00 GMT",
       "source": "Business Insider Africa",
@@ -31,21 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 17.4
-    },
-    {
-      "title": "Zydus Lifesciences' New Jersey Office Clears USFDA Inspection With Nil Observations - Sahi",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak12MzRLWUs3R2EyUU9oRHFMYnJMcVdYRXNaUWZHV2FJWVM2Y3E3MVJwMGtLQzdQWTkxQ0VFQXc2NHpGbWxFamZBSFhYWTdPbWZqaDFMNS1VY3BlVThiTll2Yk81aHVvS3JkZTR1blNRTUc4LTd4dHFhRlR3WUdLR3FoN291TWMwVWtZUE50MkFaTWtzR0E4eGFZYjB2TWtFVDVyOVlXTWtqUnYx?oc=5",
-      "published": "Mon, 28 Sep 2026 04:55:41 GMT",
-      "source": "Sahi",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 6.5
+      "freshness_hours": 18.5
     }
   ],
   "opportunities": [
@@ -397,5 +397,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-28T11:23:10.605152+00:00"
+  "landed_updated_utc": "2026-09-28T12:29:26.526890+00:00"
 }
