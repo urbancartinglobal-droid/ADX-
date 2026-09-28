@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Ample Semiconductors Expands RTL Expertise To Develop Own Chips - electronicsforyou.biz",
+      "title": "Ample Semiconductors Expands RTL Expertise To Develop Own Chips - Electronics For You BUSINESS",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXNZZFhTRmlJYXBZaWszWjJDMmxlUWJXRExHMlk1VzdxTzdhOWtxcjdrbWIzVGgzdEI1ZlNrT2NnOWNlbkdPMFpZN0x3YW5pUGFndUtwV1d2aEtRbjJGSWU4T0pxVEd3R3ZtYVltT3dXUExBM25SVm02akhLRmRwc09pUll0aWxIZjdYX2Jnd0p1aEFVaDBmcXV0b1FZX1FULUtwalhGd0swMGlybEtB?oc=5",
       "published": "Mon, 28 Sep 2026 12:45:22 GMT",
-      "source": "electronicsforyou.biz",
+      "source": "Electronics For You BUSINESS",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,21 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
-    },
-    {
-      "title": "Eton Pharmaceuticals Announces U.S. Commercial Availability of IMPAVIDO® (miltefosine) Capsules - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHJqR0MyYWNRVDRrbUtYTnFDZFQzOFNRUE5VeEZYcUVya0FVMFhrUkFlbldwLVY2Vl9OZTg1STNGY0k2bm9BeHNhdjZoRUZfRnFaQ3p5c2tnM0Q1cWg4YnZ3VHBPc3VUR0ZjTnhJOHdPOVRLQ0VuMm0yZGRwMFNkLTd1X0ZXZDlaXzllZkdBc05rd2l3QzlJ?oc=5",
-      "published": "Mon, 28 Sep 2026 11:13:31 GMT",
-      "source": "Yahoo! Finance Canada",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 2.2
+      "freshness_hours": 1.7
     },
     {
       "title": "RBI absorbs INR 75,026 crore through overnight VRRR auction amid surplus liquidity - Prop News Time",
@@ -45,7 +31,21 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.6
+      "freshness_hours": 6.7
+    },
+    {
+      "title": "Zydus Lifesciences' New Jersey Office Clears USFDA Inspection With Nil Observations - Sahi",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak12MzRLWUs3R2EyUU9oRHFMYnJMcVdYRXNaUWZHV2FJWVM2Y3E3MVJwMGtLQzdQWTkxQ0VFQXc2NHpGbWxFamZBSFhYWTdPbWZqaDFMNS1VY3BlVThiTll2Yk81aHVvS3JkZTR1blNRTUc4LTd4dHFhRlR3WUdLR3FoN291TWMwVWtZUE50MkFaTWtzR0E4eGFZYjB2TWtFVDVyOVlXTWtqUnYx?oc=5",
+      "published": "Mon, 28 Sep 2026 04:55:41 GMT",
+      "source": "Sahi",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 9.5
     }
   ],
   "opportunities": [
@@ -388,5 +388,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-28T13:24:48.947496+00:00"
+  "landed_updated_utc": "2026-09-28T14:26:39.980722+00:00"
 }
