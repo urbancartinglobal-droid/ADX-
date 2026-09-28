@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-09-28T00:37:38.063897+00:00",
+  "updated_utc": "2026-09-28T06:37:50.023115+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "SCARA Horizontal Reach Robots Market Forecast to 2035: Growth Accelerates on Semiconductor Fab Expansion and Electronics Reshoring - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMm51TE1RZjJFQVRlX01lRER2ZWNpd05iUGQxOERBTmlPTmxtYmFtYWdEcmhUZWJqRWw0ek5lU3U1dDAwcFBHZTk3WGJMM3huT3NLcGphRkV1MXlwdGJuX05iLW5HbENVc2NON0pYbC0yYnNlbFVWdlBfMDh0TlRMNzJDZm5zM3hBNWI0Q0pqV3dzd2dfOTZ2dlUwMExtbnhVOGRxbFVNTHdySWttRDNYdjhjd2w2NmYwU2Y5YjZlVUlkRVFsNXhZSk9WMkh2TE53bWtDc0ZTNjdldTNNaHhhN0FKMnpIdlg5VW5YNlBZSFI?oc=5",
-      "published": "Mon, 28 Sep 2026 04:56:04 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.6
-    },
-    {
-      "title": "US FDA approves Mirum's drug for rare bone disorder - ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEtWamUtN0t3a01KT2tvbjByY3BiQ19PTVlhZmVFMXVGNXEtVzVQMV9iYW5BQ0tDTlFCSnJKb0JJRkU5MzNSUVVUM2JndkV4aUFYbnVhQWtqOGJPY0I2NkIwTFA0dEtZTTlQUVpQMzIteVZXOVNVLUJ5WmRmYzFiOHRIZnBhOUhzZE5xZ3J5bUE0MWhuX194NFZIUmswcGdnQUxRVG1ZbWVYd2Y5alVQaGNLVTQyUE8xc3N4bEtmeU1GZ3RYRllVdm5mRTl6bXlPVVlwS3FiRkfSAdgBQVVfeXFMTjBLVmplLTdLd2tNSk9rb24wcmNwYkNfT01ZYWZlRTF1RjVxLVc1UDFfYmFuQUNLQ05RQkpySm9CSUZFOTMzUlFVVDNiZ3ZFeGlBWG51YUFrajhiT2NCNjZCMExQNHRLWU05UFFaUDMyLXlWVzlTVS1CeVpkZmMxYjh0SGZwYTlIc2ROcWdyeW1BNDFobl9feDRWSFJrMHBnZ0FMUVRtWW1lWHdmOWpVUGhjS1U0MlBPMXNzeGxLZnlNRmd0WEZZVXZuZkU5em15T1VZcEtxYkZH?oc=5",
-      "published": "Mon, 28 Sep 2026 02:06:39 GMT",
-      "source": "ETPharma.com",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 4.4
-    },
-    {
-      "title": "RBI Absorbs Rs 75,026 Cr Via Overnight VRRR Auction Amid Surplus Liquidity - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzhaV2JxZzlUQTBjVW9DUzZiYTBwRkw1OHhQOE1XWDdvYUJXNERwckMyVlUyR3JPd1BNMlpuNkNDNWpqcmRYYXZfRVJoemhYY1BGQU5abWlNSEZhbGJyRk1LVzF3cmhoeUFkRkFOajB5YkxOLVlNUDFjQUZQUkRDNEg2N2RZdUFjRmZtaEZUemRwLUwzdlB5UFloYzlCOEFUU0sycWJ6Z2lSWVh1czF3SXprXy1uVkZZUUJhSw?oc=5",
-      "published": "Sun, 27 Sep 2026 13:40:04 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.8
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 66,
-      "article_count": 4,
-      "trigger_count": 9,
+      "score": 76,
+      "article_count": 5,
+      "trigger_count": 10,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -82,8 +39,8 @@
           "companies": []
         },
         {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - chinimandi.com",
-          "source": "chinimandi.com",
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
+          "source": "ChiniMandi",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
           "triggers": [
             "POLICY",
@@ -93,20 +50,29 @@
           "companies": []
         },
         {
-          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - sg.finance.yahoo.com",
-          "source": "sg.finance.yahoo.com",
+          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGQ3TUdxMHk0dk0wY2piWUs5SkNIdGZ6NlloRUZuUE1XYldUT1JLRUpFSzR5UW85MWFsbjI2UTd5bG4wZGx4dW9TT3d2NEZYX1VTRkl0SUdjZ05qcGtod1NWakFGaG1BUmdPNlJsWVdqaFVXdGxRT0NTQlR4NUZtcTdKajU4V2xZMjVXUkJ1bzU?oc=5",
           "triggers": [
             "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Record sugarcane, soaring prices: Inside India's sugar supply squeeze - India Today",
+          "source": "India Today",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVmU2YWYyVjFVQUhxY2tTQVF2UFVCejNHTFJNQUFva1lIMjVrZUpraHdnV3R6ZXRsTHNnUVc5WlJqM2plTmNSRURaWHRGbmZ0OS1QalhIbUFXcy1ocmFleVBlTGVSRmUwUGNhREE0T2ZDOExoTXB1a2lrQ3BsVHcxdHZBeENsWlp5cjV1Yi1CcXJ2aVMtbjROU2NSMFZVMFNkR2Vtd2tXNDdzQXNBeVhrUDQyMDV0eUphUTVVSzNKb3NKQXVHR3U5TGRMQjBNbkFqM3ZCSzBITTc5RVU4UEHSAeMBQVVfeXFMTm94R1JnRVRoc2ttZXRNRlRETGF5SGNjdWFDOHI5NnhmMnlPWkY5QWdDTkY2cmJxNmZVeUxmYzlsTWxPblR4b3VjTm5MaEZxMzY3cVhILTFCUGY2WXhfTXZncUh6enNCNURpX1A0WlJSdjNrS2gzaHh4bWt0U3NJZVNzY0VyMnNZU3dRUXJ0M29UbVJoMWtibXQ3dENfMGhJTnpuZ2xGN2pVOFcwMTREbXdDUTZaYlVXRkFDRUhVcjBmUzNVaUxWa3hEbWFaUG9qbjU1RUVNUHdjZFN1d2pGWUFBQ2M?oc=5",
+          "triggers": [
+            "PRICING"
           ],
           "companies": []
         }
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 4 independent sources.",
-      "source_count": 4,
-      "story_clusters": 4,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 5 independent sources.",
+      "source_count": 5,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -157,22 +123,22 @@
           "companies": []
         },
         {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
           "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
           "source": "scanx.trade",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
           "triggers": [
             "POLICY",
             "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
           ],
           "companies": []
         }
@@ -387,6 +353,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-28T06:30:44.597810+00:00"
+  ]
 }
