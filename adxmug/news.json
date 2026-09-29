@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-29T12:36:52.903875+00:00",
+  "updated_utc": "2026-09-29T18:34:28.982768+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI FX operations drain nearly $20 billion from India banking liquidity surplus - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlpGZGlSMC1WNGhmZEhvbzVtVGp6TXAxMUZqLWFhN2hIZS1ZbEZTSndSa1dnVDkwSFcwQ3BPMEE0WHg2aVJtMjVjUjFfcUFHclBTNFViOW9EWmRvaG1mckxTelF0WWRNcl82WnUtUFR3ZVlMWkFnTV9kX05yVEE0LXpHUlVSMXdUc240MFhUQjczMzJqMGc4?oc=5",
-      "published": "Tue, 29 Sep 2026 07:25:25 GMT",
-      "source": "Traders Union",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.0
-    },
-    {
-      "title": "Canon India eyes semiconductor equipment opportunity as chip manufacturing expands - Electronics For You BUSINESS",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHJYSUlKNlhQeF9JQ28wc2dfcjdUYTJiSVZJay1KYm1yYV96elc5ZFVSY3ZVeVVyb2FHMjdxVzQ3NDZXWVJlNTlBcnN4aUJISm9jZ0ppSUx5cDZwZGRnVDR2TVlhTlJfQVAwTUZzcV9pV1R1QXdXdklZa2JVQnI5bmxiaDlFRGtNd3Qtd2Z3ejJQZlZlUU1hM3hwMzBjelZxUF90MXZRX2VHVVR5Mk5sUUlaX29GWEdQcWZpT2QtbmZzWGFMS0tKLVk3Yw?oc=5",
-      "published": "Tue, 29 Sep 2026 12:45:13 GMT",
-      "source": "Electronics For You BUSINESS",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.7
-    },
-    {
-      "title": "US-Mexico trade review faces delay, with automotive rules and metal tariffs in focus - AL Circle",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2M4SHp3T0p1Y3ktT0Nwb0dUTlk4NGpDN2V3QmJlQkpHZ0lGOGxfaVF1MUxsV0FVTE9MTkFYZzhyOEFobjRzeWFyRWVJOHhQU25iUWF4RE83UFdNanZ1RDllTzc2MkZ1UUdMZ3B6OXlUVkFYdVgzTFY5SGUtRE54OFZRMDdNYzZFa19oaHBaWjd3cG9nbkJYZXd5R3VZVWZGYTBJWVFFLXpCUkxwWE1VOGRkc09rUlcwWVRfeQ?oc=5",
-      "published": "Tue, 29 Sep 2026 17:40:28 GMT",
-      "source": "AL Circle",
-      "sector": "Auto & Components",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 0.8
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -61,8 +18,8 @@
       ],
       "evidence": [
         {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - policycircle.org",
-          "source": "policycircle.org",
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
+          "source": "Policy Circle",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
           "triggers": [
             "POLICY",
@@ -252,8 +209,8 @@
           ]
         },
         {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
           "triggers": [
             "POLICY"
@@ -284,8 +241,8 @@
       ],
       "evidence": [
         {
-          "title": "India's Semiconductor Sector: Three New Plants Get Approved - India Briefing",
-          "source": "India Briefing",
+          "title": "India's Semiconductor Sector: Three New Plants Get Approved - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG5UU21TV3dYeFYyaG5rcG5XWjB4RXlaV1ZrRjBwTHhQNlZPMGd5cTRsWWRsemYwQVE4dUw0Z2tHcHNXc29wZktnZG14b2h4cGwtaTc1WGgyRHZveFk1bkt4NzRUbnpqcndEWV80aERrNGZsOTdFU2d6MjhJbVViR3UzN3VkcG8zVkg0WG1MaWF5NkNWWDZsSFBKNWpyaEtYUV9hVmdwNGlzc3k1Yk9pVmlYNVU?oc=5",
           "triggers": [
             "CAPEX"
@@ -344,8 +301,8 @@
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
@@ -410,6 +367,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-29T18:27:36.549532+00:00"
+  ]
 }
