@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 10.0
+      "freshness_hours": 11.0
     },
     {
       "title": "Canon India eyes semiconductor equipment opportunity as chip manufacturing expands - Electronics For You BUSINESS",
@@ -31,21 +31,21 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.6
+      "freshness_hours": 5.7
     },
     {
-      "title": "US Pharma Tariffs: Which Indian Pharma Stocks Could Benefit From 0% Duty on Specialty Drugs? - Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcGRib2kycTFTZkRXMlNVZFNJTkQ2emstWXE2VG9feVFIa0lfSk9saThfT0ZiNGJpMTdhQTI1RkxnWWdlUlp6d0ZBV29GblhHcHFyQmRjdlRsSUtBWWVvam92QWd2NXpLbjNMTHlubmZEcWpHNFNoZlJWbVJOSE5kbTJOSDFTY25tV1NTR2ZzUTBCSzNRU2VBRGRXWWxGMV9QRW50WmlVU19STXd2WHNhTWc1TXJOQ3NCVXZQRG5GRnhfajk3cVg2bEZRSVVQV21wcGc?oc=5",
-      "published": "Tue, 29 Sep 2026 07:51:07 GMT",
-      "source": "Trade Brains",
-      "sector": "Pharma & Healthcare",
+      "title": "US-Mexico trade review faces delay, with automotive rules and metal tariffs in focus - AL Circle",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2M4SHp3T0p1Y3ktT0Nwb0dUTlk4NGpDN2V3QmJlQkpHZ0lGOGxfaVF1MUxsV0FVTE9MTkFYZzhyOEFobjRzeWFyRWVJOHhQU25iUWF4RE83UFdNanZ1RDllTzc2MkZ1UUdMZ3B6OXlUVkFYdVgzTFY5SGUtRE54OFZRMDdNYzZFa19oaHBaWjd3cG9nbkJYZXd5R3VZVWZGYTBJWVFFLXpCUkxwWE1VOGRkc09rUlcwWVRfeQ?oc=5",
+      "published": "Tue, 29 Sep 2026 17:40:28 GMT",
+      "source": "AL Circle",
+      "sector": "Auto & Components",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 9.5
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 0.8
     }
   ],
   "opportunities": [
@@ -411,5 +411,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-29T17:22:51.551112+00:00"
+  "landed_updated_utc": "2026-09-29T18:27:36.549532+00:00"
 }
