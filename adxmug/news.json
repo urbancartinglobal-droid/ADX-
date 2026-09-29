@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Ample Semiconductors Expands RTL Expertise To Develop Own Chips - electronicsforyou.biz",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXNZZFhTRmlJYXBZaWszWjJDMmxlUWJXRExHMlk1VzdxTzdhOWtxcjdrbWIzVGgzdEI1ZlNrT2NnOWNlbkdPMFpZN0x3YW5pUGFndUtwV1d2aEtRbjJGSWU4T0pxVEd3R3ZtYVltT3dXUExBM25SVm02akhLRmRwc09pUll0aWxIZjdYX2Jnd0p1aEFVaDBmcXV0b1FZX1FULUtwalhGd0swMGlybEtB?oc=5",
+      "published": "Mon, 28 Sep 2026 12:45:22 GMT",
+      "source": "electronicsforyou.biz",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 12.6
+    },
+    {
+      "title": "RBI absorbs INR 75,026 crore through overnight VRRR auction amid surplus liquidity - Prop News Time",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcW8zejA3djdMaW16OVlMS2N4ZzYtX0VJc085RWtqSW55REg3MHFBQk05SVh4a21OdmJnZjN4dTNTMnV6NlFYd3A4WVRpNGc5QjYzZUVMR0Rpbno3bkRkMm1HVHc5V3V3QklhUTF4elQ5N3puT0hIUF9UcEZfLUUtNGZubEJBMkw1N1RvMm1wX01UNnl5alVKdmppTTY0eXlqZEVOWmgyREltZjZDbjBGSU1rS1I4VjRab3E2d3d3bVdmYUtJVUxpcGxWOGhhdWM?oc=5",
+      "published": "Mon, 28 Sep 2026 07:47:39 GMT",
+      "source": "Prop News Time",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 17.6
+    },
+    {
+      "title": "Sun Pharma partners with LIB Therapeutics for global rights to newly EU-approved cholesterol drug Lyrokaul - Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSEdrQVpyTjBQZzV3TnRTcmlscV9YYlZBN0ZHV1k2bVlYVTFjdVY0a2ZvRnlVSU04OV95R3RJOG52eXEtcjQwdjJvSTJwcThEaFpLamxmTXk5QVkwWGFsbTJVLWRJT1ZxODQyR1N0YXJQQjVRa2VkNV9FSGZvdGNyR1BzWnFfak1hUzdHMTBSYXcyUTM1SzRVNlRtSDhrYjdPd2VCcTIwbTF6NTJ0TU4wM0NLaGQyaG14T2p1NDdrcXRJcTNVcTczZVVISEcwMXptaXNPX0lCbFJqdWZXenp6bk5iNnDSAesBQVVfeXFMUDh3XzNFTmNqelZNX1h2dGJ4NHkwMHJjenF3bGdMOUNUdmtabG1GQmk1WC1VcjNwWWtuS1BrU1NGSi1zXzNVV3ZRN2VSQ1l0cGJKTTYxcE56OG1ZcXFSamhOcGxka3RXTGJKTmcyQUliQWtUTTd6YU9xUmdtSWs3SmV3WVNjNUJVYjg3SW5wLWh2WjktUVJ0MTZzeS1pREpOVHBQa3o5R3NqaVZCY0tOWXB2b0xLeGRYVUlOb3B0cFRUMFJZcmxtZVdhd3RtY183MWVOeTFFdTNCZXNjdHRIbGZoTWozaTN0UGdrRQ?oc=5",
+      "published": "Mon, 28 Sep 2026 16:43:45 GMT",
+      "source": "Indian Pharma Post",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 8.6
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -353,5 +396,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-29T01:21:43.913002+00:00"
 }
