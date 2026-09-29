@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI FX operations drain nearly $20 billion from India banking liquidity surplus - tradersunion.com",
+      "title": "RBI FX operations drain nearly $20 billion from India banking liquidity surplus - Traders Union",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlpGZGlSMC1WNGhmZEhvbzVtVGp6TXAxMUZqLWFhN2hIZS1ZbEZTSndSa1dnVDkwSFcwQ3BPMEE0WHg2aVJtMjVjUjFfcUFHclBTNFViOW9EWmRvaG1mckxTelF0WWRNcl82WnUtUFR3ZVlMWkFnTV9kX05yVEE0LXpHUlVSMXdUc240MFhUQjczMzJqMGc4?oc=5",
       "published": "Tue, 29 Sep 2026 07:25:25 GMT",
-      "source": "tradersunion.com",
+      "source": "Traders Union",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.0
+      "freshness_hours": 14.0
     },
     {
       "title": "Canon India eyes semiconductor equipment opportunity as chip manufacturing expands - Electronics For You BUSINESS",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 7.7
+      "freshness_hours": 8.6
     },
     {
       "title": "US-Mexico trade review faces delay, with automotive rules and metal tariffs in focus - AL Circle",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 2.7
+      "freshness_hours": 3.7
     }
   ],
   "opportunities": [
@@ -411,5 +411,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-29T20:24:26.163249+00:00"
+  "landed_updated_utc": "2026-09-29T21:22:59.169068+00:00"
 }
