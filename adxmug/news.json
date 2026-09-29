@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-28T18:33:21.197946+00:00",
+  "updated_utc": "2026-09-29T00:36:10.054075+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "India Expands Tech Strategy Beyond Manufacturing Into Chips and Cloud - briefasia.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHJiclFPazg2eXNXY0Z6Qjk4X044RE5ocTFtR1FNX1ZhdzlhN3JlOTJHd0E0TzFsUm1kdU5ZQ1FtS3o3U1U0ZlMyT09xQU0ycFhSR2piOVpEYWtyVnA4Z05iWkV5Rmw5NEhNNVdtYlJNOXZxVnV6YWNyb1VWSkJzZzBjeEUzYk52UjBBVk5aRFg2OGdJY0c0eWhn?oc=5",
-      "published": "Mon, 28 Sep 2026 22:01:34 GMT",
-      "source": "briefasia.com",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.5
-    },
-    {
-      "title": "RBI absorbs INR 75,026 crore through overnight VRRR auction amid surplus liquidity - Prop News Time",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcW8zejA3djdMaW16OVlMS2N4ZzYtX0VJc085RWtqSW55REg3MHFBQk05SVh4a21OdmJnZjN4dTNTMnV6NlFYd3A4WVRpNGc5QjYzZUVMR0Rpbno3bkRkMm1HVHc5V3V3QklhUTF4elQ5N3puT0hIUF9UcEZfLUUtNGZubEJBMkw1N1RvMm1wX01UNnl5alVKdmppTTY0eXlqZEVOWmgyREltZjZDbjBGSU1rS1I4VjRab3E2d3d3bVdmYUtJVUxpcGxWOGhhdWM?oc=5",
-      "published": "Mon, 28 Sep 2026 07:47:39 GMT",
-      "source": "Prop News Time",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.7
-    },
-    {
-      "title": "Sun Pharma partners with LIB Therapeutics for global rights to newly EU-approved cholesterol drug Lyrokaul - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSEdrQVpyTjBQZzV3TnRTcmlscV9YYlZBN0ZHV1k2bVlYVTFjdVY0a2ZvRnlVSU04OV95R3RJOG52eXEtcjQwdjJvSTJwcThEaFpLamxmTXk5QVkwWGFsbTJVLWRJT1ZxODQyR1N0YXJQQjVRa2VkNV9FSGZvdGNyR1BzWnFfak1hUzdHMTBSYXcyUTM1SzRVNlRtSDhrYjdPd2VCcTIwbTF6NTJ0TU4wM0NLaGQyaG14T2p1NDdrcXRJcTNVcTczZVVISEcwMXptaXNPX0lCbFJqdWZXenp6bk5iNnDSAesBQVVfeXFMUDh3XzNFTmNqelZNX1h2dGJ4NHkwMHJjenF3bGdMOUNUdmtabG1GQmk1WC1VcjNwWWtuS1BrU1NGSi1zXzNVV3ZRN2VSQ1l0cGJKTTYxcE56OG1ZcXFSamhOcGxka3RXTGJKTmcyQUliQWtUTTd6YU9xUmdtSWs3SmV3WVNjNUJVYjg3SW5wLWh2WjktUVJ0MTZzeS1pREpOVHBQa3o5R3NqaVZCY0tOWXB2b0xLeGRYVUlOb3B0cFRUMFJZcmxtZVdhd3RtY183MWVOeTFFdTNCZXNjdHRIbGZoTWozaTN0UGdrRQ?oc=5",
-      "published": "Mon, 28 Sep 2026 16:43:45 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.8
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -241,8 +198,8 @@
       ],
       "evidence": [
         {
-          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - autocarpro.in",
-          "source": "autocarpro.in",
+          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
+          "source": "Autocar Professional",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
           "triggers": [
             "POLICY"
@@ -252,8 +209,8 @@
           ]
         },
         {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - india-briefing.com",
-          "source": "india-briefing.com",
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
+          "source": "India Briefing",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
           "triggers": [
             "POLICY"
@@ -284,8 +241,8 @@
       ],
       "evidence": [
         {
-          "title": "India's Semiconductor Sector: Three New Plants Get Approved - india-briefing.com",
-          "source": "india-briefing.com",
+          "title": "India's Semiconductor Sector: Three New Plants Get Approved - India Briefing",
+          "source": "India Briefing",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG5UU21TV3dYeFYyaG5rcG5XWjB4RXlaV1ZrRjBwTHhQNlZPMGd5cTRsWWRsemYwQVE4dUw0Z2tHcHNXc29wZktnZG14b2h4cGwtaTc1WGgyRHZveFk1bkt4NzRUbnpqcndEWV80aERrNGZsOTdFU2d6MjhJbVViR3UzN3VkcG8zVkg0WG1MaWF5NkNWWDZsSFBKNWpyaEtYUV9hVmdwNGlzc3k1Yk9pVmlYNVU?oc=5",
           "triggers": [
             "CAPEX"
@@ -344,8 +301,8 @@
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
-          "source": "india-briefing.com",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
@@ -396,6 +353,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-29T00:29:30.982810+00:00"
+  ]
 }
