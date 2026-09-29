@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-29T00:36:10.054075+00:00",
+  "updated_utc": "2026-09-29T06:35:32.064513+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Ample Semiconductors Expands RTL Expertise To Develop Own Chips - Electronics For You BUSINESS",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXNZZFhTRmlJYXBZaWszWjJDMmxlUWJXRExHMlk1VzdxTzdhOWtxcjdrbWIzVGgzdEI1ZlNrT2NnOWNlbkdPMFpZN0x3YW5pUGFndUtwV1d2aEtRbjJGSWU4T0pxVEd3R3ZtYVltT3dXUExBM25SVm02akhLRmRwc09pUll0aWxIZjdYX2Jnd0p1aEFVaDBmcXV0b1FZX1FULUtwalhGd0swMGlybEtB?oc=5",
-      "published": "Mon, 28 Sep 2026 12:45:22 GMT",
-      "source": "Electronics For You BUSINESS",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 17.7
-    },
-    {
-      "title": "RBI absorbs INR 75,026 crore through overnight VRRR auction amid surplus liquidity - Prop News Time",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQazh1RWN3LWdydjRKM1JQeG1HazliMlNNMGczUXdWenNVLUFUVWtmWE9BWUJ0eWc4aVM3LVdPTDFlU21WajVNRzdka3Z1MVBuOGxoSG53d3JTOHhnLWZ2NmdyQjZxOEJQYkYxQWZMTHJkMjVhMzVLaEZNNDdSYnRyeGJ3N1hDUVFHUFdENjdjM29CcnNTMi1LdjBieHFtQUxZWDg4dFhoa0FUQjJGTU9GblJYbmZLLUs2WVA5aU9FM2IyQ09IT2FuakdBendHSUU?oc=5",
-      "published": "Mon, 28 Sep 2026 07:47:39 GMT",
-      "source": "Prop News Time",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 22.7
-    },
-    {
-      "title": "Sun Pharma partners with LIB Therapeutics for global rights to newly EU-approved cholesterol drug Lyrokaul - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSEdrQVpyTjBQZzV3TnRTcmlscV9YYlZBN0ZHV1k2bVlYVTFjdVY0a2ZvRnlVSU04OV95R3RJOG52eXEtcjQwdjJvSTJwcThEaFpLamxmTXk5QVkwWGFsbTJVLWRJT1ZxODQyR1N0YXJQQjVRa2VkNV9FSGZvdGNyR1BzWnFfak1hUzdHMTBSYXcyUTM1SzRVNlRtSDhrYjdPd2VCcTIwbTF6NTJ0TU4wM0NLaGQyaG14T2p1NDdrcXRJcTNVcTczZVVISEcwMXptaXNPX0lCbFJqdWZXenp6bk5iNnDSAesBQVVfeXFMUDh3XzNFTmNqelZNX1h2dGJ4NHkwMHJjenF3bGdMOUNUdmtabG1GQmk1WC1VcjNwWWtuS1BrU1NGSi1zXzNVV3ZRN2VSQ1l0cGJKTTYxcE56OG1ZcXFSamhOcGxka3RXTGJKTmcyQUliQWtUTTd6YU9xUmdtSWs3SmV3WVNjNUJVYjg3SW5wLWh2WjktUVJ0MTZzeS1pREpOVHBQa3o5R3NqaVZCY0tOWXB2b0xLeGRYVUlOb3B0cFRUMFJZcmxtZVdhd3RtY183MWVOeTFFdTNCZXNjdHRIbGZoTWozaTN0UGdrRQ?oc=5",
-      "published": "Mon, 28 Sep 2026 16:43:45 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 13.8
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -365,6 +322,36 @@
       "fresh_count": 0
     },
     {
+      "industry": "Chemicals & Materials",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "U.S. Chemical Investments Shift Amid Fertilizer Crisis - Industrial Info Resources",
+          "source": "Industrial Info Resources",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEVyc1ctU29CaVBaVm94Rkc2dExJbFRQYV9vcGRjclM0Qjljemw1VDZ5VzNSalEwR21jbUJVd1VWX3dxSjl4NWQ1MmFNNVAtNmFqdno3WkpMRUZMZ2xXQ01iOXpHaXdRdnp4dVFSQ0Y4ZDdYVkRxQkQ5dFNsaGRTRDdhcDlZdU1Qak8zT1dSM2pFUnhGTFVZTkhiRnVIRW9oU05JUzRDWQ?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Defence & Aerospace",
       "score": 0,
       "article_count": 0,
@@ -379,23 +366,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Chemicals & Materials",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-29T06:28:46.115690+00:00"
+  ]
 }
