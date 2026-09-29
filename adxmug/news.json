@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.0
+      "freshness_hours": 10.0
     },
     {
       "title": "Canon India eyes semiconductor equipment opportunity as chip manufacturing expands - Electronics For You BUSINESS",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.7
+      "freshness_hours": 4.6
     },
     {
       "title": "US Pharma Tariffs: Which Indian Pharma Stocks Could Benefit From 0% Duty on Specialty Drugs? - Trade Brains",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 8.6
+      "freshness_hours": 9.5
     }
   ],
   "opportunities": [
@@ -411,5 +411,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-29T16:26:15.801498+00:00"
+  "landed_updated_utc": "2026-09-29T17:22:51.551112+00:00"
 }
