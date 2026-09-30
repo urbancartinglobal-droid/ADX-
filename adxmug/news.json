@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "India RBI forward dollar liabilities set to shrink after hitting record level - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEEtNENzdjhCYWFzR3l3djhldDg1cUhBYlBSUlhnVUVUMWNyVjJSZFU1UmdPUEVGSnpYVnJGcFJ4b1ktTkROUWlKTXVVM1pmZklmcTAzdU5HalBmTWUxN3d1eW1hYnQyOGpHWmt1Um5PckFLVW9YZmZYbmFtd3oxSHozT0puLW9YN1FIdEx0V3RHM0N5N0RPaWI0QQ?oc=5",
+      "published": "Wed, 30 Sep 2026 12:55:32 GMT",
+      "source": "Traders Union",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.5
+    },
+    {
+      "title": "US-Mexico trade review faces delay, with automotive rules and metal tariffs in focus - AL Circle",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2M4SHp3T0p1Y3ktT0Nwb0dUTlk4NGpDN2V3QmJlQkpHZ0lGOGxfaVF1MUxsV0FVTE9MTkFYZzhyOEFobjRzeWFyRWVJOHhQU25iUWF4RE83UFdNanZ1RDllTzc2MkZ1UUdMZ3B6OXlUVkFYdVgzTFY5SGUtRE54OFZRMDdNYzZFa19oaHBaWjd3cG9nbkJYZXd5R3VZVWZGYTBJWVFFLXpCUkxwWE1VOGRkc09rUlcwWVRfeQ?oc=5",
+      "published": "Tue, 29 Sep 2026 17:40:28 GMT",
+      "source": "AL Circle",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 19.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -339,5 +368,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-30T13:26:38.367894+00:00"
 }
