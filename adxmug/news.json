@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-30T06:36:11.573339+00:00",
+  "updated_utc": "2026-09-30T12:39:57.505428+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Amit Shah Launches Rs. 14.72 bn Railway Projects in Gujarat - Construction World",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSGVObVhSTExZRGp6M3pGWlQwRjlBalloSDFZaElPQkZKNDgwZElYLU1nZWIzVHJ3VUFPazVTY0xBOFhTY2xDcDN0TDFvZ1Q0YkxnUTE1bzlvMWd0ZEVyc1Fma0kwMXJ1ZTJaOUtETEdEbUNJQUhXWE1UWmxTYXJoamFMSVZzWVRabVoycDE2WlNiSWUyUlg3NzVWbGNCVEN0NXZxdzFDZFZYVmJwRjdpaGwtR1pZMHp2OENlZzdqSkpZQnNHczVZYmZESXIxVEo4Sk1KVVVmQVc5THM5ZERmeHdDZGhLaDBDdXZLZWNYdFFlMzVK?oc=5",
-      "published": "Wed, 30 Sep 2026 07:43:30 GMT",
-      "source": "Construction World",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 4.8
-    },
-    {
-      "title": "Canon India eyes semiconductor equipment opportunity as chip manufacturing expands - Electronics For You BUSINESS",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHJYSUlKNlhQeF9JQ28wc2dfcjdUYTJiSVZJay1KYm1yYV96elc5ZFVSY3ZVeVVyb2FHMjdxVzQ3NDZXWVJlNTlBcnN4aUJISm9jZ0ppSUx5cDZwZGRnVDR2TVlhTlJfQVAwTUZzcV9pV1R1QXdXdklZa2JVQnI5bmxiaDlFRGtNd3Qtd2Z3ejJQZlZlUU1hM3hwMzBjelZxUF90MXZRX2VHVVR5Mk5sUUlaX29GWEdQcWZpT2QtbmZzWGFMS0tKLVk3Yw?oc=5",
-      "published": "Tue, 29 Sep 2026 12:45:13 GMT",
-      "source": "Electronics For You BUSINESS",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 23.8
-    },
-    {
-      "title": "US-Mexico trade review faces delay, with automotive rules and metal tariffs in focus - AL Circle",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2M4SHp3T0p1Y3ktT0Nwb0dUTlk4NGpDN2V3QmJlQkpHZ0lGOGxfaVF1MUxsV0FVTE9MTkFYZzhyOEFobjRzeWFyRWVJOHhQU25iUWF4RE83UFdNanZ1RDllTzc2MkZ1UUdMZ3B6OXlUVkFYdVgzTFY5SGUtRE54OFZRMDdNYzZFa19oaHBaWjd3cG9nbkJYZXd5R3VZVWZGYTBJWVFFLXpCUkxwWE1VOGRkc09rUlcwWVRfeQ?oc=5",
-      "published": "Tue, 29 Sep 2026 17:40:28 GMT",
-      "source": "AL Circle",
-      "sector": "Auto & Components",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 18.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -93,8 +50,8 @@
           "companies": []
         },
         {
-          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - sg.finance.yahoo.com",
-          "source": "sg.finance.yahoo.com",
+          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGQ3TUdxMHk0dk0wY2piWUs5SkNIdGZ6NlloRUZuUE1XYldUT1JLRUpFSzR5UW85MWFsbjI2UTd5bG4wZGx4dW9TT3d2NEZYX1VTRkl0SUdjZ05qcGtod1NWakFGaG1BUmdPNlJsWVdqaFVXdGxRT0NTQlR4NUZtcTdKajU4V2xZMjVXUkJ1bzU?oc=5",
           "triggers": [
             "POLICY"
@@ -222,9 +179,9 @@
       ],
       "evidence": [
         {
-          "title": "India's Semiconductor Sector: Three New Plants Get Approved - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG5UU21TV3dYeFYyaG5rcG5XWjB4RXlaV1ZrRjBwTHhQNlZPMGd5cTRsWWRsemYwQVE4dUw0Z2tHcHNXc29wZktnZG14b2h4cGwtaTc1WGgyRHZveFk1bkt4NzRUbnpqcndEWV80aERrNGZsOTdFU2d6MjhJbVViR3UzN3VkcG8zVkg0WG1MaWF5NkNWWDZsSFBKNWpyaEtYUV9hVmdwNGlzc3k1Yk9pVmlYNVU?oc=5",
+          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
+          "source": "Energetica India Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
           "triggers": [
             "CAPEX"
           ],
@@ -312,8 +269,8 @@
       ],
       "evidence": [
         {
-          "title": "U.S. Chemical Investments Shift Amid Fertilizer Crisis - Industrial Info Resources",
-          "source": "Industrial Info Resources",
+          "title": "U.S. Chemical Investments Shift Amid Fertilizer Crisis - industrialinfo.com",
+          "source": "industrialinfo.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEVyc1ctU29CaVBaVm94Rkc2dExJbFRQYV9vcGRjclM0Qjljemw1VDZ5VzNSalEwR21jbUJVd1VWX3dxSjl4NWQ1MmFNNVAtNmFqdno3WkpMRUZMZ2xXQ01iOXpHaXdRdnp4dVFSQ0Y4ZDdYVkRxQkQ5dFNsaGRTRDdhcDlZdU1Qak8zT1dSM2pFUnhGTFVZTkhiRnVIRW9oU05JUzRDWQ?oc=5",
           "triggers": [
             "CAPEX"
@@ -382,6 +339,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-30T12:32:51.552393+00:00"
+  ]
 }
