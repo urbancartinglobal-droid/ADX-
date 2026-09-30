@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "India RBI forward dollar liabilities set to shrink after hitting record level - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEEtNENzdjhCYWFzR3l3djhldDg1cUhBYlBSUlhnVUVUMWNyVjJSZFU1UmdPUEVGSnpYVnJGcFJ4b1ktTkROUWlKTXVVM1pmZklmcTAzdU5HalBmTWUxN3d1eW1hYnQyOGpHWmt1Um5PckFLVW9YZmZYbmFtd3oxSHozT0puLW9YN1FIdEx0V3RHM0N5N0RPaWI0QQ?oc=5",
-      "published": "Wed, 30 Sep 2026 12:55:32 GMT",
-      "source": "Traders Union",
+      "title": "RBI forward dollar liabilities hit record $200 billion as India absorbs huge foreign currency inflows - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQkZPSG9NRnRaMjU1NGo2UkgwbmFVTDE4V1BBd3JZdEZmaUM1cU16NEFEYnZxNVdvZF8ybGJhQnNWZ2p3Mk9uWHp5SkVQZXc5U05IOVlLY21Jb3NidmgtdlBkMEZZMzVOdzR2QlJ6NlhIN3l4c3ZFOVJXcHN2U19jZFg4UG5TYXZYMGEwQVNPb3JmZF9CQTBfNW4tbFBZN00tUGhSUWF0QWNYc3NRTVpiS0VkWWF5TWdvQXZpZWFBbTAzaVctWG9UYXByRjZiTFRCbTdNYm1HNF9zQ1lJSzJ1XzlhZw?oc=5",
+      "published": "Wed, 30 Sep 2026 14:15:00 GMT",
+      "source": "Business Upturn",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,12 +17,12 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.5
+      "freshness_hours": 0.2
     },
     {
       "title": "US-Mexico trade review faces delay, with automotive rules and metal tariffs in focus - AL Circle",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2M4SHp3T0p1Y3ktT0Nwb0dUTlk4NGpDN2V3QmJlQkpHZ0lGOGxfaVF1MUxsV0FVTE9MTkFYZzhyOEFobjRzeWFyRWVJOHhQU25iUWF4RE83UFdNanZ1RDllTzc2MkZ1UUdMZ3B6OXlUVkFYdVgzTFY5SGUtRE54OFZRMDdNYzZFa19oaHBaWjd3cG9nbkJYZXd5R3VZVWZGYTBJWVFFLXpCUkxwWE1VOGRkc09rUlcwWVRfeQ?oc=5",
-      "published": "Tue, 29 Sep 2026 17:40:28 GMT",
+      "published": "Wed, 30 Sep 2026 05:21:44 GMT",
       "source": "AL Circle",
       "sector": "Auto & Components",
       "triggers": [
@@ -31,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 19.8
+      "freshness_hours": 9.1
     }
   ],
   "opportunities": [
@@ -369,5 +369,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-30T13:26:38.367894+00:00"
+  "landed_updated_utc": "2026-09-30T14:27:12.311209+00:00"
 }
