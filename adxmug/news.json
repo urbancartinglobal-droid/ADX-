@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-09-30T12:39:57.505428+00:00",
+  "updated_utc": "2026-09-30T18:32:42.182921+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Low Siloxane Cleanroom Wall Coatings Market Forecast to 2035, Driven by Semiconductor Fab Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3NPemtNRG9mMUZ0a3hmc0g4bTZhQzNqWnB0emtOelZ1cDVic0VzelNDZVp3bl95b2ZaTThpR2h0ZG9sMW9XeGFwb24tZ1BnNVRMZmVBWUU3T0JuWVBBWW5IYXlMVnFtRkdDMVE1eWl5SlRxYy1XQ3Q5WUdnUFhrU3B5Sm9JU25KMUJhcTZaR2trbFJMMzVqTUc4Qmw2bEliRVJoUTRoUmJKZXNOcC1JT2lCaWU4aExJNEdwT2JlblQzekNralZj?oc=5",
-      "published": "Wed, 30 Sep 2026 17:41:05 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.8
-    },
-    {
-      "title": "RBI forward dollar liabilities hit record $200 billion as India absorbs huge foreign currency inflows - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQkZPSG9NRnRaMjU1NGo2UkgwbmFVTDE4V1BBd3JZdEZmaUM1cU16NEFEYnZxNVdvZF8ybGJhQnNWZ2p3Mk9uWHp5SkVQZXc5U05IOVlLY21Jb3NidmgtdlBkMEZZMzVOdzR2QlJ6NlhIN3l4c3ZFOVJXcHN2U19jZFg4UG5TYXZYMGEwQVNPb3JmZF9CQTBfNW4tbFBZN00tUGhSUWF0QWNYc3NRTVpiS0VkWWF5TWdvQXZpZWFBbTAzaVctWG9UYXByRjZiTFRCbTdNYm1HNF9zQ1lJSzJ1XzlhZw?oc=5",
-      "published": "Wed, 30 Sep 2026 14:15:00 GMT",
-      "source": "Business Upturn",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.2
-    },
-    {
-      "title": "NHC Foods: At Inflection Point amid 20x EQ. Capital Expansion Plan - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTFuWkNSc2RTOXE0LXBucnpRTkFJdHhTM3pMZlZSMk4ycWZvcTFsTFJQaWh3QVQ0emdrMjJYby02Q3JDRThvS0hUdkJUYWZiZUZXM0dDbHVSYThQVE41WEtSWDJSWXRyZXNFM3NsVVlpTHA1WnZBSFhLVjQ4LXM1SXpFdGdfZzZtVmh5eUNlNFJueVZpc1lVNDlWd3draW55SVJIOTROUDM1ai0w?oc=5",
-      "published": "Wed, 30 Sep 2026 11:54:40 GMT",
-      "source": "Investing.com India",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 6.5
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -117,9 +74,9 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 60,
-      "article_count": 4,
-      "trigger_count": 8,
+      "score": 64,
+      "article_count": 5,
+      "trigger_count": 10,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -137,8 +94,18 @@
           "companies": []
         },
         {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
-          "source": "Business Standard",
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - business-standard.com",
+          "source": "business-standard.com",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - business-standard.com",
+          "source": "business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
           "triggers": [
             "POLICY",
@@ -157,8 +124,8 @@
           "companies": []
         },
         {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - business-standard.com",
+          "source": "business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
           "triggers": [
             "POLICY",
@@ -169,9 +136,9 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -312,8 +279,8 @@
       ],
       "evidence": [
         {
-          "title": "U.S. Chemical Investments Shift Amid Fertilizer Crisis - industrialinfo.com",
-          "source": "industrialinfo.com",
+          "title": "U.S. Chemical Investments Shift Amid Fertilizer Crisis - Industrial Info Resources",
+          "source": "Industrial Info Resources",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEVyc1ctU29CaVBaVm94Rkc2dExJbFRQYV9vcGRjclM0Qjljemw1VDZ5VzNSalEwR21jbUJVd1VWX3dxSjl4NWQ1MmFNNVAtNmFqdno3WkpMRUZMZ2xXQ01iOXpHaXdRdnp4dVFSQ0Y4ZDdYVkRxQkQ5dFNsaGRTRDdhcDlZdU1Qak8zT1dSM2pFUnhGTFVZTkhiRnVIRW9oU05JUzRDWQ?oc=5",
           "triggers": [
             "CAPEX"
@@ -382,6 +349,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-09-30T18:26:14.884856+00:00"
+  ]
 }
