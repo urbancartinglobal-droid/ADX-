@@ -4,50 +4,7 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI FX operations drain nearly $20 billion from India banking liquidity surplus - tradersunion.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlpGZGlSMC1WNGhmZEhvbzVtVGp6TXAxMUZqLWFhN2hIZS1ZbEZTSndSa1dnVDkwSFcwQ3BPMEE0WHg2aVJtMjVjUjFfcUFHclBTNFViOW9EWmRvaG1mckxTelF0WWRNcl82WnUtUFR3ZVlMWkFnTV9kX05yVEE0LXpHUlVSMXdUc240MFhUQjczMzJqMGc4?oc=5",
-      "published": "Tue, 29 Sep 2026 07:25:25 GMT",
-      "source": "tradersunion.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 21.0
-    },
-    {
-      "title": "Canon India eyes semiconductor equipment opportunity as chip manufacturing expands - Electronics For You BUSINESS",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHJYSUlKNlhQeF9JQ28wc2dfcjdUYTJiSVZJay1KYm1yYV96elc5ZFVSY3ZVeVVyb2FHMjdxVzQ3NDZXWVJlNTlBcnN4aUJISm9jZ0ppSUx5cDZwZGRnVDR2TVlhTlJfQVAwTUZzcV9pV1R1QXdXdklZa2JVQnI5bmxiaDlFRGtNd3Qtd2Z3ejJQZlZlUU1hM3hwMzBjelZxUF90MXZRX2VHVVR5Mk5sUUlaX29GWEdQcWZpT2QtbmZzWGFMS0tKLVk3Yw?oc=5",
-      "published": "Tue, 29 Sep 2026 12:45:13 GMT",
-      "source": "Electronics For You BUSINESS",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 15.7
-    },
-    {
-      "title": "US-Mexico trade review faces delay, with automotive rules and metal tariffs in focus - AL Circle",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2M4SHp3T0p1Y3ktT0Nwb0dUTlk4NGpDN2V3QmJlQkpHZ0lGOGxfaVF1MUxsV0FVTE9MTkFYZzhyOEFobjRzeWFyRWVJOHhQU25iUWF4RE83UFdNanZ1RDllTzc2MkZ1UUdMZ3B6OXlUVkFYdVgzTFY5SGUtRE54OFZRMDdNYzZFa19oaHBaWjd3cG9nbkJYZXd5R3VZVWZGYTBJWVFFLXpCUkxwWE1VOGRkc09rUlcwWVRfeQ?oc=5",
-      "published": "Tue, 29 Sep 2026 17:40:28 GMT",
-      "source": "AL Circle",
-      "sector": "Auto & Components",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 10.7
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -411,5 +368,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-30T04:25:00.778851+00:00"
+  "landed_updated_utc": "2026-09-30T05:24:14.556157+00:00"
 }
