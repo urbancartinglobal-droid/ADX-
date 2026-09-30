@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Ghaziabad–New Moradabad railway corridor set for 3rd, 4th line expansion - financialexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLXcxVThzOEV5a3pOekg0Ny1DOWNNdlJ0WFZ5V3V1aHdEdUFndEhWcGZ2d1Ria20xVS1fczVub1NWZmxiQzRqczdWUWRmcVIwSXFOd0c0WGtfd0NjWjRGMTVPMkt6QWI2Rmtwd2R2eFZWZno4MWJDNmtyY1hEQUVaSmoxLVQ4LTlGdVB0b25DNXFnOC1oQjVNclZSaWszY1VBdmRzMDFmTkxZMFpTa0ZIYnljVkwwVU1neXZ6ZUV3ODlXazFBY21UNmlNRi0zUkhT0gHQAUFVX3lxTE4tdzFVOHM4RXlrek56SDQ3LUM5Y012UnRYVnlXdXVod0R1QWd0SFZwZnZ3VGJrbTFVLV9zNW5vU1ZmbGJDNGpzN1ZRZGZxUjBJcU53RzRYa193Q2NaNEYxNU8yS3pBYjZGa3B3ZHZ4VlZmejgxYkM2a3JjWERBRVpKajEtVDgtOUZ1UHRvbkM1cWc4LWhCNU1yVlJpazNjVUF2ZHMwMWZOTFkwWlNrRkhieWNWTDBVTWd5dnplRXc4OVdrMUFjbVQ2aU1GLTNSSFM?oc=5",
-      "published": "Wed, 30 Sep 2026 06:25:07 GMT",
-      "source": "financialexpress.com",
+      "title": "Amit Shah Launches Rs. 14.72 bn Railway Projects in Gujarat - Construction World",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSGVObVhSTExZRGp6M3pGWlQwRjlBalloSDFZaElPQkZKNDgwZElYLU1nZWIzVHJ3VUFPazVTY0xBOFhTY2xDcDN0TDFvZ1Q0YkxnUTE1bzlvMWd0ZEVyc1Fma0kwMXJ1ZTJaOUtETEdEbUNJQUhXWE1UWmxTYXJoamFMSVZzWVRabVoycDE2WlNiSWUyUlg3NzVWbGNCVEN0NXZxdzFDZFZYVmJwRjdpaGwtR1pZMHp2OENlZzdqSkpZQnNHczVZYmZESXIxVEo4Sk1KVVVmQVc5THM5ZERmeHdDZGhLaDBDdXZLZWNYdFFlMzVK?oc=5",
+      "published": "Wed, 30 Sep 2026 07:43:30 GMT",
+      "source": "Construction World",
       "sector": "Rail & Infrastructure",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 1.0
+      "freshness_hours": 0.7
     },
     {
-      "title": "Canon India eyes semiconductor equipment opportunity as chip manufacturing expands - electronicsforyou.biz",
+      "title": "Canon India eyes semiconductor equipment opportunity as chip manufacturing expands - Electronics For You BUSINESS",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHJYSUlKNlhQeF9JQ28wc2dfcjdUYTJiSVZJay1KYm1yYV96elc5ZFVSY3ZVeVVyb2FHMjdxVzQ3NDZXWVJlNTlBcnN4aUJISm9jZ0ppSUx5cDZwZGRnVDR2TVlhTlJfQVAwTUZzcV9pV1R1QXdXdklZa2JVQnI5bmxiaDlFRGtNd3Qtd2Z3ejJQZlZlUU1hM3hwMzBjelZxUF90MXZRX2VHVVR5Mk5sUUlaX29GWEdQcWZpT2QtbmZzWGFMS0tKLVk3Yw?oc=5",
       "published": "Tue, 29 Sep 2026 12:45:13 GMT",
-      "source": "electronicsforyou.biz",
+      "source": "Electronics For You BUSINESS",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 18.7
+      "freshness_hours": 19.7
     },
     {
       "title": "US-Mexico trade review faces delay, with automotive rules and metal tariffs in focus - AL Circle",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 13.8
+      "freshness_hours": 14.8
     }
   ],
   "opportunities": [
@@ -383,5 +383,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-09-30T07:26:24.525211+00:00"
+  "landed_updated_utc": "2026-09-30T08:26:49.264641+00:00"
 }
