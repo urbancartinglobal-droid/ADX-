@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Low Siloxane Cleanroom Wall Coatings Market Forecast to 2035, Driven by Semiconductor Fab Expansion - indexbox.io",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3NPemtNRG9mMUZ0a3hmc0g4bTZhQzNqWnB0emtOelZ1cDVic0VzelNDZVp3bl95b2ZaTThpR2h0ZG9sMW9XeGFwb24tZ1BnNVRMZmVBWUU3T0JuWVBBWW5IYXlMVnFtRkdDMVE1eWl5SlRxYy1XQ3Q5WUdnUFhrU3B5Sm9JU25KMUJhcTZaR2trbFJMMzVqTUc4Qmw2bEliRVJoUTRoUmJKZXNOcC1JT2lCaWU4aExJNEdwT2JlblQzekNralZj?oc=5",
+      "published": "Wed, 30 Sep 2026 17:41:05 GMT",
+      "source": "indexbox.io",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 1.7
+    },
+    {
+      "title": "RBI forward dollar liabilities hit record $200 billion as India absorbs huge foreign currency inflows - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQkZPSG9NRnRaMjU1NGo2UkgwbmFVTDE4V1BBd3JZdEZmaUM1cU16NEFEYnZxNVdvZF8ybGJhQnNWZ2p3Mk9uWHp5SkVQZXc5U05IOVlLY21Jb3NidmgtdlBkMEZZMzVOdzR2QlJ6NlhIN3l4c3ZFOVJXcHN2U19jZFg4UG5TYXZYMGEwQVNPb3JmZF9CQTBfNW4tbFBZN00tUGhSUWF0QWNYc3NRTVpiS0VkWWF5TWdvQXZpZWFBbTAzaVctWG9UYXByRjZiTFRCbTdNYm1HNF9zQ1lJSzJ1XzlhZw?oc=5",
+      "published": "Wed, 30 Sep 2026 14:15:00 GMT",
+      "source": "Business Upturn",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.2
+    },
+    {
+      "title": "NHC Foods: At Inflection Point amid 20x EQ. Capital Expansion Plan - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTFuWkNSc2RTOXE0LXBucnpRTkFJdHhTM3pMZlZSMk4ycWZvcTFsTFJQaWh3QVQ0emdrMjJYby02Q3JDRThvS0hUdkJUYWZiZUZXM0dDbHVSYThQVE41WEtSWDJSWXRyZXNFM3NsVVlpTHA1WnZBSFhLVjQ4LXM1SXpFdGdfZzZtVmh5eUNlNFJueVZpc1lVNDlWd3draW55SVJIOTROUDM1ai0w?oc=5",
+      "published": "Wed, 30 Sep 2026 11:54:40 GMT",
+      "source": "Investing.com India",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 7.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -349,5 +392,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-09-30T19:24:16.233135+00:00"
 }
