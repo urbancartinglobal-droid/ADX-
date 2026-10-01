@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
+      "freshness_hours": 1.8
     },
     {
-      "title": "Infineon opens new backend chip manufacturing plant in Thailand, invests $113.57 mn - electronics.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeUNIZUQ3MmR5aUNkNmM4bm1HelJWSndNNGZuY19ZQVRxQ3ZLYWNNQnFxZjFQUXM5dU5HbDhUUTl0X19iWmh0WUNfSVZxQXBweUlHbmdNcWJrUy1RM0VBRG4ydzhUeUhUcWNuQzZaemVVclM3dGJkLWJ3UVI4d3VJdy00Wm9vVEpsa01YcG9rdzVaTlpCamtXT3cyUkNHS0R4MnZXQ0RnZ1BiN1dTTlhhcGFHRE12NzFlRlJDemt5eXhLWUZsQlAzT0VqdVlPa3JVUXZCd05mRG5yOHVOanlNVDl2Nlo4NDNjbUFHRUVvQ3LSAfQBQVVfeXFMUFVjQ21mR1N2MFJCbDZxNXNLejlXS2FTTnd3TkRQeHF6RWJMOU1aYld6b3VLbkhhUHY0SDIxbS1JVWJUVThEMC1KdF9jbDlrd1owTnJ0WGs1MU9fa1M1TFhzSUQ2Njh3SHFRNEFXSlc3U19yWDFsb1ZsS29mR3doNlZqZmhGY1FYRTUxR3FMOHhvSzNlN1RuZTBwOFN5TlVQdHoyRnRXSVB1U04zVDFQMlRLRmxaRUZ1bG1CaTZYcUFJbHN4NUVkem1zWF9QUFJMMU80a1FaUzNBZnNydm1PMzFROFBPV1R6NTlwdkFINzNsU2IwRg?oc=5",
-      "published": "Thu, 01 Oct 2026 06:10:34 GMT",
-      "source": "electronics.economictimes.indiatimes.com",
+      "title": "Infineon Bangkok Semiconductor Facility Expands Global Manufacturing Capacity - Electronics Media",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSllCXzlNekhCUW0xQWZvcWdWdWxxWHhXaC1CTFM0TTYzY3NBcW1BTUctRUhHcTNUWTRTWFhjQ2RpdU5Rbko0c3FacHZHaTgwdXJkclhuZWxUSXFoRUFsUV9LSDA3TnJTWEJJNVZsLW5LT0pYRFdubmkyODh5YmsySUp3SENJRW1PMHVZZ19R?oc=5",
+      "published": "Thu, 01 Oct 2026 08:02:12 GMT",
+      "source": "Electronics Media",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.3
+      "freshness_hours": 3.4
     },
     {
       "title": "The Tariff Trap: How Protectionism Could Cost the US While Reshaping World Trade - Devdiscourse",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 17.2
+      "freshness_hours": 18.2
     }
   ],
   "opportunities": [
@@ -383,5 +383,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-01T10:25:36.877969+00:00"
+  "landed_updated_utc": "2026-10-01T11:24:05.198691+00:00"
 }
