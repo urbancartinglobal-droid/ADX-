@@ -6,20 +6,6 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI’s Success on Dollar Flows Raises Stakes in Inflation Fight - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3gtZnhnZ0NXUXNyUG5UM2szTkRGZkJOZHdBSnZkMEExV1lUZVg5UTRGV1NxcmhvanNtVGFzOTBlVnFvMEFSeURDNGdVbkQ5SXpUTmF0SEZXdndCb3J0RUp2eS05Uy1fb2psQ3QwRUZWZnYtMVFSMTJ6c2dwRkw4RXlJU19vOWVnejhSWW5Cc3VmcHFUbmt2OFV3TEJoN2RjaGd2ZU9obEF6N3poWS1ZMGJoMA?oc=5",
-      "published": "Thu, 01 Oct 2026 04:41:00 GMT",
-      "source": "Bloomberg.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
-    },
-    {
       "title": "South Korea September Exports Jump 83.5% to Record $120.9B on Chip Boom - News and Statistics - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1Y3QkVJLVVOZVA3NHZicWhNYWFyTjhzR3BzRmRzQzJvV0RQZjBZd0dwQk81Q1lTbHhBczVMWmFhM294emFPNHVpckEyOTNvRE9xNXA3SzJobVQ5Y1lxZVhMNXdxNzY5anRvbE1sTmlOWGxjLUVTOGY0OFJHSElncklpUjNUOEM3QmUtdThyR2p3c0hoTVlyYnRUWQ?oc=5",
       "published": "Thu, 01 Oct 2026 04:23:28 GMT",
@@ -31,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.0
+      "freshness_hours": 2.1
     },
     {
       "title": "The Tariff Trap: How Protectionism Could Cost the US While Reshaping World Trade - Devdiscourse",
@@ -45,7 +31,21 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 12.2
+      "freshness_hours": 13.3
+    },
+    {
+      "title": "RBI forward dollar liabilities hit record $200 billion as India absorbs huge foreign currency inflows - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaGN4WXZBYTVHUUJ1S2plMjJVX3J0VDRDcHNCYnBNYkhpVjJDNGx2NW16Z1R3Z2M3VjNBU2lkME9VQ0hfcHdxVWNyTTAteVIyTmQ3cWRzcXZ0YVFKdnoyNkM2VHhCQWV1UHlrRXVhRzU0SUtyc1NHSTNMNXdJLTM5YWcyZlRSRDNBM1pIRXMxWGlmQjNHTjlqV2pTZURVdFlYRlNMekl6czFMaUk0a1FYZ0NCa2xESWVZOUdvaS15M29yZ0JNcXBtWUtUZ2dQUUNMZmJtcHhYYUlLYS1VZFVuQktjNG90dzll?oc=5",
+      "published": "Wed, 30 Sep 2026 14:15:00 GMT",
+      "source": "Business Upturn",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 16.3
     }
   ],
   "opportunities": [
@@ -383,5 +383,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-01T05:23:49.601882+00:00"
+  "landed_updated_utc": "2026-10-01T06:30:58.427253+00:00"
 }
