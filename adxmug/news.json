@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Nippon Sanso expands South Korea semiconductor gas capacity - gasworld",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRzQ0YUhuLTZ6RzdJQU9iVERIekJCaEEtbVY3ck1Lbl9lSzNLNkpDVWhQNGhDczgxaUxtanBGcVlidHR6ajk0cEFXOEZES0xSWkZuWUFYZDd0SUpXTFkwdWFheEg2b1h2Si1ibHRxX2pYcE5Ra0ZFcEFvcGE1S04yYk5ralFSWEprM0JJRkJEeENpY3ZmaC1WbGZ5VGdvLTJtS3FSRkZHbzNMLTQ?oc=5",
+      "published": "Thu, 01 Oct 2026 12:32:33 GMT",
+      "source": "gasworld",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 0.9
+    },
+    {
+      "title": "RBI’s Success on Dollar Flows Raises Stakes in Inflation Fight - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3gtZnhnZ0NXUXNyUG5UM2szTkRGZkJOZHdBSnZkMEExV1lUZVg5UTRGV1NxcmhvanNtVGFzOTBlVnFvMEFSeURDNGdVbkQ5SXpUTmF0SEZXdndCb3J0RUp2eS05Uy1fb2psQ3QwRUZWZnYtMVFSMTJ6c2dwRkw4RXlJU19vOWVnejhSWW5Cc3VmcHFUbmt2OFV3TEJoN2RjaGd2ZU9obEF6N3poWS1ZMGJoMA?oc=5",
+      "published": "Thu, 01 Oct 2026 10:48:47 GMT",
+      "source": "Bloomberg.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.7
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -339,5 +368,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-01T13:28:40.233150+00:00"
 }
