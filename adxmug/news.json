@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-10-01T00:39:56.941174+00:00",
+  "updated_utc": "2026-10-01T06:37:55.670152+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "South Korea September Exports Jump 83.5% to Record $120.9B on Chip Boom - News and Statistics - indexbox.io",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1Y3QkVJLVVOZVA3NHZicWhNYWFyTjhzR3BzRmRzQzJvV0RQZjBZd0dwQk81Q1lTbHhBczVMWmFhM294emFPNHVpckEyOTNvRE9xNXA3SzJobVQ5Y1lxZVhMNXdxNzY5anRvbE1sTmlOWGxjLUVTOGY0OFJHSElncklpUjNUOEM3QmUtdThyR2p3c0hoTVlyYnRUWQ?oc=5",
-      "published": "Thu, 01 Oct 2026 04:23:28 GMT",
-      "source": "indexbox.io",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.1
-    },
-    {
-      "title": "The Tariff Trap: How Protectionism Could Cost the US While Reshaping World Trade - Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0l3Q25ySWY5TzdsOEFFeFdEVmtIblBRd2tTNXg1NUJwU21LQklwcFV2RE9nNm9iOTR4cnJSTUpVdTJXNUpubjR5c08zRU1DSHVxbUhMRmNzYVktUjlSMVRWRTdwSXBFWU1DRDN6WjhGRk1aWG1pSFgzbHVUV2RzaWNxeHJuZG82RDBBd3huUFZGUHFQR096VVBVOHlBUTNwVk9URlUzUHF2aXVZM3RDSVpYR1pXVWhoRVMzZEJMT1lDUnA2Y2U2dHcxX3JLdzgxTVVJ0gHTAUFVX3lxTE93SXdDbnJJZjlPN2w4QUV4V0RWa0huUFF3a1M1eDU1QnBTbUtCSXBwVXZET2c2b2I5NHhyclJNSlV1Mlc1Sm5uNHlzTzNFTUNIdXFtSExGY3NhWS1SOVIxVFZFN3BJcEVZTUNEM3paOEZGTVpYbWlIWDNsdVRXZHNpY3F4cm5kbzZEMEF3eG5QVkZQcVBHT3pVUFU4eUFRM3BWT1RGVTNQcXZpdVkzdENJWlhHWldVaGhFUzNkQkxPWUNScDZjZTZ0dzFfckt3ODFNVUk?oc=5",
-      "published": "Wed, 30 Sep 2026 17:10:40 GMT",
-      "source": "Devdiscourse",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 13.3
-    },
-    {
-      "title": "RBI forward dollar liabilities hit record $200 billion as India absorbs huge foreign currency inflows - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaGN4WXZBYTVHUUJ1S2plMjJVX3J0VDRDcHNCYnBNYkhpVjJDNGx2NW16Z1R3Z2M3VjNBU2lkME9VQ0hfcHdxVWNyTTAteVIyTmQ3cWRzcXZ0YVFKdnoyNkM2VHhCQWV1UHlrRXVhRzU0SUtyc1NHSTNMNXdJLTM5YWcyZlRSRDNBM1pIRXMxWGlmQjNHTjlqV2pTZURVdFlYRlNMekl6czFMaUk0a1FYZ0NCa2xESWVZOUdvaS15M29yZ0JNcXBtWUtUZ2dQUUNMZmJtcHhYYUlLYS1VZFVuQktjNG90dzll?oc=5",
-      "published": "Wed, 30 Sep 2026 14:15:00 GMT",
-      "source": "Business Upturn",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -82,8 +39,8 @@
           "companies": []
         },
         {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - chinimandi.com",
-          "source": "chinimandi.com",
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
+          "source": "ChiniMandi",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
           "triggers": [
             "POLICY",
@@ -147,22 +104,22 @@
           "companies": []
         },
         {
-          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
           "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
           "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
           ],
           "companies": []
         }
@@ -252,8 +209,8 @@
       ],
       "evidence": [
         {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - powermag.com",
-          "source": "powermag.com",
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
+          "source": "POWER Magazine",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
           "triggers": [
             "PRICING"
@@ -282,8 +239,8 @@
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
-          "source": "india-briefing.com",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
@@ -382,6 +339,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-01T06:30:58.427253+00:00"
+  ]
 }
