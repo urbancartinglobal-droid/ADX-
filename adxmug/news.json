@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI’s success on dollar flows raises stakes in inflation fight & clamour for rate hike - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQLWVEUDQxVVotY09aZVZBLXpPcVFDRlAyX2FVaHBXVHBUbUFULWNxN0lmWmgteVlVQ0kzdzBzLWNVUy01UkcyTnhzQWUxak82akNZS1JDYXp0VVVWTGRNdzFOMm11bkVuOUJOLTlaUWNCd0FNOTFqalBqZklPNG9UTXdONUlVd00wenRJYmRQUnNYS256TkR4UW40bkJfcEJOTTU2T21UNm5GQzkxT1U1aFdtdTFrZ05KZ1VxTlFta0phTjF4NVRwcHJObzlsQkxsT3U5R0RsZGhjby1qaTlfVkdYbmZKMlg3U0pEZ01oRnkwdUNxZVhsa1hUOGFtQUsydG9GUUQ0dlZXdU9XbWhNQWtpREdfNmVXZElKMVhGMzgweFNC0gGqAkFVX3lxTFA5ckFJLW9PcDQybUc2Z0RIcEpJc1FmOWRSWkx0WHNyMlpYZUdfNTNhWWc5ZVpuVDhCQWZuSTl4Z1VVOVJRT0l1YktSUHZKWVhaU3VNSi1xY0FNNzlEN29VUFFxd1p5SDhQVGt0aGFjeE5zNzlpTi1JQi1iQ25HdG5CYm1uM0o4cDhpYkI2d05ZeklTOE9lMGlfRWNPYkthdmZpMm5tVnAzSWFIcGxvZDk3b0djcG1vOE1vNGR4M2Q2VTJzQkF2ZkFZdHVlYWJGeTNvWllCVUYtXzI2NVN1ZGs1cUtmREFYNmd1T2dkVk9vV0pxWXlmVEZ5TkFvTFlINnE0dUE4RmExYi1WMjNqZ1NuMzViWjZ6eEs2SkVnTWZYWXh5emQyZHJrYkE?oc=5",
-      "published": "Thu, 01 Oct 2026 04:10:10 GMT",
-      "source": "The Economic Times",
+      "title": "RBI’s Success on Dollar Flows Raises Stakes in Inflation Fight - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3gtZnhnZ0NXUXNyUG5UM2szTkRGZkJOZHdBSnZkMEExV1lUZVg5UTRGV1NxcmhvanNtVGFzOTBlVnFvMEFSeURDNGdVbkQ5SXpUTmF0SEZXdndCb3J0RUp2eS05Uy1fb2psQ3QwRUZWZnYtMVFSMTJ6c2dwRkw4RXlJU19vOWVnejhSWW5Cc3VmcHFUbmt2OFV3TEJoN2RjaGd2ZU9obEF6N3poWS1ZMGJoMA?oc=5",
+      "published": "Thu, 01 Oct 2026 04:41:00 GMT",
+      "source": "Bloomberg.com",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,13 +17,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.3
+      "freshness_hours": 0.7
     },
     {
-      "title": "Starch-Based Packing Peanuts Market Forecast to 2035: Demand Accelerates on EPS Bans and Electronics Packaging Needs - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSGFPRUxOaHF5MlZvX01JcHVSVm16eGg2ME5nb3ZFMnFsaWhjbXZtYXB2WTd0VVdyMVNkRDduc195Ty1vVnlCSDhZWXJwcGFNbk95akhOekJBVkgtMWJrSWF6bWdOcGdoLW5NTWhhMkpkM1ZORHBDMkZnNVZTOWhEMW1jMkp4MlRVTkcySk9WZDJxbUNOUXB2SjVHaEYxTXo3dTlsM0JmeVRnMUVCS0dnVWRHN2ZsamxlVFNVTDMtS1B5Wkl0U3lyYkdnMnlTbHpUX3ljal9kY2RQSk9ONEE?oc=5",
-      "published": "Thu, 01 Oct 2026 00:26:04 GMT",
-      "source": "IndexBox",
+      "title": "South Korea September Exports Jump 83.5% to Record $120.9B on Chip Boom - News and Statistics - indexbox.io",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1Y3QkVJLVVOZVA3NHZicWhNYWFyTjhzR3BzRmRzQzJvV0RQZjBZd0dwQk81Q1lTbHhBczVMWmFhM294emFPNHVpckEyOTNvRE9xNXA3SzJobVQ5Y1lxZVhMNXdxNzY5anRvbE1sTmlOWGxjLUVTOGY0OFJHSElncklpUjNUOEM3QmUtdThyR2p3c0hoTVlyYnRUWQ?oc=5",
+      "published": "Thu, 01 Oct 2026 04:23:28 GMT",
+      "source": "indexbox.io",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.0
+      "freshness_hours": 1.0
     },
     {
       "title": "The Tariff Trap: How Protectionism Could Cost the US While Reshaping World Trade - Devdiscourse",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 11.2
+      "freshness_hours": 12.2
     }
   ],
   "opportunities": [
@@ -383,5 +383,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-01T04:25:14.610376+00:00"
+  "landed_updated_utc": "2026-10-01T05:23:49.601882+00:00"
 }
