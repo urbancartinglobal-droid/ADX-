@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-10-01T06:37:55.670152+00:00",
+  "updated_utc": "2026-10-01T12:37:44.402363+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Indian Railways Approves Rs. 1.22 bn for 6 km Barbil-Bolanikhadan Project - Construction World",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSFZ0REV0SDVoWngwTE5hWVhpWWVFbXdRendIeWVXZENkN052cUR0UUxpTXVIRUY1X1pvNC01c1I3WnBHMzNPY2FscTNDa1VUcy1qN3ZNemdpSmdUZGNuNGdBQ0FFeGg0NzhZT1B3MDdRdjY1c01LUVNoUWZxXy1hazJDXy00NkFlQ1RSMkdSNjNGeWx4djFoWjlodFltYk5TamdBMVl2STM2bzMtNVVfYVpESjI4MktfS2lsSFpyd0g5T3RPOVVIRjBPbGtrcjRyTWoxaVg5M2hZdnRzVFRZVnFXZ1BEM1hZVHJRSmRuS3VDWFhGRDRBY1lVR3VRcTJ2R3FmWEpmQQ?oc=5",
-      "published": "Thu, 01 Oct 2026 09:33:45 GMT",
-      "source": "Construction World",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 3.0
-    },
-    {
-      "title": "Infineon Bangkok Semiconductor Facility Expands Global Manufacturing Capacity - Electronics Media",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSllCXzlNekhCUW0xQWZvcWdWdWxxWHhXaC1CTFM0TTYzY3NBcW1BTUctRUhHcTNUWTRTWFhjQ2RpdU5Rbko0c3FacHZHaTgwdXJkclhuZWxUSXFoRUFsUV9LSDA3TnJTWEJJNVZsLW5LT0pYRFdubmkyODh5YmsySUp3SENJRW1PMHVZZ19R?oc=5",
-      "published": "Thu, 01 Oct 2026 08:02:12 GMT",
-      "source": "Electronics Media",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.5
-    },
-    {
-      "title": "The Tariff Trap: How Protectionism Could Cost the US While Reshaping World Trade - Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0l3Q25ySWY5TzdsOEFFeFdEVmtIblBRd2tTNXg1NUJwU21LQklwcFV2RE9nNm9iOTR4cnJSTUpVdTJXNUpubjR5c08zRU1DSHVxbUhMRmNzYVktUjlSMVRWRTdwSXBFWU1DRDN6WjhGRk1aWG1pSFgzbHVUV2RzaWNxeHJuZG82RDBBd3huUFZGUHFQR096VVBVOHlBUTNwVk9URlUzUHF2aXVZM3RDSVpYR1pXVWhoRVMzZEJMT1lDUnA2Y2U2dHcxX3JLdzgxTVVJ0gHTAUFVX3lxTE93SXdDbnJJZjlPN2w4QUV4V0RWa0huUFF3a1M1eDU1QnBTbUtCSXBwVXZET2c2b2I5NHhyclJNSlV1Mlc1Sm5uNHlzTzNFTUNIdXFtSExGY3NhWS1SOVIxVFZFN3BJcEVZTUNEM3paOEZGTVpYbWlIWDNsdVRXZHNpY3F4cm5kbzZEMEF3eG5QVkZQcVBHT3pVUFU4eUFRM3BWT1RGVTNQcXZpdVkzdENJWlhHWldVaGhFUzNkQkxPWUNScDZjZTZ0dzFfckt3ODFNVUk?oc=5",
-      "published": "Wed, 30 Sep 2026 17:10:40 GMT",
-      "source": "Devdiscourse",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 19.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -82,8 +39,8 @@
           "companies": []
         },
         {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
-          "source": "ChiniMandi",
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - chinimandi.com",
+          "source": "chinimandi.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
           "triggers": [
             "POLICY",
@@ -147,22 +104,22 @@
           "companies": []
         },
         {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
           "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
           "source": "scanx.trade",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
           "triggers": [
             "POLICY",
             "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
           ],
           "companies": []
         }
@@ -282,8 +239,8 @@
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
+          "source": "india-briefing.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
@@ -382,6 +339,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-01T12:30:53.462685+00:00"
+  ]
 }
