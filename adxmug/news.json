@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "Indian Railways Approves Rs. 1.22 bn for 6 km Barbil-Bolanikhadan Project - Construction World",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSFZ0REV0SDVoWngwTE5hWVhpWWVFbXdRendIeWVXZENkN052cUR0UUxpTXVIRUY1X1pvNC01c1I3WnBHMzNPY2FscTNDa1VUcy1qN3ZNemdpSmdUZGNuNGdBQ0FFeGg0NzhZT1B3MDdRdjY1c01LUVNoUWZxXy1hazJDXy00NkFlQ1RSMkdSNjNGeWx4djFoWjlodFltYk5TamdBMVl2STM2bzMtNVVfYVpESjI4MktfS2lsSFpyd0g5T3RPOVVIRjBPbGtrcjRyTWoxaVg5M2hZdnRzVFRZVnFXZ1BEM1hZVHJRSmRuS3VDWFhGRDRBY1lVR3VRcTJ2R3FmWEpmQQ?oc=5",
+      "published": "Thu, 01 Oct 2026 09:33:45 GMT",
+      "source": "Construction World",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 0.9
+    },
+    {
       "title": "Infineon opens new backend chip manufacturing plant in Thailand, invests $113.57 mn - electronics.economictimes.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeUNIZUQ3MmR5aUNkNmM4bm1HelJWSndNNGZuY19ZQVRxQ3ZLYWNNQnFxZjFQUXM5dU5HbDhUUTl0X19iWmh0WUNfSVZxQXBweUlHbmdNcWJrUy1RM0VBRG4ydzhUeUhUcWNuQzZaemVVclM3dGJkLWJ3UVI4d3VJdy00Wm9vVEpsa01YcG9rdzVaTlpCamtXT3cyUkNHS0R4MnZXQ0RnZ1BiN1dTTlhhcGFHRE12NzFlRlJDemt5eXhLWUZsQlAzT0VqdVlPa3JVUXZCd05mRG5yOHVOanlNVDl2Nlo4NDNjbUFHRUVvQ3LSAfQBQVVfeXFMUFVjQ21mR1N2MFJCbDZxNXNLejlXS2FTTnd3TkRQeHF6RWJMOU1aYld6b3VLbkhhUHY0SDIxbS1JVWJUVThEMC1KdF9jbDlrd1owTnJ0WGs1MU9fa1M1TFhzSUQ2Njh3SHFRNEFXSlc3U19yWDFsb1ZsS29mR3doNlZqZmhGY1FYRTUxR3FMOHhvSzNlN1RuZTBwOFN5TlVQdHoyRnRXSVB1U04zVDFQMlRLRmxaRUZ1bG1CaTZYcUFJbHN4NUVkem1zWF9QUFJMMU80a1FaUzNBZnNydm1PMzFROFBPV1R6NTlwdkFINzNsU2IwRg?oc=5",
       "published": "Thu, 01 Oct 2026 06:10:34 GMT",
@@ -17,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.3
+      "freshness_hours": 4.3
     },
     {
       "title": "The Tariff Trap: How Protectionism Could Cost the US While Reshaping World Trade - Devdiscourse",
@@ -31,21 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 16.3
-    },
-    {
-      "title": "RBI forward dollar liabilities hit record $200 billion as India absorbs huge foreign currency inflows - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaGN4WXZBYTVHUUJ1S2plMjJVX3J0VDRDcHNCYnBNYkhpVjJDNGx2NW16Z1R3Z2M3VjNBU2lkME9VQ0hfcHdxVWNyTTAteVIyTmQ3cWRzcXZ0YVFKdnoyNkM2VHhCQWV1UHlrRXVhRzU0SUtyc1NHSTNMNXdJLTM5YWcyZlRSRDNBM1pIRXMxWGlmQjNHTjlqV2pTZURVdFlYRlNMekl6czFMaUk0a1FYZ0NCa2xESWVZOUdvaS15M29yZ0JNcXBtWUtUZ2dQUUNMZmJtcHhYYUlLYS1VZFVuQktjNG90dzll?oc=5",
-      "published": "Wed, 30 Sep 2026 14:15:00 GMT",
-      "source": "Business Upturn",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 19.2
+      "freshness_hours": 17.2
     }
   ],
   "opportunities": [
@@ -383,5 +383,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-01T09:25:55.542733+00:00"
+  "landed_updated_utc": "2026-10-01T10:25:36.877969+00:00"
 }
