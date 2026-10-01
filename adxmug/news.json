@@ -6,18 +6,18 @@
   "articles": [],
   "landed": [
     {
-      "title": "Škoda Auto India has raised prices by up to 1.2%, capped at ₹20,000, while Tata Motors has increased commercial vehicle prices by up to 1%. Shivani Bazaz is here with the latest updates #cars #auto #skoda #tatamotors - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObTRrd2ZiMDljN0hBd0FhRHZJN2c5azEycEw5QlcyeS1OVTBHLU5FaWdXOXJVRlVLZVQyTkQyUm1LQ3FaWTN1QW5aQ3pjdUVyLUMwZjhlWHBYbXN1YmQ1YXdLT3VvTDNoVFR1VHVtSE5HeklJRTMtWWZYdzh4czBxODdiNUg4bjNYRXRQTVkwN25waVpk?oc=5",
-      "published": "Thu, 01 Oct 2026 16:20:20 GMT",
-      "source": "LinkedIn",
-      "sector": "Auto & Components",
+      "title": "Infineon opens new backend chip manufacturing plant in Thailand, invests $113.57 mn - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa0UxNlNVeS1KU215RXRZMnRUZDFLOGRPeEJ2WEJlSUNFd1VEckUxOTB3eTloNEhkNkxISDNqTGE3TmtyOVdyV18xc3poaGhrOEZEdTludkhTYUFESWxYYUI2ZUlneTc4NGNyYnl0T2ZxSzdOd01nQ2VkeXZRa3JEdjRodzk1bThDdl9FeVNGUjg2ZmVSbWFYQUlCSFNVZjA0ZjB3dE80WExjb1ZGNmpQcllISWs0c3Nyb1lSSU9qb3pCVlNsMHV1QVY1eWpybTBMb3ZLSUFXT2dwZy13TW5faGwwcFFzdlJHNXFNZ2hhZ9IB9AFBVV95cUxQVWNDbWZHU3YwUkJsNnE1c0t6OVdLYVNOd3dORFB4cXpFYkw5TVpiV3pvdUtuSGFQdjRIMjFtLUlVYlRVOEQwLUp0X2NsOWt3WjBOcnRYazUxT19rUzVMWHNJRDY2OHdIcVE0QVdKVzdTX3JYMWxvVmxLb2ZHd2g2VmpmaEZjUVhFNTFHcUw4eG9LM2U3VG5lMHA4U3lOVVB0ejJGdFdJUHVTTjNUMVAyVEtGbFpFRnVsbUJpNlhxQUlsc3g1RWR6bXNYX1BQUkwxTzRrUVpTM0Fmc3J2bU8zMVE4UE9XVHo1OXB2QUg3M2xTYjBG?oc=5",
+      "published": "Thu, 01 Oct 2026 18:10:34 GMT",
+      "source": "electronics.economictimes.indiatimes.com",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 5.0
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 4.2
     },
     {
       "title": "Indian Railways Approves Rs. 1.22 bn for 6 km Barbil-Bolanikhadan Project - Construction World",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 11.8
+      "freshness_hours": 12.8
     },
     {
       "title": "Aurobindo launches dermatitis drug Adquey in US; new division to support ramp-up - ETPharma.com",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 14.5
+      "freshness_hours": 15.4
     }
   ],
   "opportunities": [
@@ -395,5 +395,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-01T21:23:12.212653+00:00"
+  "landed_updated_utc": "2026-10-01T22:21:50.307341+00:00"
 }
