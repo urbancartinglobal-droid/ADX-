@@ -17,7 +17,7 @@
       "label": "GIGA+",
       "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 1.1
+      "freshness_hours": 2.1
     },
     {
       "title": "Indian Railways Approves Rs. 1.22 bn for 6 km Barbil-Bolanikhadan Project - Construction World",
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 7.8
+      "freshness_hours": 8.9
     },
     {
       "title": "Aurobindo launches dermatitis drug Adquey in US; new division to support ramp-up - ETPharma.com",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 10.5
+      "freshness_hours": 11.5
     }
   ],
   "opportunities": [
@@ -383,5 +383,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-01T17:24:30.910237+00:00"
+  "landed_updated_utc": "2026-10-01T18:28:50.985422+00:00"
 }
