@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Infineon opens new backend chip manufacturing plant in Thailand, invests $113.57 mn - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVWNDbWZHU3YwUkJsNnE1c0t6OVdLYVNOd3dORFB4cXpFYkw5TVpiV3pvdUtuSGFQdjRIMjFtLUlVYlRVOEQwLUp0X2NsOWt3WjBOcnRYazUxT19rUzVMWHNJRDY2OHdIcVE0QVdKVzdTX3JYMWxvVmxLb2ZHd2g2VmpmaEZjUVhFNTFHcUw4eG9LM2U3VG5lMHA4U3lOVVB0ejJGdFdJUHVTTjNUMVAyVEtGbFpFRnVsbUJpNlhxQUlsc3g1RWR6bXNYX1BQUkwxTzRrUVpTM0Fmc3J2bU8zMVE4UE9XVHo1OXB2QUg3M2xTYjBG0gH0AUFVX3lxTFBVY0NtZkdTdjBSQmw2cTVzS3o5V0thU053d05EUHhxekViTDlNWmJXem91S25IYVB2NEgyMW0tSVViVFU4RDAtSnRfY2w5a3daME5ydFhrNTFPX2tTNUxYc0lENjY4d0hxUTRBV0pXN1NfclgxbG9WbEtvZkd3aDZWamZoRmNRWEU1MUdxTDh4b0szZTdUbmUwcDhTeU5VUHR6MkZ0V0lQdVNOM1QxUDJUS0ZsWkVGdWxtQmk2WHFBSWxzeDVFZHptc1hfUFBSTDFPNGtRWlMzQWZzcnZtTzMxUThQT1dUejU5cHZBSDczbFNiMEY?oc=5",
+      "published": "Thu, 01 Oct 2026 06:06:01 GMT",
+      "source": "electronics.economictimes.indiatimes.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 1.3
+    },
+    {
+      "title": "The Tariff Trap: How Protectionism Could Cost the US While Reshaping World Trade - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0l3Q25ySWY5TzdsOEFFeFdEVmtIblBRd2tTNXg1NUJwU21LQklwcFV2RE9nNm9iOTR4cnJSTUpVdTJXNUpubjR5c08zRU1DSHVxbUhMRmNzYVktUjlSMVRWRTdwSXBFWU1DRDN6WjhGRk1aWG1pSFgzbHVUV2RzaWNxeHJuZG82RDBBd3huUFZGUHFQR096VVBVOHlBUTNwVk9URlUzUHF2aXVZM3RDSVpYR1pXVWhoRVMzZEJMT1lDUnA2Y2U2dHcxX3JLdzgxTVVJ0gHTAUFVX3lxTE93SXdDbnJJZjlPN2w4QUV4V0RWa0huUFF3a1M1eDU1QnBTbUtCSXBwVXZET2c2b2I5NHhyclJNSlV1Mlc1Sm5uNHlzTzNFTUNIdXFtSExGY3NhWS1SOVIxVFZFN3BJcEVZTUNEM3paOEZGTVpYbWlIWDNsdVRXZHNpY3F4cm5kbzZEMEF3eG5QVkZQcVBHT3pVUFU4eUFRM3BWT1RGVTNQcXZpdVkzdENJWlhHWldVaGhFUzNkQkxPWUNScDZjZTZ0dzFfckt3ODFNVUk?oc=5",
+      "published": "Wed, 30 Sep 2026 17:10:40 GMT",
+      "source": "Devdiscourse",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 14.3
+    },
+    {
+      "title": "RBI forward dollar liabilities hit record $200 billion as India absorbs huge foreign currency inflows - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaGN4WXZBYTVHUUJ1S2plMjJVX3J0VDRDcHNCYnBNYkhpVjJDNGx2NW16Z1R3Z2M3VjNBU2lkME9VQ0hfcHdxVWNyTTAteVIyTmQ3cWRzcXZ0YVFKdnoyNkM2VHhCQWV1UHlrRXVhRzU0SUtyc1NHSTNMNXdJLTM5YWcyZlRSRDNBM1pIRXMxWGlmQjNHTjlqV2pTZURVdFlYRlNMekl6czFMaUk0a1FYZ0NCa2xESWVZOUdvaS15M29yZ0JNcXBtWUtUZ2dQUUNMZmJtcHhYYUlLYS1VZFVuQktjNG90dzll?oc=5",
+      "published": "Wed, 30 Sep 2026 14:15:00 GMT",
+      "source": "Business Upturn",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 17.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -339,5 +382,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-01T07:26:51.039094+00:00"
 }
