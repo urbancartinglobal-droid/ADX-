@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Škoda Auto India has raised prices by up to 1.2%, capped at ₹20,000, while Tata Motors has increased commercial vehicle prices by up to 1%. Shivani Bazaz is here with the latest updates #cars #auto #skoda #tatamotors - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObTRrd2ZiMDljN0hBd0FhRHZJN2c5azEycEw5QlcyeS1OVTBHLU5FaWdXOXJVRlVLZVQyTkQyUm1LQ3FaWTN1QW5aQ3pjdUVyLUMwZjhlWHBYbXN1YmQ1YXdLT3VvTDNoVFR1VHVtSE5HeklJRTMtWWZYdzh4czBxODdiNUg4bjNYRXRQTVkwN25waVpk?oc=5",
+      "published": "Thu, 01 Oct 2026 16:20:20 GMT",
+      "source": "LinkedIn",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 3.1
+    },
+    {
+      "title": "Indian Railways Approves Rs. 1.22 bn for 6 km Barbil-Bolanikhadan Project - Construction World",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSFZ0REV0SDVoWngwTE5hWVhpWWVFbXdRendIeWVXZENkN052cUR0UUxpTXVIRUY1X1pvNC01c1I3WnBHMzNPY2FscTNDa1VUcy1qN3ZNemdpSmdUZGNuNGdBQ0FFeGg0NzhZT1B3MDdRdjY1c01LUVNoUWZxXy1hazJDXy00NkFlQ1RSMkdSNjNGeWx4djFoWjlodFltYk5TamdBMVl2STM2bzMtNVVfYVpESjI4MktfS2lsSFpyd0g5T3RPOVVIRjBPbGtrcjRyTWoxaVg5M2hZdnRzVFRZVnFXZ1BEM1hZVHJRSmRuS3VDWFhGRDRBY1lVR3VRcTJ2R3FmWEpmQQ?oc=5",
+      "published": "Thu, 01 Oct 2026 09:35:10 GMT",
+      "source": "Construction World",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 9.8
+    },
+    {
+      "title": "Aurobindo launches dermatitis drug Adquey in US; new division to support ramp-up - ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTGpCQ292Rmc3bFFqc1o2d3VlbFRvUjNWMk13ejRkNUhsakxER21UamJtWmx4ZjRMdlRvSXFDc1h2WnBmMWo5ZEN4UVM4ZlJxNGVnOFdIRnl0M0FuODRtX25BMHdaaTRjOWlfS2pMTFJjZDBGeUpkdndUSEZ0U3oyWFctQk9tWGdLcDA1M2tJVzdsbXdLMWY4NkJpOGVhV3R0UW1seXQ1SDNMM19aZWJqTWdSRzBObFZlNlQ5Sm9fbkgxZllhR3c2SDBKcllXcW1MbkVrdEI3NFdULWtIaWpnZTdzN1Z3WUxPTTFjT2JZdUF6OF9rU0JEOGl5R3lhX1nSAf8BQVVfeXFMT0xqQkNvdkZnN2xRanNaNnd1ZWxUb1IzVjJNd3o0ZDVIbGpMREdtVGpibVpseGY0THZUb0lxQ3NYdlpwZjFqOWRDeFFTOGZScTRlZzhXSEZ5dDNBbjg0bV9uQTB3Wmk0YzlpX0tqTExSY2QwRnlKZHZ3VEhGdFN6MlhXLUJPbVhnS3AwNTNrSVc3bG13SzFmODZCaThlYVd0dFFtbHl0NUgzTDNfWmViak1nUkcwTmxWZTZUOUpvX25IMWZZYUd3NkgwSnJZV3FtTG5Fa3RCNzRXVC1rSGlqZ2U3czdWd1lMT00xY09iWXVBejhfa1NCRDhpeUd5YV9Z?oc=5",
+      "published": "Thu, 01 Oct 2026 06:55:54 GMT",
+      "source": "ETPharma.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 12.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -351,5 +394,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-01T19:24:00.852987+00:00"
 }
