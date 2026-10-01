@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 1.8
+      "freshness_hours": 3.0
     },
     {
       "title": "Infineon Bangkok Semiconductor Facility Expands Global Manufacturing Capacity - Electronics Media",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.4
+      "freshness_hours": 4.5
     },
     {
       "title": "The Tariff Trap: How Protectionism Could Cost the US While Reshaping World Trade - Devdiscourse",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 18.2
+      "freshness_hours": 19.3
     }
   ],
   "opportunities": [
@@ -383,5 +383,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-01T11:24:05.198691+00:00"
+  "landed_updated_utc": "2026-10-01T12:30:53.462685+00:00"
 }
