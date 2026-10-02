@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
+      "published": "Fri, 02 Oct 2026 11:52:53 GMT",
+      "source": "scanx.trade",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 1.6
+    },
+    {
+      "title": "US Navy awards $24.4 billion to accelerate production of Standard Missile-6 - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVFhXdW9wUm9hV3FZQzYwQmJKeW1JanM4UUEwblc2ZERPcHlDUXJtdTF3Uk5ES2psQmFVNEU0WmdmZnczS0ZXTWFsS0R1bmQ0UjA0QXg5Mk9ieXRwYjl0X0tGR2kzTlRQUHg4d2Rhd01MOU1zazJoUlBkOHdxVnk0MzIwZW5sdVNuaTZDWFJYX1dDSDZxRi1kQUVTZGRMVGRObXZEWWdJd2lqblgzYWRveVlRUUpSNGpZSjZESWgtcnQwN0NlbkgzTkk4VXkzN1B3R2JlbzFZeHHSAd4BQVVfeXFMT3FkOFBGOXFFSzZxRU5MNEFMeTNzdmw3TWxtZW1idDJ4bGNlU1NUT2NnWVFwYjgxSmdJbVVBUlBVUWxHeHA4eGZfVmlaUmF1NTRFMUdhOVM1UUtvSFZiNXR0N3R0Yzl6SkI5dEVLMFlDRnNLdUZueVNJTUo5Ny1BWkxZeHJlNDNoV0tTaWtkc09OY3VUWWF6cmxHMFBWZzQyTnhhRWFBMnRCYVdfQ2VobmRfRkI3WFdPa044V0V3ZmVBdlh2OGQ4dEhpbzk5TlhwVzJJdDM3OEs2S01zVC1B?oc=5",
+      "published": "Fri, 02 Oct 2026 03:16:33 GMT",
+      "source": "The Economic Times",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 10.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -330,5 +359,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-02T13:26:12.102022+00:00"
 }
