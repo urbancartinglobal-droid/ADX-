@@ -17,13 +17,13 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 0.1
+      "freshness_hours": 1.1
     },
     {
-      "title": "Indian Railways Approves Rs. 1.22 bn for 6 km Barbil-Bolanikhadan Project - constructionworld.in",
+      "title": "Indian Railways Approves Rs. 1.22 bn for 6 km Barbil-Bolanikhadan Project - Construction World",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSFZ0REV0SDVoWngwTE5hWVhpWWVFbXdRendIeWVXZENkN052cUR0UUxpTXVIRUY1X1pvNC01c1I3WnBHMzNPY2FscTNDa1VUcy1qN3ZNemdpSmdUZGNuNGdBQ0FFeGg0NzhZT1B3MDdRdjY1c01LUVNoUWZxXy1hazJDXy00NkFlQ1RSMkdSNjNGeWx4djFoWjlodFltYk5TamdBMVl2STM2bzMtNVVfYVpESjI4MktfS2lsSFpyd0g5T3RPOVVIRjBPbGtrcjRyTWoxaVg5M2hZdnRzVFRZVnFXZ1BEM1hZVHJRSmRuS3VDWFhGRDRBY1lVR3VRcTJ2R3FmWEpmQQ?oc=5",
       "published": "Thu, 01 Oct 2026 09:35:10 GMT",
-      "source": "constructionworld.in",
+      "source": "Construction World",
       "sector": "Rail & Infrastructure",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 17.8
+      "freshness_hours": 18.8
     },
     {
       "title": "Aurobindo launches dermatitis drug Adquey in US; new division to support ramp-up - ETPharma.com",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 20.5
+      "freshness_hours": 21.5
     }
   ],
   "opportunities": [
@@ -395,5 +395,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-02T03:24:29.189226+00:00"
+  "landed_updated_utc": "2026-10-02T04:24:21.900208+00:00"
 }
