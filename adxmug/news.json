@@ -6,18 +6,32 @@
   "articles": [],
   "landed": [
     {
-      "title": "US Navy awards $24.4 billion to accelerate production of Standard Missile-6 - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVFhXdW9wUm9hV3FZQzYwQmJKeW1JanM4UUEwblc2ZERPcHlDUXJtdTF3Uk5ES2psQmFVNEU0WmdmZnczS0ZXTWFsS0R1bmQ0UjA0QXg5Mk9ieXRwYjl0X0tGR2kzTlRQUHg4d2Rhd01MOU1zazJoUlBkOHdxVnk0MzIwZW5sdVNuaTZDWFJYX1dDSDZxRi1kQUVTZGRMVGRObXZEWWdJd2lqblgzYWRveVlRUUpSNGpZSjZESWgtcnQwN0NlbkgzTkk4VXkzN1B3R2JlbzFZeHHSAd4BQVVfeXFMT3FkOFBGOXFFSzZxRU5MNEFMeTNzdmw3TWxtZW1idDJ4bGNlU1NUT2NnWVFwYjgxSmdJbVVBUlBVUWxHeHA4eGZfVmlaUmF1NTRFMUdhOVM1UUtvSFZiNXR0N3R0Yzl6SkI5dEVLMFlDRnNLdUZueVNJTUo5Ny1BWkxZeHJlNDNoV0tTaWtkc09OY3VUWWF6cmxHMFBWZzQyTnhhRWFBMnRCYVdfQ2VobmRfRkI3WFdPa044V0V3ZmVBdlh2OGQ4dEhpbzk5TlhwVzJJdDM3OEs2S01zVC1B?oc=5",
-      "published": "Fri, 02 Oct 2026 03:16:33 GMT",
-      "source": "The Economic Times",
-      "sector": "Defence & Aerospace",
+      "title": "USFDA expands Camzyos approval to children with obstructive hypertrophic cardiomyopathy - Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGsxc0w4c1d1REF6Y3NHTWZ4OE1LX1p1VDlXNm5VSDZRbzVXM1UyNGxvRlU0U3VSNVc0SXFVRGJueXdPN3Z4YXVCZ1VGemhHTEFzdGpkbTRMLVJhSUJPeW1KbEk0Z05Sb2lvb3dyYTZ6NkdTbmlLYU9aTmJEU2EzRkVQa3lBZlk2emtjOGNOZ2tZWlBiM0VxVElpc0JwTVRwU1FucmU3dWhpRUo2Qi1DYlMtcEdTNGljbWQ4M0hVQnh0RWY3NWU2RzJ2NNIB2gFBVV95cUxNSURXMFM4eFM4eGswVTNHOFF6TkpNb3dqZHhzNHhsRFZ0d09XNEFpRkhoN3JTcV92UU4zbW56Rk5zRGN6Z0xOWm54Zk9TaTF0cEpXMzF5QnJfRGtob3RiRDZwY2FwMlMwb1Q4Yk9IbnNsZmtvV09HZk1jTUIzMndGWjlsbEtEc0lMLS1LNEpEM2ZVYUxNUkh1M2RLdk9zTnFuZm9lTmYxZjZsWDFMX0htYUk5UmN1eGNQUVdJWVpPbUNTTC1DbjZYLUZoZ2swd2hGRWN2VzJwd1JaUQ?oc=5",
+      "published": "Fri, 02 Oct 2026 13:45:03 GMT",
+      "source": "Indian Pharma Post",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 1.7
+    },
+    {
+      "title": "Cabinet approves Rs 1.27 lakh crore Semicon 2.0 to strengthen India’s semiconductor ecosystem - DD News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVc2WlpVdllsMUxRMkpTMmQ3YjZCWEdOdnZyTDl2SVNzR1Vlbm9ySGYxTFlrNDI5YmZ4RDJSc1pRZHZjOGFOejZzbXRfc0doZVdHVkxkdS1TTDMwcVhBX0VpUWNFVlRMVjlnYTNnMl9DQ3hrMWc4Q2NXUTM5akNEa3RmUU05Z2VON0lrX01fWFM0N1E1dy1HTWtMaF9tZHNTY3FNLTFnSVJZa1NDV01odVBmTUZ2SFRMTHc?oc=5",
+      "published": "Fri, 02 Oct 2026 08:30:52 GMT",
+      "source": "DD News",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 11.2
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 6.9
     }
   ],
   "opportunities": [
@@ -346,5 +360,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-02T14:26:28.944355+00:00"
+  "landed_updated_utc": "2026-10-02T15:26:08.470999+00:00"
 }
