@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "US Navy awards $24.4 billion to accelerate production of Standard Missile-6 - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVFhXdW9wUm9hV3FZQzYwQmJKeW1JanM4UUEwblc2ZERPcHlDUXJtdTF3Uk5ES2psQmFVNEU0WmdmZnczS0ZXTWFsS0R1bmQ0UjA0QXg5Mk9ieXRwYjl0X0tGR2kzTlRQUHg4d2Rhd01MOU1zazJoUlBkOHdxVnk0MzIwZW5sdVNuaTZDWFJYX1dDSDZxRi1kQUVTZGRMVGRObXZEWWdJd2lqblgzYWRveVlRUUpSNGpZSjZESWgtcnQwN0NlbkgzTkk4VXkzN1B3R2JlbzFZeHHSAd4BQVVfeXFMT3FkOFBGOXFFSzZxRU5MNEFMeTNzdmw3TWxtZW1idDJ4bGNlU1NUT2NnWVFwYjgxSmdJbVVBUlBVUWxHeHA4eGZfVmlaUmF1NTRFMUdhOVM1UUtvSFZiNXR0N3R0Yzl6SkI5dEVLMFlDRnNLdUZueVNJTUo5Ny1BWkxZeHJlNDNoV0tTaWtkc09OY3VUWWF6cmxHMFBWZzQyTnhhRWFBMnRCYVdfQ2VobmRfRkI3WFdPa044V0V3ZmVBdlh2OGQ4dEhpbzk5TlhwVzJJdDM3OEs2S01zVC1B?oc=5",
+      "published": "Fri, 02 Oct 2026 03:16:33 GMT",
+      "source": "The Economic Times",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 7.1
+    },
+    {
+      "title": "US Pharma Tariff Relief: Which Indian pharma stocks benefit and which face trade risk? - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVURlVWRGX2U1eVkxS00wUGloZGdiRE9lN2s0dmRneXZIYllkLU9aTWVXcHNhbkp0SHpBUUJLS1hIUVFrODJmQ3A4azZMYndXQ25odnNJcHdGTUpOU3dUM0F2eU16TlV1cHlLOGhjSmZvbng1SHU2RTVDSzNEbXk2cTIwbGFUR2pONVNnMHJhQlIwMGFyTUk0RWQ0NTlUYzI3bU55VkhNNFVrSGRHMVYzd0F0ZUZ5T0NFbkdnMtIBwwFBVV95cUxPRVhkaGRyaTBuWURvdVkyYlc0SzV6NkNRYXhMYnNjZXBPUHNrTjd3YkhvcnFqa2hzVDVZNHB2UVJrME9ZS090eEhpa09vWllVSDVHRk5ZR0E3SzkyNWFfMDM5Y2Q5YU5GX0hIWVNLeXd4cGFtRUd1UmNJMkNoUGFHT25HcnByMEIyNk1OVDJRcmhVdXBxamJ3S2hORy02Q05xMmk5Q0lVTUdiQ2lyVUFXUXQ0a1A5OVhEYk5uLTduZWctdm8?oc=5",
+      "published": "Thu, 01 Oct 2026 23:30:00 GMT",
+      "source": "financialexpress.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 10.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -352,5 +381,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-02T09:25:56.649933+00:00"
+  "landed_updated_utc": "2026-10-02T10:23:49.108321+00:00"
 }
