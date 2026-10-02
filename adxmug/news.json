@@ -17,7 +17,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.7
+      "freshness_hours": 4.7
     },
     {
       "title": "Northrop Grumman says U.S. chip production will quadruple by 2030 under expansion to strengthen defense semiconductor supply chains - Defence Industry Europe",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 5.4
+      "freshness_hours": 6.5
     },
     {
       "title": "India's forex reserves fall $18.3 bn, post biggest weekly decline on record - Business Standard",
@@ -45,7 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.2
+      "freshness_hours": 3.2
     }
   ],
   "opportunities": [
@@ -374,5 +374,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-02T17:24:17.102914+00:00"
+  "landed_updated_utc": "2026-10-02T18:27:43.444254+00:00"
 }
