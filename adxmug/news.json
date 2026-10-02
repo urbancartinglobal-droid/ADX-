@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-10-02T12:36:47.557747+00:00",
+  "updated_utc": "2026-10-02T18:34:16.433515+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "USFDA expands Camzyos approval to children with obstructive hypertrophic cardiomyopathy - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGsxc0w4c1d1REF6Y3NHTWZ4OE1LX1p1VDlXNm5VSDZRbzVXM1UyNGxvRlU0U3VSNVc0SXFVRGJueXdPN3Z4YXVCZ1VGemhHTEFzdGpkbTRMLVJhSUJPeW1KbEk0Z05Sb2lvb3dyYTZ6NkdTbmlLYU9aTmJEU2EzRkVQa3lBZlk2emtjOGNOZ2tZWlBiM0VxVElpc0JwTVRwU1FucmU3dWhpRUo2Qi1DYlMtcEdTNGljbWQ4M0hVQnh0RWY3NWU2RzJ2NNIB2gFBVV95cUxNSURXMFM4eFM4eGswVTNHOFF6TkpNb3dqZHhzNHhsRFZ0d09XNEFpRkhoN3JTcV92UU4zbW56Rk5zRGN6Z0xOWm54Zk9TaTF0cEpXMzF5QnJfRGtob3RiRDZwY2FwMlMwb1Q4Yk9IbnNsZmtvV09HZk1jTUIzMndGWjlsbEtEc0lMLS1LNEpEM2ZVYUxNUkh1M2RLdk9zTnFuZm9lTmYxZjZsWDFMX0htYUk5UmN1eGNQUVdJWVpPbUNTTC1DbjZYLUZoZ2swd2hGRWN2VzJwd1JaUQ?oc=5",
-      "published": "Fri, 02 Oct 2026 13:45:03 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 4.7
-    },
-    {
-      "title": "Northrop Grumman says U.S. chip production will quadruple by 2030 under expansion to strengthen defense semiconductor supply chains - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORmVFT2ZrQ2JNRHRCcndaZHN1WFJpU1dEOGEzUTl5YU5CbjFrRmU3cHFxcVlCUGF6bnZEVVNPU0dNQXlTaFF6SUxfdkNXdzNHT2FKYkZoWUE0SzlrNXg1dUh5M2JLekdCOVVtUTFNSXZDMGdkUmUzTHBpd1I2ZFA2b0R0aTJDTjBpWWxONEthWkhXMC16dC1uUmxKVGZFLS1kLWZDSXpXVFdubzVqd05PcWt2bnJFNDF4dG8tV1JEenhaOXR5Q2xmdkhIdlVGcnJSUDhmVEpUWjdvVmNJWFljR21XY0x4QXNBZDYyUm5jbGQ?oc=5",
-      "published": "Fri, 02 Oct 2026 11:58:21 GMT",
-      "source": "Defence Industry Europe",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 6.5
-    },
-    {
-      "title": "India's forex reserves fall $18.3 bn, post biggest weekly decline on record - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdElNQ2RGVUFSSWllYVpUTElFd1NPME5EYlFfVzdhU204MjNETXVWUUlQb3gyTzNxUmoyWDVEQWU2TndfNU5QUEFxYUIwS3NGLVNtVUdhQjhfYWlTZTQ1dFNyQ1hwbjh2VXROaGhCdm1BczRTZUNhSl95WGpLeXh4Z1BrR3FaR21IaGtGeWJkNnAxMHFTRU5zQ2Rac21OQjN1SXF4QjdqbUpYVngtM253Z0thM29xMVNpSzA1TGpCbWZRRjVfSkVaMzQxdTh2YjFhdmRRMnhBVdIB3AFBVV95cUxOOHpCQWE3MEdsLXJpelM4Z01KWEZlLVY5LXpYdDJLdElJakU0RFRUZ1ZzbnM4WWJLckFva0tuWUVZMGlwSDBtaGVhbGVfR0pCZGc2M0JkemFPN0t3RGFMMXd1akRRd1lwLWg3ZUYxUU9wNnFzUVhmNFREUF9kWElHNHEwQXo0a1JsOXBmZXdBQXJ2Qm9UWDVuU1dCUEtXWmFXelMxTVhUaUh3S1A1YjBBUXFLTEFNQzJ2WWhuU2VSQnFwTjlGb0lxaTZkWThkLUJNVE1LTnJXaWdOa295?oc=5",
-      "published": "Fri, 02 Oct 2026 15:14:25 GMT",
-      "source": "Business Standard",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 55,
-      "article_count": 3,
-      "trigger_count": 6,
+      "score": 66,
+      "article_count": 4,
+      "trigger_count": 7,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -89,13 +46,22 @@
             "POLICY"
           ],
           "companies": []
+        },
+        {
+          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVIzVVlXNzk5VkREeFUzTm9NczlXSUU3WjRsbGdGdnI0RTJ4R0Q3QWJuTmt5UVZLUTdiWktsQjV6OFQwRkY2SW45bE14b3dKMVFNd3JsV1Y3b2pLRzNtQS1tZFVzcFp0UUhMZkNDcld3TWZ0Sng4aXByQ3VNUmt1MXdKM2VPVVhzNmRmaV9pT3dLQmkzQm9NVl94VmpPa09LMHdGY0dpdUpZZHd2WS1VV3ppbHBnaHM4RFlJMnVFVXJOWWhjbnZFNU05aHZGYUJLdExwMTRpMHJkOTlnTy1KZjZMQmJwZ9IB6wFBVV95cUxOSzZtU05qNHQzS0RkdnVzeE5NOHREMWc4SVFCMGJGOGlVSFpkOUF6WFdjUFVwcUloM3BNS21WMWFtR0tldlFLd1RtVF9KdFN4eXgzdXkwZ2o2aVRpZ0pfLWc1X29RU1ZNcXo1VUdtLUhnUVIzbUkxMk1CQTZMMkJ3V3FIcVZPNnB5Y2hGR2lhdzVJVURSN1BPakduVDNYeGFJMHJETjNRZGdKbzRVUWxQd0U2akduaEpJSEk3cE9ZTFczQ1NPanM4NlNMS2FmeEdpTkdBdVRrWEdBMENWWEZjRlgzUEtaSkpPM1dn?oc=5",
+          "triggers": [
+            "TRADE"
+          ],
+          "companies": []
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 3 distinct story clusters; 3 independent sources.",
-      "source_count": 3,
-      "story_clusters": 3,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 4 independent sources.",
+      "source_count": 4,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -106,9 +72,9 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 49,
-      "article_count": 3,
-      "trigger_count": 6,
+      "score": 60,
+      "article_count": 4,
+      "trigger_count": 8,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -116,8 +82,18 @@
       ],
       "evidence": [
         {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - business-standard.com",
-          "source": "business-standard.com",
+          "title": "RBI liquidity boost cuts wholesale funding costs, but banks remain locked in deposit battle - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVUQzhPcVlRMHVrcU9MS0xFUGdteVpyd21JVFoxSGhRdWJQdnEyZHJXTlZVYV9jMWVoU2ppSzNDUDFPUzl6cUoxdm4yeGVVVnlfTjdId2l4cTFOR1B4WFdNemFabEctNEZ4a1FReEtSSGc0aExOUHpRc2I5RWxIUjh5LS1XSU9kSURiV0dydFFDdlczdmZkMDZFNV9oNU5mSjNrMy1zdUdkOWp6Z1dLLU1GRGxzSEpOOGxzUDFuYW1uM1nSAcgBQVVfeXFMT2ZLQm1rdWctbml2ekZxZjJCc1ZSVnBSTTMxU2hpeUUyRGp3OWJOT1hPMTlxcW1nTUpOVFMwMVRsWm5EeGI5N2NLNU1jVkFfRjNfOTlnWnkyS2J0a1lYRWs4VHM4QWFEdFFEYnpYY0YxQTU1ZjR6NzdVUFdnWVh6NzFmd2FXUmhaQU5hdFJwMG96a0hkSXQ0cG16R0hkdVhnRDktZ01aT3dZd0FEbnJiYThjbjBQRlRwYmJid0lQOWw0dktQbnpnVUk?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
+          "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
           "triggers": [
             "POLICY",
@@ -136,8 +112,8 @@
           "companies": []
         },
         {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - business-standard.com",
-          "source": "business-standard.com",
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
           "triggers": [
             "POLICY",
@@ -148,9 +124,9 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 3 distinct story clusters; 2 independent sources.",
-      "source_count": 2,
-      "story_clusters": 3,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
+      "source_count": 3,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -212,8 +188,8 @@
       ],
       "evidence": [
         {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
-          "source": "Swarajya",
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - swarajyamag.com",
+          "source": "swarajyamag.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
           "triggers": [
             "POLICY",
@@ -373,6 +349,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-02T18:27:43.444254+00:00"
+  ]
 }
