@@ -17,21 +17,35 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 1.7
+      "freshness_hours": 2.7
     },
     {
-      "title": "Cabinet approves Rs 1.27 lakh crore Semicon 2.0 to strengthen India’s semiconductor ecosystem - DD News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVc2WlpVdllsMUxRMkpTMmQ3YjZCWEdOdnZyTDl2SVNzR1Vlbm9ySGYxTFlrNDI5YmZ4RDJSc1pRZHZjOGFOejZzbXRfc0doZVdHVkxkdS1TTDMwcVhBX0VpUWNFVlRMVjlnYTNnMl9DQ3hrMWc4Q2NXUTM5akNEa3RmUU05Z2VON0lrX01fWFM0N1E1dy1HTWtMaF9tZHNTY3FNLTFnSVJZa1NDV01odVBmTUZ2SFRMTHc?oc=5",
-      "published": "Fri, 02 Oct 2026 08:30:52 GMT",
-      "source": "DD News",
-      "sector": "Electronics & Semiconductors",
+      "title": "Northrop Grumman says U.S. chip production will quadruple by 2030 under expansion to strengthen defense semiconductor supply chains - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORmVFT2ZrQ2JNRHRCcndaZHN1WFJpU1dEOGEzUTl5YU5CbjFrRmU3cHFxcVlCUGF6bnZEVVNPU0dNQXlTaFF6SUxfdkNXdzNHT2FKYkZoWUE0SzlrNXg1dUh5M2JLekdCOVVtUTFNSXZDMGdkUmUzTHBpd1I2ZFA2b0R0aTJDTjBpWWxONEthWkhXMC16dC1uUmxKVGZFLS1kLWZDSXpXVFdubzVqd05PcWt2bnJFNDF4dG8tV1JEenhaOXR5Q2xmdkhIdlVGcnJSUDhmVEpUWjdvVmNJWFljR21XY0x4QXNBZDYyUm5jbGQ?oc=5",
+      "published": "Fri, 02 Oct 2026 11:58:21 GMT",
+      "source": "Defence Industry Europe",
+      "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.9
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 4.4
+    },
+    {
+      "title": "India's forex reserves fall $18.3 bn, post biggest weekly decline on record - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdElNQ2RGVUFSSWllYVpUTElFd1NPME5EYlFfVzdhU204MjNETXVWUUlQb3gyTzNxUmoyWDVEQWU2TndfNU5QUEFxYUIwS3NGLVNtVUdhQjhfYWlTZTQ1dFNyQ1hwbjh2VXROaGhCdm1BczRTZUNhSl95WGpLeXh4Z1BrR3FaR21IaGtGeWJkNnAxMHFTRU5zQ2Rac21OQjN1SXF4QjdqbUpYVngtM253Z0thM29xMVNpSzA1TGpCbWZRRjVfSkVaMzQxdTh2YjFhdmRRMnhBVdIB3AFBVV95cUxOOHpCQWE3MEdsLXJpelM4Z01KWEZlLVY5LXpYdDJLdElJakU0RFRUZ1ZzbnM4WWJLckFva0tuWUVZMGlwSDBtaGVhbGVfR0pCZGc2M0JkemFPN0t3RGFMMXd1akRRd1lwLWg3ZUYxUU9wNnFzUVhmNFREUF9kWElHNHEwQXo0a1JsOXBmZXdBQXJ2Qm9UWDVuU1dCUEtXWmFXelMxTVhUaUh3S1A1YjBBUXFLTEFNQzJ2WWhuU2VSQnFwTjlGb0lxaTZkWThkLUJNVE1LTnJXaWdOa295?oc=5",
+      "published": "Fri, 02 Oct 2026 15:14:25 GMT",
+      "source": "Business Standard",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 1.2
     }
   ],
   "opportunities": [
@@ -360,5 +374,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-02T15:26:08.470999+00:00"
+  "landed_updated_utc": "2026-10-02T16:24:27.701715+00:00"
 }
