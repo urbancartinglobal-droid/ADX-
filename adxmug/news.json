@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Dummy Silicon Wafers Market To 2035: Fab Expansion and Advanced Nodes Fuel Demand - News and Statistics - IndexBox",
+      "title": "Dummy Silicon Wafers Market To 2035: Fab Expansion and Advanced Nodes Fuel Demand - News and Statistics - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOblo0dUxzcDF5WEd5Z2Jzc0pEb1psb0U2MVA4aG1zT0pfM1ROLW90YXY1ejRjNjJYdEhVUG1mdzU5OXlBOXVTcDZIdGZyX1gxZUVjNzJFSnVMN3d6R21HNGlJaktsaHg1NzRJSjJvdkZDNnFhX0NxUU9FNElTM3F2MHhyTDV0ZXU1SEJJMkdVdWx2UzBDLS1ZOEVzaE9iUWNQR2d3Z1dtaGN4OVZzc2tILVVDMk14SHE3TnRRVUUteG96ZHc3S0tr?oc=5",
       "published": "Fri, 02 Oct 2026 21:31:04 GMT",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,13 +17,13 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
+      "freshness_hours": 1.8
     },
     {
-      "title": "USFDA expands Camzyos approval to children with obstructive hypertrophic cardiomyopathy - indianpharmapost.com",
+      "title": "USFDA expands Camzyos approval to children with obstructive hypertrophic cardiomyopathy - Indian Pharma Post",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGsxc0w4c1d1REF6Y3NHTWZ4OE1LX1p1VDlXNm5VSDZRbzVXM1UyNGxvRlU0U3VSNVc0SXFVRGJueXdPN3Z4YXVCZ1VGemhHTEFzdGpkbTRMLVJhSUJPeW1KbEk0Z05Sb2lvb3dyYTZ6NkdTbmlLYU9aTmJEU2EzRkVQa3lBZlk2emtjOGNOZ2tZWlBiM0VxVElpc0JwTVRwU1FucmU3dWhpRUo2Qi1DYlMtcEdTNGljbWQ4M0hVQnh0RWY3NWU2RzJ2NNIB2gFBVV95cUxNSURXMFM4eFM4eGswVTNHOFF6TkpNb3dqZHhzNHhsRFZ0d09XNEFpRkhoN3JTcV92UU4zbW56Rk5zRGN6Z0xOWm54Zk9TaTF0cEpXMzF5QnJfRGtob3RiRDZwY2FwMlMwb1Q4Yk9IbnNsZmtvV09HZk1jTUIzMndGWjlsbEtEc0lMLS1LNEpEM2ZVYUxNUkh1M2RLdk9zTnFuZm9lTmYxZjZsWDFMX0htYUk5UmN1eGNQUVdJWVpPbUNTTC1DbjZYLUZoZ2swd2hGRWN2VzJwd1JaUQ?oc=5",
       "published": "Fri, 02 Oct 2026 13:45:03 GMT",
-      "source": "indianpharmapost.com",
+      "source": "Indian Pharma Post",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 8.6
+      "freshness_hours": 9.6
     },
     {
       "title": "India's forex reserves fall $18.3 bn, post biggest weekly decline on record - Business Standard",
@@ -45,7 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 7.1
+      "freshness_hours": 8.1
     }
   ],
   "opportunities": [
@@ -393,5 +393,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-02T22:22:30.835429+00:00"
+  "landed_updated_utc": "2026-10-02T23:19:45.269403+00:00"
 }
