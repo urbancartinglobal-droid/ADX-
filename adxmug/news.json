@@ -7,7 +7,7 @@
   "landed": [
     {
       "title": "US Navy awards $24.4 billion to accelerate production of Standard Missile-6 - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzdJZFpwTHNIeWxxY0VYazhoM1Q0a3RDeFJxT0dTdHJobXl5TjZ3cHZSV3Y3VTB6OUxPYXJoRXhscUJjalE1RUVrTDVjb0djcTZROEdUY3lfVExzSjBEVFJ2TnFybV9jM1hubDJkWXM1SlZmY3RHOUZaQmx5dWhlMnVYMXlVSnVLSG80WHpITS16M3dKYmQ3ajFRa01CY0puWGtZOE5lTktxVlp2WHZDMG00S2FaTGtlX1Q2aGtsMjZLZ0w1NVJKd19Vam92WFEtQzdaZFZ3ZXVnYUw5ZUg4ZjVsLTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVFhXdW9wUm9hV3FZQzYwQmJKeW1JanM4UUEwblc2ZERPcHlDUXJtdTF3Uk5ES2psQmFVNEU0WmdmZnczS0ZXTWFsS0R1bmQ0UjA0QXg5Mk9ieXRwYjl0X0tGR2kzTlRQUHg4d2Rhd01MOU1zazJoUlBkOHdxVnk0MzIwZW5sdVNuaTZDWFJYX1dDSDZxRi1kQUVTZGRMVGRObXZEWWdJd2lqblgzYWRveVlRUUpSNGpZSjZESWgtcnQwN0NlbkgzTkk4VXkzN1B3R2JlbzFZeHHSAd4BQVVfeXFMT3FkOFBGOXFFSzZxRU5MNEFMeTNzdmw3TWxtZW1idDJ4bGNlU1NUT2NnWVFwYjgxSmdJbVVBUlBVUWxHeHA4eGZfVmlaUmF1NTRFMUdhOVM1UUtvSFZiNXR0N3R0Yzl6SkI5dEVLMFlDRnNLdUZueVNJTUo5Ny1BWkxZeHJlNDNoV0tTaWtkc09OY3VUWWF6cmxHMFBWZzQyTnhhRWFBMnRCYVdfQ2VobmRfRkI3WFdPa044V0V3ZmVBdlh2OGQ4dEhpbzk5TlhwVzJJdDM3OEs2S01zVC1B?oc=5",
       "published": "Fri, 02 Oct 2026 03:16:33 GMT",
       "source": "The Economic Times",
       "sector": "Defence & Aerospace",
@@ -17,7 +17,21 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 1.1
+      "freshness_hours": 2.1
+    },
+    {
+      "title": "US Pharma Tariff Relief: Which Indian pharma stocks benefit and which face trade risk? - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVURlVWRGX2U1eVkxS00wUGloZGdiRE9lN2s0dmRneXZIYllkLU9aTWVXcHNhbkp0SHpBUUJLS1hIUVFrODJmQ3A4azZMYndXQ25odnNJcHdGTUpOU3dUM0F2eU16TlV1cHlLOGhjSmZvbng1SHU2RTVDSzNEbXk2cTIwbGFUR2pONVNnMHJhQlIwMGFyTUk0RWQ0NTlUYzI3bU55VkhNNFVrSGRHMVYzd0F0ZUZ5T0NFbkdnMtIBwwFBVV95cUxPRVhkaGRyaTBuWURvdVkyYlc0SzV6NkNRYXhMYnNjZXBPUHNrTjd3YkhvcnFqa2hzVDVZNHB2UVJrME9ZS090eEhpa09vWllVSDVHRk5ZR0E3SzkyNWFfMDM5Y2Q5YU5GX0hIWVNLeXd4cGFtRUd1UmNJMkNoUGFHT25HcnByMEIyNk1OVDJRcmhVdXBxamJ3S2hORy02Q05xMmk5Q0lVTUdiQ2lyVUFXUXQ0a1A5OVhEYk5uLTduZWctdm8?oc=5",
+      "published": "Thu, 01 Oct 2026 23:30:00 GMT",
+      "source": "financialexpress.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 5.9
     },
     {
       "title": "Indian Railways Approves Rs. 1.22 bn for 6 km Barbil-Bolanikhadan Project - Construction World",
@@ -31,21 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 18.8
-    },
-    {
-      "title": "Aurobindo launches dermatitis drug Adquey in US; new division to support ramp-up - ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTGpCQ292Rmc3bFFqc1o2d3VlbFRvUjNWMk13ejRkNUhsakxER21UamJtWmx4ZjRMdlRvSXFDc1h2WnBmMWo5ZEN4UVM4ZlJxNGVnOFdIRnl0M0FuODRtX25BMHdaaTRjOWlfS2pMTFJjZDBGeUpkdndUSEZ0U3oyWFctQk9tWGdLcDA1M2tJVzdsbXdLMWY4NkJpOGVhV3R0UW1seXQ1SDNMM19aZWJqTWdSRzBObFZlNlQ5Sm9fbkgxZllhR3c2SDBKcllXcW1MbkVrdEI3NFdULWtIaWpnZTdzN1Z3WUxPTTFjT2JZdUF6OF9rU0JEOGl5R3lhX1nSAf8BQVVfeXFMT0xqQkNvdkZnN2xRanNaNnd1ZWxUb1IzVjJNd3o0ZDVIbGpMREdtVGpibVpseGY0THZUb0lxQ3NYdlpwZjFqOWRDeFFTOGZScTRlZzhXSEZ5dDNBbjg0bV9uQTB3Wmk0YzlpX0tqTExSY2QwRnlKZHZ3VEhGdFN6MlhXLUJPbVhnS3AwNTNrSVc3bG13SzFmODZCaThlYVd0dFFtbHl0NUgzTDNfWmViak1nUkcwTmxWZTZUOUpvX25IMWZZYUd3NkgwSnJZV3FtTG5Fa3RCNzRXVC1rSGlqZ2U3czdWd1lMT00xY09iWXVBejhfa1NCRDhpeUd5YV9Z?oc=5",
-      "published": "Thu, 01 Oct 2026 06:55:54 GMT",
-      "source": "ETPharma.com",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 21.5
+      "freshness_hours": 19.8
     }
   ],
   "opportunities": [
@@ -395,5 +395,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-02T04:24:21.900208+00:00"
+  "landed_updated_utc": "2026-10-02T05:23:04.029228+00:00"
 }
