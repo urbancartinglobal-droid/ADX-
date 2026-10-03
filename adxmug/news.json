@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-03T15:06:38.638168+00:00",
+  "updated_utc": "2026-10-03T21:17:31.857391+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -8,9 +8,9 @@
   "opportunities": [
     {
       "industry": "Banking & Financials",
-      "score": 60,
-      "article_count": 4,
-      "trigger_count": 8,
+      "score": 70,
+      "article_count": 5,
+      "trigger_count": 9,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -24,6 +24,15 @@
           "triggers": [
             "POLICY",
             "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Despite RBI’s rate cuts, NBFCs continue to face funding constraints - The New Indian Express",
+          "source": "The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeElaTkRESUQzdFBrcFNUYlg3QnBwMzI2aHBMQXlZSTdjaEZ6UkpWZmthMVBaaDNEUmd1Y2ZkSERBRWV3R0RYaW5za19GcGcyN2FHQXZ1Y3lGQ3ZNZUM3T1FFcFA1WEh2Znc2UXAzeVZRM1NHalFFQ0xGeXdfR1YtOFNRZ0owdG5SNlhpTVhLUDRCcExwdTV6T25Ba3J2dmZ0U2owTzV3RlJwMzZoT1U4WFZ2aWo5SVVZOWRoc2JyNE9MRUItTDJJWm1NQ3HSAdoBQVVfeXFMTmcwb2t5YlhERHh3bWF3RnZRc25WT2xibjRMdHo4UDZ3MzBBS0tBSS1weXJIZHVpd0p6WGpQTWJFNURlaUhpRUNfSHVmV2lwb3d2TW9yeUxZUld6aTFLZEhQbVBqNVJfRU5tNHRzTTZjRlREb3BTNjExUnpBd1ZhZVpkM3lTeTRhRVhBd25kNE41dFAwX1Z4Z0FDTW1iSU5DajNYTG9KM3EzQnNZZTFLYXM3MkZ4dkRoVHpOY1MybFhBUTZQeXNyM3hVSGpZbXlWVmFQVXVmWnRITVE?oc=5",
+          "triggers": [
+            "POLICY"
           ],
           "companies": []
         },
@@ -58,11 +67,11 @@
           "companies": []
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
-      "source_count": 3,
-      "story_clusters": 4,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 4 independent sources.",
+      "source_count": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -73,15 +82,26 @@
     },
     {
       "industry": "Sugar & Ethanol",
-      "score": 55,
-      "article_count": 3,
-      "trigger_count": 6,
+      "score": 60,
+      "article_count": 4,
+      "trigger_count": 9,
       "triggers": [
         "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
+        {
+          "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNUd3ZCVHIxWmxiYTVqZkg2QVZNZTkycXVObXFldGxtMDNjZnZXb3I2RUdhUnZ3ckhZMDVlUTBTMU1wMWdXZWFyQnEtZkhwaWU1Y2F2d2Nua2VqNkpkVjNOeV9yUjJuMmcwX1ZTRE9lLUpPNldzY2JKUUJwczZGVWN0NW93ZmhvT29pUVhfeHNlTW1KOWlwb01OVkFNMjRCRWJVUzdR?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
         {
           "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
           "source": "A2Z Taxcorp LLP",
@@ -115,9 +135,9 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 3 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 3,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -334,6 +354,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-03T18:39:37.657377+00:00"
+  ]
 }
