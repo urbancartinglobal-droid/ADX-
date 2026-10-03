@@ -1,118 +1,11 @@
 {
-  "updated_utc": "2026-10-03T06:44:18.461301+00:00",
+  "updated_utc": "2026-10-03T15:06:38.638168+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
-      "published": "Sat, 03 Oct 2026 13:16:45 GMT",
-      "source": "scanx.trade",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 1.4
-    },
-    {
-      "title": "Weekly Defence Dispatch: India readies the Chicken's Neck for a war that opens with missiles, Pakistan's pr... - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQa3NJSG9qNTlnTkJQU1ZDTzJaMGxsRUNJLW1MXzNYTGRNQkd3MGRhd3lmRE94ZjZPNlRhQUJJMjluaVQ0djZfcXpnRUVtQWJMMm9wMi1jVG1UNlVEVFIwcGxIb3h6X1BlczlHcW16bmMwZnlPU053eGZIVGNSeFNwZTdPWVdRV2FwdGNEMG5pLTlFempiSGItTnl1RmpLNk55UExtMl95c1hiWVRhbzgwSlpxNlhVVjRfMXdNd0YybXdVeV9QNHE3RV9ibHlRczdMalNBbWdSWE81Tk1ScE5TM2p3YS1TTXJJTzh4VVRKLXpPV095MGlyV3lHdm9uNjNuNHduOTZOYy1xRTDSAZACQVVfeXFMT0dOOXJDRjhmRDFZWVNva0ZlR2tIQTdxZWRWY2dkcndOQWZoZnVNWGJJYV9TVkx2TS1YcU8wNUp3RV8xSXBSTVBSZUFMXzVIMU96YVlLWWVsOV96NWNFUXhNam1kb1lmdUdVOHotb0dqb0V0R0dBS3lua0NBbmNkcXVoOW1lM3lyeUxvb3NqTURadnlRb0ROU2M1a2RSb3VlcUZpZTlQUGM4R3QtYWxwZDA0azQ5M2JwZGxuUWl5Um1aaTBreE54N2UxWjVFS0Z3b3Y2dEx1UmhVX2s1Q1pfR01EVHVxODlRXzVaRFZoMVd2TGtpem9VUS1Yamx3TXpyQXRUS1hHVVppWGtlMWI5TVg?oc=5",
-      "published": "Sat, 03 Oct 2026 08:18:35 GMT",
-      "source": "Firstpost",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 6.4
-    },
-    {
-      "title": "India's forex reserves fall $18.3 bn, post biggest weekly decline on record - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdElNQ2RGVUFSSWllYVpUTElFd1NPME5EYlFfVzdhU204MjNETXVWUUlQb3gyTzNxUmoyWDVEQWU2TndfNU5QUEFxYUIwS3NGLVNtVUdhQjhfYWlTZTQ1dFNyQ1hwbjh2VXROaGhCdm1BczRTZUNhSl95WGpLeXh4Z1BrR3FaR21IaGtGeWJkNnAxMHFTRU5zQ2Rac21OQjN1SXF4QjdqbUpYVngtM253Z0thM29xMVNpSzA1TGpCbWZRRjVfSkVaMzQxdTh2YjFhdmRRMnhBVdIB3AFBVV95cUxOOHpCQWE3MEdsLXJpelM4Z01KWEZlLVY5LXpYdDJLdElJakU0RFRUZ1ZzbnM4WWJLckFva0tuWUVZMGlwSDBtaGVhbGVfR0pCZGc2M0JkemFPN0t3RGFMMXd1akRRd1lwLWg3ZUYxUU9wNnFzUVhmNFREUF9kWElHNHEwQXo0a1JsOXBmZXdBQXJ2Qm9UWDVuU1dCUEtXWmFXelMxTVhUaUh3S1A1YjBBUXFLTEFNQzJ2WWhuU2VSQnFwTjlGb0lxaTZkWThkLUJNVE1LTnJXaWdOa295?oc=5",
-      "published": "Fri, 02 Oct 2026 15:14:22 GMT",
-      "source": "Business Standard",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 23.5
-    }
-  ],
+  "landed": [],
   "opportunities": [
-    {
-      "industry": "Sugar & Ethanol",
-      "score": 66,
-      "article_count": 4,
-      "trigger_count": 7,
-      "triggers": [
-        "POLICY",
-        "PRICING",
-        "TRADE"
-      ],
-      "evidence": [
-        {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - a2ztaxcorp.net",
-          "source": "a2ztaxcorp.net",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - chinimandi.com",
-          "source": "chinimandi.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGQ3TUdxMHk0dk0wY2piWUs5SkNIdGZ6NlloRUZuUE1XYldUT1JLRUpFSzR5UW85MWFsbjI2UTd5bG4wZGx4dW9TT3d2NEZYX1VTRkl0SUdjZ05qcGtod1NWakFGaG1BUmdPNlJsWVdqaFVXdGxRT0NTQlR4NUZtcTdKajU4V2xZMjVXUkJ1bzU?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVIzVVlXNzk5VkREeFUzTm9NczlXSUU3WjRsbGdGdnI0RTJ4R0Q3QWJuTmt5UVZLUTdiWktsQjV6OFQwRkY2SW45bE14b3dKMVFNd3JsV1Y3b2pLRzNtQS1tZFVzcFp0UUhMZkNDcld3TWZ0Sng4aXByQ3VNUmt1MXdKM2VPVVhzNmRmaV9pT3dLQmkzQm9NVl94VmpPa09LMHdGY0dpdUpZZHd2WS1VV3ppbHBnaHM4RFlJMnVFVXJOWWhjbnZFNU05aHZGYUJLdExwMTRpMHJkOTlnTy1KZjZMQmJwZ9IB6wFBVV95cUxOSzZtU05qNHQzS0RkdnVzeE5NOHREMWc4SVFCMGJGOGlVSFpkOUF6WFdjUFVwcUloM3BNS21WMWFtR0tldlFLd1RtVF9KdFN4eXgzdXkwZ2o2aVRpZ0pfLWc1X29RU1ZNcXo1VUdtLUhnUVIzbUkxMk1CQTZMMkJ3V3FIcVZPNnB5Y2hGR2lhdzVJVURSN1BPakduVDNYeGFJMHJETjNRZGdKbzRVUWxQd0U2akduaEpJSEk3cE9ZTFczQ1NPanM4NlNMS2FmeEdpTkdBdVRrWEdBMENWWEZjRlgzUEtaSkpPM1dn?oc=5",
-          "triggers": [
-            "TRADE"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "high",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 4 independent sources.",
-      "source_count": 4,
-      "story_clusters": 4,
-      "companies": [],
-      "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations.",
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
     {
       "industry": "Banking & Financials",
       "score": 60,
@@ -170,6 +63,61 @@
       "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
       "source_count": 3,
       "story_clusters": 4,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations.",
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Sugar & Ethanol",
+      "score": 55,
+      "article_count": 3,
+      "trigger_count": 6,
+      "triggers": [
+        "POLICY",
+        "PRICING",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGQ3TUdxMHk0dk0wY2piWUs5SkNIdGZ6NlloRUZuUE1XYldUT1JLRUpFSzR5UW85MWFsbjI2UTd5bG4wZGx4dW9TT3d2NEZYX1VTRkl0SUdjZ05qcGtod1NWakFGaG1BUmdPNlJsWVdqaFVXdGxRT0NTQlR4NUZtcTdKajU4V2xZMjVXUkJ1bzU?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 3 distinct story clusters; 3 independent sources.",
+      "source_count": 3,
+      "story_clusters": 3,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -386,6 +334,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-03T14:43:44.222431+00:00"
+  ]
 }
