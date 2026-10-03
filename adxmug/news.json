@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-10-03T00:36:16.961623+00:00",
+  "updated_utc": "2026-10-03T06:44:18.461301+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Dummy Silicon Wafers Market To 2035: Fab Expansion and Advanced Nodes Fuel Demand - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOblo0dUxzcDF5WEd5Z2Jzc0pEb1psb0U2MVA4aG1zT0pfM1ROLW90YXY1ejRjNjJYdEhVUG1mdzU5OXlBOXVTcDZIdGZyX1gxZUVjNzJFSnVMN3d6R21HNGlJaktsaHg1NzRJSjJvdkZDNnFhX0NxUU9FNElTM3F2MHhyTDV0ZXU1SEJJMkdVdWx2UzBDLS1ZOEVzaE9iUWNQR2d3Z1dtaGN4OVZzc2tILVVDMk14SHE3TnRRVUUteG96ZHc3S0tr?oc=5",
-      "published": "Fri, 02 Oct 2026 21:31:04 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 9.0
-    },
-    {
-      "title": "USFDA expands Camzyos approval to children with obstructive hypertrophic cardiomyopathy - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGsxc0w4c1d1REF6Y3NHTWZ4OE1LX1p1VDlXNm5VSDZRbzVXM1UyNGxvRlU0U3VSNVc0SXFVRGJueXdPN3Z4YXVCZ1VGemhHTEFzdGpkbTRMLVJhSUJPeW1KbEk0Z05Sb2lvb3dyYTZ6NkdTbmlLYU9aTmJEU2EzRkVQa3lBZlk2emtjOGNOZ2tZWlBiM0VxVElpc0JwTVRwU1FucmU3dWhpRUo2Qi1DYlMtcEdTNGljbWQ4M0hVQnh0RWY3NWU2RzJ2NNIB2gFBVV95cUxNSURXMFM4eFM4eGswVTNHOFF6TkpNb3dqZHhzNHhsRFZ0d09XNEFpRkhoN3JTcV92UU4zbW56Rk5zRGN6Z0xOWm54Zk9TaTF0cEpXMzF5QnJfRGtob3RiRDZwY2FwMlMwb1Q4Yk9IbnNsZmtvV09HZk1jTUIzMndGWjlsbEtEc0lMLS1LNEpEM2ZVYUxNUkh1M2RLdk9zTnFuZm9lTmYxZjZsWDFMX0htYUk5UmN1eGNQUVdJWVpPbUNTTC1DbjZYLUZoZ2swd2hGRWN2VzJwd1JaUQ?oc=5",
-      "published": "Fri, 02 Oct 2026 13:45:03 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 16.8
-    },
-    {
-      "title": "India's forex reserves fall $18.3 bn, post biggest weekly decline on record - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdElNQ2RGVUFSSWllYVpUTElFd1NPME5EYlFfVzdhU204MjNETXVWUUlQb3gyTzNxUmoyWDVEQWU2TndfNU5QUEFxYUIwS3NGLVNtVUdhQjhfYWlTZTQ1dFNyQ1hwbjh2VXROaGhCdm1BczRTZUNhSl95WGpLeXh4Z1BrR3FaR21IaGtGeWJkNnAxMHFTRU5zQ2Rac21OQjN1SXF4QjdqbUpYVngtM253Z0thM29xMVNpSzA1TGpCbWZRRjVfSkVaMzQxdTh2YjFhdmRRMnhBVdIB3AFBVV95cUxOOHpCQWE3MEdsLXJpelM4Z01KWEZlLVY5LXpYdDJLdElJakU0RFRUZ1ZzbnM4WWJLckFva0tuWUVZMGlwSDBtaGVhbGVfR0pCZGc2M0JkemFPN0t3RGFMMXd1akRRd1lwLWg3ZUYxUU9wNnFzUVhmNFREUF9kWElHNHEwQXo0a1JsOXBmZXdBQXJ2Qm9UWDVuU1dCUEtXWmFXelMxTVhUaUh3S1A1YjBBUXFLTEFNQzJ2WWhuU2VSQnFwTjlGb0lxaTZkWThkLUJNVE1LTnJXaWdOa295?oc=5",
-      "published": "Fri, 02 Oct 2026 15:14:22 GMT",
-      "source": "Business Standard",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -61,8 +18,8 @@
       ],
       "evidence": [
         {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-          "source": "A2Z Taxcorp LLP",
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - a2ztaxcorp.net",
+          "source": "a2ztaxcorp.net",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
           "triggers": [
             "POLICY",
@@ -71,8 +28,8 @@
           "companies": []
         },
         {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
-          "source": "ChiniMandi",
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - chinimandi.com",
+          "source": "chinimandi.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
           "triggers": [
             "POLICY",
@@ -91,8 +48,8 @@
           "companies": []
         },
         {
-          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - business-standard.com",
-          "source": "business-standard.com",
+          "title": "Govt announces incentive for mills exporting sugar, diverting it to ethanol - Business Standard",
+          "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVIzVVlXNzk5VkREeFUzTm9NczlXSUU3WjRsbGdGdnI0RTJ4R0Q3QWJuTmt5UVZLUTdiWktsQjV6OFQwRkY2SW45bE14b3dKMVFNd3JsV1Y3b2pLRzNtQS1tZFVzcFp0UUhMZkNDcld3TWZ0Sng4aXByQ3VNUmt1MXdKM2VPVVhzNmRmaV9pT3dLQmkzQm9NVl94VmpPa09LMHdGY0dpdUpZZHd2WS1VV3ppbHBnaHM4RFlJMnVFVXJOWWhjbnZFNU05aHZGYUJLdExwMTRpMHJkOTlnTy1KZjZMQmJwZ9IB6wFBVV95cUxOSzZtU05qNHQzS0RkdnVzeE5NOHREMWc4SVFCMGJGOGlVSFpkOUF6WFdjUFVwcUloM3BNS21WMWFtR0tldlFLd1RtVF9KdFN4eXgzdXkwZ2o2aVRpZ0pfLWc1X29RU1ZNcXo1VUdtLUhnUVIzbUkxMk1CQTZMMkJ3V3FIcVZPNnB5Y2hGR2lhdzVJVURSN1BPakduVDNYeGFJMHJETjNRZGdKbzRVUWxQd0U2akduaEpJSEk3cE9ZTFczQ1NPanM4NlNMS2FmeEdpTkdBdVRrWEdBMENWWEZjRlgzUEtaSkpPM1dn?oc=5",
           "triggers": [
             "TRADE"
@@ -135,8 +92,8 @@
           "companies": []
         },
         {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - business-standard.com",
-          "source": "business-standard.com",
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
+          "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
           "triggers": [
             "POLICY",
@@ -155,8 +112,8 @@
           "companies": []
         },
         {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - business-standard.com",
-          "source": "business-standard.com",
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
           "triggers": [
             "POLICY",
@@ -386,6 +343,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-03T06:30:04.586872+00:00"
+  ]
 }
