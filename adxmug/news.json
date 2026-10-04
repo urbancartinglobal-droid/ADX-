@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-10-04T05:55:19.875101+00:00",
+  "updated_utc": "2026-10-04T12:23:36.213825+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Turkmenistan Expands Air Defense with Chinese, Indian Systems - caspiannews.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGsyZlBpdlBOMFRoNkZEUmRXSHZNQ2lFVmJEX0ZleV9xVkhsNDlKc1A3SWU5RWtmNGN2NC0yMld1RTg4VGVCbFRKakZQZEJROUo3NXRmZlNCNWx0R1g1TnFaU0NMLUU5aFR5b0c4ZDU1YkQtVXBQaFhSRjVOd19Yb2hhM3VhaWtueERrZ1hsSnFsUUdCTWMyS3p4V3JFTHBWRTJKWWhHdGdFRW5wVFVF?oc=5",
-      "published": "Sun, 04 Oct 2026 01:44:10 GMT",
-      "source": "caspiannews.com",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 5.1
-    },
-    {
-      "title": "Aurobindo Pharma headquarters and Perampanel Tablets approved by the USFDA for epilepsy treatment. - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObFNUVjBhNTVCLWFWd2ItM2NsNS1TT3Q5TFRscHZ0MDlTZUwxNmpNNTlWcU91dUhJWHZhS3BMN0c2a1doSTQ0cFhCejFrU2NPeVF3WUpaUkhDN3BEekxYX3hMZUtOVE5leXJwRmpreUxaN282VmZnUlkwMkRYNjZKNU90UHBrb3p6cWZYalM1NGVXam9sN1d0Tk12Y3JUZ2FlQkFtV0ttZUxuak9KbFJNbEtBWXFRMEdOanBEUGdNSDduNFAxMm9qTkVFUUFobURlMzZYMzNNSUczT3kwRE5NdjEtOXVPX3c?oc=5",
-      "published": "Sat, 03 Oct 2026 12:41:59 GMT",
-      "source": "Business Upturn",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 18.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -57,8 +28,8 @@
           "companies": []
         },
         {
-          "title": "Despite RBI’s rate cuts, NBFCs continue to face funding constraints - newindianexpress.com",
-          "source": "newindianexpress.com",
+          "title": "Despite RBI’s rate cuts, NBFCs continue to face funding constraints - The New Indian Express",
+          "source": "The New Indian Express",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeElaTkRESUQzdFBrcFNUYlg3QnBwMzI2aHBMQXlZSTdjaEZ6UkpWZmthMVBaaDNEUmd1Y2ZkSERBRWV3R0RYaW5za19GcGcyN2FHQXZ1Y3lGQ3ZNZUM3T1FFcFA1WEh2Znc2UXAzeVZRM1NHalFFQ0xGeXdfR1YtOFNRZ0owdG5SNlhpTVhLUDRCcExwdTV6T25Ba3J2dmZ0U2owTzV3RlJwMzZoT1U4WFZ2aWo5SVVZOWRoc2JyNE9MRUItTDJJWm1NQ3HSAdoBQVVfeXFMTmcwb2t5YlhERHh3bWF3RnZRc25WT2xibjRMdHo4UDZ3MzBBS0tBSS1weXJIZHVpd0p6WGpQTWJFNURlaUhpRUNfSHVmV2lwb3d2TW9yeUxZUld6aTFLZEhQbVBqNVJfRU5tNHRzTTZjRlREb3BTNjExUnpBd1ZhZVpkM3lTeTRhRVhBd25kNE41dFAwX1Z4Z0FDTW1iSU5DajNYTG9KM3EzQnNZZTFLYXM3MkZ4dkRoVHpOY1MybFhBUTZQeXNyM3hVSGpZbXlWVmFQVXVmWnRITVE?oc=5",
           "triggers": [
             "POLICY"
@@ -111,9 +82,9 @@
     },
     {
       "industry": "Sugar & Ethanol",
-      "score": 60,
-      "article_count": 4,
-      "trigger_count": 9,
+      "score": 70,
+      "article_count": 5,
+      "trigger_count": 12,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -124,6 +95,17 @@
           "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
           "source": "ChiniMandi",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNUd3ZCVHIxWmxiYTVqZkg2QVZNZTkycXVObXFldGxtMDNjZnZXb3I2RUdhUnZ3ckhZMDVlUTBTMU1wMWdXZWFyQnEtZkhwaWU1Y2F2d2Nua2VqNkpkVjNOeV9yUjJuMmcwX1ZTRE9lLUpPNldzY2JKUUJwczZGVWN0NW93ZmhvT29pUVhfeHNlTW1KOWlwb01OVkFNMjRCRWJVUzdR?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - policycircle.org",
+          "source": "policycircle.org",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
           "triggers": [
             "POLICY",
             "TRADE",
@@ -162,11 +144,11 @@
           "companies": []
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
-      "source_count": 3,
-      "story_clusters": 4,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 4 independent sources.",
+      "source_count": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -383,6 +365,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-04T06:48:00.604766+00:00"
+  ]
 }
