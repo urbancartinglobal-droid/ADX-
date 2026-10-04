@@ -8,7 +8,7 @@
     {
       "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
-      "published": "Sun, 04 Oct 2026 02:19:10 GMT",
+      "published": "Sun, 04 Oct 2026 07:10:22 GMT",
       "source": "scanx.trade",
       "sector": "Pharma & Healthcare",
       "triggers": [
@@ -17,21 +17,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 10.8
-    },
-    {
-      "title": "RBI May Reverse Rate-Cut Cycle With 25 Bps Hike In October Policy: Economists - Times Now",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQllfQldhX0NqaTRjT1Q3SlpvWDh2VkFBU0hKMlhaS3gyaDlWd1F2WUt2SC01dHJZR1JndWdIVkg0Y2pmWHpzUHQ5d000OERYR2ZPRlNXTlBhbEVBbjFCaDVCcC1sTnE1dVp2TDlXZy03MEpQZTFDYm5tMUJLcDBZUkdjdE1JVTljVHRpRVdocEM4OU1GODd4SHlubXZDaDd5dXFOdzNuZjFQSldOSVNqLUtkVktFUFhQdElHTEs1SjdiSHphb0p6M19pN0dRbGZUcDlkNzdfSW0xWTRfSktNSzBR0gHnAUFVX3lxTE9tdW84Vi02ajJ3SXdHMmRCVEhNRGFldU50Q1ZyVFphRHkyZWZHY0pPM3AwenJkMkJSTTJYMGg2Z2Q3cHQzaXdISEZqYUg1ZWJsQmFCd2pvSjN2N0FMTWttNHc3di1nVnAyTl9pU2RmZVVVdUFqWUZjZm1WczhxMjBqNWRpaFQzX19FQ3lrRzk1QTB3cVNsRVMzNjJjZ1c0MXpxYVR4OENpaERERWoxdEVUMi12NFZZdTJLNWVkcUI1dExwc0daMF9TS0VwYzMwVjNmS2xuUXRUYjQ1Q0tucVNleUQyRmZoVQ?oc=5",
-      "published": "Sun, 04 Oct 2026 12:16:43 GMT",
-      "source": "Times Now",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
+      "freshness_hours": 10.9
     },
     {
       "title": "Turkmenistan Expands Air Defense with Chinese, Indian Systems - caspiannews.com",
@@ -45,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 11.4
+      "freshness_hours": 16.4
     }
   ],
   "opportunities": [
@@ -409,5 +395,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-04T13:09:39.975423+00:00"
+  "landed_updated_utc": "2026-10-04T18:07:06.739872+00:00"
 }
