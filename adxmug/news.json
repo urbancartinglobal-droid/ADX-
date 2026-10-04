@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Turkmenistan Expands Air Defense with Chinese, Indian Systems - caspiannews.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGsyZlBpdlBOMFRoNkZEUmRXSHZNQ2lFVmJEX0ZleV9xVkhsNDlKc1A3SWU5RWtmNGN2NC0yMld1RTg4VGVCbFRKakZQZEJROUo3NXRmZlNCNWx0R1g1TnFaU0NMLUU5aFR5b0c4ZDU1YkQtVXBQaFhSRjVOd19Yb2hhM3VhaWtueERrZ1hsSnFsUUdCTWMyS3p4V3JFTHBWRTJKWWhHdGdFRW5wVFVF?oc=5",
+      "published": "Sun, 04 Oct 2026 01:44:10 GMT",
+      "source": "caspiannews.com",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 5.1
+    },
+    {
+      "title": "Aurobindo Pharma headquarters and Perampanel Tablets approved by the USFDA for epilepsy treatment. - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObFNUVjBhNTVCLWFWd2ItM2NsNS1TT3Q5TFRscHZ0MDlTZUwxNmpNNTlWcU91dUhJWHZhS3BMN0c2a1doSTQ0cFhCejFrU2NPeVF3WUpaUkhDN3BEekxYX3hMZUtOVE5leXJwRmpreUxaN282VmZnUlkwMkRYNjZKNU90UHBrb3p6cWZYalM1NGVXam9sN1d0Tk12Y3JUZ2FlQkFtV0ttZUxuak9KbFJNbEtBWXFRMEdOanBEUGdNSDduNFAxMm9qTkVFUUFobURlMzZYMzNNSUczT3kwRE5NdjEtOXVPX3c?oc=5",
+      "published": "Sat, 03 Oct 2026 12:41:59 GMT",
+      "source": "Business Upturn",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 18.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -354,5 +383,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-04T06:48:00.604766+00:00"
 }
