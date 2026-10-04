@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Aurobindo Pharma headquarters and Perampanel Tablets approved by the USFDA for epilepsy treatment. - Business Upturn",
+      "title": "Aurobindo Pharma headquarters and Perampanel Tablets approved by the USFDA for epilepsy treatment. - businessupturn.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWTRlMEUtSHhNZjNWaXJyREhQaTBDREgxUlkyZnVCQjJEeFVQV1U2ZnZYekFOU19aNFlqV0FFT29WZmlvNmE5Nk5pV215UnE2V2huS29VYUVUbU8yWll4b3BReFNSWnJiLXJWYWdZVkRmMllVTGNYOWVKQ0lDLWl5Vy0yNnlrbUxPc2VTQ252MUloaHUwZ09CVG1odXh0VXNPQ0tGY0FZZEpSdVFsQ3dDVWFNNGo1V0tROWlOcHFOZ1NwQnowQlg4NlZ4ZkEzSXQwSFMzaUVhUW1sQ0M5eUJ5RTd3?oc=5",
       "published": "Sat, 03 Oct 2026 14:42:12 GMT",
-      "source": "Business Upturn",
+      "source": "businessupturn.com",
       "sector": "Pharma & Healthcare",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.4
+      "freshness_hours": 9.9
     },
     {
       "title": "Weekly Defence Dispatch: India readies the Chicken's Neck for a war that opens with missiles, Pakistan's pr... - Firstpost",
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 13.8
+      "freshness_hours": 16.3
     }
   ],
   "opportunities": [
@@ -384,5 +384,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-03T22:06:23.352771+00:00"
+  "landed_updated_utc": "2026-10-04T00:36:41.256513+00:00"
 }
