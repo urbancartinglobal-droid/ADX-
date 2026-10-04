@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-10-03T21:17:31.857391+00:00",
+  "updated_utc": "2026-10-04T05:55:19.875101+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Aurobindo Pharma headquarters and Perampanel Tablets approved by the USFDA for epilepsy treatment. - businessupturn.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWTRlMEUtSHhNZjNWaXJyREhQaTBDREgxUlkyZnVCQjJEeFVQV1U2ZnZYekFOU19aNFlqV0FFT29WZmlvNmE5Nk5pV215UnE2V2huS29VYUVUbU8yWll4b3BReFNSWnJiLXJWYWdZVkRmMllVTGNYOWVKQ0lDLWl5Vy0yNnlrbUxPc2VTQ252MUloaHUwZ09CVG1odXh0VXNPQ0tGY0FZZEpSdVFsQ3dDVWFNNGo1V0tROWlOcHFOZ1NwQnowQlg4NlZ4ZkEzSXQwSFMzaUVhUW1sQ0M5eUJ5RTd3?oc=5",
-      "published": "Sat, 03 Oct 2026 14:42:12 GMT",
-      "source": "businessupturn.com",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 9.9
-    },
-    {
-      "title": "Weekly Defence Dispatch: India readies the Chicken's Neck for a war that opens with missiles, Pakistan's pr... - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQa3NJSG9qNTlnTkJQU1ZDTzJaMGxsRUNJLW1MXzNYTGRNQkd3MGRhd3lmRE94ZjZPNlRhQUJJMjluaVQ0djZfcXpnRUVtQWJMMm9wMi1jVG1UNlVEVFIwcGxIb3h6X1BlczlHcW16bmMwZnlPU053eGZIVGNSeFNwZTdPWVdRV2FwdGNEMG5pLTlFempiSGItTnl1RmpLNk55UExtMl95c1hiWVRhbzgwSlpxNlhVVjRfMXdNd0YybXdVeV9QNHE3RV9ibHlRczdMalNBbWdSWE81Tk1ScE5TM2p3YS1TTXJJTzh4VVRKLXpPV095MGlyV3lHdm9uNjNuNHduOTZOYy1xRTDSAZACQVVfeXFMT0dOOXJDRjhmRDFZWVNva0ZlR2tIQTdxZWRWY2dkcndOQWZoZnVNWGJJYV9TVkx2TS1YcU8wNUp3RV8xSXBSTVBSZUFMXzVIMU96YVlLWWVsOV96NWNFUXhNam1kb1lmdUdVOHotb0dqb0V0R0dBS3lua0NBbmNkcXVoOW1lM3lyeUxvb3NqTURadnlRb0ROU2M1a2RSb3VlcUZpZTlQUGM4R3QtYWxwZDA0azQ5M2JwZGxuUWl5Um1aaTBreE54N2UxWjVFS0Z3b3Y2dEx1UmhVX2s1Q1pfR01EVHVxODlRXzVaRFZoMVd2TGtpem9VUS1Yamx3TXpyQXRUS1hHVVppWGtlMWI5TVg?oc=5",
-      "published": "Sat, 03 Oct 2026 08:18:35 GMT",
-      "source": "Firstpost",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 16.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -57,8 +28,8 @@
           "companies": []
         },
         {
-          "title": "Despite RBI’s rate cuts, NBFCs continue to face funding constraints - The New Indian Express",
-          "source": "The New Indian Express",
+          "title": "Despite RBI’s rate cuts, NBFCs continue to face funding constraints - newindianexpress.com",
+          "source": "newindianexpress.com",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeElaTkRESUQzdFBrcFNUYlg3QnBwMzI2aHBMQXlZSTdjaEZ6UkpWZmthMVBaaDNEUmd1Y2ZkSERBRWV3R0RYaW5za19GcGcyN2FHQXZ1Y3lGQ3ZNZUM3T1FFcFA1WEh2Znc2UXAzeVZRM1NHalFFQ0xGeXdfR1YtOFNRZ0owdG5SNlhpTVhLUDRCcExwdTV6T25Ba3J2dmZ0U2owTzV3RlJwMzZoT1U4WFZ2aWo5SVVZOWRoc2JyNE9MRUItTDJJWm1NQ3HSAdoBQVVfeXFMTmcwb2t5YlhERHh3bWF3RnZRc25WT2xibjRMdHo4UDZ3MzBBS0tBSS1weXJIZHVpd0p6WGpQTWJFNURlaUhpRUNfSHVmV2lwb3d2TW9yeUxZUld6aTFLZEhQbVBqNVJfRU5tNHRzTTZjRlREb3BTNjExUnpBd1ZhZVpkM3lTeTRhRVhBd25kNE41dFAwX1Z4Z0FDTW1iSU5DajNYTG9KM3EzQnNZZTFLYXM3MkZ4dkRoVHpOY1MybFhBUTZQeXNyM3hVSGpZbXlWVmFQVXVmWnRITVE?oc=5",
           "triggers": [
             "POLICY"
@@ -383,6 +354,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-04T00:36:41.256513+00:00"
+  ]
 }
