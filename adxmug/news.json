@@ -17,13 +17,13 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 7.4
+      "freshness_hours": 14.0
     },
     {
-      "title": "RBI absorbs ₹2.10 trillion via VRRR auctions amid surplus liquidity - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFRUMmY5V2JmbjFObUZHaUY4bjlXRll5aGtlZVN5eWh2TTh0Y2o2UGc0ZDUyMnlTWV9kWFVJT1hsQ0Rxd3RWWEVnTmxvckUxZmxJOWw0TC1DNkw3RVU2YVdCYWNEeFJwem5ZTWxOTVp4RHBtRGl4VEVXZDEyQjZDZnZJUVFBcE8yRGJFMWhpbFhQRi1hOHlKbEVINHRXd0U0VUhrSHhFR2dZOW54eGlERTJQMHp2NGJKekVpUGdGcEtfSTNMMWxYaHlBRkRFVm5POWJZ0gHTAUFVX3lxTE1EVFQyZjlXYmZuMU5tRkdpRjhuOVdGWXloa2VlU3l5aHZNOHRjajZQZzRkNTIyeVNZX2RYVUlPWGxDRHF3dFZYRWdObG9yRTFmbEk5bDRMLUM2TDdFVTZhV0JhY0R4UnB6bllNbE5NWnhEcG1EaXhURVdkMTJCNkNmdklRUUFwTzJEYkUxaGlsWFBGLWE4eUpsRUg0dFd3RTRVSGtIeEVHZ1k5bnh4aURFMlAwenY0Ykp6RWlQZ0ZwS19JM0wxbFhoeUFGREVWbk85Ylk?oc=5",
-      "published": "Mon, 05 Oct 2026 09:32:19 GMT",
-      "source": "Business Standard",
+      "title": "RBI absorbs Rs 2.1 lakh crore via overnight VRRR auctions amid surplus banking system liquidity - lokmattimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXNCYVhod2RmeGJ4RXIyX2JXMDNONXlreWZ0WHJjeW9Ba1NvRDQ0dU5rYWY3dmlPTHl5cmhJa244OGMyU0dtZlVDakczN2YxYzZjU3dKU2NOcG10RUxUZmFEWlZlNGZ3TWhKUFIwVm1pTTVJWlgtZ2paRWNwQWxMZ1ptWmQtV21XU0U4bjRPMmJzbDhTOF84Zm80bmM1TUplNEdDTDR1LTh4TE5MRHdvYzd4c3lHMDE2TjFNaW1nSDY4NFdOR28tYTZQTHpKdjBOQlHSAdIBQVVfeXFMTTFzQmFYaHdkZnhieEVyMl9iVzAzTjV5a3lmdFhyY3lvQWtTb0Q0NHVOa2FmN3ZpT0x5eXJoSWtuODhjMlNHbWZVQ2pHMzdmMWM2Y1N3SlNjTnBtdEVMVGZhRFpWZTRmd01oSlBSMFZtaU01SVpYLWdqWkVjcEFsTGdabVpkLVdtV1NFOG40TzJic2w4UzhfOGZvNG5jNU1KZTRHQ0w0dS04eExOTER3b2M3eHN5RzAxNk4xTWltZ0g2ODRXTkdvLWE2UEx6SnYwTkJR?oc=5",
+      "published": "Mon, 05 Oct 2026 15:13:50 GMT",
+      "source": "lokmattimes.com",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.4
+      "freshness_hours": 7.4
     },
     {
       "title": "Aurobindo Pharma rises on getting USFDA`s final nod to manufacture, market Perampanel tablets - Investment Guru India",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 10.6
+      "freshness_hours": 17.3
     }
   ],
   "opportunities": [
@@ -384,5 +384,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-05T15:56:16.216714+00:00"
+  "landed_updated_utc": "2026-10-05T22:34:58.568437+00:00"
 }
