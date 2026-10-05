@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Siemens Energy India Appoints Ajay Jain As Execution Head For Grid Technologies Transformers - Sahi",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYnV0bi02VjhJdVJDVjBJOTVxcUNOdEZSOFVMenhNYXBlY1hRN3BLVXJiMGgxMWdNWURVWE9YbXhTVzkzZC1fSFJjSW4xSmhQOG52R2FKSnJvNHBwendxUUZzWVU2MnlMWGpySWN4VDF4TzEzdlFwM0pRWmluVS1lVmtXM3lTN2ZZalBDZXNHR3l6YVFpcW5fQXRwU0VSUi0yT1ROR3BxcjZoTEVUWFpGOVJzUjJtcGxKSUE?oc=5",
+      "published": "Mon, 05 Oct 2026 05:31:43 GMT",
+      "source": "Sahi",
+      "sector": "Power & Grid",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
+      "freshness_hours": 1.4
+    },
+    {
+      "title": "India's bond yield curve poised to flatten as RBI drains surplus cash - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOHV3aUEwSkVJbHYyTGYxaHNYaTc2amVwbDhPdk00LWtRdk9JT3o2aWI2WGZidUltbm12QmFMcWpfQ3B6XzhQZXZNeERFV3dua0tUQk1ZTkZyQ1kyaUVIUEZ1WlpqczZuQzdqcDB6clhsUk9jNmN1OU1jUjdSTFM3TWx0VERucXRSWm1RWTRKZloxdDNrenRRMG5XQ3M0em9fN0FUaDl1Ty1SS29JS2hlXzNEaHk3VkJmX1l0eU9BT2k1M1JGLTlrdm1Pc1BaTkcxeUNwTkRTWdIB1wFBVV95cUxPOHV3aUEwSkVJbHYyTGYxaHNYaTc2amVwbDhPdk00LWtRdk9JT3o2aWI2WGZidUltbm12QmFMcWpfQ3B6XzhQZXZNeERFV3dua0tUQk1ZTkZyQ1kyaUVIUEZ1WlpqczZuQzdqcDB6clhsUk9jNmN1OU1jUjdSTFM3TWx0VERucXRSWm1RWTRKZloxdDNrenRRMG5XQ3M0em9fN0FUaDl1Ty1SS29JS2hlXzNEaHk3VkJmX1l0eU9BT2k1M1JGLTlrdm1Pc1BaTkcxeUNwTkRTWQ?oc=5",
+      "published": "Mon, 05 Oct 2026 03:18:55 GMT",
+      "source": "Business Standard",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 3.6
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -354,5 +383,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-05T06:57:21.854432+00:00"
 }
