@@ -1,119 +1,16 @@
 {
-  "updated_utc": "2026-10-05T05:43:14.819363+00:00",
+  "updated_utc": "2026-10-05T14:42:36.213178+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Siemens Energy India Appoints Ajay Jain As Execution Head For Grid Technologies Transformers - Sahi",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYnV0bi02VjhJdVJDVjBJOTVxcUNOdEZSOFVMenhNYXBlY1hRN3BLVXJiMGgxMWdNWURVWE9YbXhTVzkzZC1fSFJjSW4xSmhQOG52R2FKSnJvNHBwendxUUZzWVU2MnlMWGpySWN4VDF4TzEzdlFwM0pRWmluVS1lVmtXM3lTN2ZZalBDZXNHR3l6YVFpcW5fQXRwU0VSUi0yT1ROR3BxcjZoTEVUWFpGOVJzUjJtcGxKSUE?oc=5",
-      "published": "Mon, 05 Oct 2026 05:31:43 GMT",
-      "source": "Sahi",
-      "sector": "Power & Grid",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 1.4
-    },
-    {
-      "title": "India's bond yield curve poised to flatten as RBI drains surplus cash - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOHV3aUEwSkVJbHYyTGYxaHNYaTc2amVwbDhPdk00LWtRdk9JT3o2aWI2WGZidUltbm12QmFMcWpfQ3B6XzhQZXZNeERFV3dua0tUQk1ZTkZyQ1kyaUVIUEZ1WlpqczZuQzdqcDB6clhsUk9jNmN1OU1jUjdSTFM3TWx0VERucXRSWm1RWTRKZloxdDNrenRRMG5XQ3M0em9fN0FUaDl1Ty1SS29JS2hlXzNEaHk3VkJmX1l0eU9BT2k1M1JGLTlrdm1Pc1BaTkcxeUNwTkRTWdIB1wFBVV95cUxPOHV3aUEwSkVJbHYyTGYxaHNYaTc2amVwbDhPdk00LWtRdk9JT3o2aWI2WGZidUltbm12QmFMcWpfQ3B6XzhQZXZNeERFV3dua0tUQk1ZTkZyQ1kyaUVIUEZ1WlpqczZuQzdqcDB6clhsUk9jNmN1OU1jUjdSTFM3TWx0VERucXRSWm1RWTRKZloxdDNrenRRMG5XQ3M0em9fN0FUaDl1Ty1SS29JS2hlXzNEaHk3VkJmX1l0eU9BT2k1M1JGLTlrdm1Pc1BaTkcxeUNwTkRTWQ?oc=5",
-      "published": "Mon, 05 Oct 2026 03:18:55 GMT",
-      "source": "Business Standard",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.6
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
-      "industry": "Banking & Financials",
-      "score": 70,
-      "article_count": 6,
-      "trigger_count": 11,
-      "triggers": [
-        "POLICY",
-        "PRICING",
-        "TRADE"
-      ],
-      "evidence": [
-        {
-          "title": "RBI liquidity boost cuts wholesale funding costs, but banks remain locked in deposit battle - bfsi.economictimes.indiatimes.com",
-          "source": "bfsi.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVUQzhPcVlRMHVrcU9MS0xFUGdteVpyd21JVFoxSGhRdWJQdnEyZHJXTlZVYV9jMWVoU2ppSzNDUDFPUzl6cUoxdm4yeGVVVnlfTjdId2l4cTFOR1B4WFdNemFabEctNEZ4a1FReEtSSGc0aExOUHpRc2I5RWxIUjh5LS1XSU9kSURiV0dydFFDdlczdmZkMDZFNV9oNU5mSjNrMy1zdUdkOWp6Z1dLLU1GRGxzSEpOOGxzUDFuYW1uM1nSAcgBQVVfeXFMT2ZLQm1rdWctbml2ekZxZjJCc1ZSVnBSTTMxU2hpeUUyRGp3OWJOT1hPMTlxcW1nTUpOVFMwMVRsWm5EeGI5N2NLNU1jVkFfRjNfOTlnWnkyS2J0a1lYRWs4VHM4QWFEdFFEYnpYY0YxQTU1ZjR6NzdVUFdnWVh6NzFmd2FXUmhaQU5hdFJwMG96a0hkSXQ0cG16R0hkdVhnRDktZ01aT3dZd0FEbnJiYThjbjBQRlRwYmJid0lQOWw0dktQbnpnVUk?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Despite RBI’s rate cuts, NBFCs continue to face funding constraints - newindianexpress.com",
-          "source": "newindianexpress.com",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeElaTkRESUQzdFBrcFNUYlg3QnBwMzI2aHBMQXlZSTdjaEZ6UkpWZmthMVBaaDNEUmd1Y2ZkSERBRWV3R0RYaW5za19GcGcyN2FHQXZ1Y3lGQ3ZNZUM3T1FFcFA1WEh2Znc2UXAzeVZRM1NHalFFQ0xGeXdfR1YtOFNRZ0owdG5SNlhpTVhLUDRCcExwdTV6T25Ba3J2dmZ0U2owTzV3RlJwMzZoT1U4WFZ2aWo5SVVZOWRoc2JyNE9MRUItTDJJWm1NQ3HSAdoBQVVfeXFMTmcwb2t5YlhERHh3bWF3RnZRc25WT2xibjRMdHo4UDZ3MzBBS0tBSS1weXJIZHVpd0p6WGpQTWJFNURlaUhpRUNfSHVmV2lwb3d2TW9yeUxZUld6aTFLZEhQbVBqNVJfRU5tNHRzTTZjRlREb3BTNjExUnpBd1ZhZVpkM3lTeTRhRVhBd25kNE41dFAwX1Z4Z0FDTW1iSU5DajNYTG9KM3EzQnNZZTFLYXM3MkZ4dkRoVHpOY1MybFhBUTZQeXNyM3hVSGpZbXlWVmFQVXVmWnRITVE?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "high",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 4 independent sources.",
-      "source_count": 4,
-      "story_clusters": 6,
-      "companies": [],
-      "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations.",
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Sugar & Ethanol",
-      "score": 70,
-      "article_count": 5,
-      "trigger_count": 12,
+      "score": 76,
+      "article_count": 6,
+      "trigger_count": 13,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -164,11 +61,85 @@
           "companies": []
         },
         {
-          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGQ3TUdxMHk0dk0wY2piWUs5SkNIdGZ6NlloRUZuUE1XYldUT1JLRUpFSzR5UW85MWFsbjI2UTd5bG4wZGx4dW9TT3d2NEZYX1VTRkl0SUdjZ05qcGtod1NWakFGaG1BUmdPNlJsWVdqaFVXdGxRT0NTQlR4NUZtcTdKajU4V2xZMjVXUkJ1bzU?oc=5",
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
+          "triggers": [
+            "TRADE"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "high",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 5 independent sources.",
+      "source_count": 5,
+      "story_clusters": 6,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations.",
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Banking & Financials",
+      "score": 70,
+      "article_count": 5,
+      "trigger_count": 9,
+      "triggers": [
+        "POLICY",
+        "PRICING",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "RBI liquidity boost cuts wholesale funding costs, but banks remain locked in deposit battle - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVUQzhPcVlRMHVrcU9MS0xFUGdteVpyd21JVFoxSGhRdWJQdnEyZHJXTlZVYV9jMWVoU2ppSzNDUDFPUzl6cUoxdm4yeGVVVnlfTjdId2l4cTFOR1B4WFdNemFabEctNEZ4a1FReEtSSGc0aExOUHpRc2I5RWxIUjh5LS1XSU9kSURiV0dydFFDdlczdmZkMDZFNV9oNU5mSjNrMy1zdUdkOWp6Z1dLLU1GRGxzSEpOOGxzUDFuYW1uM1nSAcgBQVVfeXFMT2ZLQm1rdWctbml2ekZxZjJCc1ZSVnBSTTMxU2hpeUUyRGp3OWJOT1hPMTlxcW1nTUpOVFMwMVRsWm5EeGI5N2NLNU1jVkFfRjNfOTlnWnkyS2J0a1lYRWs4VHM4QWFEdFFEYnpYY0YxQTU1ZjR6NzdVUFdnWVh6NzFmd2FXUmhaQU5hdFJwMG96a0hkSXQ0cG16R0hkdVhnRDktZ01aT3dZd0FEbnJiYThjbjBQRlRwYmJid0lQOWw0dktQbnpnVUk?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Despite RBI’s rate cuts, NBFCs continue to face funding constraints - The New Indian Express",
+          "source": "The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeElaTkRESUQzdFBrcFNUYlg3QnBwMzI2aHBMQXlZSTdjaEZ6UkpWZmthMVBaaDNEUmd1Y2ZkSERBRWV3R0RYaW5za19GcGcyN2FHQXZ1Y3lGQ3ZNZUM3T1FFcFA1WEh2Znc2UXAzeVZRM1NHalFFQ0xGeXdfR1YtOFNRZ0owdG5SNlhpTVhLUDRCcExwdTV6T25Ba3J2dmZ0U2owTzV3RlJwMzZoT1U4WFZ2aWo5SVVZOWRoc2JyNE9MRUItTDJJWm1NQ3HSAdoBQVVfeXFMTmcwb2t5YlhERHh3bWF3RnZRc25WT2xibjRMdHo4UDZ3MzBBS0tBSS1weXJIZHVpd0p6WGpQTWJFNURlaUhpRUNfSHVmV2lwb3d2TW9yeUxZUld6aTFLZEhQbVBqNVJfRU5tNHRzTTZjRlREb3BTNjExUnpBd1ZhZVpkM3lTeTRhRVhBd25kNE41dFAwX1Z4Z0FDTW1iSU5DajNYTG9KM3EzQnNZZTFLYXM3MkZ4dkRoVHpOY1MybFhBUTZQeXNyM3hVSGpZbXlWVmFQVXVmWnRITVE?oc=5",
           "triggers": [
             "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
           ],
           "companies": []
         }
@@ -267,39 +238,9 @@
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - india-briefing.com",
-          "source": "india-briefing.com",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Chemicals & Materials",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "U.S. Chemical Investments Shift Amid Fertilizer Crisis - Industrial Info",
-          "source": "Industrial Info",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEVyc1ctU29CaVBaVm94Rkc2dExJbFRQYV9vcGRjclM0Qjljemw1VDZ5VzNSalEwR21jbUJVd1VWX3dxSjl4NWQ1MmFNNVAtNmFqdno3WkpMRUZMZ2xXQ01iOXpHaXdRdnp4dVFSQ0Y4ZDdYVkRxQkQ5dFNsaGRTRDdhcDlZdU1Qak8zT1dSM2pFUnhGTFVZTkhiRnVIRW9oU05JUzRDWQ?oc=5",
           "triggers": [
             "CAPEX"
           ],
@@ -382,7 +323,22 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Chemicals & Materials",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-05T06:57:21.854432+00:00"
+  ]
 }
