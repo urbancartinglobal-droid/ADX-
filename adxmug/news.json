@@ -4,7 +4,22 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "'U.S Military Will Fail If Canada...': Trump Gets Brutal Golden Dome Reality Check Amid Tariff War - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZkZpUXR6QVFTYUY0MzNQd3ZsMjZUckFpNldnMDRWZ2pncDg1RVZKWXFhbXhCYTl0UG0yVnhWT3ZhZXR4VkhDOW1lUEI3dXpObV9KMG9pVENKbWJXbWpoWktJUlo0anpWWmhwWUVCaXhFdkxRMERRZm9yb0NqejRPSFZVM3Q2bW1FX3ctSVlUMFVBeWtZNkJOdFZobWRSUWVSQTRZdlpTSF9KR2swUE8yLW5HZjhIOXNadGN4TTBIOVg2NmN5dFVBcU5CRDJfTV9ZTUp1ekMtam5qeVRFMzFTY0lwbmpmcVlpR3BMWEhBN0VtRlRyWkt2NV9feG9mM2hFOTdz0gGIAkFVX3lxTE44Mi1YaGtMQjhiemkxV3pWMkZjNjBqNWVwRUNJWTloaXpvZFBCRE0xX0xvMWR5RTA2X2ROcFViQ3JlVkdmYjhjLVFCeThMeGdlM1d0ZGZrUHRJcFUxUG01a2U2MG1Zb0xfSWUxU3hrbENIOVFNSWJaR0ltOWt1QU5PendzenV3UTZLSVhfaVdmLWpSaGdRaTJIWUVHRU93U1JUZXFUblh6ejRyR0tvdUZWaUJuS0w2S096MzV6SUtwbmJ0TWEwcHk2VzJnTnhtMGdDM2d0bHp5QVFmSUNzSmZMWWdXRlJwWXFaNTNPQnc4NEs5Tk90YzA0bzJRc1c3eDN5eHdvMFZ5WA?oc=5",
+      "published": "Mon, 05 Oct 2026 00:04:03 GMT",
+      "source": "The Times of India",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 0.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -354,5 +369,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-05T00:51:21.367776+00:00"
 }
