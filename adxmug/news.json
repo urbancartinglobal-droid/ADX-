@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "NATO expands air defence mission to counter aircraft, drones and missiles through integrated forces and rotational deployments - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMEJpSmVYWDFHcGNNNG9sWmhNRUlPU0tIM05TOEJzWGxlVFMzX190VlJhek9rcldFMGNkMUU0NzVocU9xcDZzNDc2VjlGdWNxV1VlMUFSbHlNZlNaTnk4R2xzQmZkUjNIVG9SOGl4aTlqRFdmLUtuT0tLVHRiUDlyVmF3M3hrenloblZ2NFdIaHVrdi1DLVBHc2NveTZYRTh6T1Z6UHh5QnhVb0I0dUpRMVNxMGJfSnB6QUV4QW9weDY0R0tKSXlzZlR0YWtJb2dreURTbkU1MTJXcTlTSnN2a3Z1U0dKbUVkcGc?oc=5",
+      "published": "Mon, 05 Oct 2026 08:35:07 GMT",
+      "source": "Defence Industry Europe",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 18.3
+    },
+    {
+      "title": "RBI absorbs Rs 2.1 lakh crore via overnight VRRR auctions amid surplus banking system liquidity - lokmattimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXNCYVhod2RmeGJ4RXIyX2JXMDNONXlreWZ0WHJjeW9Ba1NvRDQ0dU5rYWY3dmlPTHl5cmhJa244OGMyU0dtZlVDakczN2YxYzZjU3dKU2NOcG10RUxUZmFEWlZlNGZ3TWhKUFIwVm1pTTVJWlgtZ2paRWNwQWxMZ1ptWmQtV21XU0U4bjRPMmJzbDhTOF84Zm80bmM1TUplNEdDTDR1LTh4TE5MRHdvYzd4c3lHMDE2TjFNaW1nSDY4NFdOR28tYTZQTHpKdjBOQlHSAdIBQVVfeXFMTTFzQmFYaHdkZnhieEVyMl9iVzAzTjV5a3lmdFhyY3lvQWtTb0Q0NHVOa2FmN3ZpT0x5eXJoSWtuODhjMlNHbWZVQ2pHMzdmMWM2Y1N3SlNjTnBtdEVMVGZhRFpWZTRmd01oSlBSMFZtaU01SVpYLWdqWkVjcEFsTGdabVpkLVdtV1NFOG40TzJic2w4UzhfOGZvNG5jNU1KZTRHQ0w0dS04eExOTER3b2M3eHN5RzAxNk4xTWltZ0g2ODRXTkdvLWE2UEx6SnYwTkJR?oc=5",
+      "published": "Mon, 05 Oct 2026 15:13:50 GMT",
+      "source": "lokmattimes.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 11.7
+    },
+    {
+      "title": "FDA approves expanded indication for Lilly’s Jaypirca - pharmaceutical-technology.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbUVOV3o4Ti1vOGplNENBYlRDQ3JXTE1YOHp4cFgyc01fY2g0M2Q4S2JVcGdNM1ZqVVV0TW5FT0VqOXlYa2JHOXd4WmtRNmVQWlJTQnBOYnc3UG94alFOX3VWeDR2SThud1I5UUhpUmRGTVU3QVdxY2dxcm5oaXF1VnZZa3VIbVBVb19mRkx4Tlg?oc=5",
+      "published": "Mon, 05 Oct 2026 15:37:19 GMT",
+      "source": "pharmaceutical-technology.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 11.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -356,5 +399,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-06T02:55:05.973354+00:00"
 }
