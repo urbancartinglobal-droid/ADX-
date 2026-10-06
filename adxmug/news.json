@@ -1,51 +1,37 @@
 {
-  "updated_utc": "2026-10-06T06:22:45.548861+00:00",
+  "updated_utc": "2026-10-06T18:23:22.695171+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [],
+  "articles": [
+    {
+      "title": "NBFC credit grows 15.8% in August, trails banks; gold loans surge 69% - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXFNMlgwU2FBRlMtcF9nVjczZmsyd1RNT0NhMUhXeTdfRFV5eFBKM1dhZWIyclVpaHlUVlB4SGFOTy1LV0JSWl9CRmtWUENXVWtDQUN2cWVYbVNEemNRbDM1YnFZNjA3d1M0bDRDOVotSWhZUk9tUkhPbUZ2YllKMjg3WXBwa25qMWZ0c2ExOHQ4eEZnRG9fNlFXQ1RQcHYtem5xaTd2SlBBUDBQQ1lhdmVWbFV5Y1Zvay1zbjJYU3k2djJ5cHJHekl0N01kRFJJUVHSAdcBQVVfeXFMUE9DZFNudWhXLWFXeWo5ZVVQUjc0MEExT3EzMjJqc2JxSzFfRTdNcXhKbUY5WGRJeThQdG12QVozNE1aTnhYdWc0SHRIUHlzTkkzWWxCVHRETHA3cGFBN09qMFotRjR3clpCNjZkbm05Z3pSSlpRY0hnTXdQdGo4YlhfWFVmZ1Vod1pCN0x3SjdTTXZraHcwRTh2YjI1dWJ6aDNDb2RndXpTRzBTNTREclUyLW15cGtOejJ2U191T1pQX0d3ejBmQkFXTlpCczYxQzV3QWVaSVE?oc=5",
+      "published": "Tue, 06 Oct 2026 15:22:53 GMT",
+      "source": "Business Standard",
+      "feed": "Banking & Financials",
+      "description": "NBFC credit grows 15.8% in August, trails banks; gold loans surge 69% Business Standard",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "POLICY"
+      ],
+      "signal_score": 22.0
+    }
+  ],
   "landed": [
     {
-      "title": "India restricts ethanol production from sugarcane as sugar output declines - Onmanorama",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWE82b2hBeEE1LUsxYUtpVmw5bUhyczQtVC1GZlpaeU5BM2k5LVlzdzZqb2ZIdlFRdkFlNEZDaDIwc21UY2g1Yml3NHFtekx5dVlYMXVjVThOTUJLb1pxVTZpUnlUYzdRMksyZ3E2d1pra2FjbmJYdVBiRWtzNVF1NW1wRnFtTnB4N3V1Tkh0dzRfTnU5YmpRSW5veEs2cGtsMmpmY0IzdTFMZHpCX1pJX184YXZMSl9VRzd4SHVIOUNzUmZ3Mlc4a05zZw?oc=5",
-      "published": "Tue, 06 Oct 2026 11:06:54 GMT",
-      "source": "Onmanorama",
-      "sector": "Sugar & Ethanol",
+      "title": "NBFC credit grows 15.8% in August, trails banks; gold loans surge 69% - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXFNMlgwU2FBRlMtcF9nVjczZmsyd1RNT0NhMUhXeTdfRFV5eFBKM1dhZWIyclVpaHlUVlB4SGFOTy1LV0JSWl9CRmtWUENXVWtDQUN2cWVYbVNEemNRbDM1YnFZNjA3d1M0bDRDOVotSWhZUk9tUkhPbUZ2YllKMjg3WXBwa25qMWZ0c2ExOHQ4eEZnRG9fNlFXQ1RQcHYtem5xaTd2SlBBUDBQQ1lhdmVWbFV5Y1Zvay1zbjJYU3k2djJ5cHJHekl0N01kRFJJUVHSAdcBQVVfeXFMUE9DZFNudWhXLWFXeWo5ZVVQUjc0MEExT3EzMjJqc2JxSzFfRTdNcXhKbUY5WGRJeThQdG12QVozNE1aTnhYdWc0SHRIUHlzTkkzWWxCVHRETHA3cGFBN09qMFotRjR3clpCNjZkbm05Z3pSSlpRY0hnTXdQdGo4YlhfWFVmZ1Vod1pCN0x3SjdTTXZraHcwRTh2YjI1dWJ6aDNDb2RndXpTRzBTNTREclUyLW15cGtOejJ2U191T1pQX0d3ejBmQkFXTlpCczYxQzV3QWVaSVE?oc=5",
+      "published": "Tue, 06 Oct 2026 15:22:53 GMT",
+      "source": "Business Standard",
+      "sector": "Banking & Financials",
       "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 6.0
-    },
-    {
-      "title": "Sumitomo Chemical Signs India Semiconductor MoU - CHEManager",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW9LUm5VWU9hdHVIdTZQbFVoRDNIVDBvNmFyWVBnY0gzMEtibVZYbnExMzIyUGU4bmhUamdlVmI1RHRZN2t0ZU5Cemo2Q1dneUl1OTlhU1MzeTdaSFlaOE1PM2tha044eVpnRTYxWVBZdnlJUmlmY0lLNlJPNl9tSnRQdlNWZmRmak96RWJB?oc=5",
-      "published": "Tue, 06 Oct 2026 14:55:02 GMT",
-      "source": "CHEManager",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
+        "POLICY"
       ],
       "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.2
-    },
-    {
-      "title": "SFL Orders Two 93,000 cbm Ammonia Carriers, Secures $162M Charter Backlog - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHo4M09sOTM4Zl85d0tKbWUzWHgtbmdKRUgyQkdFazRXZUY5MTRITzZQYnlLNk9YclRCVUZDcFVYaTFCd1hjWVBKZjlNN3FXb253ZGZrVmVhaUZUa2JSVWhSSXN6NndaZjd4VkR5VTFFVmtCUE5DYTd5QndhQUptNkdtemhfZVowS2NNZ1k5QUc1eFVQei1HTTUzZW9UWDNjY0E?oc=5",
-      "published": "Tue, 06 Oct 2026 11:50:28 GMT",
-      "source": "IndexBox",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.3
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 3.0
     }
   ],
   "opportunities": [
@@ -128,7 +114,7 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 70,
+      "score": 66,
       "article_count": 5,
       "trigger_count": 9,
       "triggers": [
@@ -138,21 +124,21 @@
       ],
       "evidence": [
         {
+          "title": "NBFC credit grows 15.8% in August, trails banks; gold loans surge 69% - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXFNMlgwU2FBRlMtcF9nVjczZmsyd1RNT0NhMUhXeTdfRFV5eFBKM1dhZWIyclVpaHlUVlB4SGFOTy1LV0JSWl9CRmtWUENXVWtDQUN2cWVYbVNEemNRbDM1YnFZNjA3d1M0bDRDOVotSWhZUk9tUkhPbUZ2YllKMjg3WXBwa25qMWZ0c2ExOHQ4eEZnRG9fNlFXQ1RQcHYtem5xaTd2SlBBUDBQQ1lhdmVWbFV5Y1Zvay1zbjJYU3k2djJ5cHJHekl0N01kRFJJUVHSAdcBQVVfeXFMUE9DZFNudWhXLWFXeWo5ZVVQUjc0MEExT3EzMjJqc2JxSzFfRTdNcXhKbUY5WGRJeThQdG12QVozNE1aTnhYdWc0SHRIUHlzTkkzWWxCVHRETHA3cGFBN09qMFotRjR3clpCNjZkbm05Z3pSSlpRY0hnTXdQdGo4YlhfWFVmZ1Vod1pCN0x3SjdTTXZraHcwRTh2YjI1dWJ6aDNDb2RndXpTRzBTNTREclUyLW15cGtOejJ2U191T1pQX0d3ejBmQkFXTlpCczYxQzV3QWVaSVE?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        },
+        {
           "title": "RBI liquidity boost cuts wholesale funding costs, but banks remain locked in deposit battle - bfsi.economictimes.indiatimes.com",
           "source": "bfsi.economictimes.indiatimes.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVUQzhPcVlRMHVrcU9MS0xFUGdteVpyd21JVFoxSGhRdWJQdnEyZHJXTlZVYV9jMWVoU2ppSzNDUDFPUzl6cUoxdm4yeGVVVnlfTjdId2l4cTFOR1B4WFdNemFabEctNEZ4a1FReEtSSGc0aExOUHpRc2I5RWxIUjh5LS1XSU9kSURiV0dydFFDdlczdmZkMDZFNV9oNU5mSjNrMy1zdUdkOWp6Z1dLLU1GRGxzSEpOOGxzUDFuYW1uM1nSAcgBQVVfeXFMT2ZLQm1rdWctbml2ekZxZjJCc1ZSVnBSTTMxU2hpeUUyRGp3OWJOT1hPMTlxcW1nTUpOVFMwMVRsWm5EeGI5N2NLNU1jVkFfRjNfOTlnWnkyS2J0a1lYRWs4VHM4QWFEdFFEYnpYY0YxQTU1ZjR6NzdVUFdnWVh6NzFmd2FXUmhaQU5hdFJwMG96a0hkSXQ0cG16R0hkdVhnRDktZ01aT3dZd0FEbnJiYThjbjBQRlRwYmJid0lQOWw0dktQbnpnVUk?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Despite RBI’s rate cuts, NBFCs continue to face funding constraints - The New Indian Express",
-          "source": "The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeElaTkRESUQzdFBrcFNUYlg3QnBwMzI2aHBMQXlZSTdjaEZ6UkpWZmthMVBaaDNEUmd1Y2ZkSERBRWV3R0RYaW5za19GcGcyN2FHQXZ1Y3lGQ3ZNZUM3T1FFcFA1WEh2Znc2UXAzeVZRM1NHalFFQ0xGeXdfR1YtOFNRZ0owdG5SNlhpTVhLUDRCcExwdTV6T25Ba3J2dmZ0U2owTzV3RlJwMzZoT1U4WFZ2aWo5SVVZOWRoc2JyNE9MRUItTDJJWm1NQ3HSAdoBQVVfeXFMTmcwb2t5YlhERHh3bWF3RnZRc25WT2xibjRMdHo4UDZ3MzBBS0tBSS1weXJIZHVpd0p6WGpQTWJFNURlaUhpRUNfSHVmV2lwb3d2TW9yeUxZUld6aTFLZEhQbVBqNVJfRU5tNHRzTTZjRlREb3BTNjExUnpBd1ZhZVpkM3lTeTRhRVhBd25kNE41dFAwX1Z4Z0FDTW1iSU5DajNYTG9KM3EzQnNZZTFLYXM3MkZ4dkRoVHpOY1MybFhBUTZQeXNyM3hVSGpZbXlWVmFQVXVmWnRITVE?oc=5",
-          "triggers": [
-            "POLICY"
           ],
           "companies": []
         },
@@ -187,10 +173,10 @@
           "companies": []
         }
       ],
-      "confidence": "high",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 4 independent sources.",
-      "source_count": 4,
+      "confidence": "medium",
+      "watch": "WATCH",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources; 1 fresh evidence items.",
+      "source_count": 3,
       "story_clusters": 5,
       "companies": [],
       "connections": [
@@ -198,7 +184,7 @@
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
       ],
-      "fresh_count": 0
+      "fresh_count": 1
     },
     {
       "industry": "Power & Grid",
@@ -274,6 +260,49 @@
       "fresh_count": 0
     },
     {
+      "industry": "Auto & Components",
+      "score": 22,
+      "article_count": 2,
+      "trigger_count": 2,
+      "triggers": [
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
+          "source": "Autocar Professional",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": [
+            "mahindra"
+          ]
+        },
+        {
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
+          "source": "India Briefing",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY; 2 distinct story clusters; 2 independent sources; mixed positive/negative evidence.",
+      "source_count": 2,
+      "story_clusters": 2,
+      "companies": [
+        "mahindra"
+      ],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Electronics & Semiconductors",
       "score": 18,
       "article_count": 1,
@@ -334,40 +363,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Auto & Components",
-      "score": 10,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "POLICY"
-      ],
-      "evidence": [
-        {
-          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
-          "source": "Autocar Professional",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": [
-            "mahindra"
-          ]
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY; 1 distinct story clusters; mixed positive/negative evidence.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [
-        "mahindra"
-      ],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Defence & Aerospace",
       "score": 0,
       "article_count": 0,
@@ -399,6 +394,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-06T17:09:27.524656+00:00"
+  ]
 }
