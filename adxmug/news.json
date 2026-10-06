@@ -20,18 +20,46 @@
   ],
   "landed": [
     {
-      "title": "NBFC credit grows 15.8% in August, trails banks; gold loans surge 69% - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXFNMlgwU2FBRlMtcF9nVjczZmsyd1RNT0NhMUhXeTdfRFV5eFBKM1dhZWIyclVpaHlUVlB4SGFOTy1LV0JSWl9CRmtWUENXVWtDQUN2cWVYbVNEemNRbDM1YnFZNjA3d1M0bDRDOVotSWhZUk9tUkhPbUZ2YllKMjg3WXBwa25qMWZ0c2ExOHQ4eEZnRG9fNlFXQ1RQcHYtem5xaTd2SlBBUDBQQ1lhdmVWbFV5Y1Zvay1zbjJYU3k2djJ5cHJHekl0N01kRFJJUVHSAdcBQVVfeXFMUE9DZFNudWhXLWFXeWo5ZVVQUjc0MEExT3EzMjJqc2JxSzFfRTdNcXhKbUY5WGRJeThQdG12QVozNE1aTnhYdWc0SHRIUHlzTkkzWWxCVHRETHA3cGFBN09qMFotRjR3clpCNjZkbm05Z3pSSlpRY0hnTXdQdGo4YlhfWFVmZ1Vod1pCN0x3SjdTTXZraHcwRTh2YjI1dWJ6aDNDb2RndXpTRzBTNTREclUyLW15cGtOejJ2U191T1pQX0d3ejBmQkFXTlpCczYxQzV3QWVaSVE?oc=5",
-      "published": "Tue, 06 Oct 2026 15:22:53 GMT",
-      "source": "Business Standard",
-      "sector": "Banking & Financials",
+      "title": "India restricts ethanol production from sugarcane as sugar output declines - Onmanorama",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWE82b2hBeEE1LUsxYUtpVmw5bUhyczQtVC1GZlpaeU5BM2k5LVlzdzZqb2ZIdlFRdkFlNEZDaDIwc21UY2g1Yml3NHFtekx5dVlYMXVjVThOTUJLb1pxVTZpUnlUYzdRMksyZ3E2d1pra2FjbmJYdVBiRWtzNVF1NW1wRnFtTnB4N3V1Tkh0dzRfTnU5YmpRSW5veEs2cGtsMmpmY0IzdTFMZHpCX1pJX184YXZMSl9VRzd4SHVIOUNzUmZ3Mlc4a05zZw?oc=5",
+      "published": "Tue, 06 Oct 2026 11:06:54 GMT",
+      "source": "Onmanorama",
+      "sector": "Sugar & Ethanol",
       "triggers": [
-        "POLICY"
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 11.5
+    },
+    {
+      "title": "U.S. approves potential $832 million sale of Javelin anti-tank missiles to Egypt - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHNpVW1qTEIwckhUVW1aMkE4UWlLWml3R2ZxLTVvSTJjN1kyUzVleUJxSnlsLUtTZkpkYlNXTVBZR1R6SlQ1M1k4M0FxUVpWbk0tVk81SHdHSnVvYlROTUtrSTVSOEJIaVBCZ2tqSHBMWWZIOE83QUQxT0JhUS1PcGFHMDJncEdVbFNmOTFmd2s2Mk13MUNxd3d6UF9rNTJTYUJVWmc2WjZzOUU?oc=5",
+      "published": "Tue, 06 Oct 2026 08:46:42 GMT",
+      "source": "Defence Industry Europe",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 3.0
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 13.8
+    },
+    {
+      "title": "SFL Orders Two 93,000 cbm Ammonia Carriers, Secures $162M Charter Backlog - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHo4M09sOTM4Zl85d0tKbWUzWHgtbmdKRUgyQkdFazRXZUY5MTRITzZQYnlLNk9YclRCVUZDcFVYaTFCd1hjWVBKZjlNN3FXb253ZGZrVmVhaUZUa2JSVWhSSXN6NndaZjd4VkR5VTFFVmtCUE5DYTd5QndhQUptNkdtemhfZVowS2NNZ1k5QUc1eFVQei1HTTUzZW9UWDNjY0E?oc=5",
+      "published": "Tue, 06 Oct 2026 11:50:28 GMT",
+      "source": "IndexBox",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 10.8
     }
   ],
   "opportunities": [
@@ -394,5 +422,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-06T22:37:07.718445+00:00"
 }
