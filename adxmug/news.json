@@ -31,21 +31,21 @@
       "label": "MACRO",
       "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 11.5
+      "freshness_hours": 15.2
     },
     {
-      "title": "U.S. approves potential $832 million sale of Javelin anti-tank missiles to Egypt - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHNpVW1qTEIwckhUVW1aMkE4UWlLWml3R2ZxLTVvSTJjN1kyUzVleUJxSnlsLUtTZkpkYlNXTVBZR1R6SlQ1M1k4M0FxUVpWbk0tVk81SHdHSnVvYlROTUtrSTVSOEJIaVBCZ2tqSHBMWWZIOE83QUQxT0JhUS1PcGFHMDJncEdVbFNmOTFmd2s2Mk13MUNxd3d6UF9rNTJTYUJVWmc2WjZzOUU?oc=5",
-      "published": "Tue, 06 Oct 2026 08:46:42 GMT",
-      "source": "Defence Industry Europe",
-      "sector": "Defence & Aerospace",
+      "title": "Sumitomo Chemical Signs India Semiconductor MoU - CHEManager",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW9LUm5VWU9hdHVIdTZQbFVoRDNIVDBvNmFyWVBnY0gzMEtibVZYbnExMzIyUGU4bmhUamdlVmI1RHRZN2t0ZU5Cemo2Q1dneUl1OTlhU1MzeTdaSFlaOE1PM2tha044eVpnRTYxWVBZdnlJUmlmY0lLNlJPNl9tSnRQdlNWZmRmak96RWJB?oc=5",
+      "published": "Tue, 06 Oct 2026 20:49:33 GMT",
+      "source": "CHEManager",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 13.8
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 5.5
     },
     {
       "title": "SFL Orders Two 93,000 cbm Ammonia Carriers, Secures $162M Charter Backlog - IndexBox",
@@ -59,7 +59,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 10.8
+      "freshness_hours": 14.5
     }
   ],
   "opportunities": [
@@ -423,5 +423,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-06T22:37:07.718445+00:00"
+  "landed_updated_utc": "2026-10-07T02:18:32.885869+00:00"
 }
