@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-06T18:23:22.695171+00:00",
+  "updated_utc": "2026-10-07T06:02:05.864401+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -20,46 +20,18 @@
   ],
   "landed": [
     {
-      "title": "India restricts ethanol production from sugarcane as sugar output declines - Onmanorama",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWE82b2hBeEE1LUsxYUtpVmw5bUhyczQtVC1GZlpaeU5BM2k5LVlzdzZqb2ZIdlFRdkFlNEZDaDIwc21UY2g1Yml3NHFtekx5dVlYMXVjVThOTUJLb1pxVTZpUnlUYzdRMksyZ3E2d1pra2FjbmJYdVBiRWtzNVF1NW1wRnFtTnB4N3V1Tkh0dzRfTnU5YmpRSW5veEs2cGtsMmpmY0IzdTFMZHpCX1pJX184YXZMSl9VRzd4SHVIOUNzUmZ3Mlc4a05zZw?oc=5",
-      "published": "Tue, 06 Oct 2026 11:06:54 GMT",
-      "source": "Onmanorama",
-      "sector": "Sugar & Ethanol",
+      "title": "NBFC credit grows 15.8% in August, trails banks; gold loans surge 69% - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXFNMlgwU2FBRlMtcF9nVjczZmsyd1RNT0NhMUhXeTdfRFV5eFBKM1dhZWIyclVpaHlUVlB4SGFOTy1LV0JSWl9CRmtWUENXVWtDQUN2cWVYbVNEemNRbDM1YnFZNjA3d1M0bDRDOVotSWhZUk9tUkhPbUZ2YllKMjg3WXBwa25qMWZ0c2ExOHQ4eEZnRG9fNlFXQ1RQcHYtem5xaTd2SlBBUDBQQ1lhdmVWbFV5Y1Zvay1zbjJYU3k2djJ5cHJHekl0N01kRFJJUVHSAdcBQVVfeXFMUE9DZFNudWhXLWFXeWo5ZVVQUjc0MEExT3EzMjJqc2JxSzFfRTdNcXhKbUY5WGRJeThQdG12QVozNE1aTnhYdWc0SHRIUHlzTkkzWWxCVHRETHA3cGFBN09qMFotRjR3clpCNjZkbm05Z3pSSlpRY0hnTXdQdGo4YlhfWFVmZ1Vod1pCN0x3SjdTTXZraHcwRTh2YjI1dWJ6aDNDb2RndXpTRzBTNTREclUyLW15cGtOejJ2U191T1pQX0d3ejBmQkFXTlpCczYxQzV3QWVaSVE?oc=5",
+      "published": "Tue, 06 Oct 2026 15:22:53 GMT",
+      "source": "Business Standard",
+      "sector": "Banking & Financials",
       "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 15.2
-    },
-    {
-      "title": "Sumitomo Chemical Signs India Semiconductor MoU - CHEManager",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW9LUm5VWU9hdHVIdTZQbFVoRDNIVDBvNmFyWVBnY0gzMEtibVZYbnExMzIyUGU4bmhUamdlVmI1RHRZN2t0ZU5Cemo2Q1dneUl1OTlhU1MzeTdaSFlaOE1PM2tha044eVpnRTYxWVBZdnlJUmlmY0lLNlJPNl9tSnRQdlNWZmRmak96RWJB?oc=5",
-      "published": "Tue, 06 Oct 2026 20:49:33 GMT",
-      "source": "CHEManager",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
+        "POLICY"
       ],
       "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.5
-    },
-    {
-      "title": "SFL Orders Two 93,000 cbm Ammonia Carriers, Secures $162M Charter Backlog - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHo4M09sOTM4Zl85d0tKbWUzWHgtbmdKRUgyQkdFazRXZUY5MTRITzZQYnlLNk9YclRCVUZDcFVYaTFCd1hjWVBKZjlNN3FXb253ZGZrVmVhaUZUa2JSVWhSSXN6NndaZjd4VkR5VTFFVmtCUE5DYTd5QndhQUptNkdtemhfZVowS2NNZ1k5QUc1eFVQei1HTTUzZW9UWDNjY0E?oc=5",
-      "published": "Tue, 06 Oct 2026 11:50:28 GMT",
-      "source": "IndexBox",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 14.5
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 14.7
     }
   ],
   "opportunities": [
@@ -171,22 +143,22 @@
           "companies": []
         },
         {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
           "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
           "source": "scanx.trade",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
           "triggers": [
             "POLICY",
             "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
           ],
           "companies": []
         },
@@ -257,9 +229,9 @@
     },
     {
       "industry": "Rail & Infrastructure",
-      "score": 25,
-      "article_count": 1,
-      "trigger_count": 2,
+      "score": 31,
+      "article_count": 2,
+      "trigger_count": 3,
       "triggers": [
         "CAPEX",
         "PRICING"
@@ -274,13 +246,61 @@
             "PRICING"
           ],
           "companies": []
+        },
+        {
+          "title": "130m Span Launched over National Highway-64 in Gujarat for Bullet Train Project - Metro Rail News",
+          "source": "Metro Rail News",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42RDlKSFZlOEY2bEN5V0VjZWlZM3ljd3JBUWRxSlM3VnlmSXpuSjd2ZlR6eEJPS0FCRS1LRjdFZ19mTkxBMVRkUUJ3b3ZVQkh2cW5ieFczSlpnT0hRbVdtZWxLYTRxdFF1Um12UjVjZ09aOVRtTy1vVg?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
         }
       ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, PRICING; 1 distinct story clusters.",
+      "reason": "Cross-signal CAPEX, PRICING; 2 distinct story clusters.",
       "source_count": 1,
-      "story_clusters": 1,
+      "story_clusters": 2,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Electronics & Semiconductors",
+      "score": 30,
+      "article_count": 2,
+      "trigger_count": 2,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "12 semiconductor plants approved: Where India’s chip manufacturing mission stands, what’s next - The Indian Express",
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaVZIN3NCOGJkNHM4ZGE1UkJzRjBXSWp2NDBVMHdfSmdRclFSVl8taUM3bDIxR2VrX3RlaUdtYThLZjRtUUw2N2VaMk1pR2NkbmZDUGxFNURkYUZUZS1OQ21hZE1yZ3BQQWJLLVphbVY2QkJhUjF6Z2hGNmFuYlVVTG5uemp0Zkd2YnZoQVl1VTVjVl9TOHczQVhSbC04WDdkRXBCQzk5c2dZTGtNVHkyWkFDT0ZlU0xsUXM4b25tbmdnckhvS1ZR0gHOAUFVX3lxTE1iUGpxTVVzMENmeWszb2tXRHFBbThUeGFpc3lJOTZHNjIzckNJVTJ3R0Q0RE9fbHYzLUVzdUJGLTRyNHRsX3lZVDVYV3o1UjZIVlQxaVQ5ZGw3NGNsUWgtLXlnYUtZbzBVWV9VOE5sZ0hNYnVXNDhSdGhwcGRqSmtQeWFxSVA2cEpWc2xVdU5fS0FMYnZBaFdzXzU1Yk9lRUh2YlY3bGRqLXJvVHlXYXpvVXZsV0RpQWFwU01YV1lJRVZudGNVMjhQNDFuRnNB?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
+          "source": "Energetica India Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
@@ -325,36 +345,6 @@
       "companies": [
         "mahindra"
       ],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Electronics & Semiconductors",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
-          "source": "Energetica India Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
       ],
@@ -422,6 +412,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-07T02:18:32.885869+00:00"
+  ]
 }
