@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-10-07T13:26:26.225786+00:00",
+  "updated_utc": "2026-10-07T23:06:22.308513+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "India’s Banking Liquidity Surplus Likely to Decline by Financial Year-End, RBI Outlook Indicates - PSU Connect",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGhLYUtfUnZVVV9qSm9rd21lMzl6ZUk1TGxuT2RjYVZ6dU56YjN0dHBaNGIzLUlLVU81M2w2Q29SX0pjWXhKQ1dVdll6UXBrZXZhRHlramNwbnBtOTBLVlZja0t4RjBoRy0wZlVRcGtfamZiVjgzX2dlRlRoeXl1bVZhNXE5eUVLRDdlX1FpQS1JLVN6RjJZ?oc=5",
-      "published": "Wed, 07 Oct 2026 08:19:00 GMT",
-      "source": "PSU Connect",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 14.7
-    },
-    {
-      "title": "Indian Defence Firm MKU Announces Morocco Manufacturing Facility for Electro-Optics & Armour - Defensemirror.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZTRwQWRFX0hXUmVfRmVKMV85UTROSnp3dHBDYkVRNWpFMzR2QV9QN0hFWmNBYmlrNlpXU3BhU1V1eUljbGZkdkEycWxWckhvNnE3b2h2VmxQVFBrTnhWVU5pMEZoR2dnWmlMaW4xaDJCQ040dTJQTGF0WlBjQ0RlVlA1WGNmYWlKbURwR0JYaS10SklwbU9KWk42Vi1TeFh2SG4zTE9ZQmU1QkdKTHZQaDZHOG5qekd4bVl6NlFPa1VZYjdNcnllNA?oc=5",
-      "published": "Wed, 07 Oct 2026 15:13:46 GMT",
-      "source": "Defensemirror.com",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 7.8
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -220,9 +191,9 @@
     },
     {
       "industry": "Rail & Infrastructure",
-      "score": 31,
-      "article_count": 2,
-      "trigger_count": 3,
+      "score": 25,
+      "article_count": 1,
+      "trigger_count": 2,
       "triggers": [
         "CAPEX",
         "PRICING"
@@ -237,61 +208,13 @@
             "PRICING"
           ],
           "companies": []
-        },
-        {
-          "title": "130m Span Launched over National Highway-64 in Gujarat for Bullet Train Project - Metro Rail News",
-          "source": "Metro Rail News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42RDlKSFZlOEY2bEN5V0VjZWlZM3ljd3JBUWRxSlM3VnlmSXpuSjd2ZlR6eEJPS0FCRS1LRjdFZ19mTkxBMVRkUUJ3b3ZVQkh2cW5ieFczSlpnT0hRbVdtZWxLYTRxdFF1Um12UjVjZ09aOVRtTy1vVg?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
         }
       ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, PRICING; 2 distinct story clusters.",
+      "reason": "Cross-signal CAPEX, PRICING; 1 distinct story clusters.",
       "source_count": 1,
-      "story_clusters": 2,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Electronics & Semiconductors",
-      "score": 30,
-      "article_count": 2,
-      "trigger_count": 2,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "12 semiconductor plants approved: Where India’s chip manufacturing mission stands, what’s next - The Indian Express",
-          "source": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaVZIN3NCOGJkNHM4ZGE1UkJzRjBXSWp2NDBVMHdfSmdRclFSVl8taUM3bDIxR2VrX3RlaUdtYThLZjRtUUw2N2VaMk1pR2NkbmZDUGxFNURkYUZUZS1OQ21hZE1yZ3BQQWJLLVphbVY2QkJhUjF6Z2hGNmFuYlVVTG5uemp0Zkd2YnZoQVl1VTVjVl9TOHczQVhSbC04WDdkRXBCQzk5c2dZTGtNVHkyWkFDT0ZlU0xsUXM4b25tbmdnckhvS1ZR0gHOAUFVX3lxTE1iUGpxTVVzMENmeWszb2tXRHFBbThUeGFpc3lJOTZHNjIzckNJVTJ3R0Q0RE9fbHYzLUVzdUJGLTRyNHRsX3lZVDVYV3o1UjZIVlQxaVQ5ZGw3NGNsUWgtLXlnYUtZbzBVWV9VOE5sZ0hNYnVXNDhSdGhwcGRqSmtQeWFxSVA2cEpWc2xVdU5fS0FMYnZBaFdzXzU1Yk9lRUh2YlY3bGRqLXJvVHlXYXpvVXZsV0RpQWFwU01YV1lJRVZudGNVMjhQNDFuRnNB?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
-          "source": "Energetica India Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 2 distinct story clusters; 2 independent sources.",
-      "source_count": 2,
-      "story_clusters": 2,
+      "story_clusters": 1,
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
@@ -336,6 +259,36 @@
       "companies": [
         "mahindra"
       ],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Electronics & Semiconductors",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
+          "source": "Energetica India Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
       ],
@@ -403,6 +356,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-07T23:01:57.580726+00:00"
+  ]
 }
