@@ -17,21 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.5
-    },
-    {
-      "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
-      "published": "Wed, 07 Oct 2026 17:19:17 GMT",
-      "source": "scanx.trade",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 0.5
+      "freshness_hours": 14.7
     },
     {
       "title": "Indian Defence Firm MKU Announces Morocco Manufacturing Facility for Electro-Optics & Armour - Defensemirror.com",
@@ -45,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.6
+      "freshness_hours": 7.8
     }
   ],
   "opportunities": [
@@ -418,5 +404,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-07T17:47:09.968030+00:00"
+  "landed_updated_utc": "2026-10-07T23:01:57.580726+00:00"
 }
