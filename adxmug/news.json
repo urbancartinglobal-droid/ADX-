@@ -20,18 +20,46 @@
   ],
   "landed": [
     {
-      "title": "NBFC credit grows 15.8% in August, trails banks; gold loans surge 69% - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXFNMlgwU2FBRlMtcF9nVjczZmsyd1RNT0NhMUhXeTdfRFV5eFBKM1dhZWIyclVpaHlUVlB4SGFOTy1LV0JSWl9CRmtWUENXVWtDQUN2cWVYbVNEemNRbDM1YnFZNjA3d1M0bDRDOVotSWhZUk9tUkhPbUZ2YllKMjg3WXBwa25qMWZ0c2ExOHQ4eEZnRG9fNlFXQ1RQcHYtem5xaTd2SlBBUDBQQ1lhdmVWbFV5Y1Zvay1zbjJYU3k2djJ5cHJHekl0N01kRFJJUVHSAdcBQVVfeXFMUE9DZFNudWhXLWFXeWo5ZVVQUjc0MEExT3EzMjJqc2JxSzFfRTdNcXhKbUY5WGRJeThQdG12QVozNE1aTnhYdWc0SHRIUHlzTkkzWWxCVHRETHA3cGFBN09qMFotRjR3clpCNjZkbm05Z3pSSlpRY0hnTXdQdGo4YlhfWFVmZ1Vod1pCN0x3SjdTTXZraHcwRTh2YjI1dWJ6aDNDb2RndXpTRzBTNTREclUyLW15cGtOejJ2U191T1pQX0d3ejBmQkFXTlpCczYxQzV3QWVaSVE?oc=5",
-      "published": "Tue, 06 Oct 2026 15:22:53 GMT",
-      "source": "Business Standard",
+      "title": "India’s Banking Liquidity Surplus Likely to Decline by Financial Year-End, RBI Outlook Indicates - PSU Connect",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGhLYUtfUnZVVV9qSm9rd21lMzl6ZUk1TGxuT2RjYVZ6dU56YjN0dHBaNGIzLUlLVU81M2w2Q29SX0pjWXhKQ1dVdll6UXBrZXZhRHlramNwbnBtOTBLVlZja0t4RjBoRy0wZlVRcGtfamZiVjgzX2dlRlRoeXl1bVZhNXE5eUVLRDdlX1FpQS1JLVN6RjJZ?oc=5",
+      "published": "Wed, 07 Oct 2026 08:19:00 GMT",
+      "source": "PSU Connect",
       "sector": "Banking & Financials",
       "triggers": [
-        "POLICY"
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 1.8
+    },
+    {
+      "title": "Indian Defence Firm MKU Announces Morocco Manufacturing Facility for Electro-Optics & Armour - Defensemirror.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZTRwQWRFX0hXUmVfRmVKMV85UTROSnp3dHBDYkVRNWpFMzR2QV9QN0hFWmNBYmlrNlpXU3BhU1V1eUljbGZkdkEycWxWckhvNnE3b2h2VmxQVFBrTnhWVU5pMEZoR2dnWmlMaW4xaDJCQ040dTJQTGF0WlBjQ0RlVlA1WGNmYWlKbURwR0JYaS10SklwbU9KWk42Vi1TeFh2SG4zTE9ZQmU1QkdKTHZQaDZHOG5qekd4bVl6NlFPa1VZYjdNcnllNA?oc=5",
+      "published": "Wed, 07 Oct 2026 09:22:48 GMT",
+      "source": "Defensemirror.com",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 14.7
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 0.8
+    },
+    {
+      "title": "SFL Orders Two 93,000 cbm Ammonia Carriers, Secures $162M Charter Backlog - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHo4M09sOTM4Zl85d0tKbWUzWHgtbmdKRUgyQkdFazRXZUY5MTRITzZQYnlLNk9YclRCVUZDcFVYaTFCd1hjWVBKZjlNN3FXb253ZGZrVmVhaUZUa2JSVWhSSXN6NndaZjd4VkR5VTFFVmtCUE5DYTd5QndhQUptNkdtemhfZVowS2NNZ1k5QUc1eFVQei1HTTUzZW9UWDNjY0E?oc=5",
+      "published": "Tue, 06 Oct 2026 11:50:28 GMT",
+      "source": "IndexBox",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 22.3
     }
   ],
   "opportunities": [
@@ -412,5 +440,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-07T10:09:50.772080+00:00"
 }
