@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-10-07T23:06:22.308513+00:00",
+  "updated_utc": "2026-10-08T06:06:55.164327+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "USS Abraham Lincoln strike group launched 450 Tomahawk cruise missiles during record-breaking deployment - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2xzQ2J1LU52MFREbGs0LXRiM1FYSEh3c01wblRsMkZoWkJuVndSVE94cnlfTFNtcGs4OGZ6Y0luTG5WRGx6SFAydE1KbFRFTGczZmNaNVdRd2d6MFBYdWQwR0pqTGx0REJoN0JXeGRKbUt6UUkxZkJyVmE1NFpSVWxEVzFNSGUwaE9CbDNfb0lwT1lHaFlEODVnZ0lVRzhaNWJXRzQySUdPQTM0U0VlNEtuWjFudndoQnZsT3NBcXFPcnF3b3NVMnVRaFhUZw?oc=5",
-      "published": "Wed, 07 Oct 2026 22:49:27 GMT",
-      "source": "Defence Industry Europe",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 3.9
-    },
-    {
-      "title": "India’s Banking Liquidity Surplus Likely to Decline by Financial Year-End, RBI Outlook Indicates - PSU Connect",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGhLYUtfUnZVVV9qSm9rd21lMzl6ZUk1TGxuT2RjYVZ6dU56YjN0dHBaNGIzLUlLVU81M2w2Q29SX0pjWXhKQ1dVdll6UXBrZXZhRHlramNwbnBtOTBLVlZja0t4RjBoRy0wZlVRcGtfamZiVjgzX2dlRlRoeXl1bVZhNXE5eUVLRDdlX1FpQS1JLVN6RjJZ?oc=5",
-      "published": "Wed, 07 Oct 2026 08:19:00 GMT",
-      "source": "PSU Connect",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 18.4
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -385,6 +356,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-08T02:40:30.694356+00:00"
+  ]
 }
