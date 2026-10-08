@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI's 29-day VRRR auction receives tepid response despite high surplus liquidity - bfsi.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkJXZEdxbGVmNnZDNzYwYXJnQk5oWE9IZG1hc1pJc2F0SEQ2RUZKZVVMUEo0dG1kLW9UVTFfU1BWczcxQUF0MVE1TURNck8tU21lbkZnV0N1OUVRNGRSNi1CZGJha1VDR0tVYmVPNmxjQkJ3T05GSVRMOVc3dmZOVjgwZGhHcTFTTnlsUlgxMVVVZk5rS29ULWNWN1F4ZVgwSS1yWVA2cEcxcm1kR3BtVVh1UTlQTEFVTlRIaDNiSWlRcjJieFdXcTNQX1NlSHl5el81OFhPci1QUTFV0gHcAUFVX3lxTE5GQldkR3FsZWY2dkM3NjBhcmdCTmhYT0hkbWFzWklzYXRIRDZFRkplVUxQSjR0bWQtb1RVMV9TUFZzNzFBQXQxUTVNRE1yTy1TbWVuRmdXQ3U5RVE0ZFI2LUJkYmFrVUNHS1ViZU82bGNCQndPTkZJVEw5Vzd2Zk5WODBkaEdxMVNOeWxSWDExVVVmTmtLb1QtY1Y3UXhlWDBJLXJZUDZwRzFybWRHcG1VWHVROVBMQVVOVEhoM2JJaVFyMmJ4V1dxM1BfU2VIeXl6XzU4WE9yLVBRMVU?oc=5",
+      "published": "Thu, 08 Oct 2026 14:35:46 GMT",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 3.3
+    },
+    {
+      "title": "ASELSAN secures record €2.46 billion contract to expand Turkey’s Steel Dome air defence system - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXdOcVQxRFRlNFNpQWNMZTVGUGtybldWNWxPZl9fWEE0enQtS1BQUFNFNHNjcjNWUmt5UnlrUURodVVGZlR4Y3VHQWYtNGpzSUdQUDE3azlneFlnOUpXbFpGNkJUNkdTMFZaTzVoaWlGTUJXdThrZ1pLdmZvV25taEc2RUJGN1A5MmtsQVdaa1JTSWtWS3laXzZqQUc0WkNnVzhjcmJlU3o4SFlKUE0taVktQlJ5UWtSbk9mNEZOMA?oc=5",
+      "published": "Thu, 08 Oct 2026 12:50:11 GMT",
+      "source": "Defence Industry Europe",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 5.0
+    },
+    {
+      "title": "Supreme Court Orders Centre To Form Panel To Curb Unethical Pharma Marketing, Expensive Gifts To Doctors - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUU5WNEVqMkY5NWF3VEdFUTFPRVdYaHIzRDI2QTF0VGhDRVh0MUZQekM4TGxqSi1iQTRGUG9CenI0ejU4SlBfSkhuX0RCU19LSV9DMGxJWEc3MG1ZdE5yZzhXbHA5Q25aRXc3WGFTdXVGekZhSlN0bUxQblNVNHowT2dtWXlXaFdlWjNFN3JXaVZZX09odmlJbFlpOWJwSkVESWx3SE1XRlh2RmppZ1pMX2Z2TG9yd1NNbXpmcTRNUlZtWHYxS0gxeHdlMXRrSXJhN3ZuNHB5ZkRac3JXcTFjNjBB0gHiAUFVX3lxTE1RTlY0RWoyRjk1YXdUR0VRMU9FV1hocjNEMjZBMXRUaENFWHQxRlB6QzhMbGpKLWJBNEZQb0J6cjR6NThKUF9KSG5fREJTX0tJX0MwbElYRzcwbVl0TnJnOFdscDlDblpFdzdYYVN1dUZ6RmFKU3RtTFBuU1U0ejBPZ21ZeVdoV2VaM0U3cldpVllfT2h2aUlsWWk5YnBKRURJbHdITVdGWHZGamlnWkxfZnZMb3J3U01temZxNE1SVm1YdjFLSDF4d2UxdGtJcmE3dm40cHlmRFpzcldxMWM2MEE?oc=5",
+      "published": "Thu, 08 Oct 2026 12:26:00 GMT",
+      "source": "Free Press Journal",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 5.4
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -356,5 +399,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-08T17:51:03.640120+00:00"
 }
