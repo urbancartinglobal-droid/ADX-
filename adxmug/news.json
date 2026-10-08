@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "USS Abraham Lincoln strike group launched 450 Tomahawk cruise missiles during record-breaking deployment - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2xzQ2J1LU52MFREbGs0LXRiM1FYSEh3c01wblRsMkZoWkJuVndSVE94cnlfTFNtcGs4OGZ6Y0luTG5WRGx6SFAydE1KbFRFTGczZmNaNVdRd2d6MFBYdWQwR0pqTGx0REJoN0JXeGRKbUt6UUkxZkJyVmE1NFpSVWxEVzFNSGUwaE9CbDNfb0lwT1lHaFlEODVnZ0lVRzhaNWJXRzQySUdPQTM0U0VlNEtuWjFudndoQnZsT3NBcXFPcnF3b3NVMnVRaFhUZw?oc=5",
+      "published": "Wed, 07 Oct 2026 22:49:27 GMT",
+      "source": "Defence Industry Europe",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 11.6
+    },
+    {
+      "title": "The RBI Raises Repo Rate - INSIGHTS IAS",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LRGRVbTFuelZ0RS15WG5WSHJfa0g0VW03NGh5Xzdqbkw1UUxqS2twMmYwbGhvdC1YMkJTbmI0X0JKMlRjTEROUkZwTkN0MUhmUks3VjVIYjhHU0tjTFBSeDN0eXB4M3FfODIxUExEdTQxelZzSjhr?oc=5",
+      "published": "Thu, 08 Oct 2026 08:29:04 GMT",
+      "source": "INSIGHTS IAS",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -356,5 +385,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-08T10:27:14.601133+00:00"
 }
