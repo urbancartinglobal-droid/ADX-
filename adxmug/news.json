@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-10-08T13:31:53.997739+00:00",
+  "updated_utc": "2026-10-08T23:22:05.764526+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI to conduct Rs 1.5 lakh crore 10-day VRRR auction to absorb excess surplus liquidity - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX05ERFJ2MjdwWVVRUThDVmZDZGo3VVV1enVLQ3E5Q1kzLUhRMTRFWEp4d3hDbzF6bzlBZjZOWE1XV0lTN1JIQnpPUU1pVEplMG8xcWZkOEZuQzVndlJnY25nZC1oSnVyYWZfY1hndG1IbXRjMkJjbktyT2JjOGtHamw5Z2ExaVlPeDNWczA3QVVOaVdpaElITDZ5RFlOcWVKMzdnb21ITTFDU05aTkJoR1poekZIbGlxeFZvUlRJZHh5enRaQlpqZ2NzbkM4UUN4emtiS3g5dmJtRjdwaFFHaEpvMW1RdjNKbEHSAeoBQVVfeXFMTV9ORERSdjI3cFlVUVE4Q1ZmQ2RqN1VVdXp1S0NxOUNZMy1IUTE0RVhKeHd4Q28xem85QWY2TlhNV1dJUzdSSEJ6T1FNaVRKZTBvMXFmZDhGbkM1Z3ZSZ2NuZ2QtaEp1cmFmX2NYZ3RtSG10YzJCY25Lck9iYzhrR2psOWdhMWlZT3gzVnMwN0FVTmlXaWhJSEw2eURZTnFlSjM3Z29tSE0xQ1NOWk5CaEdaaHpGSGxpcXhWb1JUSWR4eXp0WkJaamdjc25DOFFDeHprYkt4OXZibUY3cGhRR2hKbzFtUXYzSmxB?oc=5",
-      "published": "Thu, 08 Oct 2026 17:54:35 GMT",
-      "source": "Moneycontrol.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.4
-    },
-    {
-      "title": "Organic Chips Market Forecast to 2035: Flexible Electronics Demand Drives Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzVvMFJ3YnVEV2V6S05xZDFyXzFYMWhEalBjelpRWWZzSlp3ZnJmS0p2T2phVk55LW1PVzA4UnhMMG1BMzAxdzNNekZWQUYxVUpqX2pLTG9NV3gybXdJYVg2cDdxMllTRExJSGgyaW1sb0czTWQ0Mk5rTEl3VTE3dEpDVHRvaFF4QzR4TVBmRm10Y0ZBTG5FbDdwTWYwVi1GV0g1dEtielF0SWtMT3ZNT0lB?oc=5",
-      "published": "Thu, 08 Oct 2026 15:46:04 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 7.5
-    },
-    {
-      "title": "Supreme Court Orders Centre To Form Panel To Curb Unethical Pharma Marketing, Expensive Gifts To Doctors - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUU5WNEVqMkY5NWF3VEdFUTFPRVdYaHIzRDI2QTF0VGhDRVh0MUZQekM4TGxqSi1iQTRGUG9CenI0ejU4SlBfSkhuX0RCU19LSV9DMGxJWEc3MG1ZdE5yZzhXbHA5Q25aRXc3WGFTdXVGekZhSlN0bUxQblNVNHowT2dtWXlXaFdlWjNFN3JXaVZZX09odmlJbFlpOWJwSkVESWx3SE1XRlh2RmppZ1pMX2Z2TG9yd1NNbXpmcTRNUlZtWHYxS0gxeHdlMXRrSXJhN3ZuNHB5ZkRac3JXcTFjNjBB0gHiAUFVX3lxTE1RTlY0RWoyRjk1YXdUR0VRMU9FV1hocjNEMjZBMXRUaENFWHQxRlB6QzhMbGpKLWJBNEZQb0J6cjR6NThKUF9KSG5fREJTX0tJX0MwbElYRzcwbVl0TnJnOFdscDlDblpFdzdYYVN1dUZ6RmFKU3RtTFBuU1U0ejBPZ21ZeVdoV2VaM0U3cldpVllfT2h2aUlsWWk5YnBKRURJbHdITVdGWHZGamlnWkxfZnZMb3J3U01temZxNE1SVm1YdjFLSDF4d2UxdGtJcmE3dm40cHlmRFpzcldxMWM2MEE?oc=5",
-      "published": "Thu, 08 Oct 2026 12:26:00 GMT",
-      "source": "Free Press Journal",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 10.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -148,6 +105,16 @@
           "companies": []
         },
         {
+          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
           "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
           "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
@@ -164,16 +131,6 @@
           "triggers": [
             "POLICY",
             "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
           ],
           "companies": []
         }
@@ -233,31 +190,40 @@
       "fresh_count": 0
     },
     {
-      "industry": "Rail & Infrastructure",
-      "score": 25,
-      "article_count": 1,
-      "trigger_count": 2,
+      "industry": "Pharma & Healthcare",
+      "score": 37,
+      "article_count": 2,
+      "trigger_count": 3,
       "triggers": [
         "CAPEX",
-        "PRICING"
+        "POLICY"
       ],
       "evidence": [
         {
-          "title": "Indian Railways Approves ₹675 Crore Projects in UP, WB & Bihar to boost freight & passenger movements - Metro Rail News",
-          "source": "Metro Rail News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Ec0FmeGNWdzBrVWlmNTNLT0dwVjV0TTh0cVdjZnlKOWFaRWN3bXFxajZfbE13dTJBY1VBbUpTRUdEYVRLbUFySEdaRTNpQQ?oc=5",
+          "title": "USFDA bans Ranbaxy's Toansa API plant, finds mfg violations - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUpUR01OaXgtLXR6SkpnVU1XakMzQXFGZTY0Y09jcWtEZHY5NVQ1Wm1zWW8tQ0p4cUw1bUhZc215a1Mxelh3cmFWUi11TmViVUdWSnFycFpqQmVsT0IyajFGXzZza1ZqbFlhV3NTeHN4NUlzRUJ3TmtzdkU1MDB2LVM4Mkl1c25HdHQ5YUNCUWJBQThxdlllNGxScnJsMTBFSURQaU80NW11WDA0VTBxU2lCWWhWaWVlRjRmTEp4SUzSAcYBQVVfeXFMTTRZUjJxbmtZamhUZEpVS2djeW9LSDB2OUdxRHVMc2lYam1DWnNiUFlrcnhMM0p6MTcxM2R5UDdWUXlhc1lCZWwzQlZiUFNkSzFjX0VQaW1HQmdSb2Y3QWJuVnJRMTJfeE9MZUJ3VnJWenBxVVhOdkl2aTdCbGszc1FYTW94OXJOMnhGcHZReHp1ZUYwMVA5OFFVcEt6NUJScGZFOENxS3VPQVkxYnFKM3RXazNiemhiTjBnUWlCcmdtNnkwU2dB?oc=5",
           "triggers": [
-            "CAPEX",
-            "PRICING"
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
+          "triggers": [
+            "CAPEX"
           ],
           "companies": []
         }
       ],
-      "confidence": "low",
+      "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, PRICING; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
+      "reason": "Cross-signal CAPEX, POLICY; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
@@ -308,6 +274,36 @@
       "fresh_count": 0
     },
     {
+      "industry": "Defence & Aerospace",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Electronics & Semiconductors",
       "score": 18,
       "article_count": 1,
@@ -338,7 +334,7 @@
       "fresh_count": 0
     },
     {
-      "industry": "Pharma & Healthcare",
+      "industry": "Chemicals & Materials",
       "score": 18,
       "article_count": 1,
       "trigger_count": 1,
@@ -347,9 +343,9 @@
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
+          "title": "Cabinet approves Rs. 10,601 crore brownfield ammonia-urea plant in Assam - Indian Chemical News",
+          "source": "Indian Chemical News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQlZHTHI4MlZqdGNUZ1d4OGNieGlES3Y4clpWXzQ2S2UyMF9TTTBkSkpWb2wzTmQ0cTI5QndHeUdBTmpnRzVNaHhjbTZlc19oTEpScVRJdGxMNHR6aTVUeE9sbFRtU1hwTGxyaUpHdUI3M205d3p2cFJ3VEsxdDI0c0pKVU5qYm4yUFpzNTVlZW0tZFdPQ3ZYS3VGNU1jZE5uejNuRHdaVnRQeUxvM203SWJ1WFNIYWk3S1HSAcABQVVfeXFMT2JneHNCcld5RWRxNnZQZW9ZM3JVZXhKNV9jSEc0Q0RMZkZWMHUyY01TWUhkV1ZMVTZ0V2pRWlh6UTRtUnotYTN3cElTLXhSZl9YOEtJUW9UVGpFdnRRRjFhbS1aY3BPYUs0T2x3OXFUZ2dObUIweF84OGtTc1RSbV9DYURXUjNXMjNKWGd0WVFuUEZNUTJHVll1ZUlfSEdqMFUzVmQxSVZmWVRpcDZPVUx0SHdKUlVWS2NCUlJOQVB4?oc=5",
           "triggers": [
             "CAPEX"
           ],
@@ -368,23 +364,7 @@
       "fresh_count": 0
     },
     {
-      "industry": "Defence & Aerospace",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Chemicals & Materials",
+      "industry": "Rail & Infrastructure",
       "score": 0,
       "article_count": 0,
       "trigger_count": 0,
@@ -399,6 +379,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-08T23:17:12.104350+00:00"
+  ]
 }
