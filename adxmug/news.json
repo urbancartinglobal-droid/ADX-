@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-10-09T13:19:25.518353+00:00",
+  "updated_utc": "2026-10-09T22:39:45.781894+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI to sell ₹25,000 crore in bonds to drain surplus banking liquidity - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUNnTzVram4yTmt4ZnJmTWM0RHFHakpnTzZfYjdVSnRWVkE2SmprRklKUVp2ZmluMjAtUUJvcXcxS0U1RlVjUXM5NjRUb1otdkNzTHZ4UEJYT3Z1OHZScElZZmNvX2syV1VqS3ktdVlDdXJyOGdHUGlEQVpDZ0lPMDRNUUVzR2NQRTBpY0NqR0luUjVKdk5fVTZRaVpSX2pBbFgwODhSUHFESGxCZmR2T2dwMjkwLURqT1BmLVJHdllCSUNDRHZHR2k3NkpKdGPSAc8BQVVfeXFMTlVDZ081a2puMk5reGZyZk1jNERxR2pKZ082X2I3VUp0VlZBNkpqa0ZJSlFadmZpbjIwLVFCb3F3MUtFNUZVY1FzOTY0VG9aLXZDc0x2eFBCWE92dTh2UnBJWWZjb19rMldVakt5LXVZQ3VycjhnR1BpREFaQ2dJTzA0TVFFc0djUEUwaWNDakdJblI1SnZOX1U2UWlaUl9qQWxYMDg4UlBxREhsQmZkdk9ncDI5MC1Eak9QZi1SR3ZZQklDQ0R2R0dpNzZKSnRj?oc=5",
-      "published": "Fri, 09 Oct 2026 16:18:27 GMT",
-      "source": "CNBC TV18",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
-    },
-    {
-      "title": "FDA approves Teva's first once-monthly schizophrenia injection 'Weltruza' - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc0hubDZFbWZUcmJJSmwyVUctdjVjSVR4bUVZY0JCYVlkUHRoS1htSmtYeUViUjdMNlgyaU5lcWU4VmJkNkV4eTRqN1V3STkwczNDVXhOMUUwWEVrcnQ3aEtSaGZWWlZublgtS05WSU9lMnFxV2dBaUtjX3lxWXlWRnc5SlRUOGh2TEdXY3A0aEJ3ZE1DVXVJWVBVSGRKc2lLQ3lUNkpPaVExcXBsSVRuQTlHWW14eVlhMjdIYtIBwwFBVV95cUxNWlJkQUhhUFJyVXFuN2xhcXRPaW42RFQtN2dqcmNKdEFpMDZSV29DM0Y3RS05dXpVRy1Pc2VYcEUwTzVlc3d4MFN3Qi1sb1VIZDJRd1B0RFlURS1oZFRzMUFObDZfc1djTzJISHlObDlVNzFfQjVxYzJnaXVXc1hjMmR0OEVjSjNxNmpUY0lzLURoREtHWXVybGpLNnhTOGhVdUk0UEM4VElfV1pXOUtQYTZQYVhWZ1BfM2FFSGJXdkhjS3c?oc=5",
-      "published": "Fri, 09 Oct 2026 12:12:19 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.3
-    },
-    {
-      "title": "Global Chip Shortage: Why Electronics Prices Are Rising - Maps of India",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME9tN1ViUkMzSTBIRHVDRGtCS2NJbEdBanBNTDVrQzlMZmhIMnFUSHpnWGljY3l6TWV5aTRHaVQ1bDVCeEpZd215NXRwbzFUNklXeUc5T0pLd3NXU0h5aW15Q1duS2RCR2VCaE8zRXFRLTRITmE2MlF6M3pRY3p6NnZEZm5uVlZqZW9GWVc4WGJFYXVXUWR1UVFzZ1hxbVF5VGhiTUkxVWI?oc=5",
-      "published": "Fri, 09 Oct 2026 09:06:21 GMT",
-      "source": "Maps of India",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 10.4
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -148,6 +105,16 @@
           "companies": []
         },
         {
+          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
           "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
           "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
@@ -164,16 +131,6 @@
           "triggers": [
             "POLICY",
             "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
           ],
           "companies": []
         }
@@ -406,6 +363,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-09T19:30:32.117112+00:00"
+  ]
 }
