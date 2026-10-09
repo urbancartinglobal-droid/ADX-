@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Croatia signs EUR 900million contract for its largest-ever rail project - Railway PRO",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0lWc29aUEhUQ1RmRXpGaWw5NEVNZkVNY2FrUmZndDNwOGJuYmhEWnRreC1QbmUwSmpnUTUtWU5NVzdOOVJ6UDBKbEdrRExRYVZZMDJNQ0R4QlhkMC16TG9hM1BoMEVZby1LalFUdnFTc0lURHB2QllJVjF3SlJveTZUeVF4WU54OHlsb2J1eXc0SGVtWThjUFBWeXlFa0JWcEtiRHRaV3VNZw?oc=5",
+      "published": "Fri, 09 Oct 2026 10:03:22 GMT",
+      "source": "Railway PRO",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 3.1
+    },
+    {
+      "title": "Global Chip Shortage: Why Electronics Prices Are Rising - Maps of India",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME9tN1ViUkMzSTBIRHVDRGtCS2NJbEdBanBNTDVrQzlMZmhIMnFUSHpnWGljY3l6TWV5aTRHaVQ1bDVCeEpZd215NXRwbzFUNklXeUc5T0pLd3NXU0h5aW15Q1duS2RCR2VCaE8zRXFRLTRITmE2MlF6M3pRY3p6NnZEZm5uVlZqZW9GWVc4WGJFYXVXUWR1UVFzZ1hxbVF5VGhiTUkxVWI?oc=5",
+      "published": "Fri, 09 Oct 2026 09:06:21 GMT",
+      "source": "Maps of India",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 4.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -340,5 +369,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-09T13:08:52.724215+00:00"
 }
