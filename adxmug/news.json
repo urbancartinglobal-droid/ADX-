@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Governor expects surplus liquidity to drain by FY27 - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGhFa0l6STFpUE5PMEw2Vl90c2NuajRZa1FSaGdVcXBmRFFVQzhzYXhTcjZBMkFaSFhfeWlOQUtld2xCN1lJVHFlMVpvbGhRQnAxRTJuM2NnblUwejNURktEUUIxeUVkRllsQk5UTkF5REVIV21yc0VpWVNtZ2Fjd1lNNlRPZHJwdkRaaWpoXzR3T19NZ0p1Q3FPWU5uUTFsbkQ2YVJjT2V2TXhLSE92NWZfdVppaFFQaElsZkJsTl9janJTc1FXUVh1bUcyNTlqbW9HY9IB1wFBVV95cUxPUmVuZ1F6eURvdk04c3BPVV9qaWMxZGdjcC05a3Zvdnd3SVR2d0Vxb0RaOGRzYmlZbGU3YkJwM1p0cm11bGhCQkdQWjJqQmRaMS1LWWRnb1VEbWpfYTJSNVZrZHBCbWlpNW50QjVDTHV1YXdLUEEyRGEwUVlkRVdOc3pOSlNDb1VGT1BWcWJMcFpKTmRlYVh4OENfMG5xODhaVDNXNTRlQzNMUTB4WUVGTWQta25lV2hLWU1LeUk1Qkx2ZHlONGZuS1lpS2ZPUXNHVVp5OFI3RQ?oc=5",
+      "published": "Fri, 09 Oct 2026 05:15:02 GMT",
+      "source": "Rediff",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.8
+    },
+    {
+      "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
+      "published": "Thu, 08 Oct 2026 19:46:33 GMT",
+      "source": "scanx.trade",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 10.2
+    },
+    {
+      "title": "Organic Chips Market Forecast to 2035: Flexible Electronics Demand Drives Expansion - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzVvMFJ3YnVEV2V6S05xZDFyXzFYMWhEalBjelpRWWZzSlp3ZnJmS0p2T2phVk55LW1PVzA4UnhMMG1BMzAxdzNNekZWQUYxVUpqX2pLTG9NV3gybXdJYVg2cDdxMllTRExJSGgyaW1sb0czTWQ0Mk5rTEl3VTE3dEpDVHRvaFF4QzR4TVBmRm10Y0ZBTG5FbDdwTWYwVi1GV0g1dEtielF0SWtMT3ZNT0lB?oc=5",
+      "published": "Thu, 08 Oct 2026 15:46:04 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 14.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -379,5 +422,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-09T06:00:59.988334+00:00"
 }
