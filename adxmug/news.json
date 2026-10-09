@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI to sell ₹25,000 crore in bonds to drain surplus banking liquidity - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUNnTzVram4yTmt4ZnJmTWM0RHFHakpnTzZfYjdVSnRWVkE2SmprRklKUVp2ZmluMjAtUUJvcXcxS0U1RlVjUXM5NjRUb1otdkNzTHZ4UEJYT3Z1OHZScElZZmNvX2syV1VqS3ktdVlDdXJyOGdHUGlEQVpDZ0lPMDRNUUVzR2NQRTBpY0NqR0luUjVKdk5fVTZRaVpSX2pBbFgwODhSUHFESGxCZmR2T2dwMjkwLURqT1BmLVJHdllCSUNDRHZHR2k3NkpKdGPSAc8BQVVfeXFMTlVDZ081a2puMk5reGZyZk1jNERxR2pKZ082X2I3VUp0VlZBNkpqa0ZJSlFadmZpbjIwLVFCb3F3MUtFNUZVY1FzOTY0VG9aLXZDc0x2eFBCWE92dTh2UnBJWWZjb19rMldVakt5LXVZQ3VycjhnR1BpREFaQ2dJTzA0TVFFc0djUEUwaWNDakdJblI1SnZOX1U2UWlaUl9qQWxYMDg4UlBxREhsQmZkdk9ncDI5MC1Eak9QZi1SR3ZZQklDQ0R2R0dpNzZKSnRj?oc=5",
+      "published": "Fri, 09 Oct 2026 16:18:27 GMT",
+      "source": "CNBC TV18",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 7.7
+    },
+    {
+      "title": "FDA approves Teva's first once-monthly schizophrenia injection 'Weltruza' - Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc0hubDZFbWZUcmJJSmwyVUctdjVjSVR4bUVZY0JCYVlkUHRoS1htSmtYeUViUjdMNlgyaU5lcWU4VmJkNkV4eTRqN1V3STkwczNDVXhOMUUwWEVrcnQ3aEtSaGZWWlZublgtS05WSU9lMnFxV2dBaUtjX3lxWXlWRnc5SlRUOGh2TEdXY3A0aEJ3ZE1DVXVJWVBVSGRKc2lLQ3lUNkpPaVExcXBsSVRuQTlHWW14eVlhMjdIYtIBwwFBVV95cUxNWlJkQUhhUFJyVXFuN2xhcXRPaW42RFQtN2dqcmNKdEFpMDZSV29DM0Y3RS05dXpVRy1Pc2VYcEUwTzVlc3d4MFN3Qi1sb1VIZDJRd1B0RFlURS1oZFRzMUFObDZfc1djTzJISHlObDlVNzFfQjVxYzJnaXVXc1hjMmR0OEVjSjNxNmpUY0lzLURoREtHWXVybGpLNnhTOGhVdUk0UEM4VElfV1pXOUtQYTZQYVhWZ1BfM2FFSGJXdkhjS3c?oc=5",
+      "published": "Fri, 09 Oct 2026 12:12:19 GMT",
+      "source": "Indian Pharma Post",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 11.8
+    },
+    {
+      "title": "Global Chip Shortage: Why Electronics Prices Are Rising - Maps of India",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME9tN1ViUkMzSTBIRHVDRGtCS2NJbEdBanBNTDVrQzlMZmhIMnFUSHpnWGljY3l6TWV5aTRHaVQ1bDVCeEpZd215NXRwbzFUNklXeUc5T0pLd3NXU0h5aW15Q1duS2RCR2VCaE8zRXFRLTRITmE2MlF6M3pRY3p6NnZEZm5uVlZqZW9GWVc4WGJFYXVXUWR1UVFzZ1hxbVF5VGhiTUkxVWI?oc=5",
+      "published": "Fri, 09 Oct 2026 09:06:21 GMT",
+      "source": "Maps of India",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 14.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -363,5 +406,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-09T23:59:37.303001+00:00"
 }
