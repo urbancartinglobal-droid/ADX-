@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Tightens Liquidity Management, Raises Minimum Daily CRR Maintenance to 99% from Oct 16 - KNN India",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZXAzQzh3c09BbDJvR1hVZWFRM1VjU2tnRHNuWndIcjlicHhIbFBPM01pTTI4b1ZwdU5HTTVwcDQ1d0s0cDlBN0F4R3ZHV19aVmNxRU1jM3dUMkRob1ZOLUhFZlVYLWQwR1JZZ2pZUnlIV3VEdDFpcmxOdzZybVlWM1BYYmVUcXFQZXVuSjdlUXR4cGE3Z0swVEM4bFJxdEpqQnJzWGxuZWwwMURoLWdxbXNzUUNfc3pLOXVrTXNNN1BrT3poNkxUNmRRdHY5Zy14aWc?oc=5",
+      "published": "Sat, 10 Oct 2026 09:59:22 GMT",
+      "source": "KNN India",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 7.8
+    },
+    {
+      "title": "Automotive Wheel Coating Market Forecast to 2035: Growth Momentum Builds on OEM Demand and Aftermarket Expansion - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaDY1QzY2LVllMnYxNEFmbWd1RVh1QllSWXFvaEtLNWMxaEVnUjJ5S2xpREh0RW5qbE0yM2RYMDVQMUplTU5TUkJYM1RySHdBQ2M5NmZQSVB4QkNKUkdiekc5Qk13VVI4X3pLeUthb185eEY2bWY1SXZzak12UVV0U2ZWWDdxemxKei1VNTh2bXY2NzBSZ2RJTFdzbGs0SndXZEcwWE8tbC1yT1lJU0hfNUlCWnp5dG10Wl91NkltVGFEeXdwZzVRR2RydGxGV1BDUUZQUDdRX1k2NXho?oc=5",
+      "published": "Sat, 10 Oct 2026 12:16:04 GMT",
+      "source": "IndexBox",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 5.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -354,5 +383,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-10T17:48:34.888097+00:00"
 }
