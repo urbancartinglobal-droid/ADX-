@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
+      "published": "Sat, 10 Oct 2026 08:07:52 GMT",
+      "source": "scanx.trade",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 4.3
+    },
+    {
+      "title": "RBI tightens daily cash reserve rules as banking system liquidity stays elevated - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcDdZSUhycEZmdk1jNlJzU0lMWmFzdEpyR3J3cl9sVTRLRkhxcE5qYmYtRHRoSzhTZzU1Y3lkcXpMLTI4YUJPT0UzVmxFTWNsd3ZHcVY3c1FULWN4NHBhYnRWaUh6WXNVU3ZSNlV4Tkg4N3FvLVpXMHFhX010QjdEUXhxR3lmalhJUk5CMDVZQ0x3Sm1UWDFTbEtmb2dmX2EycnI2MUpZME9BTDByNWM4aE12bk9LdVR4THZSaGpTRGRSdXJhMVplaDAzS2lNQXRBRlJGYnJMTnZWUdIB3wFBVV95cUxPaW9BUjNPbG9UUlF0UnFxM2o3c25ncUI5REZqbTZFbmRxSnd2NEZFZmNnQkVab1ludkhQSW5WM3ZUV3k5ZXZQWFNQN0VhQ0FQeDZTM0lGeVBsRnhvSUpmbnAtbTZIcDgzQS1GMUxBelpDdDV3UEowT2JhVF84YlpzazR0UHZrc2pJT05TRHAtMjA3SWtsUGF6UjBUZS00TGtYdmJkMXFfYjAwZWxLWFpHUVM5c3pENk1tZ0xaOURldU5MMzhYbmxfNjJ1SDZQaERBM0RrWUxFZ3VqZ2RHX1FF?oc=5",
+      "published": "Fri, 09 Oct 2026 16:00:15 GMT",
+      "source": "Livemint",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 20.4
+    },
+    {
+      "title": "Himadri Speciality Chemical plans ₹5,000 crore investment in Andhra Pradesh - ET Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVUNFbVdlVEhON19NRGo5ajZ6QzB2dGxmU29FbkJZTVh5N3I2ZWJMT19XeklCUHZrSS1qZ1A1Z2xFeW5XUVl4R0lSMnc0UWE3a0U0SGlZSnhBSndFR2lLRTJJZFJfZkdMaHdMaDlmZS1PVUxEUXZfeUNNUDJXWDI0dTZNNW14RlZfMWdoWk95VHhNSWhFU1dWUXFHMjcxc29KMUVWeE5PeC1ZMjJLZUFHZGJPaGZoYkJ0NWpXYzdzaUZKUEFSMnBBTnZ6eE1mTkt6OUhkV1hGXzcxOUdlam5YbVdVMNIB6AFBVV95cUxOdjVIbG5rNzRqTkFjWFVmVEpXMmhWa0NBRlBIRzYwYV95cVNFdFdHUVdBNHE0VkdrVUVxbzJKelNjcHl1dTVEZXhEX2FSUE1NZFh5c0hPQ3IyV2FtWFp4ZWtiRk16RGNncDJhdmREWFhHME1zeWZzUzJlT0RsSjRHUGt0U3pHd1lWYktsYlRERjR4ZTl0bFlrYVp2aW91ZXVmejM5VFFMaWVuSFFBbXlEcmlhUkEzdF9mTVRESWtVRUNvOU5JLVkxeWJMRkh2M21hY0xpOW5CbS0yNl9qU01ydE9BNDREVTQ1?oc=5",
+      "published": "Sat, 10 Oct 2026 03:42:59 GMT",
+      "source": "ET Manufacturing",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 8.7
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -365,5 +408,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-10T12:24:02.329080+00:00"
 }
