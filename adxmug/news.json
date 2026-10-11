@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "SABIC AN greenlights major Saudi fertiliser expansion set to boost urea capacity by 54% - Indian Chemical News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd1FDUDN4SEVoT0FMb0pac3BYQW9jLTNFWE1scVJZU1piM0ktS2FySW5tVXIxc09hdE9sNmxZYl94ME9vV01GT1RzWHB3TlhtYkJnWFl6UUdraTU3dDF3ZzdrbTN5UDhPWUdqLVFhaGE1TFZBQ2NfZ3ZsUWRZZDF2UWV6SUo3d1NfYnRxbE5TUWRtZ3J4SHJmUXBwMHRvNHc5NUFOWWNWeEV3OXRKTUs5WTczdzloMXVHT2diVGZvaW40U1hJclJDMWZtNm9RcjQ1TkhHWNIB2wFBVV95cUxPdUpocVlKNWpfWm9ObXZINmRyMFNLWHhEaXNwMHBoczNvUmJDM3Fwc29mV3M3bG03ZmtzNGxXVU5mRWR0TEI5dTEyNk1HOVF3UG1hTDZJd01jT2NCaFZOLTVsYW1xeTNuazlBWXl3VC0yeEc5QVlGTGhsdHpuZEVDZXV6TFhrNHBkcXdxUGFFd0VtUkNOUGdLMFRZQzFPaHN5VDR4ZUh3ZGZxcFNTeDBac29WblZRRzVPc3JLb19ELWoyTVoxZ0s5ak5UOUVIbFVtVHpNcHAtMmIyamM?oc=5",
+      "published": "Sun, 11 Oct 2026 03:42:07 GMT",
+      "source": "Indian Chemical News",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 10.3
+    },
+    {
+      "title": "Japanese giant expands China chip packaging materials output amid AI boom - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmJSYU9na3ExdEpSUzBaZ1kwemNxQWJ2TGlqdHBId3lXUV9NN3Jpc2gwbXMxMEV1cHhqVG91S2U1VzJDV3hkMWZabnFlRHZ2YWVIT0VLRGpueVpmdFlfeHBNeHhjTHJDQ0c2LTZ0VWw1OVVGVDUtZWlNTW1ISXF4bXJqU1ZrdEhrbFZaRnVuQ1VYTFV2ZmNWbTVaSVpGRlhRZkVFMU0xYmhqZENybjVyTFJCeHpxTlg4RmNNRHlhUWJJaGZTc3VwRkhwZmNWNjV1VzhF0gHTAUFVX3lxTFBSYlJhT2drcTF0SlJTMFpnWTB6Y3FBYnZMaWp0cEh3eVdRX003cmlzaDBtczEwRXVweGpUb3VLZTVXMkNXeGQxZlpucWVEdnZhZUhPRUtEam55WmZ0WV94cE14eGNMckNDRzYtNnRVbDU5VUZUNS1laU1NbUhJcXhtcmpTVmt0SGtsVlpGdW5DVVhMVXZmY1ZtNVpJWkZGWFFmRUUxTTFiaGpkQ3JuNXJMUkJ4enFOWDhGY01EeWFRYkloZlNzdXBGSHBmY1Y2NXVXOEU?oc=5",
+      "published": "Sun, 11 Oct 2026 03:04:32 GMT",
+      "source": "South China Morning Post",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 11.0
+    },
+    {
+      "title": "RBI Raises Banks’ Daily CRR Maintenance Requirement to 99% from October 16 - Thekanal",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkVpMklkVG5XaVpxTGFSaV9pOW1vbmEyQktURVA0MjQ5SExKX04ybEVyQkdvdm5hU1oyUkhYZ0RfSnNDUTRBZVBQYnV4OUVMSjg5M3hCRDR3UkF1dmdab1BCdEdyX3RfMDc0ZWt4dWd1Ulh1SGVnanpSay1KYTZ3WmhqWXZyNE0yYm5wNEgwNzBoQ3BkdGMtbDZweTd1V2dqT2tFUGU0QjZ0eDdib2p1d3FB?oc=5",
+      "published": "Sun, 11 Oct 2026 11:36:14 GMT",
+      "source": "Thekanal",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.4
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -340,5 +383,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-11T14:02:15.525013+00:00"
 }
