@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Tightens Liquidity Management, Raises Minimum Daily CRR Maintenance to 99% from Oct 16 - KNN India",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZXAzQzh3c09BbDJvR1hVZWFRM1VjU2tnRHNuWndIcjlicHhIbFBPM01pTTI4b1ZwdU5HTTVwcDQ1d0s0cDlBN0F4R3ZHV19aVmNxRU1jM3dUMkRob1ZOLUhFZlVYLWQwR1JZZ2pZUnlIV3VEdDFpcmxOdzZybVlWM1BYYmVUcXFQZXVuSjdlUXR4cGE3Z0swVEM4bFJxdEpqQnJzWGxuZWwwMURoLWdxbXNzUUNfc3pLOXVrTXNNN1BrT3poNkxUNmRRdHY5Zy14aWc?oc=5",
+      "published": "Sat, 10 Oct 2026 09:59:22 GMT",
+      "source": "KNN India",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 15.0
+    },
+    {
+      "title": "Kanoria Chemicals expands specialty chemicals push with new triacetin unit in Gujarat - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOU1ZyZWd0dlMwRFl4MWtCV2pRS0tBRDNna3ZNcGs3Y3NRS0l0S1V4T215MzVhLTFuUDRGbXd0U0l3NnkteHY1ZXJvT2REUWh4TXpuN1ZuSjJwbGdPVnpKeHRsU1RWRl9id21tUXJSRjN6YjR6OHhPMDEyOXVFa0dlNG9DRmVnRGY3a2w0WUc1bnVBNTVmaTJ2NmxCSTFjR3JKaXo4UENYQ09SQ1owMGRMUUQ1Skg4eEpNZ3JkMVluZ1lWdi1FdFY2WkxMQjF0MVN6QjIyQU50NnpRM2kxYUZhMFdCbl81NlFtdnphZ1JXeFdqWFpmaDAtcDJOWdIB_wFBVV95cUxOUlBWUkswMU9Pa29jb2Z5amhzNXo3Y09wNXNoN2FYVDJwMWZ0bHl1NFZIem4ybUpkSkxUNnpaZ2QyME1pZ0VSc3E0bExqVzNPeTVhMzZFcFhpV2xadjdJSEQwd0JvcV9IWkZyalgzVmprcjV5azBDdGdaSV9OczlPcWg3N1NqM3NyOVg0YnNTeTlWYVhQRUxwTThoc0xMaWFIWk9LT1VhQ3lFelNsRzhnbWpWN25idF9iT2FDUm5zLVJJQmFKaS1mb2VTcHd6UDRwX3Y4ekFHeFlTYk9mUFl3eHJzaHp6dzVrUDFNN0I0bHFxU2lGdTIySFU1ZUFrMFk?oc=5",
+      "published": "Sat, 10 Oct 2026 21:14:42 GMT",
+      "source": "Indiatimes",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 3.7
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -365,5 +394,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-11T00:56:30.048162+00:00"
 }
