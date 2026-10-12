@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "RBI opens dollar window for oil companies and tightens liquidity - NewsBytes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWJhVUQ0OTN2cU1mY1NlRk1xTjBHdXBCYkRCLW50dGVRdVdrMzROM3V6REtjNFFiU3RoMHp3ZXFRVHJWWnJBZk90N3NOV1V0dUtHNk5LbGItMnUxUU12cXJKY2JBVkZmSVFydjFuTjB2QjlJV3FuaXZMUWE0T1pSbFFoZExSem9OS29xMDhjaUduX25KNy1YYUlBUkRseVNjakhvR2dtTFJBWDAyaWZRM01R?oc=5",
-      "published": "Sun, 11 Oct 2026 17:39:49 GMT",
-      "source": "NewsBytes",
+      "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUdIB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
+      "published": "Mon, 12 Oct 2026 00:30:00 GMT",
+      "source": "bfsi.economictimes.indiatimes.com",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,21 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.2
-    },
-    {
-      "title": "SABIC AN greenlights major Saudi fertiliser expansion set to boost urea capacity by 54% - Indian Chemical News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd1FDUDN4SEVoT0FMb0pac3BYQW9jLTNFWE1scVJZU1piM0ktS2FySW5tVXIxc09hdE9sNmxZYl94ME9vV01GT1RzWHB3TlhtYkJnWFl6UUdraTU3dDF3ZzdrbTN5UDhPWUdqLVFhaGE1TFZBQ2NfZ3ZsUWRZZDF2UWV6SUo3d1NfYnRxbE5TUWRtZ3J4SHJmUXBwMHRvNHc5NUFOWWNWeEV3OXRKTUs5WTczdzloMXVHT2diVGZvaW40U1hJclJDMWZtNm9RcjQ1TkhHWNIB2wFBVV95cUxPdUpocVlKNWpfWm9ObXZINmRyMFNLWHhEaXNwMHBoczNvUmJDM3Fwc29mV3M3bG03ZmtzNGxXVU5mRWR0TEI5dTEyNk1HOVF3UG1hTDZJd01jT2NCaFZOLTVsYW1xeTNuazlBWXl3VC0yeEc5QVlGTGhsdHpuZEVDZXV6TFhrNHBkcXdxUGFFd0VtUkNOUGdLMFRZQzFPaHN5VDR4ZUh3ZGZxcFNTeDBac29WblZRRzVPc3JLb19ELWoyTVoxZ0s5ak5UOUVIbFVtVHpNcHAtMmIyamM?oc=5",
-      "published": "Sun, 11 Oct 2026 03:42:07 GMT",
-      "source": "Indian Chemical News",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 19.1
+      "freshness_hours": 1.8
     },
     {
       "title": "Japanese giant expands China chip packaging materials output amid AI boom - South China Morning Post",
@@ -45,7 +31,21 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 19.8
+      "freshness_hours": 23.2
+    },
+    {
+      "title": "SABIC AN greenlights major Saudi fertiliser expansion set to boost urea capacity by 54% - Indian Chemical News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd1FDUDN4SEVoT0FMb0pac3BYQW9jLTNFWE1scVJZU1piM0ktS2FySW5tVXIxc09hdE9sNmxZYl94ME9vV01GT1RzWHB3TlhtYkJnWFl6UUdraTU3dDF3ZzdrbTN5UDhPWUdqLVFhaGE1TFZBQ2NfZ3ZsUWRZZDF2UWV6SUo3d1NfYnRxbE5TUWRtZ3J4SHJmUXBwMHRvNHc5NUFOWWNWeEV3OXRKTUs5WTczdzloMXVHT2diVGZvaW40U1hJclJDMWZtNm9RcjQ1TkhHWNIB2wFBVV95cUxPdUpocVlKNWpfWm9ObXZINmRyMFNLWHhEaXNwMHBoczNvUmJDM3Fwc29mV3M3bG03ZmtzNGxXVU5mRWR0TEI5dTEyNk1HOVF3UG1hTDZJd01jT2NCaFZOLTVsYW1xeTNuazlBWXl3VC0yeEc5QVlGTGhsdHpuZEVDZXV6TFhrNHBkcXdxUGFFd0VtUkNOUGdLMFRZQzFPaHN5VDR4ZUh3ZGZxcFNTeDBac29WblZRRzVPc3JLb19ELWoyTVoxZ0s5ak5UOUVIbFVtVHpNcHAtMmIyamM?oc=5",
+      "published": "Sun, 11 Oct 2026 03:42:07 GMT",
+      "source": "Indian Chemical News",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 22.6
     }
   ],
   "opportunities": [
@@ -384,5 +384,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-11T22:49:48.177666+00:00"
+  "landed_updated_utc": "2026-10-12T02:18:44.327301+00:00"
 }
