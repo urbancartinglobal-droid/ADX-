@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-12T06:00:23.600423+00:00",
+  "updated_utc": "2026-10-12T15:28:12.206331+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -20,32 +20,18 @@
   ],
   "landed": [
     {
-      "title": "RBI liquidity measures may pressure India bonds; rupee rally to limit losses - Business Recorder",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QlNtOGFhSU1rMEM5OHM0VVVCbmtiZWhZdHRGcFJ6cXozZFR2QkpNQnJIN0hObTMxWEt2dDlPNElSUE9GLV9hek1oU1kyUExTeEpKZVRB0gFWQVVfeXFMTndCU204YWFJTWswQzk4czRVVUJua2JlaFl0dEZwUnpxejNkVHZCSk1Cckg3SE5tMzFYS3Z0OU80SVJQT0YtX2F6TWhTWTJQTFN4SkplVEE?oc=5",
-      "published": "Mon, 12 Oct 2026 06:06:07 GMT",
-      "source": "Business Recorder",
+      "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
+      "published": "Mon, 12 Oct 2026 00:30:00 GMT",
+      "source": "bfsi.economictimes.indiatimes.com",
       "sector": "Banking & Financials",
       "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.6
-    },
-    {
-      "title": "Vector Line Capital makes first India investment with $75 million in Tessolve - DQ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFZmRjQyVFVJbzRGTHhlRUNjdFR4aVJfVFJYNDFJMkx3Mk9BR1o1dUtIQUQ0UVUwQ0VWcWtMS3pBSjY5Z2xrV19ETmJDTV82SjVYVC1qa3JGTDJaYTZZUXVIWDIycGlkS1F6Uld4YWplNEQtakZIYW13b2hOU0RqZjlibnRZMDk1SkNSdUZFMzNWZ9IBkgFBVV95cUxQdFZmRjQyVFVJbzRGTHhlRUNjdFR4aVJfVFJYNDFJMkx3Mk9BR1o1dUtIQUQ0UVUwQ0VWcWtMS3pBSjY5Z2xrV19ETmJDTV82SjVYVC1qa3JGTDJaYTZZUXVIWDIycGlkS1F6Uld4YWplNEQtakZIYW13b2hOU0RqZjlibnRZMDk1SkNSdUZFMzNWZw?oc=5",
-      "published": "Mon, 12 Oct 2026 07:25:57 GMT",
-      "source": "DQ",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
+        "POLICY"
       ],
       "label": "GIGA+",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 15.0
     }
   ],
   "opportunities": [
@@ -403,6 +389,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-12T10:39:17.332602+00:00"
+  ]
 }
