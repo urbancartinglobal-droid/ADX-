@@ -18,7 +18,36 @@
       "signal_score": 25.6
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Expects Surplus Liquidity In Banking System To Decline Shortly: Governor Malhotra - News18",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX05qRlFKeHEyaTFDNnlkOFBMbF9DQ0Z1cjRkMTNZZGdPMjJsVk1udTNPNk5FSXczSFFvWElIUzg4X3RUTC1HdmpPNHcxU3lpbFFpNDJ4S1JNSkhzUE5FR3oyUUQ4a3Y0dVNJSnBQWEVPdGdmLU1ObjBMN3VMTlJOOVV0cENDdHBMSW04NER2dGJoRGtTdy1zYTNKM0VtTzdPd3E1UE1abXhBbTlQN2RYcDlXVm5Jd0pBSG11SXF4TGZSdTkyTUlNYU9vZ05OclRQN2toTmY1Z0RCS29mWkF6R3dxdkRBQdIB6wFBVV95cUxQU204NjVJTGpzSnhjdFZ4UXVZak9hb1haeGJpb3o0bVJKMUNwaks3WlN5Vi1xTm1BWTBQZWxZN1ZyN3R5aXJsVFJfanZCUVNoRmM4WG04ZHdyRmJJS2IyempEdDZSZ19QR2hTWEJTMHFTd3BfTk9lMnY1cG15ak1nSVEyQi1DTlJVV0FKcUdtWERObkoxU1NyeXB6SDIyaE5LRmJVUWNRa1F0Y3dsUWlURTVJTVdSUVhMM0czQXQ1bTRSVjE0SUVNLU8yUUxhaFZKNklHd1VEbWc5dlNBQy1WZHZiZnlfd01LRVB3?oc=5",
+      "published": "Wed, 14 Oct 2026 06:59:08 GMT",
+      "source": "News18",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 16.9
+    },
+    {
+      "title": "India’s Chip Revolution Opens Door to Self-Reliance and Global Opportunity - India Business Trade",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHVkSGpEbXVPVVVBUm1hNVBZdVdacWd2N053Vk43MTlvNkN4VF9ZR2NxUDdHY0hZN2d3bXg4aFZkNjlnTS14Z0NaSjBDcG5mSVlBRTBpTXBzdHg5bkc0ZGRKUzlpVkdydTlBTW9seUZNMlI2aGpGSlFVZ0ZyU040YjVDalRmb0MtN2c?oc=5",
+      "published": "Wed, 14 Oct 2026 07:05:33 GMT",
+      "source": "India Business Trade",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 16.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -370,5 +399,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-14T23:53:21.796510+00:00"
 }
