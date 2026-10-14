@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-14T04:55:39.211295+00:00",
+  "updated_utc": "2026-10-14T11:54:50.854918+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,68 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 28.1
-    },
-    {
-      "title": "NBFCs In Q2FY27: What To Expect? - Q2 NBFC growth remains strong; Focus shifts to margin and credit quality - Diversified and vehicle financiers lead earnings growth - H2 risks: RBI rate hike raises H2 funding-cost risk, rural stress and any correction in gold - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXNidUs2aUhrajlLSktVWXMzbndYN0hpZk9FLTdTeURMczRob2g3ZG84X0ZuVHUwS1RrZmJJejRWOEJCLXpPWnk1TnlMbjQ4cHk5enlISHhkMW14YklSTzhEY1pPek1CQ2NDMU5XSVRYLTB3aTNSeXBmN0xmbmFpYTJLODhwNXBjdUh2R2tubzBEYzV2THZDemJlYVdsb1hrMzdTOHh0Zw?oc=5",
-      "published": "Thu, 08 Oct 2026 09:04:02 GMT",
-      "source": "LinkedIn",
-      "feed": "Banking & Financials",
-      "description": "NBFCs In Q2FY27: What To Expect? - Q2 NBFC growth remains strong; Focus shifts to margin and credit quality - Diversified and vehicle financiers lead earnings growth - H2 risks: RBI rate hike raises H2 funding-cost risk, rural stress and any correction in gold LinkedIn",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "POLICY",
-        "PRICING",
-        "CORPORATE"
-      ],
-      "signal_score": 20.0
+      "signal_score": 27.1
     }
   ],
-  "landed": [
-    {
-      "title": "RBI Tightens Bank Liquidity Requirements - Bankersadda",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaV0RjTE5qNmpKUUk3dkVvTUdVWmEwTzk4dFdwbTRseEd4NTBXY2dlQ3JqNHJ5ajJnRkttRko5dUdFUG43LTB3ZGs1aVR3Y3RucmdJbHRBeFZ6MFBfd0FoWHdfcUprMFo2YkE5WkcwRnZDNXl1QzR4YQ?oc=5",
-      "published": "Wed, 14 Oct 2026 06:55:40 GMT",
-      "source": "Bankersadda",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
-    },
-    {
-      "title": "Tata chip intent remains 'certain' despite pressure for faster returns on investments - Dailyhunt",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNU1V1cjd3aGlKN2pWdm1ROTFybElhVlQ5cUJJR2ZVcFIzX2dmajRCNTNrMk1qVnFIemZtQ0FWNUx6elYyRUQxU1hQcGphTlY5NjFBMVFFSGh2cFlNSlNtYTNWZDJEWW1QSmZOM0J0ZnJwc3JWUFg0Yk1LcWZKV1ppaU5JaFotaHRpdGVMd2pVSTBEelNvUkNrV3hvOVQwY0RRd0tIemU4TzdvQWZEY29tX3p5R3VfUXJLQjBSRDJRbDF1ZVdUeENEZElIZi11UEItN1FZeThUcUZWNE1nNE11RVQySERPY2k4UFdmX3FGYkJHLVM4MDlXWk9BRU02R0pjeUQ4?oc=5",
-      "published": "Wed, 14 Oct 2026 04:00:40 GMT",
-      "source": "Dailyhunt",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.1
-    },
-    {
-      "title": "Piramal Pharma Cuts China Raw Material Exposure To Single Digits - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeERJajlMQW1qaUE3bnBBVXIwdU55cGlzZkxQemxibExoN1J0MnJUQ2R4ekZxMVRYZERzRGM3ZDlzN2c0SUdjcVhKYUNNamctSElrWVV1MTI1SmY2aW5lbmdxWF8tX1M5U3ItbEhkUkpNZ0d3Z1gzWk5rME40MW9pekZPLXFIdEFGOUJLT3NsMmxRQi1wSW05WFR0N0Rhd3UwcGZNZDhERF9LYlN1S1poNHM4aFFFRGU0MnFGXzFR?oc=5",
-      "published": "Tue, 13 Oct 2026 17:01:19 GMT",
-      "source": "TradingView",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 17.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -158,10 +100,9 @@
     {
       "industry": "Banking & Financials",
       "score": 62,
-      "article_count": 5,
-      "trigger_count": 10,
+      "article_count": 4,
+      "trigger_count": 7,
       "triggers": [
-        "CORPORATE",
         "POLICY",
         "PRICING",
         "TRADE"
@@ -173,17 +114,6 @@
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
           "triggers": [
             "POLICY"
-          ],
-          "companies": []
-        },
-        {
-          "title": "NBFCs In Q2FY27: What To Expect? - Q2 NBFC growth remains strong; Focus shifts to margin and credit quality - Diversified and vehicle financiers lead earnings growth - H2 risks: RBI rate hike raises H2 funding-cost risk, rural stress and any correction in gold - LinkedIn",
-          "source": "LinkedIn",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXNidUs2aUhrajlLSktVWXMzbndYN0hpZk9FLTdTeURMczRob2g3ZG84X0ZuVHUwS1RrZmJJejRWOEJCLXpPWnk1TnlMbjQ4cHk5enlISHhkMW14YklSTzhEY1pPek1CQ2NDMU5XSVRYLTB3aTNSeXBmN0xmbmFpYTJLODhwNXBjdUh2R2tubzBEYzV2THZDemJlYVdsb1hrMzdTOHh0Zw?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING",
-            "CORPORATE"
           ],
           "companies": []
         },
@@ -218,11 +148,11 @@
           "companies": []
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "watch": "WATCH",
-      "reason": "Cross-signal CORPORATE, POLICY, PRICING, TRADE; 5 distinct story clusters; 4 independent sources; 1 fresh evidence items; mixed positive/negative evidence.",
-      "source_count": 4,
-      "story_clusters": 5,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources; 1 fresh evidence items.",
+      "source_count": 3,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -233,21 +163,20 @@
     },
     {
       "industry": "Power & Grid",
-      "score": 37,
+      "score": 36,
       "article_count": 2,
-      "trigger_count": 3,
+      "trigger_count": 2,
       "triggers": [
         "CAPEX",
         "PRICING"
       ],
       "evidence": [
         {
-          "title": "Transformer Shortage Fuels Grid Investment - megaproject.com",
-          "source": "megaproject.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmxCaFBnWTJjUjJhdjhYNnpjMTlEdFo1eEx2aU9jbV9JQlVPa2RhaENMa2tFMWdXUjBFLWtWU05LY3d2TloyU2R2YmRQMk5aWlF3dWYzXy1mWTBwcnFuX25BS2RsQ3V4dmNtbVh0MUZ4Q1dEd0pQM004UzdsOGE4MTBqVlo5M3FaZ3c?oc=5",
+          "title": "Rs 7.9 lakh crore power boom: Why India’s power transmission sector is a massive investment opportunity - The Financial Express",
+          "source": "The Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUs2VS1kQzQ3cElNNFBUa0tJOUZRRlVnaXZqLTRGSnE5MWNxRzh4OGgtVE1oOFktQ3RsUEVlRFNLXzBSaGROekc3S256NlE0RmVOa1o5M0lkTmRVQVBnWjRDZ0pEYXdYS2R3ZkFUU2JoaGRpTXBRemhJYmMtMGhKLTNJci1kMno3ZDNsTGpWQzNsdzE0QjBXZXhJdHNlS1B2Tnc2c0VfMkprR2xqUlRCcW5PeG03QnFTSVZ6QkJTb0NsT3p5SW1qX0RkdlNqLXE5QmNfTHJnWlVGQXpSNW4tUnotRzdtR1hkR1RNWUZESU94ZWPSAfoBQVVfeXFMT1diNFRLbHRiOHh4TWNlYWdueDQtcDBuamdsRnZ2QVJsSEhPNlBtRThEcFNmemZfV1ROd3ZtYkljdlh0cWFPdm4zNVBabTZoM2hSTlUwczR2S2hia1dveFJWWE10ZzRNR3pxajNia1Y4eUw3cklySEM1NWIza0pQamRhWk1YYkdkX3Z6ZXdjNG5ZMW9wbExKWUxFd294R3cwdkMtdlJsQUtUc3RnYzFwbGRJY0tSNnEyRlRVU3VmXzFEYzBVTmo1dWhVd1o1VjBkV1NHSUtjenNPRkZGQ0YydGQ0Q0ppOGJKaEhyMk40WHI5bUR1ZHJHTlhNdw?oc=5",
           "triggers": [
-            "CAPEX",
-            "PRICING"
+            "CAPEX"
           ],
           "companies": []
         },
@@ -423,6 +352,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-14T10:06:51.297701+00:00"
+  ]
 }
