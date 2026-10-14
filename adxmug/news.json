@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-13T22:46:28.195926+00:00",
+  "updated_utc": "2026-10-14T04:55:39.211295+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,7 +15,7 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 36.0
+      "signal_score": 28.1
     },
     {
       "title": "NBFCs In Q2FY27: What To Expect? - Q2 NBFC growth remains strong; Focus shifts to margin and credit quality - Diversified and vehicle financiers lead earnings growth - H2 risks: RBI rate hike raises H2 funding-cost risk, rural stress and any correction in gold - LinkedIn",
@@ -30,53 +30,10 @@
         "PRICING",
         "CORPORATE"
       ],
-      "signal_score": 21.3
+      "signal_score": 20.0
     }
   ],
-  "landed": [
-    {
-      "title": "RBI expects surplus liquidity in banking system to decline shortly: Governor Malhotra - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQm54ekxWck41b0REWjdlcHpuQUJaQ0RrSnRmc0xJc3BaZVJNNUo3Zi1lZmpNSE1CeURkTnhyV3JBVGQ5MjEwX2ZOWGRfTi1fNHZKa2lUZV94c3VfaTVEX01yS081OEVQUmVRckZEcWdmdXlpdzVZNXhDSW5teUhZMlpSMmVMR0E4WG5LYlhrYW5aQVotSktITzlYemp1dk1oSkdKYklvak1RUlpNek1RWnIxU3JCRkRiSHB3SFRLeHpvd0d0TUlpRThWYUs1MFNUT045RVprSEQ4LTV4VHBSaw?oc=5",
-      "published": "Tue, 13 Oct 2026 13:07:07 GMT",
-      "source": "TradingView",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.6
-    },
-    {
-      "title": "Tata chip intent remains 'certain' despite pressure for faster returns on investments - Dailyhunt",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVS1UdjU0S3hxLW5WVW9KOGNWelVrY0JVbnhxNldKLXluZFJ0WWFhN1ZSTWcxNjJXUVZ0QndBUnhSaHdidkF0S2xHUk5xa3ZuZUhiUDVKTkRMcmdCSW02eDl1bGQ1REFkNEVfc09LVkF2VVRXVmloQ0N4bUVLaW5kNXE1cHlmVEFGNV9rVlhXNVpIc1Y0b3dPX1hJR1RuNk9OOU5tc2NKZDl3dExibjJ4RGtwUU9Jb3h0TWxyb3FfbDRRX1dYendiSUZxTTdqa0RBazQ2RjJwNWRlMGdpZnVsSGp1bGN2MTZBSGI3ZHloSTM2ZXBLVVRnMmJPRnRBZHRVTmc?oc=5",
-      "published": "Wed, 14 Oct 2026 03:36:40 GMT",
-      "source": "Dailyhunt",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.2
-    },
-    {
-      "title": "Piramal Pharma Cuts China Raw Material Exposure To Single Digits - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeERJajlMQW1qaUE3bnBBVXIwdU55cGlzZkxQemxibExoN1J0MnJUQ2R4ekZxMVRYZERzRGM3ZDlzN2c0SUdjcVhKYUNNamctSElrWVV1MTI1SmY2aW5lbmdxWF8tX1M5U3ItbEhkUkpNZ0d3Z1gzWk5rME40MW9pekZPLXFIdEFGOUJLT3NsMmxRQi1wSW05WFR0N0Rhd3UwcGZNZDhERF9LYlN1S1poNHM4aFFFRGU0MnFGXzFR?oc=5",
-      "published": "Tue, 13 Oct 2026 17:01:19 GMT",
-      "source": "TradingView",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 11.7
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -423,6 +380,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-14T04:45:54.384203+00:00"
+  ]
 }
