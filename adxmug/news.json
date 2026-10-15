@@ -31,13 +31,13 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.9
+      "freshness_hours": 21.5
     },
     {
-      "title": "India’s Chip Revolution Opens Door to Self-Reliance and Global Opportunity - India Business Trade",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHVkSGpEbXVPVVVBUm1hNVBZdVdacWd2N053Vk43MTlvNkN4VF9ZR2NxUDdHY0hZN2d3bXg4aFZkNjlnTS14Z0NaSjBDcG5mSVlBRTBpTXBzdHg5bkc0ZGRKUzlpVkdydTlBTW9seUZNMlI2aGpGSlFVZ0ZyU040YjVDalRmb0MtN2c?oc=5",
-      "published": "Wed, 14 Oct 2026 07:05:33 GMT",
-      "source": "India Business Trade",
+      "title": "ASML Says AI Chip Demand Is Stretching Into 2030. It Already Expects Supply Shortages Through 2028. - inkl",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmZreUNJdnNWLTlUZDhzRVJEb29YYXcwVFpoMWhCalEtLThRMWdFX25TcU4xYW9CS1RHZVdIVGhCRk9xSmNQdjRtNC1GeUlwOW1GbU5iY3lWWF9iS3Y3VEV5Q2pEUWRNMlFoOUZIempUS3BaVEF5a3JwUWp6bU8zY19DOFlYNS1NZnNtTExScG82ckVIN2ZTZTNaanc3bFFiQVBtSS01ekZyMUp2RVd6M3RFN19nYi1pOTgxd2ZLd1c?oc=5",
+      "published": "Wed, 14 Oct 2026 22:02:01 GMT",
+      "source": "inkl",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 16.8
+      "freshness_hours": 6.4
     }
   ],
   "opportunities": [
@@ -400,5 +400,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-14T23:53:21.796510+00:00"
+  "landed_updated_utc": "2026-10-15T04:28:44.857020+00:00"
 }
