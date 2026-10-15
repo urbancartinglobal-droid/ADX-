@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-15T04:41:38.118675+00:00",
+  "updated_utc": "2026-10-15T11:31:23.089689+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,39 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 24.6
+      "signal_score": 23.5
     }
   ],
-  "landed": [
-    {
-      "title": "TSMC open to partnership with Elon Musk’s Terafab as chip giant's Q3 profit hits record $23.6 billion - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcFJSVE5rTC1nNURWbHppbENJSlVOSEFycnhzY0g5alNOY2RJQ2dnVC1ZMDVDVDRWT3M0UjJOWV85M0FnYUhFcFpBbEQxTEFSc2w2TTRvWU56UGN0OTRWYUMwWjJLTUZFVnpPVDRNTElJSVY2eG8tUnlpbmtDRm5ZdnZ2OHFGVDZ4d3dYNjQyUW1WRGl1YUlwMDU4SkhabjM5LVFXaFdYX3pTSWdsME5wRXhBbDdlc2JSaVFrVVpUZ0JyT1BlVEhJajlaVE9KMGJRcVpnaDVzYThyV1hrNkQ2ekR3R2NESHhxd0JEM2ZrMmvSAfYBQVVfeXFMTnBTWDJnVHJzd3BDR05Vbkc3dXR5ZXdrNnJ4bUdUeHY4MTJhUTEwOHEzQllQU0lUeG41anBPUjFvQ05nS3hfbGVhTWVjRVBLcmVBejRXQ1hUMEUxbmdNczBzbWIzc3hsaWxqMHExVWk0NEpTZFY4NzI3WE9Rd19DRmtmdElhajZQRXJUNkN1bEpXSTNzb08yN1pnWGk5OVM0OFl1empMaUxjbjUxcTc1cG5GZWRZcVVjSHhLM0pNelFDX2pKbEJtb3dnV1Q2eUlvck9OUlVtNl9SZF9QWkVFMWNDTTVUeFUtMFlyQzNZS25YNEVHYTRB?oc=5",
-      "published": "Thu, 15 Oct 2026 09:03:54 GMT",
-      "source": "Livemint",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 0.8
-    },
-    {
-      "title": "RBI Raises Daily CRR Maintenance Requirement for Banks to 99% from October 16 - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHA0c1o4Y0F2RjN5OUNGa095WlBjOXotcENRcmFaOHNqd1BHVlVpekZWTXlSXzFyeXJGWTk4Wk5NNk1CUzBGWnJYSnpsODR2eGNJMnNTdUI5cktXNnREMXBfb1ExaktxX2pxWk0wNmtPcDE0c0NVYmR5eGFtVm1FREtsYzdDT1BucHFoa2ZMNEFqRkJ1NFRjZTBSMmM5S2tKMlFPbw?oc=5",
-      "published": "Thu, 15 Oct 2026 07:35:39 GMT",
-      "source": "News On AIR",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.2
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -364,36 +335,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Chemicals & Materials",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "Cabinet approves Rs. 10,601 crore brownfield ammonia-urea plant in Assam - Indian Chemical News",
-          "source": "Indian Chemical News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQlZHTHI4MlZqdGNUZ1d4OGNieGlES3Y4clpWXzQ2S2UyMF9TTTBkSkpWb2wzTmQ0cTI5QndHeUdBTmpnRzVNaHhjbTZlc19oTEpScVRJdGxMNHR6aTVUeE9sbFRtU1hwTGxyaUpHdUI3M205d3p2cFJ3VEsxdDI0c0pKVU5qYm4yUFpzNTVlZW0tZFdPQ3ZYS3VGNU1jZE5uejNuRHdaVnRQeUxvM203SWJ1WFNIYWk3S1HSAcABQVVfeXFMT2JneHNCcld5RWRxNnZQZW9ZM3JVZXhKNV9jSEc0Q0RMZkZWMHUyY01TWUhkV1ZMVTZ0V2pRWlh6UTRtUnotYTN3cElTLXhSZl9YOEtJUW9UVGpFdnRRRjFhbS1aY3BPYUs0T2x3OXFUZ2dObUIweF84OGtTc1RSbV9DYURXUjNXMjNKWGd0WVFuUEZNUTJHVll1ZUlfSEdqMFUzVmQxSVZmWVRpcDZPVUx0SHdKUlVWS2NCUlJOQVB4?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Rail & Infrastructure",
       "score": 0,
       "article_count": 0,
@@ -408,7 +349,22 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Chemicals & Materials",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-15T09:49:28.191275+00:00"
+  ]
 }
