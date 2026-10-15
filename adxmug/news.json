@@ -18,7 +18,36 @@
       "signal_score": 23.5
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI eases confusion over 20% forex reserve rule, but banks must still park cash with central bank - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMDdmOG9xX0ljRm1jLVhMNXBqTDFDR3RQSEhnNzRTcVIyZ1hqT0hlcjJHNnJ2VXUwYkJudlA2R2lmOWdiVU1kMEkyOTQ0ZXkxRDhzQ094VjRlcHlJR2g5V3ZBeEY5RllKTV9rSlRSY3ZWVUVneGRNR0VxV3ltLTd5YTg2dVRuRkdQVDJ2OWNsWW9GYWN3OWpwdHNfeHJHUDQ2cFF0OGtDUTNTU3c5T2pKTnl3YjBqYWs4MTg5cDd1OFFrOHMxeVJnVDVUOVh6Sk10R1JmQUNrMVRIRnlRaEozNnNFb2wwcGgxb01PWFllWdIB9AFBVV95cUxOcHJITnVwVktSa1dEa01KM0ZoZlFrNHUxYmpfRXVpM01hUkxWMmRvMVE4Rnl4NS1CZFJKNUZFaWx6N1JTdXJkZTZFaGhaaFc3X182eWZzUDJkZ3pCcEpPNHE5cUlWVk44ZnZqMlpvV25UbWdXTlQ4STdkNG5kMXg0M05qcDFyVmNCX0J3Zi16NXRtdWpHZEVZaGFseUc1dmNQWk1vTjNQYk9hSnZiWUlGSGZKakJGQmJxV3R0dG1CaHlyc3hlaDdrWFplaEExRS1HQS05YmU3YlVwMmVYNG1hbHJXTEY5T1daUUdlQ3JwbHk3eXhL?oc=5",
+      "published": "Thu, 15 Oct 2026 12:59:24 GMT",
+      "source": "Moneycontrol.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.0
+    },
+    {
+      "title": "Fujifilm invests $18 million to expand US semiconductor materials production - Indian Chemical News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR05sQWpWeWFvYXJBMi15Zzc0OTIyWUZiNUt4MXNNU0xJdjVJSVhjcm9mejZiUkVRd1lqOUZWaGcydVFuSUp3bUFWZ20tVFFORUxYZ1hnRnBFSGxLSENlVjN6WHRQaGo3R0hkOGpFU0VjNjVPRTRMQzNGRml0YVczLVBPdWRvWXV5d2xrbzYzbWJ6SExxMnpWbll3WmJ2LVdDM0JJSXhNY0FURndtTE5zOTF1Zml0ZHlNNzY4MWJrNy1OemVva294N3J30gHQAUFVX3lxTFBpZG9pa2paRzFyWHJ5aW41Q0pSNU44d1gwX3FFZ3ZjdC0yQlN3SlNkRzY5SHgyRElqZ0ZoTHUyNEx1dUFZeU9SeWM0X3UtQmZEZHFXU1h3TmRIQ2t4WVZvWGs4LVlrd0s2UGFIenZjNk9WamxIdnR4X0FiQWVENmhEQnN5amtfNFdTR0JjdEM2UW9SMEhqWGd5TTFXMGZRZ0VNWEdGT1BVN2xrcTNHcEJIc1NYZlJCcHFiRnN0cGd2M0FnM1dkVHZFczVMWXFVNjU?oc=5",
+      "published": "Thu, 15 Oct 2026 07:32:57 GMT",
+      "source": "Indian Chemical News",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 7.4
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -366,5 +395,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-15T14:56:43.758354+00:00"
 }
