@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-15T17:02:44.935866+00:00",
+  "updated_utc": "2026-10-15T21:24:04.767672+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,39 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 22.7
+      "signal_score": 22.1
     }
   ],
-  "landed": [
-    {
-      "title": "RBI eases confusion over 20% forex reserve rule, but banks must still park cash with central bank - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMDdmOG9xX0ljRm1jLVhMNXBqTDFDR3RQSEhnNzRTcVIyZ1hqT0hlcjJHNnJ2VXUwYkJudlA2R2lmOWdiVU1kMEkyOTQ0ZXkxRDhzQ094VjRlcHlJR2g5V3ZBeEY5RllKTV9rSlRSY3ZWVUVneGRNR0VxV3ltLTd5YTg2dVRuRkdQVDJ2OWNsWW9GYWN3OWpwdHNfeHJHUDQ2cFF0OGtDUTNTU3c5T2pKTnl3YjBqYWs4MTg5cDd1OFFrOHMxeVJnVDVUOVh6Sk10R1JmQUNrMVRIRnlRaEozNnNFb2wwcGgxb01PWFllWdIB9AFBVV95cUxOcHJITnVwVktSa1dEa01KM0ZoZlFrNHUxYmpfRXVpM01hUkxWMmRvMVE4Rnl4NS1CZFJKNUZFaWx6N1JTdXJkZTZFaGhaaFc3X182eWZzUDJkZ3pCcEpPNHE5cUlWVk44ZnZqMlpvV25UbWdXTlQ4STdkNG5kMXg0M05qcDFyVmNCX0J3Zi16NXRtdWpHZEVZaGFseUc1dmNQWk1vTjNQYk9hSnZiWUlGSGZKakJGQmJxV3R0dG1CaHlyc3hlaDdrWFplaEExRS1HQS05YmU3YlVwMmVYNG1hbHJXTEY5T1daUUdlQ3JwbHk3eXhL?oc=5",
-      "published": "Thu, 15 Oct 2026 12:59:24 GMT",
-      "source": "Moneycontrol.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.1
-    },
-    {
-      "title": "Fujifilm invests $18 million to expand US semiconductor materials production - Indian Chemical News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR05sQWpWeWFvYXJBMi15Zzc0OTIyWUZiNUt4MXNNU0xJdjVJSVhjcm9mejZiUkVRd1lqOUZWaGcydVFuSUp3bUFWZ20tVFFORUxYZ1hnRnBFSGxLSENlVjN6WHRQaGo3R0hkOGpFU0VjNjVPRTRMQzNGRml0YVczLVBPdWRvWXV5d2xrbzYzbWJ6SExxMnpWbll3WmJ2LVdDM0JJSXhNY0FURndtTE5zOTF1Zml0ZHlNNzY4MWJrNy1OemVva294N3J30gHQAUFVX3lxTFBpZG9pa2paRzFyWHJ5aW41Q0pSNU44d1gwX3FFZ3ZjdC0yQlN3SlNkRzY5SHgyRElqZ0ZoTHUyNEx1dUFZeU9SeWM0X3UtQmZEZHFXU1h3TmRIQ2t4WVZvWGs4LVlrd0s2UGFIenZjNk9WamxIdnR4X0FiQWVENmhEQnN5amtfNFdTR0JjdEM2UW9SMEhqWGd5TTFXMGZRZ0VNWEdGT1BVN2xrcTNHcEJIc1NYZlJCcHFiRnN0cGd2M0FnM1dkVHZFczVMWXFVNjU?oc=5",
-      "published": "Thu, 15 Oct 2026 07:37:27 GMT",
-      "source": "Indian Chemical News",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 11.5
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -364,6 +335,36 @@
       "fresh_count": 0
     },
     {
+      "industry": "Chemicals & Materials",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "National Fertilizers Invests ₹5.72 Billion in Assam Valley Fertilizer for New Ammonia-Urea Facility - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSEh4VXFnYTFuMDZPdk9tRk8zWTAtdEpHaVVRM3FvTzZWc2J2SVFyczh4dXcweTFzQ2xqcVRPMXRKZjdYTFBtaXY0cW01Yk9BWTZ2T2ZVS0lfSzlOcmMtaE5PLWFjczZZckZYZHEwbmVFLWY2QUo2OTdJb2ZhVkdmTC1CM2ZFWVI2QXBfOEVTSXZpT1c4TVQ1TmpKTnRNNnlqanBCd1JjRDR2bjF3MU1BZks5WXRXTEFOdW1NWFByQ0U1ZDZJWkpmNGx5eC1ieG81SjhmMmlXQm5aTVIwZHdKQjRMcVJiZEItTmh5aEdySHRuYUYwS0E?oc=5",
+          "triggers": [
+            "TRADE"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal TRADE; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Rail & Infrastructure",
       "score": 0,
       "article_count": 0,
@@ -378,23 +379,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Chemicals & Materials",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-15T19:04:56.478030+00:00"
+  ]
 }
