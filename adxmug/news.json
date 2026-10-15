@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-14T21:42:11.591619+00:00",
+  "updated_utc": "2026-10-15T04:41:38.118675+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,39 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 25.6
+      "signal_score": 24.6
     }
   ],
-  "landed": [
-    {
-      "title": "RBI Expects Surplus Liquidity In Banking System To Decline Shortly: Governor Malhotra - News18",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX05qRlFKeHEyaTFDNnlkOFBMbF9DQ0Z1cjRkMTNZZGdPMjJsVk1udTNPNk5FSXczSFFvWElIUzg4X3RUTC1HdmpPNHcxU3lpbFFpNDJ4S1JNSkhzUE5FR3oyUUQ4a3Y0dVNJSnBQWEVPdGdmLU1ObjBMN3VMTlJOOVV0cENDdHBMSW04NER2dGJoRGtTdy1zYTNKM0VtTzdPd3E1UE1abXhBbTlQN2RYcDlXVm5Jd0pBSG11SXF4TGZSdTkyTUlNYU9vZ05OclRQN2toTmY1Z0RCS29mWkF6R3dxdkRBQdIB6wFBVV95cUxQU204NjVJTGpzSnhjdFZ4UXVZak9hb1haeGJpb3o0bVJKMUNwaks3WlN5Vi1xTm1BWTBQZWxZN1ZyN3R5aXJsVFJfanZCUVNoRmM4WG04ZHdyRmJJS2IyempEdDZSZ19QR2hTWEJTMHFTd3BfTk9lMnY1cG15ak1nSVEyQi1DTlJVV0FKcUdtWERObkoxU1NyeXB6SDIyaE5LRmJVUWNRa1F0Y3dsUWlURTVJTVdSUVhMM0czQXQ1bTRSVjE0SUVNLU8yUUxhaFZKNklHd1VEbWc5dlNBQy1WZHZiZnlfd01LRVB3?oc=5",
-      "published": "Wed, 14 Oct 2026 06:59:08 GMT",
-      "source": "News18",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 21.5
-    },
-    {
-      "title": "ASML Says AI Chip Demand Is Stretching Into 2030. It Already Expects Supply Shortages Through 2028. - inkl",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmZreUNJdnNWLTlUZDhzRVJEb29YYXcwVFpoMWhCalEtLThRMWdFX25TcU4xYW9CS1RHZVdIVGhCRk9xSmNQdjRtNC1GeUlwOW1GbU5iY3lWWF9iS3Y3VEV5Q2pEUWRNMlFoOUZIempUS3BaVEF5a3JwUWp6bU8zY19DOFlYNS1NZnNtTExScG82ckVIN2ZTZTNaanc3bFFiQVBtSS01ekZyMUp2RVd6M3RFN19nYi1pOTgxd2ZLd1c?oc=5",
-      "published": "Wed, 14 Oct 2026 22:02:01 GMT",
-      "source": "inkl",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 6.4
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -128,9 +99,9 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 62,
-      "article_count": 4,
-      "trigger_count": 7,
+      "score": 66,
+      "article_count": 5,
+      "trigger_count": 9,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -143,6 +114,26 @@
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
           "triggers": [
             "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
           ],
           "companies": []
         },
@@ -165,23 +156,13 @@
             "PRICING"
           ],
           "companies": []
-        },
-        {
-          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "WATCH",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources; 1 fresh evidence items.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources; 1 fresh evidence items.",
       "source_count": 3,
-      "story_clusters": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -399,6 +380,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-15T04:28:44.857020+00:00"
+  ]
 }
