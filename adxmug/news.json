@@ -18,7 +18,36 @@
       "signal_score": 24.6
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "TSMC open to partnership with Elon Musk’s Terafab as chip giant's Q3 profit hits record $23.6 billion - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcFJSVE5rTC1nNURWbHppbENJSlVOSEFycnhzY0g5alNOY2RJQ2dnVC1ZMDVDVDRWT3M0UjJOWV85M0FnYUhFcFpBbEQxTEFSc2w2TTRvWU56UGN0OTRWYUMwWjJLTUZFVnpPVDRNTElJSVY2eG8tUnlpbmtDRm5ZdnZ2OHFGVDZ4d3dYNjQyUW1WRGl1YUlwMDU4SkhabjM5LVFXaFdYX3pTSWdsME5wRXhBbDdlc2JSaVFrVVpUZ0JyT1BlVEhJajlaVE9KMGJRcVpnaDVzYThyV1hrNkQ2ekR3R2NESHhxd0JEM2ZrMmvSAfYBQVVfeXFMTnBTWDJnVHJzd3BDR05Vbkc3dXR5ZXdrNnJ4bUdUeHY4MTJhUTEwOHEzQllQU0lUeG41anBPUjFvQ05nS3hfbGVhTWVjRVBLcmVBejRXQ1hUMEUxbmdNczBzbWIzc3hsaWxqMHExVWk0NEpTZFY4NzI3WE9Rd19DRmtmdElhajZQRXJUNkN1bEpXSTNzb08yN1pnWGk5OVM0OFl1empMaUxjbjUxcTc1cG5GZWRZcVVjSHhLM0pNelFDX2pKbEJtb3dnV1Q2eUlvck9OUlVtNl9SZF9QWkVFMWNDTTVUeFUtMFlyQzNZS25YNEVHYTRB?oc=5",
+      "published": "Thu, 15 Oct 2026 09:03:54 GMT",
+      "source": "Livemint",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 0.8
+    },
+    {
+      "title": "RBI Raises Daily CRR Maintenance Requirement for Banks to 99% from October 16 - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHA0c1o4Y0F2RjN5OUNGa095WlBjOXotcENRcmFaOHNqd1BHVlVpekZWTXlSXzFyeXJGWTk4Wk5NNk1CUzBGWnJYSnpsODR2eGNJMnNTdUI5cktXNnREMXBfb1ExaktxX2pxWk0wNmtPcDE0c0NVYmR5eGFtVm1FREtsYzdDT1BucHFoa2ZMNEFqRkJ1NFRjZTBSMmM5S2tKMlFPbw?oc=5",
+      "published": "Thu, 15 Oct 2026 07:35:39 GMT",
+      "source": "News On AIR",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -380,5 +409,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-15T09:49:28.191275+00:00"
 }
