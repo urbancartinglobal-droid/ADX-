@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-16T04:33:46.654471+00:00",
+  "updated_utc": "2026-10-16T11:26:25.006274+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,39 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 21.0
+      "signal_score": 20.0
     }
   ],
-  "landed": [
-    {
-      "title": "3 Chip Equipment Stocks Tied To US Japan Fab Expansion - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFVuclZqSkRGM0Q3SXBOYmc2OER1RTZVRjBBT25CR3BnZjZVTllNZXRXNkdkQXg4N2lJTWJxN1lUSk40NzVKekNXNk9aWmc3VUNOcVppNnVMSHljT2xtdzBLOXpPNnEySVFQNUxXZDFaRW1VM3drZUM4RmpNYjM0VEQzNGRrcTJuU2xPcVB1X3NERDdPd0I3OFNZUHpRMWhsclhwWXhydXRFS19ySF9yNkFqaHcxRnItWjFKRElQNWYxOXlkelFIaGtJONIB0AFBVV95cUxQc0lTXzlWVk9oZkJ6dDJ5UFFCVl9HSjdza1JvYWg0d1dqNHFqMU96WVZLQzFzRFlvLVBHSmMteVNVdEpiTGdWajh0ckFHNGhJTzhPb0FsNkpRbEt1SWNNMTEtcGJzNGFreHJyYjNUQVJiaTFxZkZKeEE4WlotSUdqNHN0ODNtbU9qU3Bsel82VXRTMm9QV043VndHZFBRNDB2LU9NV2ptWC1WYnNlSGI3ZnM2VUJadHJZcENhQmlqQTJmVVF6bE5fT19ZLTd6ZWZv?oc=5",
-      "published": "Thu, 15 Oct 2026 22:48:29 GMT",
-      "source": "Simply Wall Street",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.3
-    },
-    {
-      "title": "Rupee opens 33 paise higher at 94.73 as traders unwind dollar bets, RBI support lifts sentiment - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbkJleEc3Y01qUElHaU5MaVFVS0ZZM0Y2ZDhLV2RmalZyQWpTOHdXcmh0VTZTUm8welFTSU1wUUU4RXdORERIam5RckFKci1HVXpIX2NaY0FoeERCSWYtejNWOU5jOUYwLUdSdi1GUGpyWHVvY1BsN0ZXS0JZS2ZqZXZYblRuaElpZEZ0VV9KVDVmM2dsbGdSQlIzSXlDaDQwUWs2cGxTU3lXUThrb2RDZlh6RW11QVlmZ3ZrOGZwWWNMSFl4WHZoeEVhUWNJNHpXeEl1aGVVUlpKU0lmTnNKX0xFVUdYV1nSAecBQVVfeXFMT25CZXhHN2NNalBJR2lOTGlRVUtGWTNGNmQ4S1dkZmpWckFqUzh3V3JodFU2U1JvMHpRU0lNcFFFOEV3TkRESGpuUXJBSnItR1V6SF9jWmNBaHhEQklmLXozVjlOYzlGMC1HUnYtRlBqclh1b2NQbDdGV0tCWUtmamV2WG5UbmhJaWRGdFVfSlQ1ZjNnbGxnUkJSM0l5Q2g0MFFrNnBsU1N5V1E4a29kQ2ZYekVtdUFZZmd2azhmcFljTEhZeFh2aHhFYVFjSTR6V3hJdWhlVVJaSlNJZk5zSl9MRVVHWFdZ?oc=5",
-      "published": "Fri, 16 Oct 2026 03:51:31 GMT",
-      "source": "Moneycontrol.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -129,13 +100,12 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 64,
-      "article_count": 5,
-      "trigger_count": 9,
+      "score": 41,
+      "article_count": 4,
+      "trigger_count": 7,
       "triggers": [
         "POLICY",
-        "PRICING",
-        "TRADE"
+        "PRICING"
       ],
       "evidence": [
         {
@@ -154,16 +124,6 @@
           "triggers": [
             "POLICY",
             "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India's Banking Loan-to-Deposit Ratio Hits Record 81.6%, Signaling Liquidity Warning - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXhjamxKR25UVWd1YTJLNXRIRnJkbUdtak1SOVRzZUd6bmhWc1NVaUo3N2ZPbHNkaXdieW9CejdkUHZ0Q1dyOGFzTmR1T1NGVEt1NW1hUXY3aUtjeUxEVFhCNjdDTlJqRUhiZGdNT2J0UDBTU3FBRzdsamFfSFhKeTNqdW5WQ1UwU18zOGkxS1RMS0kwU0JsMmUxSVJkWGxoUnprLTJjYU1kSGVJdGVNWHZxcnh3WmFOZzhSMy1vZ0RJU2ZtMnBUUDQ5NnlodGoxSlE?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
           ],
           "companies": []
         },
@@ -190,14 +150,12 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
-      "source_count": 3,
-      "story_clusters": 5,
+      "reason": "Cross-signal POLICY, PRICING; 4 distinct story clusters; 2 independent sources; mixed positive/negative evidence.",
+      "source_count": 2,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations.",
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance."
       ],
       "fresh_count": 0
     },
@@ -365,6 +323,36 @@
       "fresh_count": 0
     },
     {
+      "industry": "Chemicals & Materials",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "National Fertilizers Invests ₹5.72 Billion in Assam Valley Fertilizer for New Ammonia-Urea Facility - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSEh4VXFnYTFuMDZPdk9tRk8zWTAtdEpHaVVRM3FvTzZWc2J2SVFyczh4dXcweTFzQ2xqcVRPMXRKZjdYTFBtaXY0cW01Yk9BWTZ2T2ZVS0lfSzlOcmMtaE5PLWFjczZZckZYZHEwbmVFLWY2QUo2OTdJb2ZhVkdmTC1CM2ZFWVI2QXBfOEVTSXZpT1c4TVQ1TmpKTnRNNnlqanBCd1JjRDR2bjF3MU1BZks5WXRXTEFOdW1NWFByQ0U1ZDZJWkpmNGx5eC1ieG81SjhmMmlXQm5aTVIwZHdKQjRMcVJiZEItTmh5aEdySHRuYUYwS0E?oc=5",
+          "triggers": [
+            "TRADE"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal TRADE; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Rail & Infrastructure",
       "score": 0,
       "article_count": 0,
@@ -379,23 +367,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Chemicals & Materials",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-16T07:04:52.925961+00:00"
+  ]
 }
