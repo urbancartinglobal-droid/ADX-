@@ -18,7 +18,36 @@
       "signal_score": 19.2
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Tamil Nadu Launches Semiconductor Ecosystem Scheme to Attract Chip Investments - Electronics For You BUSINESS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUFtWEg4UHpfRUpKcmVURmJ5c1NDS1RFbG9EQTY4NGNxSmxiLTEwUFEwaW9aZ3ZSX21nVjY5STJvQXFVZGJUeEhrcTNfSzdDREVlbnF4a3BxME5DSlZfVU1UME03OVZ3UUFsTkJ0czlybWNGUk9Nc0p6azBNcTZHTmF4R2E3XzlVWk16eEtVZVNxMlpCaFFmcFhSSjVtNW9FVzhnT0RZcHY2V1V2RGtfOGdncTFiN2NvVEhSMVI2dGpRNUJUclE?oc=5",
+      "published": "Fri, 16 Oct 2026 07:55:53 GMT",
+      "source": "Electronics For You BUSINESS",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 9.4
+    },
+    {
+      "title": "RBI Approves Merger of Emirates NBD's Indian Branches With RBL Bank Effective December 1 - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXJTOXd4X3ZlVFA1QzNFeXpxcXBWakQyYWpMeGFvc3FLLVhYOHExUmtiS2NibDBrMmtOMVRGWDc1Q0N3OHJKbWN4NFJxTDdkLXAwLTRIQXFZTXY4VjVibWF0dGxhT2RGSXQ2R1Z2RzNaQUYzSUFwYmtYZnlBeno1a216NTUtQVZWMTlXNzFfVEhJcXhmTFpCeEdVTHV4ZHhOUjQ1WWFvREVRb1hQQ0ticjZPVFhsN0U?oc=5",
+      "published": "Fri, 16 Oct 2026 15:19:40 GMT",
+      "source": "INDIA New England News",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -368,5 +397,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-16T17:21:45.007299+00:00"
 }
