@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-16T16:40:41.390368+00:00",
+  "updated_utc": "2026-10-16T21:10:38.974357+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,39 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 19.2
+      "signal_score": 18.5
     }
   ],
-  "landed": [
-    {
-      "title": "Govt Halts Sugar Diversion For Ethanol In 2026-27 As Retail Prices Hit Record High - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVDcWdsR0oxQ0Exb1JWM3doRmFNZEpiVkQ4bmd0OW9Ia3c2d25nem9FNW9qTWRKVlFseWxXeWMwOEx4U3liOVc4Z1k5Ykw5bll2ZGs2bURIQ1RtS1pfaDJld0NLMHJJdzJvSXN1blF5SHZSOWt6YWcwc0lYN19qZFFOSmVyOUZyeHloVTFwUmozVDBqUHJsTDB3aWhnZWMzbnFZRUZmSi1fcTVzUkF2R3VkN0tya0RaM3FsWTdyQVpLZUJGYWZ1SnZSZnTSAcwBQVVfeXFMTWl1Q3FnbEdKMUNBMW9SVjN3aEZhTWRKYlZEOG5ndDlvSGt3NnduZ3pvRTVvak1kSlZRbHlsV3ljMDhMeFN5YjlXOGdZOWJMOW5ZdmRrNm1ESENUbUtaX2gyZXdDSzBySXcyb0lzdW5ReUh2UjlremFnMHNJWDdfamRRTkplcjlGcnh5aFUxcFJqM1QwalBybEwwd2loZ2VjM25xWUVGZkotX3E1c1JBdkd1ZDdLcmtEWjNxbFk3ckFaS2VCRmFmdUp2UmZ0?oc=5",
-      "published": "Fri, 16 Oct 2026 17:51:14 GMT",
-      "source": "NDTV Profit",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
-    },
-    {
-      "title": "Tamil Nadu Launches Semiconductor Ecosystem Scheme to Attract Chip Investments - Electronics For You BUSINESS",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUFtWEg4UHpfRUpKcmVURmJ5c1NDS1RFbG9EQTY4NGNxSmxiLTEwUFEwaW9aZ3ZSX21nVjY5STJvQXFVZGJUeEhrcTNfSzdDREVlbnF4a3BxME5DSlZfVU1UME03OVZ3UUFsTkJ0czlybWNGUk9Nc0p6azBNcTZHTmF4R2E3XzlVWk16eEtVZVNxMlpCaFFmcFhSSjVtNW9FVzhnT0RZcHY2V1V2RGtfOGdncTFiN2NvVEhSMVI2dGpRNUJUclE?oc=5",
-      "published": "Fri, 16 Oct 2026 07:55:53 GMT",
-      "source": "Electronics For You BUSINESS",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 13.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -397,6 +368,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-16T21:00:51.458178+00:00"
+  ]
 }
