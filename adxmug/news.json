@@ -20,6 +20,20 @@
   ],
   "landed": [
     {
+      "title": "3 Chip Equipment Stocks Tied To US Japan Fab Expansion - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFVuclZqSkRGM0Q3SXBOYmc2OER1RTZVRjBBT25CR3BnZjZVTllNZXRXNkdkQXg4N2lJTWJxN1lUSk40NzVKekNXNk9aWmc3VUNOcVppNnVMSHljT2xtdzBLOXpPNnEySVFQNUxXZDFaRW1VM3drZUM4RmpNYjM0VEQzNGRrcTJuU2xPcVB1X3NERDdPd0I3OFNZUHpRMWhsclhwWXhydXRFS19ySF9yNkFqaHcxRnItWjFKRElQNWYxOXlkelFIaGtJONIB0AFBVV95cUxQc0lTXzlWVk9oZkJ6dDJ5UFFCVl9HSjdza1JvYWg0d1dqNHFqMU96WVZLQzFzRFlvLVBHSmMteVNVdEpiTGdWajh0ckFHNGhJTzhPb0FsNkpRbEt1SWNNMTEtcGJzNGFreHJyYjNUQVJiaTFxZkZKeEE4WlotSUdqNHN0ODNtbU9qU3Bsel82VXRTMm9QV043VndHZFBRNDB2LU9NV2ptWC1WYnNlSGI3ZnM2VUJadHJZcENhQmlqQTJmVVF6bE5fT19ZLTd6ZWZv?oc=5",
+      "published": "Thu, 15 Oct 2026 22:48:29 GMT",
+      "source": "Simply Wall Street",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 2.5
+    },
+    {
       "title": "RBI eases confusion over 20% forex reserve rule, but banks must still park cash with central bank - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMDdmOG9xX0ljRm1jLVhMNXBqTDFDR3RQSEhnNzRTcVIyZ1hqT0hlcjJHNnJ2VXUwYkJudlA2R2lmOWdiVU1kMEkyOTQ0ZXkxRDhzQ094VjRlcHlJR2g5V3ZBeEY5RllKTV9rSlRSY3ZWVUVneGRNR0VxV3ltLTd5YTg2dVRuRkdQVDJ2OWNsWW9GYWN3OWpwdHNfeHJHUDQ2cFF0OGtDUTNTU3c5T2pKTnl3YjBqYWs4MTg5cDd1OFFrOHMxeVJnVDVUOVh6Sk10R1JmQUNrMVRIRnlRaEozNnNFb2wwcGgxb01PWFllWdIB9AFBVV95cUxOcHJITnVwVktSa1dEa01KM0ZoZlFrNHUxYmpfRXVpM01hUkxWMmRvMVE4Rnl4NS1CZFJKNUZFaWx6N1JTdXJkZTZFaGhaaFc3X182eWZzUDJkZ3pCcEpPNHE5cUlWVk44ZnZqMlpvV25UbWdXTlQ4STdkNG5kMXg0M05qcDFyVmNCX0J3Zi16NXRtdWpHZEVZaGFseUc1dmNQWk1vTjNQYk9hSnZiWUlGSGZKakJGQmJxV3R0dG1CaHlyc3hlaDdrWFplaEExRS1HQS05YmU3YlVwMmVYNG1hbHJXTEY5T1daUUdlQ3JwbHk3eXhL?oc=5",
       "published": "Thu, 15 Oct 2026 12:59:24 GMT",
@@ -31,21 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.2
-    },
-    {
-      "title": "Japan's $21B Investment in GlobalFoundries: Two New Fabs in New York - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTnhMTDNfYTlUcms5NXRYeVRmWHF2eTZSQ0NldG5EbG9KTHNyWWl5NTdtZURYRV8xY0RlLXlyOEw0aHBiZWZYdnR4Zm54aTVtRFBBMy0yV09aS3dndTR1SUw0dnZ2dTNhdDhCNHk3SVpfckVPelpZSjV6ZWd2WFExeDVxRmRlcS1sODdXQlJvWUdzZw?oc=5",
-      "published": "Thu, 15 Oct 2026 19:42:56 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.5
+      "freshness_hours": 12.3
     }
   ],
   "opportunities": [
@@ -410,5 +410,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-15T22:13:04.520196+00:00"
+  "landed_updated_utc": "2026-10-16T01:15:35.661586+00:00"
 }
