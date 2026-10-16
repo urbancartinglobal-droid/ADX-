@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-16T11:26:25.006274+00:00",
+  "updated_utc": "2026-10-16T16:40:41.390368+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,53 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 20.0
+      "signal_score": 19.2
     }
   ],
-  "landed": [
-    {
-      "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
-      "published": "Fri, 16 Oct 2026 11:29:03 GMT",
-      "source": "scanx.trade",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 0.9
-    },
-    {
-      "title": "The RBI’s New Liquidity Challenge - Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmRPSWptd2lwUkY0ZzVaQnBvcVNzYWVSeFlvaGhZTGxtaGViNkxINlU4YTd1QjR3YVRCUGFTZ0ZmbktRaURLbTI5NUdHbmw2MEJWS194YUdSWk9mR1BoeldjOUtkeHd3MU94QWpEdDV5WXpaWngwWER3MUVpbnpZMHM1RDdoRWVzd3Nsa2pERG4?oc=5",
-      "published": "Fri, 16 Oct 2026 09:08:35 GMT",
-      "source": "Dalal Street Investment Journal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
-    },
-    {
-      "title": "Tamil Nadu Launches Semiconductor Ecosystem Scheme to Attract Chip Investments - Electronics For You BUSINESS",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUFtWEg4UHpfRUpKcmVURmJ5c1NDS1RFbG9EQTY4NGNxSmxiLTEwUFEwaW9aZ3ZSX21nVjY5STJvQXFVZGJUeEhrcTNfSzdDREVlbnF4a3BxME5DSlZfVU1UME03OVZ3UUFsTkJ0czlybWNGUk9Nc0p6azBNcTZHTmF4R2E3XzlVWk16eEtVZVNxMlpCaFFmcFhSSjVtNW9FVzhnT0RZcHY2V1V2RGtfOGdncTFiN2NvVEhSMVI2dGpRNUJUclE?oc=5",
-      "published": "Fri, 16 Oct 2026 07:55:53 GMT",
-      "source": "Electronics For You BUSINESS",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.4
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -411,6 +368,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-16T12:22:13.809759+00:00"
+  ]
 }
