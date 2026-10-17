@@ -18,7 +18,50 @@
       "signal_score": 15.7
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "India restricts sugarcane-based ethanol procurement as poor monsoon tightens sugar supplies - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXZ3Q2tibjJ5cFI1S2xxUlplV0ZiY3VEMEVOcnVnNi1ncjFIY3ZyaFBuTnFPUjF5SDVGSEVGN1RGa0p1bDRpMy02bzZVVndnOFhNUTZSMzV6bFJiaTc0SndhUGc2QmdvVnIwNVkwX2o0c0Y4LTNld0FVWmpVTWFFcFpSOTNjWXg5UU56b2hiLTFFNGp6SUp1M2lUOFFqNGZiOUt4Z0dxMzJDR3lWM3k1TXQtTWpBODlaVVZ0NlRSREg0OW0tZUszM2UzdVRaMERsb3Z30gHYAUFVX3lxTE9KRDg1U1BJZF9IS2JpaWgydUo0ZUZlNnRQdGRyN3FGN2R2OHFuT3paeTRaTzcxTnBkeGkzb3VaRFo1QlJvRk1IZkF6aWNKOUl2SXp4Y0wtUGRrWnJMSEFRcDZUMk9UbThVSGZNWUsyQlRvdHB0WFNLUWlDMXUxR3otVW5GYUx3cEZCVTJTeGZVRncyR3JVLVFBRzlNZEJwOXVnck9ZZUZwV3lmbGRucVpoQXh2YzhZRV9MV1dIc3cwY1kyRmNmT3F2X1lEWVFIN2xSNzB0MDR4Yg?oc=5",
+      "published": "Sat, 17 Oct 2026 10:14:30 GMT",
+      "source": "Firstpost",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 6.8
+    },
+    {
+      "title": "Wanbury secures 9 USFDA ‘No DMF Deficiency’ letters for Metformin as it expands in Saudi & Mexico - Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXROTnRsMTNWYWFVVF9YTkh0OGk0SnNNVkVrWFZPNnRSVl9RdlFGUGU0NU9HSF81SnpGd1paR05scXZ6RU1SZlRaZ1JoQnREcFZHWk03Qy1ETVIzb3ktT1FQWmpTRFpwWXRHSVY4VllfRGpnR3dzM0VtT0VZUWRDU2JBbXkxQTJvU1NLaGVkTGEzRGpsR3owVThXT3RTTTNzNUJUVUY0SmlSN1poTkxKVXJVNlM5NUJLdXR4YmJmMk40ak1QWUVkdDE5Z3k2RjIyMF9RbDIzYXlpNFHSAeIBQVVfeXFMTjJtRE9zdEt1SnFJTDg0UzhYaGpsV25rWmJaQTZhbzhESl9GNks4YlZ2akl0UU9QSXkwS0RJS3RqdFh1TDRtMHgzcW10M2ppTXVDd3hoWGQ5bm52bHpYTEJQR3FXaDRHUlN5UFNKUjNVcE1sLVV5NXI5dVJ2RDlxT1BDR1RDdktxWk53VG1wcUw5Z09QOVRpUXg0RFpORlZXUEFfbjhPbEtKN2NSRXlTVXlVTXZoTUFKY3drY3lWN1Z1bi04ZHphNkFsZmNKZVN4VG4xV2xCb3NKNzZwakNEQWRJZw?oc=5",
+      "published": "Sat, 17 Oct 2026 11:58:59 GMT",
+      "source": "Indian Pharma Post",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 5.1
+    },
+    {
+      "title": "Flame-Retardant Breather Cloth Market To 2035: Aerospace Safety Mandates Drive Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFg1bFl4TjBGcXBKRW1aQ2EyVXdrZHdPNWZmQ0pmQ2NRWG9VYTJrVEdxdThTdloyY2hNRkd1cHZIdlJIdGp4d0hBS2FQRUtsSnZUWE1qeUJqRU96Yld0RG9GUy1KVHZtZU5xOFltUjh5clY2LTlMYkY1X0NIdWdzMzBQeHhtWEhGNTNZWHBlLTZTWjhsR2FEUHc3TDg0TFp4RWFQeEhvOUUzamNLTV8wUVozUE0xM1owdUFIdW5uVVo4ZHM?oc=5",
+      "published": "Sat, 17 Oct 2026 16:06:05 GMT",
+      "source": "IndexBox",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 1.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -344,5 +387,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-17T17:05:18.226162+00:00"
 }
