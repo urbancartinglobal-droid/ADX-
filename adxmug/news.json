@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-17T04:28:35.758842+00:00",
+  "updated_utc": "2026-10-17T10:46:06.522578+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,7 +15,7 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 17.4
+      "signal_score": 16.5
     }
   ],
   "landed": [],
@@ -368,6 +368,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-17T09:16:22.808221+00:00"
+  ]
 }
