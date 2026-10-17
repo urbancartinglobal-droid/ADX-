@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-16T21:10:38.974357+00:00",
+  "updated_utc": "2026-10-17T04:28:35.758842+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,39 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 18.5
+      "signal_score": 17.4
     }
   ],
-  "landed": [
-    {
-      "title": "Govt Halts Sugar Diversion For Ethanol In 2026-27 As Retail Prices Hit Record High - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVDcWdsR0oxQ0Exb1JWM3doRmFNZEpiVkQ4bmd0OW9Ia3c2d25nem9FNW9qTWRKVlFseWxXeWMwOEx4U3liOVc4Z1k5Ykw5bll2ZGs2bURIQ1RtS1pfaDJld0NLMHJJdzJvSXN1blF5SHZSOWt6YWcwc0lYN19qZFFOSmVyOUZyeHloVTFwUmozVDBqUHJsTDB3aWhnZWMzbnFZRUZmSi1fcTVzUkF2R3VkN0tya0RaM3FsWTdyQVpLZUJGYWZ1SnZSZnTSAcwBQVVfeXFMTWl1Q3FnbEdKMUNBMW9SVjN3aEZhTWRKYlZEOG5ndDlvSGt3NnduZ3pvRTVvak1kSlZRbHlsV3ljMDhMeFN5YjlXOGdZOWJMOW5ZdmRrNm1ESENUbUtaX2gyZXdDSzBySXcyb0lzdW5ReUh2UjlremFnMHNJWDdfamRRTkplcjlGcnh5aFUxcFJqM1QwalBybEwwd2loZ2VjM25xWUVGZkotX3E1c1JBdkd1ZDdLcmtEWjNxbFk3ckFaS2VCRmFmdUp2UmZ0?oc=5",
-      "published": "Fri, 16 Oct 2026 17:51:14 GMT",
-      "source": "NDTV Profit",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 10.4
-    },
-    {
-      "title": "Pakistan announces test of Fatah-II ER hypersonic missile - Meta-Defense",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWMHRzZmlkS1ZleGhnVVhDVlRaMnNEdk95ZzFqWWV5aURXOFhma1ZCY0pIXzMxTTdzV1Z4ZUJycGx5OEFzci1uTkxIN3JENGVjR0ZoNk4xZDNEcFFIM1lQbWZQVEZuZGxSY0o0QVgyU21MazA?oc=5",
-      "published": "Fri, 16 Oct 2026 13:39:49 GMT",
-      "source": "Meta-Defense",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 14.6
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -397,6 +368,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-17T04:16:54.527040+00:00"
+  ]
 }
