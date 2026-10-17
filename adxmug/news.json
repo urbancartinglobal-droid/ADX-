@@ -1,67 +1,10 @@
 {
-  "updated_utc": "2026-10-17T15:36:54.501512+00:00",
+  "updated_utc": "2026-10-17T20:37:54.179991+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [
-    {
-      "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
-      "published": "Mon, 12 Oct 2026 00:30:00 GMT",
-      "source": "bfsi.economictimes.indiatimes.com",
-      "feed": "Banking & Financials",
-      "description": "Banks with faster loan growth face funding pressure as RBI tightens liquidity bfsi.economictimes.indiatimes.com",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "POLICY"
-      ],
-      "signal_score": 15.7
-    }
-  ],
-  "landed": [
-    {
-      "title": "India restricts sugarcane-based ethanol procurement as poor monsoon tightens sugar supplies - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXZ3Q2tibjJ5cFI1S2xxUlplV0ZiY3VEMEVOcnVnNi1ncjFIY3ZyaFBuTnFPUjF5SDVGSEVGN1RGa0p1bDRpMy02bzZVVndnOFhNUTZSMzV6bFJiaTc0SndhUGc2QmdvVnIwNVkwX2o0c0Y4LTNld0FVWmpVTWFFcFpSOTNjWXg5UU56b2hiLTFFNGp6SUp1M2lUOFFqNGZiOUt4Z0dxMzJDR3lWM3k1TXQtTWpBODlaVVZ0NlRSREg0OW0tZUszM2UzdVRaMERsb3Z30gHYAUFVX3lxTE9KRDg1U1BJZF9IS2JpaWgydUo0ZUZlNnRQdGRyN3FGN2R2OHFuT3paeTRaTzcxTnBkeGkzb3VaRFo1QlJvRk1IZkF6aWNKOUl2SXp4Y0wtUGRrWnJMSEFRcDZUMk9UbThVSGZNWUsyQlRvdHB0WFNLUWlDMXUxR3otVW5GYUx3cEZCVTJTeGZVRncyR3JVLVFBRzlNZEJwOXVnck9ZZUZwV3lmbGRucVpoQXh2YzhZRV9MV1dIc3cwY1kyRmNmT3F2X1lEWVFIN2xSNzB0MDR4Yg?oc=5",
-      "published": "Sat, 17 Oct 2026 10:14:30 GMT",
-      "source": "Firstpost",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 9.1
-    },
-    {
-      "title": "Wanbury secures 9 USFDA ‘No DMF Deficiency’ letters for Metformin as it expands in Saudi & Mexico - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXROTnRsMTNWYWFVVF9YTkh0OGk0SnNNVkVrWFZPNnRSVl9RdlFGUGU0NU9HSF81SnpGd1paR05scXZ6RU1SZlRaZ1JoQnREcFZHWk03Qy1ETVIzb3ktT1FQWmpTRFpwWXRHSVY4VllfRGpnR3dzM0VtT0VZUWRDU2JBbXkxQTJvU1NLaGVkTGEzRGpsR3owVThXT3RTTTNzNUJUVUY0SmlSN1poTkxKVXJVNlM5NUJLdXR4YmJmMk40ak1QWUVkdDE5Z3k2RjIyMF9RbDIzYXlpNFHSAeIBQVVfeXFMTjJtRE9zdEt1SnFJTDg0UzhYaGpsV25rWmJaQTZhbzhESl9GNks4YlZ2akl0UU9QSXkwS0RJS3RqdFh1TDRtMHgzcW10M2ppTXVDd3hoWGQ5bm52bHpYTEJQR3FXaDRHUlN5UFNKUjNVcE1sLVV5NXI5dVJ2RDlxT1BDR1RDdktxWk53VG1wcUw5Z09QOVRpUXg0RFpORlZXUEFfbjhPbEtKN2NSRXlTVXlVTXZoTUFKY3drY3lWN1Z1bi04ZHphNkFsZmNKZVN4VG4xV2xCb3NKNzZwakNEQWRJZw?oc=5",
-      "published": "Sat, 17 Oct 2026 11:58:59 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.4
-    },
-    {
-      "title": "Flame-Retardant Breather Cloth Market To 2035: Aerospace Safety Mandates Drive Growth - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFg1bFl4TjBGcXBKRW1aQ2EyVXdrZHdPNWZmQ0pmQ2NRWG9VYTJrVEdxdThTdloyY2hNRkd1cHZIdlJIdGp4d0hBS2FQRUtsSnZUWE1qeUJqRU96Yld0RG9GUy1KVHZtZU5xOFltUjh5clY2LTlMYkY1X0NIdWdzMzBQeHhtWEhGNTNZWHBlLTZTWjhsR2FEUHc3TDg0TFp4RWFQeEhvOUUzamNLTV8wUVozUE0xM1owdUFIdW5uVVo4ZHM?oc=5",
-      "published": "Sat, 17 Oct 2026 16:06:05 GMT",
-      "source": "IndexBox",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 3.3
-    }
-  ],
+  "articles": [],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -138,57 +81,6 @@
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Banking & Financials",
-      "score": 34,
-      "article_count": 3,
-      "trigger_count": 5,
-      "triggers": [
-        "POLICY",
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
-          "source": "bfsi.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING; 3 distinct story clusters; 2 independent sources; mixed positive/negative evidence.",
-      "source_count": 2,
-      "story_clusters": 3,
-      "companies": [],
-      "connections": [
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance."
       ],
       "fresh_count": 0
     },
@@ -386,7 +278,22 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Banking & Financials",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-17T19:21:41.302534+00:00"
+  ]
 }
