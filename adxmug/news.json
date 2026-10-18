@@ -31,7 +31,50 @@
       "signal_score": 12.8
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Ethanol policy shift: India bars sugar-based feedstocks, reduces maize procurement price - Mathrubhumi English",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXhfZnh2S2lrQUZmUjluWDRnOGtuaDBWbUlRSTl6Sk1EUXg4QmlFcEtkZ2RjN2xjd1lMT3FHTG9nay1PbkVPdFRXamtib2dIV0Uydi1hN09TdUprYURUNm9aTmhmLVpiakJndUF6cmxHZHRpbGIwWnFicTl1ZF8wbmZJMXg0NEV4LVJhdFFQeGdra3RMaVpaZ2ltMXJSSWJJUDVnR3pZRjVJekNXT2RKaHltZFAwMmhyNTVTaNIBvAFBVV95cUxQYXhfZnh2S2lrQUZmUjluWDRnOGtuaDBWbUlRSTl6Sk1EUXg4QmlFcEtkZ2RjN2xjd1lMT3FHTG9nay1PbkVPdFRXamtib2dIV0Uydi1hN09TdUprYURUNm9aTmhmLVpiakJndUF6cmxHZHRpbGIwWnFicTl1ZF8wbmZJMXg0NEV4LVJhdFFQeGdra3RMaVpaZ2ltMXJSSWJJUDVnR3pZRjVJekNXT2RKaHltZFAwMmhyNTVTaA?oc=5",
+      "published": "Sun, 18 Oct 2026 08:47:09 GMT",
+      "source": "Mathrubhumi English",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 5.7
+    },
+    {
+      "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
+      "published": "Sun, 18 Oct 2026 07:22:27 GMT",
+      "source": "scanx.trade",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 7.2
+    },
+    {
+      "title": "Infineon signs 200mm SiC wafer supply deal with Wolfspeed - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3FoaWhJY05TNWtJUUM1NEVPVFllU18yT3dMRVlBblltSUduLW5wa1ZsRUdBdGZ2MnJBTnBBRHY5b2czc1JPRU5YcDhnM3pWNTk0bGYxNm0xQnFkd2Vtc2tsUHF3Wmd2V2o4MGpPS2xBa05Ed0J0cDRES2ZVMFJUa09lOGhBYkFFQXAwMDN5TDBTTHlIeG5IMm5uLW1KYWQxcFBjcFFvQ0t5c2JTX0lHRlpKZS1FeVZNa2h1QzBjYjV6WVBLWGRtX28yWXB1R2Y10gHWAUFVX3lxTE12akJVMC1nZWdCdmtHQld6M2x4QmRLZmN3anlBS0R2aHJhc3RWWksxUGYyWUMwTlNfWXFZeHA4UmFGc2IwS3B2OVBGdWkwYjA1VTdZRWNXRGhiVXU2V0ZQTDdEdUVpSzZKRjFLbmRFUC1Dc3g0bTRqMUZMT0xtelNJdHJzdG5TTUNOYVkyVDM1akYyNlloaHI4T1hzZUdWSExXUXVoUGRla3NTa293MUxFc0pmSTNra1I5aE9BRURnUWxsd1ZIdlVTcFh3bEdiYml2QTJkdXc?oc=5",
+      "published": "Sun, 18 Oct 2026 09:07:15 GMT",
+      "source": "electronics.economictimes.indiatimes.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 5.4
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -378,5 +421,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-18T14:32:02.643336+00:00"
 }
