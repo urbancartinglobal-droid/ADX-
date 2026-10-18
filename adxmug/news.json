@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-18T04:35:56.894218+00:00",
+  "updated_utc": "2026-10-18T11:08:06.263329+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,7 +15,7 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 21.9
+      "signal_score": 21.0
     },
     {
       "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
@@ -28,53 +28,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 13.8
+      "signal_score": 12.8
     }
   ],
-  "landed": [
-    {
-      "title": "India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObExETnpMWnFDX1l1UUpxZjJuTWRJQWloRUU3ZVItakNpTThpRUZDcDNiMHdzaXhrdDhtOW9EYUE3VzNIeFRNZF91cnd3ekUzVXdaTXhlSm83Tjl6X2hlbi1KLWctZ2Frbi1qWU10MXNETG1aZl9rUW9ZYVNLMnBpRFR1Yndablk3bGU0Y1ZPSXNNWlVfOUZBU2lrYi1MdjJtd0VhUnpsdw?oc=5",
-      "published": "Sun, 18 Oct 2026 09:29:17 GMT",
-      "source": "Business Upturn",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 1.5
-    },
-    {
-      "title": "Infineon signs 200mm SiC wafer supply deal with Wolfspeed - electronics.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3FoaWhJY05TNWtJUUM1NEVPVFllU18yT3dMRVlBblltSUduLW5wa1ZsRUdBdGZ2MnJBTnBBRHY5b2czc1JPRU5YcDhnM3pWNTk0bGYxNm0xQnFkd2Vtc2tsUHF3Wmd2V2o4MGpPS2xBa05Ed0J0cDRES2ZVMFJUa09lOGhBYkFFQXAwMDN5TDBTTHlIeG5IMm5uLW1KYWQxcFBjcFFvQ0t5c2JTX0lHRlpKZS1FeVZNa2h1QzBjYjV6WVBLWGRtX28yWXB1R2Y10gHWAUFVX3lxTE12akJVMC1nZWdCdmtHQld6M2x4QmRLZmN3anlBS0R2aHJhc3RWWksxUGYyWUMwTlNfWXFZeHA4UmFGc2IwS3B2OVBGdWkwYjA1VTdZRWNXRGhiVXU2V0ZQTDdEdUVpSzZKRjFLbmRFUC1Dc3g0bTRqMUZMT0xtelNJdHJzdG5TTUNOYVkyVDM1akYyNlloaHI4T1hzZUdWSExXUXVoUGRla3NTa293MUxFc0pmSTNra1I5aE9BRURnUWxsd1ZIdlVTcFh3bEdiYml2QTJkdXc?oc=5",
-      "published": "Sun, 18 Oct 2026 09:07:15 GMT",
-      "source": "electronics.economictimes.indiatimes.com",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.8
-    },
-    {
-      "title": "Wanbury secures 9 USFDA ‘No DMF Deficiency’ letters for Metformin as it expands in Saudi & Mexico - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXROTnRsMTNWYWFVVF9YTkh0OGk0SnNNVkVrWFZPNnRSVl9RdlFGUGU0NU9HSF81SnpGd1paR05scXZ6RU1SZlRaZ1JoQnREcFZHWk03Qy1ETVIzb3ktT1FQWmpTRFpwWXRHSVY4VllfRGpnR3dzM0VtT0VZUWRDU2JBbXkxQTJvU1NLaGVkTGEzRGpsR3owVThXT3RTTTNzNUJUVUY0SmlSN1poTkxKVXJVNlM5NUJLdXR4YmJmMk40ak1QWUVkdDE5Z3k2RjIyMF9RbDIzYXlpNFHSAeIBQVVfeXFMTjJtRE9zdEt1SnFJTDg0UzhYaGpsV25rWmJaQTZhbzhESl9GNks4YlZ2akl0UU9QSXkwS0RJS3RqdFh1TDRtMHgzcW10M2ppTXVDd3hoWGQ5bm52bHpYTEJQR3FXaDRHUlN5UFNKUjNVcE1sLVV5NXI5dVJ2RDlxT1BDR1RDdktxWk53VG1wcUw5Z09QOVRpUXg0RFpORlZXUEFfbjhPbEtKN2NSRXlTVXlVTXZoTUFKY3drY3lWN1Z1bi04ZHphNkFsZmNKZVN4VG4xV2xCb3NKNzZwakNEQWRJZw?oc=5",
-      "published": "Sat, 17 Oct 2026 11:58:59 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 23.0
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -156,9 +113,9 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 58,
-      "article_count": 4,
-      "trigger_count": 6,
+      "score": 62,
+      "article_count": 5,
+      "trigger_count": 8,
       "triggers": [
         "POLICY",
         "PRICING"
@@ -179,6 +136,16 @@
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
           "triggers": [
             "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
           ],
           "companies": []
         },
@@ -204,15 +171,15 @@
         }
       ],
       "confidence": "medium",
-      "watch": "WATCH",
-      "reason": "Cross-signal POLICY, PRICING; 4 distinct story clusters; 3 independent sources; 1 fresh evidence items.",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING; 5 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + pricing can change inventory economics, margins or the supply-demand balance."
       ],
-      "fresh_count": 1
+      "fresh_count": 0
     },
     {
       "industry": "Rail & Infrastructure",
@@ -411,6 +378,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-18T10:56:42.725937+00:00"
+  ]
 }
