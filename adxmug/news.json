@@ -31,7 +31,36 @@
       "signal_score": 13.8
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Wanbury secures 9 USFDA ‘No DMF Deficiency’ letters for Metformin as it expands in Saudi & Mexico - Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXROTnRsMTNWYWFVVF9YTkh0OGk0SnNNVkVrWFZPNnRSVl9RdlFGUGU0NU9HSF81SnpGd1paR05scXZ6RU1SZlRaZ1JoQnREcFZHWk03Qy1ETVIzb3ktT1FQWmpTRFpwWXRHSVY4VllfRGpnR3dzM0VtT0VZUWRDU2JBbXkxQTJvU1NLaGVkTGEzRGpsR3owVThXT3RTTTNzNUJUVUY0SmlSN1poTkxKVXJVNlM5NUJLdXR4YmJmMk40ak1QWUVkdDE5Z3k2RjIyMF9RbDIzYXlpNFHSAeIBQVVfeXFMTjJtRE9zdEt1SnFJTDg0UzhYaGpsV25rWmJaQTZhbzhESl9GNks4YlZ2akl0UU9QSXkwS0RJS3RqdFh1TDRtMHgzcW10M2ppTXVDd3hoWGQ5bm52bHpYTEJQR3FXaDRHUlN5UFNKUjNVcE1sLVV5NXI5dVJ2RDlxT1BDR1RDdktxWk53VG1wcUw5Z09QOVRpUXg0RFpORlZXUEFfbjhPbEtKN2NSRXlTVXlVTXZoTUFKY3drY3lWN1Z1bi04ZHphNkFsZmNKZVN4VG4xV2xCb3NKNzZwakNEQWRJZw?oc=5",
+      "published": "Sat, 17 Oct 2026 11:58:59 GMT",
+      "source": "Indian Pharma Post",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 17.8
+    },
+    {
+      "title": "Automobile Sales Rise 18.2% to Record 83.88 Lakh Units in Q2 FY27 - DD News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEhLYnhHS01OWkNxT2tSb2hTSXdPTXF2Q0Z1dS1VNDhIeG91NnlkTW5ON2paazJtdXJhOHg3dEd4bmF1a3R3aHZFYzU5eXlyOFhQZXBGSWZuSlg2WTRRQTNTc0toMkNoM1FDbHdKUmpOLUlzdm55cTFKQmtXS2dzZ3Q5RWp1UnhZVWo5OEhsa0YycVd1?oc=5",
+      "published": "Sat, 17 Oct 2026 18:01:35 GMT",
+      "source": "DD News",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 11.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -368,5 +397,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-18T05:49:28.045502+00:00"
 }
