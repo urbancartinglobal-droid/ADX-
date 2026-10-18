@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-18T15:52:59.722619+00:00",
+  "updated_utc": "2026-10-18T20:44:53.595166+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,7 +15,7 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 20.3
+      "signal_score": 19.5
     },
     {
       "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
@@ -28,53 +28,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 12.1
+      "signal_score": 11.4
     }
   ],
-  "landed": [
-    {
-      "title": "OMCs exclude sugarcane-based ethanol from FY27 tender, cut maize incentive - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWF9nOXd1MkdGMDM3VURDU1VGcjhyNkozNWZpQmN4cHZTdUEwdGZaZmVndEVDMHZWUWRUYWExZm5abTNETnZ0RnJoTHEtR3djb2p0bk4tQnlpM2YtZFRrSWVrTXF4VUhqeEZReXQweW5oUlFrcHdCSmpuclpJMTl4eEJpZDh2TDd2ZHdMY0hjZ1hkNjN5WDI1U2ZqZERyWXlPOV9QcFhyRHlMM1NGQ2lkcTU4WTBMWWMyTVBYTEFtbmdzSmJxcEHSAcsBQVVfeXFMTWpxUU51TVRKeGV2VUx1a1RWSnNkYW9jZHNPb0xOYWVEYnZoUnd4WW1xa0pPZXlDZWJwc2lHZko4NkY4Ykc2akZJX3ZGZ05JZnIwUVFyU0hIQzY1d1ZKZkFKWVhzMngteG9OSlVLYjI1emtTT19QQ1JKTVcxNUNNdFBWUDA5ZVotcVBQQ0NXS3YtRDYyOER1S2JJb1pMd2wwWjR2RHdTUnVPczh3bGdjbE5zbHE1d21PWkZIUldMUkkwd1N0ci1BYWMyc2s?oc=5",
-      "published": "Sun, 18 Oct 2026 16:03:00 GMT",
-      "source": "Livemint",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 4.5
-    },
-    {
-      "title": "Pleated Dust Filter Cartridges Market To 2035: Semiconductor Fab Expansion Supports Growth - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1hBbVdpbnRSMnZpeklZdDIwanVGUmxTdDYyUkJKSi1DU29pajkzTWN0dWduR050b2ZOcEgwd3B5Zkg1UUpESk50d1lPdW53MFVYMmNDQTVIYlpMOG9ZVEtoWjRlV05ESU40Uko5ZERZb2oyTWVMR0RrWnhKVnRrSzdpQlB0X3NHeUc4MFhpSDZDQ08wV016dDBtRlBGSkEyaHlDUUw5UktxWXMteWhWRUdfNjZTTVExLVJJSUp2V1E0T3lib3Q1Um5naDJOQlZmNXhSUQ?oc=5",
-      "published": "Sun, 18 Oct 2026 15:41:04 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.9
-    },
-    {
-      "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
-      "published": "Sun, 18 Oct 2026 13:14:48 GMT",
-      "source": "scanx.trade",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -156,9 +113,9 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 56,
-      "article_count": 4,
-      "trigger_count": 6,
+      "score": 62,
+      "article_count": 5,
+      "trigger_count": 8,
       "triggers": [
         "POLICY",
         "PRICING"
@@ -179,6 +136,16 @@
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
           "triggers": [
             "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
           ],
           "companies": []
         },
@@ -205,9 +172,9 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING; 4 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING; 5 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + pricing can change inventory economics, margins or the supply-demand balance."
@@ -284,6 +251,36 @@
       "companies": [
         "mahindra"
       ],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Electronics & Semiconductors",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
+          "source": "Energetica India Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
       ],
@@ -394,23 +391,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Electronics & Semiconductors",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-18T20:35:23.120052+00:00"
+  ]
 }
