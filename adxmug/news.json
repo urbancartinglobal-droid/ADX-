@@ -31,7 +31,50 @@
       "signal_score": 12.1
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "OMCs exclude sugarcane-based ethanol from FY27 tender, cut maize incentive - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWF9nOXd1MkdGMDM3VURDU1VGcjhyNkozNWZpQmN4cHZTdUEwdGZaZmVndEVDMHZWUWRUYWExZm5abTNETnZ0RnJoTHEtR3djb2p0bk4tQnlpM2YtZFRrSWVrTXF4VUhqeEZReXQweW5oUlFrcHdCSmpuclpJMTl4eEJpZDh2TDd2ZHdMY0hjZ1hkNjN5WDI1U2ZqZERyWXlPOV9QcFhyRHlMM1NGQ2lkcTU4WTBMWWMyTVBYTEFtbmdzSmJxcEHSAcsBQVVfeXFMTWpxUU51TVRKeGV2VUx1a1RWSnNkYW9jZHNPb0xOYWVEYnZoUnd4WW1xa0pPZXlDZWJwc2lHZko4NkY4Ykc2akZJX3ZGZ05JZnIwUVFyU0hIQzY1d1ZKZkFKWVhzMngteG9OSlVLYjI1emtTT19QQ1JKTVcxNUNNdFBWUDA5ZVotcVBQQ0NXS3YtRDYyOER1S2JJb1pMd2wwWjR2RHdTUnVPczh3bGdjbE5zbHE1d21PWkZIUldMUkkwd1N0ci1BYWMyc2s?oc=5",
+      "published": "Sun, 18 Oct 2026 16:03:00 GMT",
+      "source": "Livemint",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 2.0
+    },
+    {
+      "title": "Pleated Dust Filter Cartridges Market To 2035: Semiconductor Fab Expansion Supports Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1hBbVdpbnRSMnZpeklZdDIwanVGUmxTdDYyUkJKSi1DU29pajkzTWN0dWduR050b2ZOcEgwd3B5Zkg1UUpESk50d1lPdW53MFVYMmNDQTVIYlpMOG9ZVEtoWjRlV05ESU40Uko5ZERZb2oyTWVMR0RrWnhKVnRrSzdpQlB0X3NHeUc4MFhpSDZDQ08wV016dDBtRlBGSkEyaHlDUUw5UktxWXMteWhWRUdfNjZTTVExLVJJSUp2V1E0T3lib3Q1Um5naDJOQlZmNXhSUQ?oc=5",
+      "published": "Sun, 18 Oct 2026 15:41:04 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 2.4
+    },
+    {
+      "title": "Glenmark Pharmaceuticals Launches GLIPIQ® (Semaglutide) in India with Weekly Treatment Starting at ₹325 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTluSWpFMTBqTG04UEU4MkswcUMzUFJVVG41dmpMNGVxbjNkTEp5dTlkY1JhakVFUjRtUzk3RGRwVTNtcTFsR0tEN1M0TzBjUVMzalI3aks4QWdVb0d1RFl5bFFpTDQ1MHVFVE5FcGZfT25CM2N3cVE1YVFuVjF1bnJESFBHbVdIcm9QMEFNWklVZjJ6YWh2Si1idUwxc2tFdTVZTjhDRTltRW1VWmpFZ3JCOTFZaDBzb2d2Z1M0MzZCTFc1emZLSFJRVlRfaFdrR3N2UkFWdGNiR0NpNU14VExxNG5lQVRlYjJDcQ?oc=5",
+      "published": "Sun, 18 Oct 2026 09:19:49 GMT",
+      "source": "scanx.trade",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 8.7
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -368,5 +411,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-18T18:02:37.673371+00:00"
 }
