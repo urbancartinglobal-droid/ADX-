@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-19T13:19:13.241338+00:00",
+  "updated_utc": "2026-10-19T22:22:21.665466+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,53 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 17.0
+      "signal_score": 15.7
     }
   ],
-  "landed": [
-    {
-      "title": "RBI injects Rs 1 lakh crore as liquidity tightens before festive season - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdGFUelZoS3BaWHVHU3hCbGJ6OTJpeFF0REhjOThfY3FsNXgtYTE5c2xDSVZ3WHJwYl9NNlo3OTd1eFNzWllBVTdmbDE3bTFRNTNGaThEM180MGpzYlR2YThicy12LVY1ckllaDhqUzdBcF9aa3FTbUtacUtzOElaeHhTYnl3bWt5blVIcVlHdURwTWFvQVh4UkNiaFNFVVBGbWpzR1I1Zk5lM1c1U1c1WmIwWS1vTjJmZXVHaFBlM0lCOG9oZVZfY0JTZUdaU0NsQzgtWE1GYnQxd3VmTF9kcm1GejHSAeQBQVVfeXFMTXRhVHpWaEtwWlh1R1N4QmxiejkyaXhRdERIYzk4X2NxbDV4LWExOXNsQ0lWd1hycGJfTTZaNzk3dXhTc1pZQVU3ZmwxN20xUTUzRmk4RDNfNDBqc2JUdmE4YnMtdi1WNXJJZWg4alM3QXBfWmtxU21LWnFLczhJWnh4U2J5d21reW5VSHFZR3VEcE1hb0FYeFJDYmhTRVVQRm1qc0dSNWZOZTNXNVNXNVpiMFktb04yZmV1R2hQZTNJQjhvaGVWX2NCU2VHWlNDbEM4LVhNRmJ0MXd1ZkxfZHJtRnox?oc=5",
-      "published": "Mon, 19 Oct 2026 19:47:00 GMT",
-      "source": "The Economic Times",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.2
-    },
-    {
-      "title": "Mullite Insulation Substrates Market to 2035: Semiconductor Fab Expansions Drive 4-6% Annual Growth - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHptdU56UENMbUotNmNJdl9LQU14clgwaEVKMERxTEZTSjU3dk9MNGhTQTMtUnQzdUxaSmJlaDFTdnlsVFFmbXRfWUgwMmxQc2Z3Y1FZNmwwT1dJMHo2czlsb1M4R2UzTm5VaUZqV0dEek9JLTFaYkIwczNiSXIwSWhhNWthbzE5Vl81Z1NQTTZ2VW4xclBteXgtRm51RzJsVmNhQXhtd0RGOGJNZHRpMXJWQ2FfclZGSGVudGwtYWkwaXlJcHc?oc=5",
-      "published": "Mon, 19 Oct 2026 04:51:05 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 16.2
-    },
-    {
-      "title": "Tariff risks reshape Indian pharma’s global playbook - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUtnXzc2dTNBWHd2VjJtY01iWmpQdi0yRVd2WE5aRWU5elRWRzlzbm5KZHVhakZhRlRXdEdEXzljOHplZEE3MWVOZnJIVlFjTnVXOTdwa0gzMHlJeWRWQVhFUG1DQ1lRMEUzRXFRUXczbFg3SU82X04zNENueXBRQ0dyYmZHRkVTY2RzNEpuMWtFY3N3d3FWSzNmTWU2a2drcUgwWmhHb0N3WFF6elBkNzd30gGyAUFVX3lxTE1ZS2dfNzZ1M0FYd3ZWMm1jTWJaalB2LTJFV3ZYTlpFZTl6VFZHOXNubkpkdWFqRmFGVFd0R0RfOWM4emVkQTcxZU5mckhWUWNOdVc5N3BrSDMweUl5ZFZBWEVQbUNDWVEwRTNFcVFRdzNsWDdJTzZfTjM0Q255cFFDR3JiZkdGRVNjZHM0Sm4xa0Vjc3d3cVZLM2ZNZTZrZ2txSDBaaEdvQ3dYUXp6UGQ3N3c?oc=5",
-      "published": "Mon, 19 Oct 2026 15:09:28 GMT",
-      "source": "The Financial Express",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 5.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -161,21 +118,21 @@
           "companies": []
         },
         {
-          "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
-          "source": "bfsi.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        },
-        {
           "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
           "source": "Business Standard",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
           "triggers": [
             "POLICY",
             "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
+          "triggers": [
+            "POLICY"
           ],
           "companies": []
         },
@@ -235,36 +192,6 @@
       "confidence": "low",
       "watch": "MONITOR",
       "reason": "Cross-signal CAPEX, POLICY; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Electronics & Semiconductors",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
-          "source": "Energetica India Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
@@ -408,7 +335,22 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Electronics & Semiconductors",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-19T21:00:48.380495+00:00"
+  ]
 }
