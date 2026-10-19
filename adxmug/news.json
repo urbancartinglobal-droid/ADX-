@@ -18,7 +18,36 @@
       "signal_score": 17.0
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive - DT Next",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGRHbS03Q21hNXhwYkh1cWhaOHJRb1hzN1FqcjZLNFZZeFRtVXJCMXg5UlNnSHp5bkpxVVczdWNLYUJaTENuN2NhcEVDR0YtekViTVA0WWk0RThjbG84bnM1OF9ZcEJ2ejVfNzkwejBPVFpHV1MtNXk1N2xWendoWGxVbFR3dF95Q1VHVy1OanVKaUJacmI2Mm5NTnpyYW9EOUdNTnQ5Sm3SAbYBQVVfeXFMTjRLYlQ2Tk9rOXI1OXFoYnhHNDNZYzNsdm1Mb2FLV1k1cy1LWkZtcTFqdWR5OGdUclQ3cHQ4UW5SbFN2OG9Cc0RGemNnY095STZVTnctLUotamVZVm02Z3A5blRKcV9KcEhvbEZPRUlIVXNXVWl5Z2pYWkU0RzJRN1hHU0l0cFR0a25mTVFnS3hqZzlQeUh2UGx0T3NETjdia3dUR3lyQXd6QS1CSEN1NDVTZFBKVkE?oc=5",
+      "published": "Mon, 19 Oct 2026 13:44:15 GMT",
+      "source": "DT Next",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 1.8
+    },
+    {
+      "title": "Mullite Insulation Substrates Market to 2035: Semiconductor Fab Expansions Drive 4-6% Annual Growth - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHptdU56UENMbUotNmNJdl9LQU14clgwaEVKMERxTEZTSjU3dk9MNGhTQTMtUnQzdUxaSmJlaDFTdnlsVFFmbXRfWUgwMmxQc2Z3Y1FZNmwwT1dJMHo2czlsb1M4R2UzTm5VaUZqV0dEek9JLTFaYkIwczNiSXIwSWhhNWthbzE5Vl81Z1NQTTZ2VW4xclBteXgtRm51RzJsVmNhQXhtd0RGOGJNZHRpMXJWQ2FfclZGSGVudGwtYWkwaXlJcHc?oc=5",
+      "published": "Mon, 19 Oct 2026 04:51:05 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 10.7
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -366,5 +395,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-19T15:32:31.614449+00:00"
 }
