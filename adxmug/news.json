@@ -44,13 +44,27 @@
       "label": "MACRO",
       "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 7.0
+      "freshness_hours": 9.2
     },
     {
-      "title": "Pleated Dust Filter Cartridges Market To 2035: Semiconductor Fab Expansion Supports Growth - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1hBbVdpbnRSMnZpeklZdDIwanVGUmxTdDYyUkJKSi1DU29pajkzTWN0dWduR050b2ZOcEgwd3B5Zkg1UUpESk50d1lPdW53MFVYMmNDQTVIYlpMOG9ZVEtoWjRlV05ESU40Uko5ZERZb2oyTWVMR0RrWnhKVnRrSzdpQlB0X3NHeUc4MFhpSDZDQ08wV016dDBtRlBGSkEyaHlDUUw5UktxWXMteWhWRUdfNjZTTVExLVJJSUp2V1E0T3lib3Q1Um5naDJOQlZmNXhSUQ?oc=5",
-      "published": "Sun, 18 Oct 2026 15:41:04 GMT",
-      "source": "IndexBox",
+      "title": "Tariffs are reshaping the airfreight map - Air Cargo Week",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqVmtQam9pMlp6bnE3SHBIOFVaWXdDQzE2Mk5oRmNwQ3J4TkJuY25PRERJWXZIdUNIX3Z3cUdOVkp2aWhxUE9SYkQ1eWVwT2ZWOW5ZSXVuTGpoOWhGZEN5Y0owWnFjRUJQS2FSbUpQSHdaQ0Fo?oc=5",
+      "published": "Sun, 18 Oct 2026 23:30:03 GMT",
+      "source": "Air Cargo Week",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 1.7
+    },
+    {
+      "title": "GlobalFoundries expands US chip investment to $5 billion - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXJfTTU2UUxsRW9LbEM2SWRpTEpjV0JFQmpWWGxFbnFrenl0TGRXWUtYc0FmbzQzVGtoMmJfTlZMUXhtTGpiUkREQ0dsUTJSeWtQOE9FbmRqXzdIUVpfRnZLNDU1cEM1akEtbGFGMFVYWHZBcUdfd01kM2FCbEdHM2FaT0laWjBZWHVkV0pRSlNBel9GZ2xTUno2Y2dlbk4tQ0VfZmZBa0thZ0poZlQzRnpMbklCN19TWTY2aTRvMFVaRmxGdEJrOUFWOFNPUdIB0wFBVV95cUxPZDFvS3R1M1lEeEVMaFhLeWFzVjREUS1lTG1SOUJFM2c0WHlkSUlzT0M4WmxZS3pXeUFaeDhwTndqU2RjOUlOcHdmV1J6WjEwOE1zUUcxY2EweXljMlNfMnd2RkNqanpTSG8wYm1DWjlKWjZUbldKbmRMaGZxZ0ZSYlZuQTFCd29qblByOVFZWjFOem9FX2JJZmVuMVNfY2NUWDk1VW9KTTc2bmZMNHJNUDU1OTJGcDZmTERJTWY2dDZBTXg5T09UeGtjOWtVNnFMUVY0?oc=5",
+      "published": "Sun, 18 Oct 2026 15:54:27 GMT",
+      "source": "electronics.economictimes.indiatimes.com",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -58,7 +72,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 7.4
+      "freshness_hours": 9.3
     }
   ],
   "opportunities": [
@@ -422,5 +436,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-18T23:04:43.172537+00:00"
+  "landed_updated_utc": "2026-10-19T01:12:13.003543+00:00"
 }
