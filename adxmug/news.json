@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-20T11:39:19.378868+00:00",
+  "updated_utc": "2026-10-20T17:09:00.367374+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,53 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 13.7
+      "signal_score": 12.9
     }
   ],
-  "landed": [
-    {
-      "title": "Sugar-Based Ethanol Banned; Reason: Ethanol Blended Petrol Is Making Sugar Too Expensive - Cartoq",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzcXBNS0pXdUM1QWhadUNVWlBtZmNiblVxY2FvZmRydmFZMmx4dFZJeDd6eEZFYlJxSmhuSG9jNHJtdjFObUJpWXdFQUtuRUtKVXh5aDlBY19wN2R4RXBQMllMZ2xGX0lUaXNCaS1wOXo1dTJKNXMtWkFB?oc=5",
-      "published": "Tue, 20 Oct 2026 13:41:07 GMT",
-      "source": "Cartoq",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 3.2
-    },
-    {
-      "title": "India must align battery storage and transmission to cut renewable curtailment - Energy-Storage.News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaU15RjVyYmRLb0FYRVZIcW8zNHRlcjN6ekxlbHJrQ3I2TGc3Z01ySVJ5MGtFQ3hVcVlRUWJrT2paM2ZjZUVOdjhLRERoRTdpcUZLTzRCZFdpVDd6WXFIanZ6T0VRdVp5TkZtTThHVmRJbVdLam1wWHhPUFBRTHphYnJOdlA5dnNleEFHdjlPQjduMHdyTXBWVFJhaFVNVFB3WnQyclVxMkxvYU14ZnktYQ?oc=5",
-      "published": "Tue, 20 Oct 2026 03:13:31 GMT",
-      "source": "Energy-Storage.News",
-      "sector": "Power & Grid",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 13.7
-    },
-    {
-      "title": "Orchid Pharma Board Approves Enabling Resolution to Raise Up to ₹600 Crore via Equity or Debt Instruments - EquityBulls",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTVPSi01SnFhNi00ZmpzYTBjWEJnRzIwS0VrVms0RVFFWEdEcGQ4a3ZVZF9WeUQ5Rm9HMzhMSEFCQUstXzJXM2hIRHUxSXh4UkpSWFh5V1ZpeHA4S0V6LW96R1NTSlpNSy1UZ2dCYjRBaGhZQXN4eU1NT2NWSmUwcXk0M2tMUVpsRWYzZXk1d3M5WWkwbGlqZk13UnB6YjNibnM5X01yc0EzYkFlWlJ1UHd6dHVIVU1ZcldkRg?oc=5",
-      "published": "Tue, 20 Oct 2026 07:02:26 GMT",
-      "source": "EquityBulls",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 9.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -424,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-20T16:54:37.684680+00:00"
+  ]
 }
