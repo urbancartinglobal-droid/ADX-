@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-20T17:09:00.367374+00:00",
+  "updated_utc": "2026-10-20T21:38:27.416075+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,53 +15,10 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 12.9
+      "signal_score": 12.2
     }
   ],
-  "landed": [
-    {
-      "title": "PharmaEssentia Accelerates Global Expansion with US and Japan Drug Approvals and US$46 Million Manufacturing Investment - BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbDlhRm5lLTJlRk05cFA1NUpfQUozT0ZYelFPbENPcmR0c2gxbEg0WC1NNTV3UlkwM013WUhIcEdKaXlDc3d2U0pwOXFOZlNHYWhRdzhkNmZ4ZUhFUXFvT0pidkUtRWZiczV6c0xiS3VjVTlCQUdGeUN5X1FHZ3ZHclF1TGMwc3JYVnJlWFJjSGVWVGo5TGtMY3hlSjcwWE1Rajd3Y2tZaVZsdzAtSVhwZVZfV3BOYmhyaVNmWVd3Zk1vaUFaaG1zRUFETFNsWTlYM2dkS2lDQmVsZnYwY0tYNDJnV1B4NXRscHc1Z3NxeTVrOFczS3c?oc=5",
-      "published": "Tue, 20 Oct 2026 18:31:48 GMT",
-      "source": "BioPharma APAC",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 2.0
-    },
-    {
-      "title": "Sugar-Based Ethanol Banned; Reason: Ethanol Blended Petrol Is Making Sugar Too Expensive - Cartoq",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzcXBNS0pXdUM1QWhadUNVWlBtZmNiblVxY2FvZmRydmFZMmx4dFZJeDd6eEZFYlJxSmhuSG9jNHJtdjFObUJpWXdFQUtuRUtKVXh5aDlBY19wN2R4RXBQMllMZ2xGX0lUaXNCaS1wOXo1dTJKNXMtWkFB?oc=5",
-      "published": "Tue, 20 Oct 2026 13:41:07 GMT",
-      "source": "Cartoq",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 6.9
-    },
-    {
-      "title": "Polyacrylamide Powder Flocculants Market Forecast to 2035: Growth Driven by Tightening Water Discharge Rules and Electronics Fab Expansions - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcXhXb3JwNXRyajdJemdrNkdEVmxkNHJKR2NueGphUjY3N183WHRKMXE4amxKYkxUbFhzSmxvbHFCMFk0UlRpaGM2UmFJTktiQ3hIQmFRT1FSd1hEMjFIdUozNlVwT2xRYVBuVTVESnJONlRXajNCME1Ka2I3aWhxaEtfWUtLRDFjR0V5ekpFUGU1bks3LWVIZk0wNUdxOGxSTlhERWdVaEdubTJjQTZkZ19ieHN3MEszTlZ2MEtSNGdKU1ZhemdyMGpxbmR1YUtkNXRiX3FKelpVemhsVDBtMFBNUUJnTnVBWTJSS0VqcThWa2RndjVTOERDNFg?oc=5",
-      "published": "Tue, 20 Oct 2026 18:11:04 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.4
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -424,6 +381,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-20T20:32:26.717584+00:00"
+  ]
 }
