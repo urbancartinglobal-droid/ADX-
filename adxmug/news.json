@@ -18,7 +18,50 @@
       "signal_score": 15.7
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI injects Rs 1 lakh crore as liquidity tightens before festive season - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUE1Zc0c3R3gxY1hOTC1wbkF4RDliLTlzbUc2RzlLLU10em54bHFsVHk2ZmJvYXZvdGJ3VXU4R2NHNzBrUVdfM1FFcUN3czE2cF9GZUdFT2RNWEFnZkNLNldNM01rcmtQelBSOFlSdjV1Nmp6anNLcmc1STJBSi1HbmlOS3J2U0d1QXc1ZEVKekgzd3NxcUZhOTZCUUZ2a1VGX19Wa1g5MnFSMU83ZkQzMFVKcDBzcUlhUjlEX0c4SWg2MGhUaDQ0eHpTT1VZSnAtUnZjNGhuZ25Pd1h2cmZR0gHkAUFVX3lxTE10YVR6VmhLcFpYdUdTeEJsYno5Mml4UXRESGM5OF9jcWw1eC1hMTlzbENJVndYcnBiX002Wjc5N3V4U3NaWUFVN2ZsMTdtMVE1M0ZpOEQzXzQwanNiVHZhOGJzLXYtVjVySWVoOGpTN0FwX1prcVNtS1pxS3M4SVp4eFNieXdta3luVUhxWUd1RHBNYW9BWHhSQ2JoU0VVUEZtanNHUjVmTmUzVzVTVzVaYjBZLW9OMmZldUdoUGUzSUI4b2hlVl9jQlNlR1pTQ2xDOC1YTUZidDF3dWZMX2RybUZ6MQ?oc=5",
+      "published": "Mon, 19 Oct 2026 19:47:23 GMT",
+      "source": "The Economic Times",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 4.5
+    },
+    {
+      "title": "Mullite Insulation Substrates Market to 2035: Semiconductor Fab Expansions Drive 4-6% Annual Growth - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHptdU56UENMbUotNmNJdl9LQU14clgwaEVKMERxTEZTSjU3dk9MNGhTQTMtUnQzdUxaSmJlaDFTdnlsVFFmbXRfWUgwMmxQc2Z3Y1FZNmwwT1dJMHo2czlsb1M4R2UzTm5VaUZqV0dEek9JLTFaYkIwczNiSXIwSWhhNWthbzE5Vl81Z1NQTTZ2VW4xclBteXgtRm51RzJsVmNhQXhtd0RGOGJNZHRpMXJWQ2FfclZGSGVudGwtYWkwaXlJcHc?oc=5",
+      "published": "Mon, 19 Oct 2026 04:51:05 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 19.4
+    },
+    {
+      "title": "Tariff risks reshape Indian pharma’s global playbook - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUtnXzc2dTNBWHd2VjJtY01iWmpQdi0yRVd2WE5aRWU5elRWRzlzbm5KZHVhakZhRlRXdEdEXzljOHplZEE3MWVOZnJIVlFjTnVXOTdwa0gzMHlJeWRWQVhFUG1DQ1lRMEUzRXFRUXczbFg3SU82X04zNENueXBRQ0dyYmZHRkVTY2RzNEpuMWtFY3N3d3FWSzNmTWU2a2drcUgwWmhHb0N3WFF6elBkNzd30gGyAUFVX3lxTE1ZS2dfNzZ1M0FYd3ZWMm1jTWJaalB2LTJFV3ZYTlpFZTl6VFZHOXNubkpkdWFqRmFGVFd0R0RfOWM4emVkQTcxZU5mckhWUWNOdVc5N3BrSDMweUl5ZFZBWEVQbUNDWVEwRTNFcVFRdzNsWDdJTzZfTjM0Q255cFFDR3JiZkdGRVNjZHM0Sm4xa0Vjc3d3cVZLM2ZNZTZrZ2txSDBaaEdvQ3dYUXp6UGQ3N3c?oc=5",
+      "published": "Mon, 19 Oct 2026 15:09:28 GMT",
+      "source": "The Financial Express",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 9.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -352,5 +395,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-20T00:17:04.864581+00:00"
 }
