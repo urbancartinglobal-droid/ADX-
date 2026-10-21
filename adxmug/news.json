@@ -1,68 +1,116 @@
 {
-  "updated_utc": "2026-10-21T04:50:13.093574+00:00",
+  "updated_utc": "2026-10-21T11:51:09.678118+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [
     {
-      "title": "RBI Tightens Bank Liquidity Requirements - Bankersadda",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaV0RjTE5qNmpKUUk3dkVvTUdVWmEwTzk4dFdwbTRseEd4NTBXY2dlQ3JqNHJ5ajJnRkttRko5dUdFUG43LTB3ZGs1aVR3Y3RucmdJbHRBeFZ6MFBfd0FoWHdfcUprMFo2YkE5WkcwRnZDNXl1QzR4YQ?oc=5",
-      "published": "Wed, 14 Oct 2026 06:55:40 GMT",
-      "source": "Bankersadda",
-      "feed": "Banking & Financials",
-      "description": "RBI Tightens Bank Liquidity Requirements Bankersadda",
-      "sector": "Banking & Financials",
+      "title": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” - Powerline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHJoY2xpXzNWSW9PdkJkM2xIRGNOVXhVMThzTTh1OFRQVThkaG1scDFtaHgwbHFFa1VOeThkaFUwaFE4dXI1MmppRlc3andmbnRRUFphd3JFMmRnUFR3cXJpSS10Tmlpdy1VU0hLTmowNm1ycUhOTjJ1d2s1cGhYNElnRnJsZVN6TVlLTlRwbW54ZXgxdzhHeVZZYW9sNGt0Mjk0Ty10aEFWSGRYT3QzVXNtRGtjQmN4SDRUN2t3S3JpbkhwSnVTS2lUN1dZSERmQWxwVGdfWllKWXNVLUp3N1lwQnotTkhNNlBkN2ZRdXNoWWZRbkJyZU0wazV0QQ?oc=5",
+      "published": "Wed, 21 Oct 2026 10:46:30 GMT",
+      "source": "Powerline Magazine",
+      "feed": "Power & Grid",
+      "description": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” Powerline Magazine",
+      "sector": "Power & Grid",
       "triggers": [
-        "POLICY"
+        "CAPEX"
       ],
-      "signal_score": 11.1
+      "signal_score": 22.0
     }
   ],
   "landed": [
     {
-      "title": "BASF Expands Taiwan Semiconductor Materials Capacity For Sub-2nm Chips - Electronics For You BUSINESS",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVFFZ0JudzNlbW1iRDVucWhQa1BiQmlTd1EwclRvT0pfV1pJazh5eG44SFNRb2VoRVRZN0t0cEpqRWU2WjNmbk9BRmk4aWhLbko4bUg4MWJxeVZya2xuU0dfcXBRdVZWRUtON3NOMWNVTnNvTEdIc0s2VjNoOVVfcUg3SE1vM01SRm1wRW0yem1UMGtPLXp4d2FRT2lUZnhQUzk0Y0x1M1dyUDBSODVlVXRTaDU4bGVTTnRz?oc=5",
-      "published": "Wed, 21 Oct 2026 07:49:31 GMT",
-      "source": "Electronics For You BUSINESS",
-      "sector": "Electronics & Semiconductors",
+      "title": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” - Powerline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHJoY2xpXzNWSW9PdkJkM2xIRGNOVXhVMThzTTh1OFRQVThkaG1scDFtaHgwbHFFa1VOeThkaFUwaFE4dXI1MmppRlc3andmbnRRUFphd3JFMmRnUFR3cXJpSS10Tmlpdy1VU0hLTmowNm1ycUhOTjJ1d2s1cGhYNElnRnJsZVN6TVlLTlRwbW54ZXgxdzhHeVZZYW9sNGt0Mjk0Ty10aEFWSGRYT3QzVXNtRGtjQmN4SDRUN2t3S3JpbkhwSnVTS2lUN1dZSERmQWxwVGdfWllKWXNVLUp3N1lwQnotTkhNNlBkN2ZRdXNoWWZRbkJyZU0wazV0QQ?oc=5",
+      "published": "Wed, 21 Oct 2026 10:46:30 GMT",
+      "source": "Powerline Magazine",
+      "sector": "Power & Grid",
       "triggers": [
-        "MATERIAL CHANGE"
+        "CAPEX"
       ],
       "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.2
-    },
-    {
-      "title": "RBI Injects ₹1 Lakh Crore as Liquidity Tightens Ahead of Festive Season - Thekanal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFA4YVlOa1pZTjVpZmR5RHBja0F3WDVjV09VQkN5b25Jbk5USVpmb1NadXByaTJQUEV0QVVQYVNvN2hHRkYyelljMjdkMEhmOVlxbEF0bTdHb2hpMjV5TkZiaUVFS05HeHVrRjRyd29ZYVlzRG5XZTFHYXk0QXY5UlRTUGpHSHFDd0Y2NDBYWFRPWjEydVY4Q294TmUyUS1XVktyQ2dvenMwbnRBelE?oc=5",
-      "published": "Wed, 21 Oct 2026 09:23:29 GMT",
-      "source": "Thekanal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
-    },
-    {
-      "title": "US FDA approves GSK's hepatitis B drug, offering patients chance to stop long-term treatment - pharma.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZnVHOWI1TjdyOTlmU0RkazVnQXNFZFY5R045XzR3REU3ZWJvTDhzUmRGdWdqRTRPaFJ1dE8tWVBwcHJzRjAwQ3EtR29oTUdSaEpZOUZ4Rkd1WkZ6Mm9xbFN1aWhySHAzLVFEbEJHdlotZlg0TWlMakdJNUxrSFBHRURWMW1VUE1XTTFkR0hRa0tidzdmb2ptR1B4U1NKXzdPZnZBMF92akRVWFpCQmlod0h6QUJNS3BJbXZmczhZaUxTZnd5YzVZc21SZmF3MTZMa3pCUktsbUhnYVp3cVRyM2ZCcEpKcHhvM3JvZFJIb3RXREE0YVNLVUNIREFxUUJ5dE5MU1lZTlhWdEFaTGfSAY4CQVVfeXFMT2Z1RzliNU43cjk5ZlNEZGs1Z0FzRWRWOUdOOV80d0RFN2Vib0w4c1JkRnVnakU0T2hSdXRPLVlQcHByc0YwMENxLUdvaE1HUmhKWTlGeEZHdVpGejJvcWxTdWlockhwMy1RRGxCR3ZaLWZYNE1pTGpHSTVMa0hQR0VEVjFtVVBNV00xZEdIUWtLYnc3Zm9qbUdQeFNTSl83T2Z2QTBfdmpEVVhaQkJpaHdIekFCTUtwSW12ZnM4WWlMU2Z3eWM1WXNtUmZhdzE2TGt6QlJLbG1IZ2Fad3FUcjNmQnBKSnB4bzNyb2RSSG90V0RBNGFTS1VDSERBcVFCeXROTFNZWU5YVnRBWkxn?oc=5",
-      "published": "Wed, 21 Oct 2026 07:34:54 GMT",
-      "source": "pharma.economictimes.indiatimes.com",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 2.5
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 1.1
     }
   ],
   "opportunities": [
+    {
+      "industry": "Sugar & Ethanol",
+      "score": 66,
+      "article_count": 6,
+      "trigger_count": 12,
+      "triggers": [
+        "POLICY",
+        "PRICING",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNUd3ZCVHIxWmxiYTVqZkg2QVZNZTkycXVObXFldGxtMDNjZnZXb3I2RUdhUnZ3ckhZMDVlUTBTMU1wMWdXZWFyQnEtZkhwaWU1Y2F2d2Nua2VqNkpkVjNOeV9yUjJuMmcwX1ZTRE9lLUpPNldzY2JKUUJwczZGVWN0NW93ZmhvT29pUVhfeHNlTW1KOWlwb01OVkFNMjRCRWJVUzdR?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India bans sugar exports till Sept 30 - News Arena India",
+          "source": "News Arena India",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTNtU3VXek1Gb0ZLMzAtbzBTdS1ReTBUa2QzbTlldzFWSlZvTjdjTkQyV25PUnJtMnluMUE1aUYxME44QWxza3J5MGUwVjBGSllGejZDcEhMSlBSUnBqTXNWOFZ0WGpncW9fcHllWUxJaVhaRVUtRjFLdXBwUXQtd0xybzM?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
+          "triggers": [
+            "TRADE"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "high",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 5 independent sources; mixed positive/negative evidence.",
+      "source_count": 5,
+      "story_clusters": 6,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations.",
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
+    },
     {
       "industry": "Banking & Financials",
       "score": 62,
@@ -134,60 +182,44 @@
       "fresh_count": 0
     },
     {
-      "industry": "Sugar & Ethanol",
-      "score": 55,
-      "article_count": 3,
-      "trigger_count": 7,
+      "industry": "Power & Grid",
+      "score": 38,
+      "article_count": 2,
+      "trigger_count": 2,
       "triggers": [
-        "POLICY",
-        "PRICING",
-        "TRADE"
+        "CAPEX",
+        "PRICING"
       ],
       "evidence": [
         {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
-          "source": "Policy Circle",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
+          "title": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” - Powerline Magazine",
+          "source": "Powerline Magazine",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHJoY2xpXzNWSW9PdkJkM2xIRGNOVXhVMThzTTh1OFRQVThkaG1scDFtaHgwbHFFa1VOeThkaFUwaFE4dXI1MmppRlc3andmbnRRUFphd3JFMmRnUFR3cXJpSS10Tmlpdy1VU0hLTmowNm1ycUhOTjJ1d2s1cGhYNElnRnJsZVN6TVlLTlRwbW54ZXgxdzhHeVZZYW9sNGt0Mjk0Ty10aEFWSGRYT3QzVXNtRGtjQmN4SDRUN2t3S3JpbkhwSnVTS2lUN1dZSERmQWxwVGdfWllKWXNVLUp3N1lwQnotTkhNNlBkN2ZRdXNoWWZRbkJyZU0wazV0QQ?oc=5",
           "triggers": [
-            "POLICY",
-            "TRADE",
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
+          "source": "POWER Magazine",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
+          "triggers": [
             "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-          "source": "A2Z Taxcorp LLP",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India bans sugar exports till Sept 30 - News Arena India",
-          "source": "News Arena India",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTNtU3VXek1Gb0ZLMzAtbzBTdS1ReTBUa2QzbTlldzFWSlZvTjdjTkQyV25PUnJtMnluMUE1aUYxME44QWxza3J5MGUwVjBGSllGejZDcEhMSlBSUnBqTXNWOFZ0WGpncW9fcHllWUxJaVhaRVUtRjFLdXBwUXQtd0xybzM?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
           ],
           "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 3 distinct story clusters; 3 independent sources.",
-      "source_count": 3,
-      "story_clusters": 3,
+      "reason": "Cross-signal CAPEX, PRICING; 2 distinct story clusters; 2 independent sources; 1 fresh evidence items.",
+      "source_count": 2,
+      "story_clusters": 2,
       "companies": [],
       "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations.",
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+        "Repeated sector-specific change evidence warrants company-level verification."
       ],
-      "fresh_count": 0
+      "fresh_count": 1
     },
     {
       "industry": "Chemicals & Materials",
@@ -337,66 +369,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Defence & Aerospace",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Power & Grid",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
-          "source": "POWER Magazine",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Pharma & Healthcare",
       "score": 18,
       "article_count": 1,
@@ -425,7 +397,22 @@
         "Repeated sector-specific change evidence warrants company-level verification."
       ],
       "fresh_count": 0
+    },
+    {
+      "industry": "Defence & Aerospace",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-21T10:03:44.659750+00:00"
+  ]
 }
