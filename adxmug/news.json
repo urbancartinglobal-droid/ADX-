@@ -20,6 +20,20 @@
   ],
   "landed": [
     {
+      "title": "Japan’s $21 billion US chip bet raises questions over its own semiconductor revival - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVGItQjRYN1J3OU84eFp4ZC1yZE83YnlSNlY3RVJoQ3p4VjNaYnJQMnRKNkh1RG9sNV93QVZjMzNNLWplbEtGOUFwc1BOUzZCS09hdkQzN0o4czkta1dNU0VpY1ZCTW5Xa2RjVERxcFNzSHVSRzk3RTFvT2ttcm1hRXc5Z3k4WWF6N0pLRTFFYnVxMjNwbmh4WGFYWi1KWlRXbGE4czFtSVkybGFfRWIyMEI1NzVHMFhIQnRZNkFMaHVTUjJ5a0p0QktfZkg2SVU3WjFpdDhrQmFyMWdYTTA2LW1DUVJRV0pWNnlIVTJkUEVpbjBHaGc?oc=5",
+      "published": "Wed, 21 Oct 2026 01:53:19 GMT",
+      "source": "electronics.economictimes.indiatimes.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 2.7
+    },
+    {
       "title": "PharmaEssentia Accelerates Global Expansion with US and Japan Drug Approvals and US$46 Million Manufacturing Investment - BioPharma APAC",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbDlhRm5lLTJlRk05cFA1NUpfQUozT0ZYelFPbENPcmR0c2gxbEg0WC1NNTV3UlkwM013WUhIcEdKaXlDc3d2U0pwOXFOZlNHYWhRdzhkNmZ4ZUhFUXFvT0pidkUtRWZiczV6c0xiS3VjVTlCQUdGeUN5X1FHZ3ZHclF1TGMwc3JYVnJlWFJjSGVWVGo5TGtMY3hlSjcwWE1Rajd3Y2tZaVZsdzAtSVhwZVZfV3BOYmhyaVNmWVd3Zk1vaUFaaG1zRUFETFNsWTlYM2dkS2lDQmVsZnYwY0tYNDJnV1B4NXRscHc1Z3NxeTVrOFczS3c?oc=5",
       "published": "Tue, 20 Oct 2026 18:31:48 GMT",
@@ -31,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 5.3
+      "freshness_hours": 10.1
     },
     {
       "title": "Sugar-Based Ethanol Banned; Reason: Ethanol Blended Petrol Is Making Sugar Too Expensive - Cartoq",
@@ -45,21 +59,7 @@
       "label": "MACRO",
       "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 10.1
-    },
-    {
-      "title": "Automobile Sales Rise 18.2% to Record 83.88 Lakh Units in Q2 FY27 - DD News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEhLYnhHS01OWkNxT2tSb2hTSXdPTXF2Q0Z1dS1VNDhIeG91NnlkTW5ON2paazJtdXJhOHg3dEd4bmF1a3R3aHZFYzU5eXlyOFhQZXBGSWZuSlg2WTRRQTNTc0toMkNoM1FDbHdKUmpOLUlzdm55cTFKQmtXS2dzZ3Q5RWp1UnhZVWo5OEhsa0YycVd1?oc=5",
-      "published": "Tue, 20 Oct 2026 17:06:36 GMT",
-      "source": "DD News",
-      "sector": "Auto & Components",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 6.7
+      "freshness_hours": 14.9
     }
   ],
   "opportunities": [
@@ -425,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-20T23:49:12.635377+00:00"
+  "landed_updated_utc": "2026-10-21T04:35:57.397911+00:00"
 }
