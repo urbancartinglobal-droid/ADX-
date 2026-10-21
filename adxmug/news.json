@@ -20,18 +20,32 @@
   ],
   "landed": [
     {
-      "title": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” - Powerline Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHJoY2xpXzNWSW9PdkJkM2xIRGNOVXhVMThzTTh1OFRQVThkaG1scDFtaHgwbHFFa1VOeThkaFUwaFE4dXI1MmppRlc3andmbnRRUFphd3JFMmRnUFR3cXJpSS10Tmlpdy1VU0hLTmowNm1ycUhOTjJ1d2s1cGhYNElnRnJsZVN6TVlLTlRwbW54ZXgxdzhHeVZZYW9sNGt0Mjk0Ty10aEFWSGRYT3QzVXNtRGtjQmN4SDRUN2t3S3JpbkhwSnVTS2lUN1dZSERmQWxwVGdfWllKWXNVLUp3N1lwQnotTkhNNlBkN2ZRdXNoWWZRbkJyZU0wazV0QQ?oc=5",
-      "published": "Wed, 21 Oct 2026 10:46:30 GMT",
-      "source": "Powerline Magazine",
-      "sector": "Power & Grid",
+      "title": "BASF expands Taiwan semiconductor materials capacity for sub-2nm chips - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUzdtWW1uRnFpNnZocmNvZEVDblhxTElkU2hteUozRHhGZzVSc0hBSE1JMUIzYzJESTJwQ3lmTEQzNnpCNF8xWGJMUDRQdEl1RE5UOHhkNnhBQkhhak5YY0RMNE9vSUZvQmtUbzVlLW1YaHVFNnBicWhoMlRoUkwyeXBrbktmaUVTR1AtbVZzaWM3VWdsMDlGRDJQeUFEbEEzREJqcDhOZmdRQ2k4Nk9XTGg4S0ljREF4UVZkMERiV29EdE5NWFJSb3hRTmt6aEhubng0MGI2X0RBWDJfcU1ORGhDd195YWlv0gHsAUFVX3lxTE5XYm5jMEM4alhQTmpoWTdtOW80NDJINDhyVGFGcFllWTBtWmpDbHRfZDJ1WFhONGFCcHczNFRubG5DRVBub21tbnpOekpjaTVLeUdfMjBsWlVrNF9KUHlNbUxDbVRWSUQ2dU4taDV1QkZmaU9xQjN3MThnd0lUZ2lFc2tsX0NIWjhVb0xVV0JxcV85UkxOVEd4YTExQ0tBb1RRRmVzQUVFWlJSdmVXMmVUNHVBTDQ4V25vdFpId3REUFpPZm1MbGhyb3Iwc21lQnFPS3RBQlgtdlFHREFRUGQ0U2dtVEhfdkNvUDVK?oc=5",
+      "published": "Wed, 21 Oct 2026 17:15:00 GMT",
+      "source": "electronics.economictimes.indiatimes.com",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
-        "CAPEX"
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 11.0
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 6.0
+    },
+    {
+      "title": "Francis Walsh III on Tariffs and Freight Costs - Global Banking & Finance Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR0NvZlJhRkd0Ql9ZTlF0MmJzMTN0T0ZKQnh5aDJOUFI5THBDRHJWZ2E2WjNFeWZkWXBvZEZpdlp0VjhUdVoyLV9ERzNRa1FJenVfQ1M3Z3V4WDhjMWRHNDlKaDM1NTkxcWgwMzk0NTFhbE9Fd1FiRmhBOXgyZVpjMnZlTS16bjdHb005ajN3VDg?oc=5",
+      "published": "Wed, 21 Oct 2026 12:42:26 GMT",
+      "source": "Global Banking & Finance Review",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 10.6
     }
   ],
   "opportunities": [
@@ -412,5 +426,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-21T23:16:34.370211+00:00"
 }
