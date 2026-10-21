@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-21T17:13:54.322193+00:00",
+  "updated_utc": "2026-10-21T21:44:09.372122+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -20,54 +20,26 @@
   ],
   "landed": [
     {
-      "title": "BASF expands Taiwan semiconductor materials capacity for sub-2nm chips - electronics.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUzdtWW1uRnFpNnZocmNvZEVDblhxTElkU2hteUozRHhGZzVSc0hBSE1JMUIzYzJESTJwQ3lmTEQzNnpCNF8xWGJMUDRQdEl1RE5UOHhkNnhBQkhhak5YY0RMNE9vSUZvQmtUbzVlLW1YaHVFNnBicWhoMlRoUkwyeXBrbktmaUVTR1AtbVZzaWM3VWdsMDlGRDJQeUFEbEEzREJqcDhOZmdRQ2k4Nk9XTGg4S0ljREF4UVZkMERiV29EdE5NWFJSb3hRTmt6aEhubng0MGI2X0RBWDJfcU1ORGhDd195YWlv0gHsAUFVX3lxTE5XYm5jMEM4alhQTmpoWTdtOW80NDJINDhyVGFGcFllWTBtWmpDbHRfZDJ1WFhONGFCcHczNFRubG5DRVBub21tbnpOekpjaTVLeUdfMjBsWlVrNF9KUHlNbUxDbVRWSUQ2dU4taDV1QkZmaU9xQjN3MThnd0lUZ2lFc2tsX0NIWjhVb0xVV0JxcV85UkxOVEd4YTExQ0tBb1RRRmVzQUVFWlJSdmVXMmVUNHVBTDQ4V25vdFpId3REUFpPZm1MbGhyb3Iwc21lQnFPS3RBQlgtdlFHREFRUGQ0U2dtVEhfdkNvUDVK?oc=5",
-      "published": "Wed, 21 Oct 2026 11:16:34 GMT",
-      "source": "electronics.economictimes.indiatimes.com",
-      "sector": "Electronics & Semiconductors",
+      "title": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” - Powerline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHJoY2xpXzNWSW9PdkJkM2xIRGNOVXhVMThzTTh1OFRQVThkaG1scDFtaHgwbHFFa1VOeThkaFUwaFE4dXI1MmppRlc3andmbnRRUFphd3JFMmRnUFR3cXJpSS10Tmlpdy1VU0hLTmowNm1ycUhOTjJ1d2s1cGhYNElnRnJsZVN6TVlLTlRwbW54ZXgxdzhHeVZZYW9sNGt0Mjk0Ty10aEFWSGRYT3QzVXNtRGtjQmN4SDRUN2t3S3JpbkhwSnVTS2lUN1dZSERmQWxwVGdfWllKWXNVLUp3N1lwQnotTkhNNlBkN2ZRdXNoWWZRbkJyZU0wazV0QQ?oc=5",
+      "published": "Wed, 21 Oct 2026 10:46:30 GMT",
+      "source": "Powerline Magazine",
+      "sector": "Power & Grid",
       "triggers": [
-        "MATERIAL CHANGE"
+        "CAPEX"
       ],
       "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.8
-    },
-    {
-      "title": "RBI Injects ₹1 Lakh Crore as Liquidity Tightens Ahead of Festive Season - Thekanal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFA4YVlOa1pZTjVpZmR5RHBja0F3WDVjV09VQkN5b25Jbk5USVpmb1NadXByaTJQUEV0QVVQYVNvN2hHRkYyelljMjdkMEhmOVlxbEF0bTdHb2hpMjV5TkZiaUVFS05HeHVrRjRyd29ZYVlzRG5XZTFHYXk0QXY5UlRTUGpHSHFDd0Y2NDBYWFRPWjEydVY4Q294TmUyUS1XVktyQ2dvenMwbnRBelE?oc=5",
-      "published": "Wed, 21 Oct 2026 09:27:29 GMT",
-      "source": "Thekanal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 10.6
-    },
-    {
-      "title": "US FDA approves GSK's hepatitis B drug, offering patients chance to stop long-term treatment - pharma.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZnVHOWI1TjdyOTlmU0RkazVnQXNFZFY5R045XzR3REU3ZWJvTDhzUmRGdWdqRTRPaFJ1dE8tWVBwcHJzRjAwQ3EtR29oTUdSaEpZOUZ4Rkd1WkZ6Mm9xbFN1aWhySHAzLVFEbEJHdlotZlg0TWlMakdJNUxrSFBHRURWMW1VUE1XTTFkR0hRa0tidzdmb2ptR1B4U1NKXzdPZnZBMF92akRVWFpCQmlod0h6QUJNS3BJbXZmczhZaUxTZnd5YzVZc21SZmF3MTZMa3pCUktsbUhnYVp3cVRyM2ZCcEpKcHhvM3JvZFJIb3RXREE0YVNLVUNIREFxUUJ5dE5MU1lZTlhWdEFaTGfSAY4CQVVfeXFMT2Z1RzliNU43cjk5ZlNEZGs1Z0FzRWRWOUdOOV80d0RFN2Vib0w4c1JkRnVnakU0T2hSdXRPLVlQcHByc0YwMENxLUdvaE1HUmhKWTlGeEZHdVpGejJvcWxTdWlockhwMy1RRGxCR3ZaLWZYNE1pTGpHSTVMa0hQR0VEVjFtVVBNV00xZEdIUWtLYnc3Zm9qbUdQeFNTSl83T2Z2QTBfdmpEVVhaQkJpaHdIekFCTUtwSW12ZnM4WWlMU2Z3eWM1WXNtUmZhdzE2TGt6QlJLbG1IZ2Fad3FUcjNmQnBKSnB4bzNyb2RSSG90V0RBNGFTS1VDSERBcVFCeXROTFNZWU5YVnRBWkxn?oc=5",
-      "published": "Wed, 21 Oct 2026 07:34:54 GMT",
-      "source": "pharma.economictimes.indiatimes.com",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 12.5
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 11.0
     }
   ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 60,
-      "article_count": 4,
-      "trigger_count": 8,
+      "score": 66,
+      "article_count": 6,
+      "trigger_count": 12,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -82,6 +54,26 @@
             "POLICY",
             "TRADE",
             "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India bans sugar exports till Sept 30 - News Arena India",
+          "source": "News Arena India",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTNtU3VXek1Gb0ZLMzAtbzBTdS1ReTBUa2QzbTlldzFWSlZvTjdjTkQyV25PUnJtMnluMUE1aUYxME44QWxza3J5MGUwVjBGSllGejZDcEhMSlBSUnBqTXNWOFZ0WGpncW9fcHllWUxJaVhaRVUtRjFLdXBwUXQtd0xybzM?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
           ],
           "companies": []
         },
@@ -104,27 +96,88 @@
             "TRADE"
           ],
           "companies": []
-        },
+        }
+      ],
+      "confidence": "high",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 5 independent sources; mixed positive/negative evidence.",
+      "source_count": 5,
+      "story_clusters": 6,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations.",
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Banking & Financials",
+      "score": 62,
+      "article_count": 5,
+      "trigger_count": 8,
+      "triggers": [
+        "POLICY",
+        "PRICING"
+      ],
+      "evidence": [
         {
-          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGQ3TUdxMHk0dk0wY2piWUs5SkNIdGZ6NlloRUZuUE1XYldUT1JLRUpFSzR5UW85MWFsbjI2UTd5bG4wZGx4dW9TT3d2NEZYX1VTRkl0SUdjZ05qcGtod1NWakFGaG1BUmdPNlJsWVdqaFVXdGxRT0NTQlR4NUZtcTdKajU4V2xZMjVXUkJ1bzU?oc=5",
+          "title": "RBI Tightens Bank Liquidity Requirements - Bankersadda",
+          "source": "Bankersadda",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaV0RjTE5qNmpKUUk3dkVvTUdVWmEwTzk4dFdwbTRseEd4NTBXY2dlQ3JqNHJ5ajJnRkttRko5dUdFUG43LTB3ZGs1aVR3Y3RucmdJbHRBeFZ6MFBfd0FoWHdfcUprMFo2YkE5WkcwRnZDNXl1QzR4YQ?oc=5",
           "triggers": [
             "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
           ],
           "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING; 5 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations.",
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance."
       ],
       "fresh_count": 0
     },
@@ -358,23 +411,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Banking & Financials",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-21T20:05:41.309263+00:00"
+  ]
 }
