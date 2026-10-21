@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-20T21:38:27.416075+00:00",
+  "updated_utc": "2026-10-21T04:50:13.093574+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,132 +15,11 @@
       "triggers": [
         "POLICY"
       ],
-      "signal_score": 12.2
+      "signal_score": 11.1
     }
   ],
-  "landed": [
-    {
-      "title": "Japan’s $21 billion US chip bet raises questions over its own semiconductor revival - electronics.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVGItQjRYN1J3OU84eFp4ZC1yZE83YnlSNlY3RVJoQ3p4VjNaYnJQMnRKNkh1RG9sNV93QVZjMzNNLWplbEtGOUFwc1BOUzZCS09hdkQzN0o4czkta1dNU0VpY1ZCTW5Xa2RjVERxcFNzSHVSRzk3RTFvT2ttcm1hRXc5Z3k4WWF6N0pLRTFFYnVxMjNwbmh4WGFYWi1KWlRXbGE4czFtSVkybGFfRWIyMEI1NzVHMFhIQnRZNkFMaHVTUjJ5a0p0QktfZkg2SVU3WjFpdDhrQmFyMWdYTTA2LW1DUVJRV0pWNnlIVTJkUEVpbjBHaGc?oc=5",
-      "published": "Wed, 21 Oct 2026 01:53:19 GMT",
-      "source": "electronics.economictimes.indiatimes.com",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 2.7
-    },
-    {
-      "title": "PharmaEssentia Accelerates Global Expansion with US and Japan Drug Approvals and US$46 Million Manufacturing Investment - BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbDlhRm5lLTJlRk05cFA1NUpfQUozT0ZYelFPbENPcmR0c2gxbEg0WC1NNTV3UlkwM013WUhIcEdKaXlDc3d2U0pwOXFOZlNHYWhRdzhkNmZ4ZUhFUXFvT0pidkUtRWZiczV6c0xiS3VjVTlCQUdGeUN5X1FHZ3ZHclF1TGMwc3JYVnJlWFJjSGVWVGo5TGtMY3hlSjcwWE1Rajd3Y2tZaVZsdzAtSVhwZVZfV3BOYmhyaVNmWVd3Zk1vaUFaaG1zRUFETFNsWTlYM2dkS2lDQmVsZnYwY0tYNDJnV1B4NXRscHc1Z3NxeTVrOFczS3c?oc=5",
-      "published": "Tue, 20 Oct 2026 18:31:48 GMT",
-      "source": "BioPharma APAC",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 10.1
-    },
-    {
-      "title": "Sugar-Based Ethanol Banned; Reason: Ethanol Blended Petrol Is Making Sugar Too Expensive - Cartoq",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzcXBNS0pXdUM1QWhadUNVWlBtZmNiblVxY2FvZmRydmFZMmx4dFZJeDd6eEZFYlJxSmhuSG9jNHJtdjFObUJpWXdFQUtuRUtKVXh5aDlBY19wN2R4RXBQMllMZ2xGX0lUaXNCaS1wOXo1dTJKNXMtWkFB?oc=5",
-      "published": "Tue, 20 Oct 2026 13:41:07 GMT",
-      "source": "Cartoq",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 14.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
-    {
-      "industry": "Sugar & Ethanol",
-      "score": 66,
-      "article_count": 7,
-      "trigger_count": 15,
-      "triggers": [
-        "POLICY",
-        "PRICING",
-        "TRADE"
-      ],
-      "evidence": [
-        {
-          "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
-          "source": "ChiniMandi",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNUd3ZCVHIxWmxiYTVqZkg2QVZNZTkycXVObXFldGxtMDNjZnZXb3I2RUdhUnZ3ckhZMDVlUTBTMU1wMWdXZWFyQnEtZkhwaWU1Y2F2d2Nua2VqNkpkVjNOeV9yUjJuMmcwX1ZTRE9lLUpPNldzY2JKUUJwczZGVWN0NW93ZmhvT29pUVhfeHNlTW1KOWlwb01OVkFNMjRCRWJVUzdR?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
-          "source": "Policy Circle",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-          "source": "A2Z Taxcorp LLP",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India bans sugar exports till Sept 30 - News Arena India",
-          "source": "News Arena India",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTNtU3VXek1Gb0ZLMzAtbzBTdS1ReTBUa2QzbTlldzFWSlZvTjdjTkQyV25PUnJtMnluMUE1aUYxME44QWxza3J5MGUwVjBGSllGejZDcEhMSlBSUnBqTXNWOFZ0WGpncW9fcHllWUxJaVhaRVUtRjFLdXBwUXQtd0xybzM?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
-          "source": "ChiniMandi",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "high",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 7 distinct story clusters; 6 independent sources; mixed positive/negative evidence.",
-      "source_count": 6,
-      "story_clusters": 7,
-      "companies": [],
-      "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations.",
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
     {
       "industry": "Banking & Financials",
       "score": 62,
@@ -208,6 +87,102 @@
       "companies": [],
       "connections": [
         "Policy + pricing can change inventory economics, margins or the supply-demand balance."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Sugar & Ethanol",
+      "score": 55,
+      "article_count": 3,
+      "trigger_count": 7,
+      "triggers": [
+        "POLICY",
+        "PRICING",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
+          "source": "Policy Circle",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India bans sugar exports till Sept 30 - News Arena India",
+          "source": "News Arena India",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTNtU3VXek1Gb0ZLMzAtbzBTdS1ReTBUa2QzbTlldzFWSlZvTjdjTkQyV25PUnJtMnluMUE1aUYxME44QWxza3J5MGUwVjBGSllGejZDcEhMSlBSUnBqTXNWOFZ0WGpncW9fcHllWUxJaVhaRVUtRjFLdXBwUXQtd0xybzM?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 3 distinct story clusters; 3 independent sources.",
+      "source_count": 3,
+      "story_clusters": 3,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations.",
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Chemicals & Materials",
+      "score": 36,
+      "article_count": 2,
+      "trigger_count": 2,
+      "triggers": [
+        "PRICING",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "National Fertilizers Invests ₹5.72 Billion in Assam Valley Fertilizer for New Ammonia-Urea Facility - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSEh4VXFnYTFuMDZPdk9tRk8zWTAtdEpHaVVRM3FvTzZWc2J2SVFyczh4dXcweTFzQ2xqcVRPMXRKZjdYTFBtaXY0cW01Yk9BWTZ2T2ZVS0lfSzlOcmMtaE5PLWFjczZZckZYZHEwbmVFLWY2QUo2OTdJb2ZhVkdmTC1CM2ZFWVI2QXBfOEVTSXZpT1c4TVQ1TmpKTnRNNnlqanBCd1JjRDR2bjF3MU1BZks5WXRXTEFOdW1NWFByQ0U1ZDZJWkpmNGx5eC1ieG81SjhmMmlXQm5aTVIwZHdKQjRMcVJiZEItTmh5aEdySHRuYUYwS0E?oc=5",
+          "triggers": [
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - Indiatimes",
+          "source": "Indiatimes",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbjdHWW5JN3ZmUlAyRXR0bUl1SjhMZUlLM1JyLUtaN1FmZk5CX2cyUG9wVVZ5bFNDcFctUE1zQ0FHbF85d1lEQm5qd1daTGc2UkNFNHBPRGRFNWY0RlVPYzNzQV9oUHVZcjdya01IS3NCZ1VjRm1ZZC1qTXN5WXJELVY5MlFET1lrMncyYVQ4eXdfVlhTOGxHTVdxMHRQeGRSc2hwS1doM1dvMm91N2xBYWZtS0JJU216MGtWODYyYnAtdUo1azNtMzJ6TEE0SXE1dGxpUHBvQ2xlVGlkVlBPaXpjbUZaRTRmenJUdnFMaGhSSlJoT1pYWtIB_gFBVV95cUxOREpkYVRvcFhpR2RKRHRxQWVMbTlaNXpxVzE2Y3RTZXlWbDRkd0tOaUVyZ011UGg3aThJclFyd0ZQTHdNb1RYMEJNZXA4M0Fzclowc2ZtNWotVE1sZXVYZUhMUDFOWHJtVDh0VjJxX21NZVZTYWdOSHhncHVKemRXc1doYUFTS0l2eVRGUUpDQU1tZ0wyd0Z2bkNrU0NPa0tZTHZBVHJUX3FKbDBtZWppTTZrUHpfQ05yajRMNVJnR25kMENIQzlxTWhuYlNwRURNMmVKdU0ybXRQOGdkMGtaNHIwU3VaSU5iTThESVUyTGJ5M3hJVWRCbUNLbS1WQQ?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal PRICING, TRADE; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
+      "companies": [],
+      "connections": [
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
       ],
       "fresh_count": 0
     },
@@ -319,6 +294,36 @@
       "fresh_count": 0
     },
     {
+      "industry": "Defence & Aerospace",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Power & Grid",
       "score": 18,
       "article_count": 1,
@@ -377,53 +382,6 @@
         "Repeated sector-specific change evidence warrants company-level verification."
       ],
       "fresh_count": 0
-    },
-    {
-      "industry": "Chemicals & Materials",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "TRADE"
-      ],
-      "evidence": [
-        {
-          "title": "National Fertilizers Invests ₹5.72 Billion in Assam Valley Fertilizer for New Ammonia-Urea Facility - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSEh4VXFnYTFuMDZPdk9tRk8zWTAtdEpHaVVRM3FvTzZWc2J2SVFyczh4dXcweTFzQ2xqcVRPMXRKZjdYTFBtaXY0cW01Yk9BWTZ2T2ZVS0lfSzlOcmMtaE5PLWFjczZZckZYZHEwbmVFLWY2QUo2OTdJb2ZhVkdmTC1CM2ZFWVI2QXBfOEVTSXZpT1c4TVQ1TmpKTnRNNnlqanBCd1JjRDR2bjF3MU1BZks5WXRXTEFOdW1NWFByQ0U1ZDZJWkpmNGx5eC1ieG81SjhmMmlXQm5aTVIwZHdKQjRMcVJiZEItTmh5aEdySHRuYUYwS0E?oc=5",
-          "triggers": [
-            "TRADE"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal TRADE; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Defence & Aerospace",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-21T04:35:57.397911+00:00"
+  ]
 }
