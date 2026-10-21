@@ -18,7 +18,50 @@
       "signal_score": 11.1
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "BASF Expands Taiwan Semiconductor Materials Capacity For Sub-2nm Chips - Electronics For You BUSINESS",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVFFZ0JudzNlbW1iRDVucWhQa1BiQmlTd1EwclRvT0pfV1pJazh5eG44SFNRb2VoRVRZN0t0cEpqRWU2WjNmbk9BRmk4aWhLbko4bUg4MWJxeVZya2xuU0dfcXBRdVZWRUtON3NOMWNVTnNvTEdIc0s2VjNoOVVfcUg3SE1vM01SRm1wRW0yem1UMGtPLXp4d2FRT2lUZnhQUzk0Y0x1M1dyUDBSODVlVXRTaDU4bGVTTnRz?oc=5",
+      "published": "Wed, 21 Oct 2026 07:49:31 GMT",
+      "source": "Electronics For You BUSINESS",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 2.2
+    },
+    {
+      "title": "RBI Injects ₹1 Lakh Crore as Liquidity Tightens Ahead of Festive Season - Thekanal",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFA4YVlOa1pZTjVpZmR5RHBja0F3WDVjV09VQkN5b25Jbk5USVpmb1NadXByaTJQUEV0QVVQYVNvN2hHRkYyelljMjdkMEhmOVlxbEF0bTdHb2hpMjV5TkZiaUVFS05HeHVrRjRyd29ZYVlzRG5XZTFHYXk0QXY5UlRTUGpHSHFDd0Y2NDBYWFRPWjEydVY4Q294TmUyUS1XVktyQ2dvenMwbnRBelE?oc=5",
+      "published": "Wed, 21 Oct 2026 09:23:29 GMT",
+      "source": "Thekanal",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.7
+    },
+    {
+      "title": "US FDA approves GSK's hepatitis B drug, offering patients chance to stop long-term treatment - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZnVHOWI1TjdyOTlmU0RkazVnQXNFZFY5R045XzR3REU3ZWJvTDhzUmRGdWdqRTRPaFJ1dE8tWVBwcHJzRjAwQ3EtR29oTUdSaEpZOUZ4Rkd1WkZ6Mm9xbFN1aWhySHAzLVFEbEJHdlotZlg0TWlMakdJNUxrSFBHRURWMW1VUE1XTTFkR0hRa0tidzdmb2ptR1B4U1NKXzdPZnZBMF92akRVWFpCQmlod0h6QUJNS3BJbXZmczhZaUxTZnd5YzVZc21SZmF3MTZMa3pCUktsbUhnYVp3cVRyM2ZCcEpKcHhvM3JvZFJIb3RXREE0YVNLVUNIREFxUUJ5dE5MU1lZTlhWdEFaTGfSAY4CQVVfeXFMT2Z1RzliNU43cjk5ZlNEZGs1Z0FzRWRWOUdOOV80d0RFN2Vib0w4c1JkRnVnakU0T2hSdXRPLVlQcHByc0YwMENxLUdvaE1HUmhKWTlGeEZHdVpGejJvcWxTdWlockhwMy1RRGxCR3ZaLWZYNE1pTGpHSTVMa0hQR0VEVjFtVVBNV00xZEdIUWtLYnc3Zm9qbUdQeFNTSl83T2Z2QTBfdmpEVVhaQkJpaHdIekFCTUtwSW12ZnM4WWlMU2Z3eWM1WXNtUmZhdzE2TGt6QlJLbG1IZ2Fad3FUcjNmQnBKSnB4bzNyb2RSSG90V0RBNGFTS1VDSERBcVFCeXROTFNZWU5YVnRBWkxn?oc=5",
+      "published": "Wed, 21 Oct 2026 07:34:54 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 2.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -383,5 +426,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-21T10:03:44.659750+00:00"
 }
