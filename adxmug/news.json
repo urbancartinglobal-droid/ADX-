@@ -20,18 +20,46 @@
   ],
   "landed": [
     {
-      "title": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” - Powerline Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHJoY2xpXzNWSW9PdkJkM2xIRGNOVXhVMThzTTh1OFRQVThkaG1scDFtaHgwbHFFa1VOeThkaFUwaFE4dXI1MmppRlc3andmbnRRUFphd3JFMmRnUFR3cXJpSS10Tmlpdy1VU0hLTmowNm1ycUhOTjJ1d2s1cGhYNElnRnJsZVN6TVlLTlRwbW54ZXgxdzhHeVZZYW9sNGt0Mjk0Ty10aEFWSGRYT3QzVXNtRGtjQmN4SDRUN2t3S3JpbkhwSnVTS2lUN1dZSERmQWxwVGdfWllKWXNVLUp3N1lwQnotTkhNNlBkN2ZRdXNoWWZRbkJyZU0wazV0QQ?oc=5",
-      "published": "Wed, 21 Oct 2026 10:46:30 GMT",
-      "source": "Powerline Magazine",
-      "sector": "Power & Grid",
+      "title": "Maharashtra ethanol producers warn Rs 40,000 crore investments at risk as OMCs restrict sugarcane-based feedstocks - ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlBXdm5zSU1rQzJiNmpXYUQwR1NmMFk0TWJrOVJDb0prRXdfS1NMZ2NRRjc0eTF2NUhJTFoxRnpPY0JIcjlScDRjM3B3enk1dkd4MkdTVjVRbV8yd2VnbVBCUUpWRWtHb2ZnUl9sd0lIbFVkSk10eXY1NDRneHRtekZubXo1dGNuWHVuMV9DNDhjU1FnWUtMTFpBUUw3WUs4cHp5ckk4OWxXT1Nkamx2OHNybThpMDVKYTFnaHZ4TzItR09UdWpSNUJsUk1HbEJrLUZQRmFVdjE?oc=5",
+      "published": "Thu, 22 Oct 2026 09:24:10 GMT",
+      "source": "ChiniMandi",
+      "sector": "Sugar & Ethanol",
       "triggers": [
-        "CAPEX"
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 13.9
+    },
+    {
+      "title": "Urea imports surge 40% despite push to cut chemical fertilisers - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTlJhbWF5SWZtZVhfT0xEQjU5VmFkLVBGQy1iZElRemJmWEVOSHU1bF9UTGN1N2tPZWZFYmdVcndCMkgyVDdZZGlkdHZob0VYYWc5bUx2THNId1JKREJYb1dlOXdJSW9xOFJ5V2xqZEMwVklCR0RtSVR4ZlFrZDJocGQ2eGxxRHktRzdPUUF4LWVaZXZRWG1fNjZ0NVMwVXRJMXZCUUhHUXQtaXI1Z3dYOXJ5YXJJMzNlMnN6WkNJelZFSm5Ndkt1NVJpZGZMRHMxVU5DNTU1R3VSS04tZDFvc201eDRNNWxYNk9KODM2bUrSAfYBQVVfeXFMT0RUc0dPbnFnRVl6cWd2ZjBObEZBWF9lUUk3UG1vZDlKYnJ0X3JqUWhXV0hIQ1dPMnVZLVJFbUt0U1FFaXcxRVo1RkVmamdxX1NBQjJBZGU5SWpxb3pzcXByZ1pJZElXMmlzd3o1dW1yUTNCcFNERGhQQU9Zc3dWbWNzdGxaOHB4V3dUNnNqU2lVWHZSYTF0MGpmQ1ZsMDd2WU5wdDNCY3VPUWRFU0VySHhuNVIweTZWUklGQkRpVnFkSkp5U3FzUGdnalh5T2NTUE83aC11MzhkNGdDLW8yY1QwQ0xqaFFSeVZuckgwQzk5VURWajVR?oc=5",
+      "published": "Thu, 22 Oct 2026 18:20:13 GMT",
+      "source": "The Economic Times",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.0
+    },
+    {
+      "title": "State woos TN firms for semiconductor, auto and electronics investments - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa1FTbFJuRGFhaXk2cS1SdlB0SGU3LUVIQjZDYnhIYXY3b1MyTTVRdHdYRTRaV0ZkcXdFV0YyWE43blNOeFZsOUhNLTYtRHdqUmhIcFEyVUMzZEpKQUlGN2o3ekZGbWg1cXdfNDFWSUJELXVsNE9VNmxqQnlzVTZoUzZsbW1hUlRVWVBjcjN4ZlNtMTYySkxUNERmNjBEeHpvbjhZYXlUaVFpOXZ3YUtWWnBlb0NoOGVDeUhiNjVmczZFY3U2a2R6X0RZMVd6Y2hPd2VjWXRGNHpzNTZxbjhxNtIB5gFBVV95cUxOdGVSQlJfYS1YaUgyWTROVk1EZDdzeGRUdFFDXzBDZDcydlJOa1hxb3hiOERjbU9VZFRJZWNlM2VYTE5ZWGRieXBjdFhjOFVnNjdhVzNWWmtLMnVIQ00td3JORDk0RGw2eVZUOUxCUUpWRnYxVV9VaDNtdnNYOTY4bUQ0WVFjNjVGNWtLcThuRV9kT3Z3OWNmLUNiSFlNTkRCZWxGNjJldDBvbHlYM2IyeURaekdXQUFpRVAwdndjZ3hfMGNQYTA5MGJpY1pueTBEZ0M2VF9EMjNSaEUwcUJkOGEzSEpBZw?oc=5",
+      "published": "Thu, 22 Oct 2026 18:39:00 GMT",
+      "source": "The Times of India",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 34.8
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 4.6
     }
   ],
   "opportunities": [
@@ -389,5 +417,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-22T23:17:34.211870+00:00"
 }
