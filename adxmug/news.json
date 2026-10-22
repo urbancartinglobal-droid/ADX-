@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-22T11:54:58.582305+00:00",
+  "updated_utc": "2026-10-22T17:12:13.425106+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -20,54 +20,26 @@
   ],
   "landed": [
     {
-      "title": "Maharashtra ethanol producers warn Rs 40,000 crore investments at risk as OMCs restrict sugarcane-based feedstocks - ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlBXdm5zSU1rQzJiNmpXYUQwR1NmMFk0TWJrOVJDb0prRXdfS1NMZ2NRRjc0eTF2NUhJTFoxRnpPY0JIcjlScDRjM3B3enk1dkd4MkdTVjVRbV8yd2VnbVBCUUpWRWtHb2ZnUl9sd0lIbFVkSk10eXY1NDRneHRtekZubXo1dGNuWHVuMV9DNDhjU1FnWUtMTFpBUUw3WUs4cHp5ckk4OWxXT1Nkamx2OHNybThpMDVKYTFnaHZ4TzItR09UdWpSNUJsUk1HbEJrLUZQRmFVdjE?oc=5",
-      "published": "Thu, 22 Oct 2026 09:24:10 GMT",
-      "source": "ChiniMandi",
-      "sector": "Sugar & Ethanol",
+      "title": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” - Powerline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHJoY2xpXzNWSW9PdkJkM2xIRGNOVXhVMThzTTh1OFRQVThkaG1scDFtaHgwbHFFa1VOeThkaFUwaFE4dXI1MmppRlc3andmbnRRUFphd3JFMmRnUFR3cXJpSS10Tmlpdy1VU0hLTmowNm1ycUhOTjJ1d2s1cGhYNElnRnJsZVN6TVlLTlRwbW54ZXgxdzhHeVZZYW9sNGt0Mjk0Ty10aEFWSGRYT3QzVXNtRGtjQmN4SDRUN2t3S3JpbkhwSnVTS2lUN1dZSERmQWxwVGdfWllKWXNVLUp3N1lwQnotTkhNNlBkN2ZRdXNoWWZRbkJyZU0wazV0QQ?oc=5",
+      "published": "Wed, 21 Oct 2026 10:46:30 GMT",
+      "source": "Powerline Magazine",
+      "sector": "Power & Grid",
       "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 5.8
-    },
-    {
-      "title": "Ultraviolette Automotive bets big on new models to drive global expansion - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbHNOc1hUbEVIX2VGQ1RTczVIM3E0NVlqYk5UREExZ3NIckFOeWtjWWsyakFxNTFaU2N3UVk5X3RpYk0xTU9xeDdLcnpOcXFUT01mYVlOV2NlZ0YyVXVEekM5VGxraGdBX1FERjctN196dF9mTThaM2UzUVdYdTRiWkcxTmVaYkIwWF9adXhwc2tYdEo1a2VtYWlnRURoV1hCMVJpSjJEU3FvYXAzVEJXY1ZwRlpDX3huQUdWdmJjS05ITEF3TG15N0ZHOVQtdHhoeXYyWmF6eljSAd4BQVVfeXFMTmRyS19HYXduTHlPa2NUa3VzU2xkYXF2bV9YWlNiRktVODg3NVRBTnVERlhlWXM2N2ZuZGhBM0VBalZ4bHZmbzRnbHMyOXA1TzdKM3UwRV9qZTd0QmxINlMwMi1FMVprYVJSa3BqaFFtT0tmRWRaWHVFU29YNHVVLVdzQUN6NV9zYnp4UmJrR1dVQUQxQlZTU0c0Wjg3R0x5eEVYZ05hN0FYSDNrR0Z5TjJ4YzlFS2JZcDFzR1o0MTB4cW5TenJTc0kwTzZEQ0hwUERnZWRZMV9QaUpFbnVn?oc=5",
-      "published": "Thu, 22 Oct 2026 14:04:30 GMT",
-      "source": "Business Standard",
-      "sector": "Auto & Components",
-      "triggers": [
-        "MATERIAL CHANGE"
+        "CAPEX"
       ],
       "label": "GIGA+",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 1.2
-    },
-    {
-      "title": "PharmaEssentia Accelerates Global Expansion with US and Japan Drug Approvals and US$46 Million Manufacturing Investment - BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUmdUVXJXZFRvakJVTE9RWUZfWUs0TjIycW9BY0dEYWwtUVN1WHBFS0FKNzZJcFRvUnVYeDFSMElvNEhjVXlEUDFVSWRXQkE1MWtEcVpydURhbTEycEhCVnpDMnVCVkJZdXVKdTNLS0J0RVhjb2tUdTNkUUNjaHRjZ3loR2REck1NUUxBRjZxUGJRUjNJRXprdjNnaGY4dkVoR2t3STl3dzhwak9jdGR6dzd4dkpZT2pYZ3JMVmN6VkM0M0E0Y2NjUWZMc05qZTRMM2xMWnpubDQwUWY2VzdBOHgyZUw0MTlweHlBbE5NSmpZNHNE?oc=5",
-      "published": "Thu, 22 Oct 2026 01:23:37 GMT",
-      "source": "BioPharma APAC",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 13.9
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 30.4
     }
   ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
       "score": 66,
-      "article_count": 6,
-      "trigger_count": 12,
+      "article_count": 7,
+      "trigger_count": 13,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -117,9 +89,9 @@
           "companies": []
         },
         {
-          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
-          "source": "Global Agriculture",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
+          "title": "India prohibits raw, white & refined sugar export till Sept 30 - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFhzbmRvOXN0cWduZjVRQkN4S3dIZjJ0XzBfaHdxZ2N0RW9WeWJEQkZScEhXb0tZbmV1S20xaFhQTUNzWjVJakhzZFRkVVVDQ2F3QlFiM1c2cnpNR0ZfSmpQQ0hjT3A2THVNUVBhTzd1TUtTelFBMzV6cGFTeHRfMExSYkJnRlliZkFPNXNqXzFOcHllOXJJazVKT0NVSWFpYUU1RjN0eTMya3lqajhKWC1jMnRIT0I1bjRyMTZjcXVWOWRSVGk0YXd2UjdveE9RX2dmeEZ6N01aRUZOSzk5Q9IB5gFBVV95cUxOUlBYUVNuXy1KRGZqalBIMjkwQ3ZaU1RYZEFUQVFCMGZIaEtDcU9mVC15X3hSZEVXaUxMWXlGVlEyeGtBVTR2M19aZkVFajJNYW5lRGpKcU9NSUxnNU9ubVJxMmxON3hLNkNiRzJTam5SWlprS2RNVl9uZEVFcWJfM3R6Qnc5Q1FTcWs2cHVKbUtiNnFYOHhfbGZxNGFVYTkwZGRRV19kcTFFUGNqV3BfOU90NS1WSXcyb0JNSmphakIwU3B3NFZVOE5DOEVZRDBPS1pyZFMzV2cxWjVETWMxWVlqcXdRQQ?oc=5",
           "triggers": [
             "TRADE"
           ],
@@ -128,84 +100,14 @@
       ],
       "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 5 independent sources; mixed positive/negative evidence.",
-      "source_count": 5,
-      "story_clusters": 6,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 7 distinct story clusters; 6 independent sources; mixed positive/negative evidence.",
+      "source_count": 6,
+      "story_clusters": 7,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Banking & Financials",
-      "score": 62,
-      "article_count": 5,
-      "trigger_count": 8,
-      "triggers": [
-        "POLICY",
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
-          "source": "bfsi.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        },
-        {
-          "title": "RBI Tightens Bank Liquidity Requirements - Bankersadda",
-          "source": "Bankersadda",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaV0RjTE5qNmpKUUk3dkVvTUdVWmEwTzk4dFdwbTRseEd4NTBXY2dlQ3JqNHJ5ajJnRkttRko5dUdFUG43LTB3ZGs1aVR3Y3RucmdJbHRBeFZ6MFBfd0FoWHdfcUprMFo2YkE5WkcwRnZDNXl1QzR4YQ?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING; 5 distinct story clusters; 3 independent sources.",
-      "source_count": 3,
-      "story_clusters": 5,
-      "companies": [],
-      "connections": [
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance."
       ],
       "fresh_count": 0
     },
@@ -322,49 +224,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Auto & Components",
-      "score": 22,
-      "article_count": 2,
-      "trigger_count": 2,
-      "triggers": [
-        "POLICY"
-      ],
-      "evidence": [
-        {
-          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
-          "source": "Autocar Professional",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": [
-            "mahindra"
-          ]
-        },
-        {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY; 2 distinct story clusters; 2 independent sources; mixed positive/negative evidence.",
-      "source_count": 2,
-      "story_clusters": 2,
-      "companies": [
-        "mahindra"
-      ],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Defence & Aerospace",
       "score": 18,
       "article_count": 1,
@@ -395,27 +254,27 @@
       "fresh_count": 0
     },
     {
-      "industry": "Pharma & Healthcare",
+      "industry": "Auto & Components",
       "score": 18,
       "article_count": 1,
       "trigger_count": 1,
       "triggers": [
-        "CAPEX"
+        "POLICY"
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
           "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
           "triggers": [
-            "CAPEX"
+            "POLICY"
           ],
           "companies": []
         }
       ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "reason": "Cross-signal POLICY; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
@@ -439,7 +298,38 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Banking & Financials",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-22T15:14:52.876436+00:00"
+  ]
 }
