@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBIs Rs 2.5 lakh crore liquidity infusion raises questions over tightening policy signal: SBI Report - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd0xXdUU3OFgxUVRDUGxNdmVPN3RpMDV3LTVqWUhjekFlM2trT0IwQmVjZTVpWVUzOXYxSFJ3NjdlVDEtV3FYdnBLUGdMczgtUXoxMGpPbUFwS2FlelFLM01NbGF4VGJRODBOdU1nLTNkeVM5TGxPSklkOVFFY1FidndZZVlRTmZ2cHpwM1RqUUc5dm9EczJEdnJCaWFlVExZMlo2Um04bndfYl9KQm0zSzdaREV5MWZuU19nei10UTViTW1LRVJzNWhXVGR2ekc1dkc4N2NGaWs2Wm1jQllr0gHfAUFVX3lxTE13TFd1RTc4WDFRVENQbE12ZU83dGkwNXctNWpZSGN6QWUza2tPQjBCZWNlNWlZVTM5djFIUnc2N2VUMS1XcVh2cEtQZ0xzOC1RejEwak9tQXBLYWV6UUszTU1sYXhUYlE4ME51TWctM2R5UzlMbE9KSWQ5UUVjUWJ2d1llWVFOZnZwenAzVGpRRzl2b0RzMkR2ckJpYWVUTFkyWjZSbThud19iX0pCbTNLN1pERXkxZm5TX2d6LXRRNWJNbUtFUnM1aFdUZHZ6RzV2Rzg3Y0ZpazZabWNCWWs?oc=5",
+      "published": "Fri, 23 Oct 2026 12:57:32 GMT",
+      "source": "The Tribune",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.0
+    },
+    {
+      "title": "Air-Launched AD-1 Interceptor Could Give India's Heavy Fighters A Strategic Missile Defence Role - Indian Defence News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVW5CYmJiTThreXNKaHNyLU5ZOWRybDc4d2swNUdXNEJhSVZBMVRGa3o0SVBnNjZMZm5wZkVRakgwM1MtOWl0OXlPZ2FZcl9xZlR3QXlLUTlqNXZUSDE2cHMzbnQ2endQLVJ0dGNQVXdJYWNpSGZJM3pTU2tNRGZwR2NYbE02RC1J?oc=5",
+      "published": "Fri, 23 Oct 2026 04:34:56 GMT",
+      "source": "Indian Defence News",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 10.4
+    },
+    {
+      "title": "Cipla's InvaGen Facility Clears USFDA Inspection With Zero Form 483 Observations - Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTGljMVNOM2hudjZtTXp1WGp5UFFaY1hwSTFFOWRoZ19iaWg0dGZQaG9KaGZSRHRXcy02aFA3QkdIMGJJTk41dTd5dEExYmx2a1JYWlhnNXBCS21UaFByRnk0bFNpV2xhTFkwaXF4RFF2SVlBRFJlTmhIYWVPZmQtRko3blRBZUFJaXF4cFltNmVfSWw5ZGFPeUF5UU8xX0FESnUtMExpb2NUSWRNeEQ5WDJpcEJWLXpFTkt2WC1wQ0RNUXJBTmttQjVBNUdrVzJv0gHWAUFVX3lxTE1tTFlTWTNxZzRmMmMyRGEyaXY5cFVzM1g1cmNXTGs0MURZTm1Sb05IRXRvazhRTUc4VmxsbW9PbXFjd2ZFNUYyOGNGeTNIMkhkOWZGOUdrcDdZQTVzMmdyeFk4bHlQWEtWanRQMVhrV01lNXpVM0ZYVk9hNU5qcnZ0WmZQMVpBVzNvRFBoM1RDdUN3b1dYQmxrWFl3OVhZODhwd0F1dzVtQzFQMm45NGJQY0tBVTFmRU1RcUFoUktrX0plT0d4X1M2ZjdBbzlKMTNnM2U1eXc?oc=5",
+      "published": "Fri, 23 Oct 2026 12:09:53 GMT",
+      "source": "Medical Dialogues",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 2.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -343,5 +386,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-23T14:59:28.257675+00:00"
 }
