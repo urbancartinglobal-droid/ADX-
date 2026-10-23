@@ -18,7 +18,50 @@
       "signal_score": 22.0
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Air-Launched AD-1 Interceptor Could Give India's Heavy Fighters A Strategic Missile Defence Role - Indian Defence News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVW5CYmJiTThreXNKaHNyLU5ZOWRybDc4d2swNUdXNEJhSVZBMVRGa3o0SVBnNjZMZm5wZkVRakgwM1MtOWl0OXlPZ2FZcl9xZlR3QXlLUTlqNXZUSDE2cHMzbnQ2endQLVJ0dGNQVXdJYWNpSGZJM3pTU2tNRGZwR2NYbE02RC1J?oc=5",
+      "published": "Fri, 23 Oct 2026 04:34:56 GMT",
+      "source": "Indian Defence News",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 5.4
+    },
+    {
+      "title": "RBI money market operations record net liquidity absorption on October 22 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEtuUnBKQ09hX0ZzWmdQWVZUNEJfWWVQSEpIRXlUY0d3VHl3TzJ2RWlsUFlmSDFwcnZ5THg3Z01oZWZEblNKM0cwWllrNkZKNmlCWlBEQXZkMUZQMjJzdWMwdlZTVlFWbks0QTN6MS1fdVRxUGszRUUtbllib2FwMW5oUVozNDRVVThVMEtwWi1yMXFCbEFpQTFPVQ?oc=5",
+      "published": "Fri, 23 Oct 2026 04:18:30 GMT",
+      "source": "Traders Union",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.7
+    },
+    {
+      "title": "Odisha Coal Gasification Project Advances as ₹15,000 Crore Construction Contracts Are Awarded - Chemical Industry Digest",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0J3VW91dXk4M21iUVJ1NzdVM1JOcXFyeFFKTURNTU1HMzcyaGg1WFZVY2dhZFV0WFpOaG1NYThVc0ZrUWdRNVE4UnBELUVWMUVfSExwbUV6cUZUTEVOVHl3R0IyUVM0bC14YlhVaWxOdjlVclpUWjBuQWJzQ2NsdDQxR3V1YVBjUjlDVXYwR3JUXzhaSl9Cc0hCaS1vbDJRcFdac0RKOUxCNlNPYnVpXzN4TG9PYndFLU5vMWJlaGVBai1C?oc=5",
+      "published": "Fri, 23 Oct 2026 06:42:49 GMT",
+      "source": "Chemical Industry Digest",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 3.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -400,5 +443,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-23T09:59:09.544806+00:00"
 }
