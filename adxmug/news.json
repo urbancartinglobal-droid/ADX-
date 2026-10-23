@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Ethanol Purchase Ban Puts Sugar Mill Investments Under Pressure - Urban Acres",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGVYUjAwZWl5Mkd3ZDlDZkdQU0JlY3VRSVhKNHhvMXc4OVQ4ZTQxeU9EQ0h5THdTV3ZlX0g2STBtbnI1ZHp2SHYzY29HQ1hQazVFTTB3VTFmU1ZjSTAwR0F4OHR0Q2dFVFpMblhSNUZzeWNDYzg4NEJ0MjBvc0NGdFgtUUkwYnNlSUJ5dEdPUQ?oc=5",
+      "published": "Fri, 23 Oct 2026 20:36:17 GMT",
+      "source": "Urban Acres",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 2.5
+    },
+    {
+      "title": "Air-Launched AD-1 Interceptor Could Give India's Heavy Fighters A Strategic Missile Defence Role - Indian Defence News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVW5CYmJiTThreXNKaHNyLU5ZOWRybDc4d2swNUdXNEJhSVZBMVRGa3o0SVBnNjZMZm5wZkVRakgwM1MtOWl0OXlPZ2FZcl9xZlR3QXlLUTlqNXZUSDE2cHMzbnQ2endQLVJ0dGNQVXdJYWNpSGZJM3pTU2tNRGZwR2NYbE02RC1J?oc=5",
+      "published": "Fri, 23 Oct 2026 04:34:56 GMT",
+      "source": "Indian Defence News",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 18.5
+    },
+    {
+      "title": "Trump eschews tariffs for trade talks on wind turbine imports - Supply Chain Dive",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHowWFVDUy1lanJFa0ozR3JKQ2ZTMHlqeTNYem1OSkZKcWFZeERRVkRHNWVtWlpqRm1pTUp2WU5IckNleHRhaFo2ZW5JeUJrSHlCeWt4Rk1ibEI5M1J3ejZzSW45c0dqZ3FzVWRZODZEWEwtd1RPcG53ZGoySGNOS3RxQUF1bF8wbFNjczRRMWhodjRQNmtrUmJhcDE2Q1VPTjVVNkpnY0l2Zw?oc=5",
+      "published": "Fri, 23 Oct 2026 15:17:38 GMT",
+      "source": "Supply Chain Dive",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 7.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -360,5 +403,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-23T23:05:31.019511+00:00"
 }
