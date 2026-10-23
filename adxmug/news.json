@@ -20,18 +20,18 @@
   ],
   "landed": [
     {
-      "title": "Maharashtra ethanol producers warn Rs 40,000 crore investments at risk as OMCs restrict sugarcane-based feedstocks - ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlBXdm5zSU1rQzJiNmpXYUQwR1NmMFk0TWJrOVJDb0prRXdfS1NMZ2NRRjc0eTF2NUhJTFoxRnpPY0JIcjlScDRjM3B3enk1dkd4MkdTVjVRbV8yd2VnbVBCUUpWRWtHb2ZnUl9sd0lIbFVkSk10eXY1NDRneHRtekZubXo1dGNuWHVuMV9DNDhjU1FnWUtMTFpBUUw3WUs4cHp5ckk4OWxXT1Nkamx2OHNybThpMDVKYTFnaHZ4TzItR09UdWpSNUJsUk1HbEJrLUZQRmFVdjE?oc=5",
-      "published": "Thu, 22 Oct 2026 09:24:10 GMT",
-      "source": "ChiniMandi",
-      "sector": "Sugar & Ethanol",
+      "title": "RBI money market operations record net liquidity absorption on October 22 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEtuUnBKQ09hX0ZzWmdQWVZUNEJfWWVQSEpIRXlUY0d3VHl3TzJ2RWlsUFlmSDFwcnZ5THg3Z01oZWZEblNKM0cwWllrNkZKNmlCWlBEQXZkMUZQMjJzdWMwdlZTVlFWbks0QTN6MS1fdVRxUGszRUUtbllib2FwMW5oUVozNDRVVThVMEtwWi1yMXFCbEFpQTFPVQ?oc=5",
+      "published": "Fri, 23 Oct 2026 04:18:30 GMT",
+      "source": "Traders Union",
+      "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 13.9
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.4
     },
     {
       "title": "Urea imports surge 40% despite push to cut chemical fertilisers - The Economic Times",
@@ -45,13 +45,13 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.0
+      "freshness_hours": 10.3
     },
     {
-      "title": "State woos TN firms for semiconductor, auto and electronics investments - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa1FTbFJuRGFhaXk2cS1SdlB0SGU3LUVIQjZDYnhIYXY3b1MyTTVRdHdYRTRaV0ZkcXdFV0YyWE43blNOeFZsOUhNLTYtRHdqUmhIcFEyVUMzZEpKQUlGN2o3ekZGbWg1cXdfNDFWSUJELXVsNE9VNmxqQnlzVTZoUzZsbW1hUlRVWVBjcjN4ZlNtMTYySkxUNERmNjBEeHpvbjhZYXlUaVFpOXZ3YUtWWnBlb0NoOGVDeUhiNjVmczZFY3U2a2R6X0RZMVd6Y2hPd2VjWXRGNHpzNTZxbjhxNtIB5gFBVV95cUxOdGVSQlJfYS1YaUgyWTROVk1EZDdzeGRUdFFDXzBDZDcydlJOa1hxb3hiOERjbU9VZFRJZWNlM2VYTE5ZWGRieXBjdFhjOFVnNjdhVzNWWmtLMnVIQ00td3JORDk0RGw2eVZUOUxCUUpWRnYxVV9VaDNtdnNYOTY4bUQ0WVFjNjVGNWtLcThuRV9kT3Z3OWNmLUNiSFlNTkRCZWxGNjJldDBvbHlYM2IyeURaekdXQUFpRVAwdndjZ3hfMGNQYTA5MGJpY1pueTBEZ0M2VF9EMjNSaEUwcUJkOGEzSEpBZw?oc=5",
-      "published": "Thu, 22 Oct 2026 18:39:00 GMT",
-      "source": "The Times of India",
+      "title": "Export orders sustain India’s young chip assembly plants - Communications Today",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0lvcUt0OFNyZnZuQzRnb25VaFdKWjlSSFFBVWdscEZ3bUhicHQ4dTdUbVRCWi1KY1FROEJvZGFKVDJkaWw4V05oM28taURkSzY2M0tRSTc4b0hfS0NIYUQzbktCQjdmdmNBYjMzaGVZbDBPd1hYZjRVZXNTenZLaHdrRVRhemRXU3R1WkFDWkY4eXlYSXBOMEJ3?oc=5",
+      "published": "Fri, 23 Oct 2026 02:28:08 GMT",
+      "source": "Communications Today",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -59,7 +59,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.6
+      "freshness_hours": 2.2
     }
   ],
   "opportunities": [
@@ -418,5 +418,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-22T23:17:34.211870+00:00"
+  "landed_updated_utc": "2026-10-23T04:39:53.715514+00:00"
 }
