@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Indian Railways Records 22.5% Growth in Coal Loading in October Through 18th - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jcGU5U2stZHJmcDBvOHdSMXFSeVBOR3pfVDQ3VWtpNERoVlp2eFZEQnFiUk5UT1dPNGVwdVF0aGtwVGZlZ09EWlhWQ1plajJfWUVNS1JOWktBVU1qUnQ5N0xsUk90SlRIWmFrM0l4bGpubG5IeTM3WkZlcHJCdms?oc=5",
+      "published": "Sat, 24 Oct 2026 08:00:00 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 8.6
+    },
+    {
+      "title": "Merck opens South Korea molybdenum facility to power next-generation chipmaking - Indian Chemical News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2ZLM2RLamp6eTN6R2g0ZHU1TTBONnJDR0tWQk5weTJRa1RnRUg2RXdPazMxZXhKbFQwWnFOZ0VLOENnNW91dWItR09KQ2dEM3dZaUtVbnB2bHlqTDlhc09kUnNkUjJpb2s4Rk5fd3Y1b3g5aDR2UDlwMUxOcmJfekd1ODZXX3hpd1d6SzU3YldNX0lrZ0NIRG1kWFZ3SzJCZVc1S0ZlYVI4VnNVakZTMmxwS3c3dzVyamNGLXk0eTM1dVoteDNEcVJOaDg4amvSAdYBQVVfeXFMT1RaTFFPQXlRVFJzTng0dU9mSVlENWNSQ1VvajE5clZyRWd0TXQxUU02djA5TDFzckRCbkUxSFc3SG9EVFlSMk1MRC00Y2hmd2h2d2V0Uy1aWFdyOUgySkFnZkpnU3NBbU01cGdtdzNjd2FwaEFfQURpVEJRdnRZWDJ4T25KYXNid2hPa2VEV2FBQ2RCd1JKbTVadUNQOFdXeUtsNGozbm52UkF6VEJscENkQ3M3WUV3czJUX0ZKMU9CS0R1NnVLVnR5RU04UjNFSllRVUdfUQ?oc=5",
+      "published": "Sat, 24 Oct 2026 12:20:45 GMT",
+      "source": "Indian Chemical News",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 4.2
+    },
+    {
+      "title": "Orchid Pharma signs $80m Latin America deal for Exblifep with Libra - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTdEdjhmMUlNc2lJSU9NUGpqeGoxMmFISF83NEZFeF9hTE9ZUTNJNkVXSERoM1lZTTJSZ1lqeXJ0QmNoNWQ1bFZDZUdiNkdYSnREMjF3TlduX0Y2c2l3ZnplMWJCRWduc00ta2VhbllSVTE2REdjNXJRLXFSZFJIel9iRlVZSjdDR0w4YWRkY1RUdU83VUlqQS1rQXA5U2NseUUwVnFCbzVydUg0b1BkVmVFYWM?oc=5",
+      "published": "Sat, 24 Oct 2026 06:26:56 GMT",
+      "source": "scanx.trade",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 10.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -375,5 +418,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-24T16:33:16.911658+00:00"
 }
