@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Indian Railways Records 22.5% Growth in Coal Loading in October Through 18th - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jcGU5U2stZHJmcDBvOHdSMXFSeVBOR3pfVDQ3VWtpNERoVlp2eFZEQnFiUk5UT1dPNGVwdVF0aGtwVGZlZ09EWlhWQ1plajJfWUVNS1JOWktBVU1qUnQ5N0xsUk90SlRIWmFrM0l4bGpubG5IeTM3WkZlcHJCdms?oc=5",
+      "published": "Sat, 24 Oct 2026 07:29:32 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 5.1
+    },
+    {
+      "title": "Brazil–India trade expansion opens new opportunities for India’s chemical and agrochemical exports - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNVl3VlhsQ0JRWXNKX0tiTHlpNkEyQ2VwVlRLNjgwN1JlYVBMVjFmdTNCTGVEa0dBXzA3ZGRrUFJNVWJNVHNrMUExM2YzeEcxR1VDQncwemdlaldRME1xVl9DOWVpeEthM2JqamYteUgybFhEaXBGRHpzR0hTWnJBdDNaRk5Ua1VqaVI3VkRZQnBCUkdvbzFtZEpqR1dZSG1JV2IwWUdpNzRPRGZ6ZWstWkdNN0s1aV9LUExuN19memJsVzU4Q2RmNXBWX1BvVGlCVW85VGxibGdJZncyanJnSW54VS16c0hRcTlhU3hRQzlhZVlaS0pLUVA1R0VYSk15a211YUN5b21MZ9IBjgJBVV95cUxOV0FrZWlmYjJhNkk1anZXQjJPdTM1WEcxTjdoREtxQ1ZjR3RaTlotMl9KbWJXZjkzQUpfZno0RzBjVnRtMjVqRXg2U19sQXY1c2ZabUxGel9oeEZ5cGY4Xy0zd1lFWExZbzlUSkdmZGQ2UU1Jdl92V3N4TlZfWkdYaFVMME9iWnJTV1RnUTZvVm1BWWFzQ3ptQWh2TnpvcnNvQUJQMDhpaUIzek1TMmYzZFJVTVB6QmFSN2xQLTVQbkg3dVJNbThsTEl0U3VEdld0Y2FFUEFpT2NpWDlySXEzeHdBRFBuSVpLYVBFSnZubTRPSVRzU2NxakRzR0tQcVZDeTBGQVptR2RhbTctVHc?oc=5",
+      "published": "Sat, 24 Oct 2026 01:30:25 GMT",
+      "source": "Indiatimes",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 11.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -375,5 +404,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-24T12:38:14.536364+00:00"
 }
