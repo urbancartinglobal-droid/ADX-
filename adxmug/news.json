@@ -6,9 +6,23 @@
   "articles": [],
   "landed": [
     {
+      "title": "Banking Liquidity Surplus Slumps To Rs 542 Cr As Cash Tightens - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzZvSE43WkRLSjdfekgwdUxDSmlNTFFRNWZVdGRjSDhuYXFlSDdXZG43TzlQSjh0Y2xmS0NlbjNfSlJMbTVnT051VmlsRWp3d041OHNwWWVqRWh0NC1lVHVTb2s4VER6WDBKNmZsVnVrelBGUEVpWW1Oa0dMd0JNa1pNSlpra0hxYlBMYUgtSkgwMGpscUYtNEFRMnBwX0JiSHFPOVJGNFp1QQ?oc=5",
+      "published": "Sun, 25 Oct 2026 08:21:34 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.9
+    },
+    {
       "title": "US modifies Canada tariffs; carpets added, packaging removed - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0pGWG1rbDBXdTJnWFpISnZ4QkxqUllSekpEaUJ0VVN0ODZqQ1Q3YmNlTkltVXlMekl2NFU1a3ZMMVBGdWpKMzkyaVBCcG1DS1pscFN6blNVM3lGc2Z6d3k0TmtSdWRTczNiaDJBeFlGMmpuX3o2RERxQlpjSXA4SW9BQjN0ZTNYRW1Tcm1hV1Jha3lCa280OGZFYkQ1ZG95Uld5YUZYeGJZVGhNTkZnTmQ2RTFSWll6bUhueU5jUFU5VDV4UzRLOA?oc=5",
-      "published": "Sun, 25 Oct 2026 02:59:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMUs2aWVKTWozbm5Fbk5xODJwcXkySzhQbEw3cmRZUl9RQ0xkekQ4UGJxUndWRnZNTmRpZ2pCZ1JVNW1EUWZGOUpQUk1IUWQ3ZVM3dm5MRl9qeXYwUEYxczc0S0RGZ0hfTDJRdTdqQUNFYlNqdE5PZG5Ccnd0ZV9yOGZOSUg5aGRvMHBDUV8wWmxya3ZlX182bDI4RzA0UzhpTHBEWHlHZ1AxNmpZWDVfeEpQTE9xY3NBMWQ2dkdSWkdGdGtON2dlWQ?oc=5",
+      "published": "Sun, 25 Oct 2026 02:48:36 GMT",
       "source": "Fibre2Fashion",
       "sector": "Electronics & Semiconductors",
       "triggers": [
@@ -17,21 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.1
-    },
-    {
-      "title": "Indian Railways Records 22.5% Growth in Coal Loading in October Through 18th - Metro Rail News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jcGU5U2stZHJmcDBvOHdSMXFSeVBOR3pfVDQ3VWtpNERoVlp2eFZEQnFiUk5UT1dPNGVwdVF0aGtwVGZlZ09EWlhWQ1plajJfWUVNS1JOWktBVU1qUnQ5N0xsUk90SlRIWmFrM0l4bGpubG5IeTM3WkZlcHJCdms?oc=5",
-      "published": "Sat, 24 Oct 2026 08:00:00 GMT",
-      "source": "Metro Rail News",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 22.0
+      "freshness_hours": 8.5
     },
     {
       "title": "Toxic tyre chemical raises environmental and regulatory concerns for India’s chemical industry - Indiatimes",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.1
+      "freshness_hours": 21.3
     }
   ],
   "opportunities": [
@@ -405,5 +405,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-25T06:02:50.678926+00:00"
+  "landed_updated_utc": "2026-10-25T11:17:18.050490+00:00"
 }
