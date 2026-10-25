@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Lockheed Martin says Vectis, F-35 and PAC-3 underpin defense industrial investment strategy - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFVoa0lNMWlBR2xKYmtEaGROekxaQjNnbk43NVBVYXhaVWpDaDZKSVNJVDBsb1lKQzhMQW42azZnT3AwTm1wSVM0cElnVjN3WkFaZWhPTHlIN1k0MlpXZng4b01WRFpKUENGSHRKXzJ6NUVzMzhJNTJ0anNGOXB3TlpENGgyb2x3VW9xYVVPaEVBZDJyZk55bUdLc1ppWWRYOU42dXR5c2lfM3M1Q0sya1kwVWJuTWp2X0JPU25NV2RCQ2pUbVE?oc=5",
+      "published": "Sun, 25 Oct 2026 13:30:15 GMT",
+      "source": "Defence Industry Europe",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 5.5
+    },
+    {
+      "title": "Banking Liquidity Surplus Slumps To Rs 542 Cr As Cash Tightens - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzZvSE43WkRLSjdfekgwdUxDSmlNTFFRNWZVdGRjSDhuYXFlSDdXZG43TzlQSjh0Y2xmS0NlbjNfSlJMbTVnT051VmlsRWp3d041OHNwWWVqRWh0NC1lVHVTb2s4VER6WDBKNmZsVnVrelBGUEVpWW1Oa0dMd0JNa1pNSlpra0hxYlBMYUgtSkgwMGpscUYtNEFRMnBwX0JiSHFPOVJGNFp1QQ?oc=5",
+      "published": "Sun, 25 Oct 2026 08:21:34 GMT",
+      "source": "BW Businessworld",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 10.7
+    },
+    {
+      "title": "US modifies Canada tariffs; carpets added, packaging removed - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMUs2aWVKTWozbm5Fbk5xODJwcXkySzhQbEw3cmRZUl9RQ0xkekQ4UGJxUndWRnZNTmRpZ2pCZ1JVNW1EUWZGOUpQUk1IUWQ3ZVM3dm5MRl9qeXYwUEYxczc0S0RGZ0hfTDJRdTdqQUNFYlNqdE5PZG5Ccnd0ZV9yOGZOSUg5aGRvMHBDUV8wWmxya3ZlX182bDI4RzA0UzhpTHBEWHlHZ1AxNmpZWDVfeEpQTE9xY3NBMWQ2dkdSWkdGdGtON2dlWQ?oc=5",
+      "published": "Sun, 25 Oct 2026 02:48:36 GMT",
+      "source": "Fibre2Fashion",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 16.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -381,5 +424,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-25T19:02:29.380917+00:00"
 }
