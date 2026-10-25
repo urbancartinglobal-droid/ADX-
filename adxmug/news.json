@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-10-24T20:51:26.707884+00:00",
+  "updated_utc": "2026-10-25T04:43:19.249397+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Durable liquidity still significant amid forex interventions, rising cash demand - Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRkhDSnlQSTFnbjBNTGtRM21ZWnRHeTloOHZJSU5vTzJJZEJDWVAydTN2RG11NF96S1JDQ3JGbllKRVpYd25xRHBjNlFMNU9adlVXOF9MU3lBU3U4dktNWmZJSkhzdTg1NDkzUlNDWkpSQkhKMEp2b210UWpEREdmaTlRZVhUY21PUDd0RnV4VDRUZzBrUHhyUmg3NVl4aVVISDlWQmx2Uk5HWXVZU3d1U0FtYjhuYWRYblBiNUpqY0UyMk9CdGdj?oc=5",
-      "published": "Sat, 24 Oct 2026 09:16:50 GMT",
-      "source": "Investment Guru India",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.8
-    },
-    {
-      "title": "Merck opens South Korea molybdenum facility to power next-generation chipmaking - Indian Chemical News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2ZLM2RLamp6eTN6R2g0ZHU1TTBONnJDR0tWQk5weTJRa1RnRUg2RXdPazMxZXhKbFQwWnFOZ0VLOENnNW91dWItR09KQ2dEM3dZaUtVbnB2bHlqTDlhc09kUnNkUjJpb2s4Rk5fd3Y1b3g5aDR2UDlwMUxOcmJfekd1ODZXX3hpd1d6SzU3YldNX0lrZ0NIRG1kWFZ3SzJCZVc1S0ZlYVI4VnNVakZTMmxwS3c3dzVyamNGLXk0eTM1dVoteDNEcVJOaDg4amvSAdYBQVVfeXFMT1RaTFFPQXlRVFJzTng0dU9mSVlENWNSQ1VvajE5clZyRWd0TXQxUU02djA5TDFzckRCbkUxSFc3SG9EVFlSMk1MRC00Y2hmd2h2d2V0Uy1aWFdyOUgySkFnZkpnU3NBbU01cGdtdzNjd2FwaEFfQURpVEJRdnRZWDJ4T25KYXNid2hPa2VEV2FBQ2RCd1JKbTVadUNQOFdXeUtsNGozbm52UkF6VEJscENkQ3M3WUV3czJUX0ZKMU9CS0R1NnVLVnR5RU04UjNFSllRVUdfUQ?oc=5",
-      "published": "Sat, 24 Oct 2026 12:20:45 GMT",
-      "source": "Indian Chemical News",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 12.7
-    },
-    {
-      "title": "Orchid Pharma signs $80m Latin America deal for Exblifep with Libra - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTdEdjhmMUlNc2lJSU9NUGpqeGoxMmFISF83NEZFeF9hTE9ZUTNJNkVXSERoM1lZTTJSZ1lqeXJ0QmNoNWQ1bFZDZUdiNkdYSnREMjF3TlduX0Y2c2l3ZnplMWJCRWduc00ta2VhbllSVTE2REdjNXJRLXFSZFJIel9iRlVZSjdDR0w4YWRkY1RUdU83VUlqQS1rQXA5U2NseUUwVnFCbzVydUg0b1BkVmVFYWM?oc=5",
-      "published": "Sat, 24 Oct 2026 06:26:56 GMT",
-      "source": "scanx.trade",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 18.6
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -373,36 +330,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Pharma & Healthcare",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Defence & Aerospace",
       "score": 0,
       "article_count": 0,
@@ -417,7 +344,22 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-25T01:04:12.879812+00:00"
+  ]
 }
