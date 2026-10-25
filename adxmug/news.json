@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "US modifies Canada tariffs; carpets added, packaging removed - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0pGWG1rbDBXdTJnWFpISnZ4QkxqUllSekpEaUJ0VVN0ODZqQ1Q3YmNlTkltVXlMekl2NFU1a3ZMMVBGdWpKMzkyaVBCcG1DS1pscFN6blNVM3lGc2Z6d3k0TmtSdWRTczNiaDJBeFlGMmpuX3o2RERxQlpjSXA4SW9BQjN0ZTNYRW1Tcm1hV1Jha3lCa280OGZFYkQ1ZG95Uld5YUZYeGJZVGhNTkZnTmQ2RTFSWll6bUhueU5jUFU5VDV4UzRLOA?oc=5",
+      "published": "Sun, 25 Oct 2026 02:59:27 GMT",
+      "source": "Fibre2Fashion",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 3.1
+    },
+    {
+      "title": "Indian Railways Records 22.5% Growth in Coal Loading in October Through 18th - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jcGU5U2stZHJmcDBvOHdSMXFSeVBOR3pfVDQ3VWtpNERoVlp2eFZEQnFiUk5UT1dPNGVwdVF0aGtwVGZlZ09EWlhWQ1plajJfWUVNS1JOWktBVU1qUnQ5N0xsUk90SlRIWmFrM0l4bGpubG5IeTM3WkZlcHJCdms?oc=5",
+      "published": "Sat, 24 Oct 2026 08:00:00 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 22.0
+    },
+    {
+      "title": "Toxic tyre chemical raises environmental and regulatory concerns for India’s chemical industry - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZl95eXc3RkpIcFZPQkZOTk9jSWFoVXJyeUJhZV9pLXZHMXhWQXp5eDdTVk1HSk90d0dLal9GWTBNQnFqZ1d5cjZBa1BNUU00SC1rVERzeExPRXprZTBXYnVjbW1EYkNEbmt1YTV0RHhlRFk3SmFWZm55N0wzb0d1cVBQdUtjQy1ORkMxOGh3TWlZN1Q4c19EVEVNMFJXZmQ0NEdSSlFGeHRUTllkal8xRFE5bEpFVTRSMkZpcXFVckZ2YkNuR2h0VVNYUWY3T0VoeFkwcUItUlhoMU9EenNzTUhobVA5bGxfdTlHeGM5a0RXT0taZHBZSnFKb2haMzN3WlpaVkVlLVPSAYwCQVVfeXFMTUU5aV9sSXh3RGZUbk8zaUpMbGI5SVdYWGliWWdYdjFsUlJPQ2dBYzR0bUZ5WkI5RzBkV0Z3cDdmUjFDYU8yWW5EZjcyaXJxWUw2VzYyS3JmNndEU1lMdWcwSmk5VEFIdnFFaEJxUGJkUWVXVG9GNXBYZFhaeUktZnM0YmprWU1mdkEzNVlMRFZ5MTUtcnlyZTRHeUxWNDl3eHpHUHR3dEU4UmczQnhRQUtYZl9hLXZiNms3MklSeXJ3ZnVhYVlyVjFNZ2doMFplY2VMSEVKOWdKZFE4YXF5ZDV6eXAxSDVtRUNjblN1Z01QbjFSV3FGYVBqMzVEbmUwcjJhNE1pQVRqWkR1aQ?oc=5",
+      "published": "Sat, 24 Oct 2026 13:56:52 GMT",
+      "source": "Indiatimes",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 16.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -361,5 +404,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-25T06:02:50.678926+00:00"
 }
