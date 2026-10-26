@@ -1,59 +1,16 @@
 {
-  "updated_utc": "2026-10-26T04:49:21.966564+00:00",
+  "updated_utc": "2026-10-26T13:06:42.893259+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "India Approves E100 Ethanol Fuel for Flex-Fuel Vehicles: What It Means for Carmakers and Buyers - Autopunditz",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTFMR3UxYkF1ZnNQTTU0anFSampvOWtzd0FaWjc5LTlHbGhyOXViSlNaMzhWaFE5dmljTEhRanJCbGpSZ0N3WnNKQ2dqRlRUaF8ycHkwc1ZFZml4eUFoMkxBbjVrV0c1Rm5PcGRGNkFSMndoRnhMV0cwckZieHh3aXJoc0dacjBXYnFCQUJ4ZE1RQU0?oc=5",
-      "published": "Mon, 26 Oct 2026 11:00:53 GMT",
-      "source": "Autopunditz",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 1.9
-    },
-    {
-      "title": "Banking Liquidity Surplus Slumps To Rs 542 Cr As Cash Tightens - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzZvSE43WkRLSjdfekgwdUxDSmlNTFFRNWZVdGRjSDhuYXFlSDdXZG43TzlQSjh0Y2xmS0NlbjNfSlJMbTVnT051VmlsRWp3d041OHNwWWVqRWh0NC1lVHVTb2s4VER6WDBKNmZsVnVrelBGUEVpWW1Oa0dMd0JNa1pNSlpra0hxYlBMYUgtSkgwMGpscUYtNEFRMnBwX0JiSHFPOVJGNFp1QQ?oc=5",
-      "published": "Sun, 25 Oct 2026 16:11:33 GMT",
-      "source": "BW Businessworld",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 20.7
-    },
-    {
-      "title": "Orchid Pharma signs $80m Latin America deal for Exblifep with Libra - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTdEdjhmMUlNc2lJSU9NUGpqeGoxMmFISF83NEZFeF9hTE9ZUTNJNkVXSERoM1lZTTJSZ1lqeXJ0QmNoNWQ1bFZDZUdiNkdYSnREMjF3TlduX0Y2c2l3ZnplMWJCRWduc00ta2VhbllSVTE2REdjNXJRLXFSZFJIel9iRlVZSjdDR0w4YWRkY1RUdU83VUlqQS1rQXA5U2NseUUwVnFCbzVydUg0b1BkVmVFYWM?oc=5",
-      "published": "Sun, 25 Oct 2026 19:20:27 GMT",
-      "source": "scanx.trade",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 17.6
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 66,
-      "article_count": 9,
-      "trigger_count": 17,
+      "score": 60,
+      "article_count": 4,
+      "trigger_count": 8,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -72,36 +29,6 @@
           "companies": []
         },
         {
-          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
-          "source": "A2Z Taxcorp LLP",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India bans sugar exports till Sept 30 - News Arena India",
-          "source": "News Arena India",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTNtU3VXek1Gb0ZLMzAtbzBTdS1ReTBUa2QzbTlldzFWSlZvTjdjTkQyV25PUnJtMnluMUE1aUYxME44QWxza3J5MGUwVjBGSllGejZDcEhMSlBSUnBqTXNWOFZ0WGpncW9fcHllWUxJaVhaRVUtRjFLdXBwUXQtd0xybzM?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
           "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
           "source": "ChiniMandi",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
@@ -111,13 +38,31 @@
             "PRICING"
           ],
           "companies": []
+        },
+        {
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
+          "triggers": [
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Exclusive-India considers curbing use of cane for ethanol to tame record-high sugar market - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGQ3TUdxMHk0dk0wY2piWUs5SkNIdGZ6NlloRUZuUE1XYldUT1JLRUpFSzR5UW85MWFsbjI2UTd5bG4wZGx4dW9TT3d2NEZYX1VTRkl0SUdjZ05qcGtod1NWakFGaG1BUmdPNlJsWVdqaFVXdGxRT0NTQlR4NUZtcTdKajU4V2xZMjVXUkJ1bzU?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
         }
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 9 distinct story clusters; 6 independent sources; mixed positive/negative evidence.",
-      "source_count": 6,
-      "story_clusters": 9,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 4 distinct story clusters; 3 independent sources.",
+      "source_count": 3,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
@@ -443,6 +388,5 @@
       ],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-26T12:54:37.867270+00:00"
+  ]
 }
