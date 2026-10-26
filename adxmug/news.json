@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Pakistan Launches Programme to Help Pharma Industry Meet US FDA Standards - The Nation (Pakistan )",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWJFZk5VUTMyVnhnbFFjeUw0VHJhVTdjZHJPck9zS2tEcFZrZUNlZnFQMWJBelBEMTQydDgySV91aGR3bXlYZ0xkOGhkQVdianRVNkJBeU15MVNUZ2RjSVdFRFFNZnU5WkhDYXR2eFFDNEhmSWNXVmpQRElmRjlCZzdiMElMdTducXd0M05LS2xoRlRBTVZvNjZhdHJoT3I3TGc1TzVnWGRocDFD?oc=5",
+      "published": "Mon, 26 Oct 2026 17:52:43 GMT",
+      "source": "The Nation (Pakistan )",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 1.3
+    },
+    {
+      "title": "INOXCVA opens SemiOrbit centre to train semiconductor workforce - Manufacturing Today India",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWJ6YU5sSDQxWWU4b2xqUGxyMHcwbUdtbTBFRUVyYndJY1pON2JPWldlXy1RN0c0clVhY1VCNlZYUEdHaXhjakM3UGgtMEljNnJSS3A2WVl2aEowOHhYWVBGaWQ4cVQzLWFSdnlHMDUzN2JFWFdLSFZXU2gxYVVaVWVPSUJ6NDZoVlBlQmVkRFFHTjJVZ0ZmTHZiSHdQTEI3azlta0Fn?oc=5",
+      "published": "Mon, 26 Oct 2026 11:55:49 GMT",
+      "source": "Manufacturing Today India",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 7.3
+    },
+    {
+      "title": "RBI starts new rate-hike cycle as inflation risks mount, raises repo rate to 5.50% - AgroSpectrum India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGhmNmpuRU9BNng0UGNoX3o2dHBfNFZaY2pTbS0yOG9WNG1mZjUxRUEtQkEwUVNEenBHeGxWbHAwWUpJbXBoX0ZIbHZiUnJreHpldVp1VEcyMVF1Rk9pZXRWVnlTZGFkTTUwOHNUaS05N2luWlExMGlzSHJRRTlfSEdsX29RODNyMUVEd0lfaGlBUW1Yb1FpOVpLUVdPNW16azVCSTBOVTYtcW14UnBXd2JyakhUTnI5SHJ0UWNoWElhQWJRMlZn?oc=5",
+      "published": "Sun, 25 Oct 2026 22:00:54 GMT",
+      "source": "AgroSpectrum India",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 21.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -388,5 +431,6 @@
       ],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-26T19:13:19.221657+00:00"
 }
