@@ -6,23 +6,23 @@
   "articles": [],
   "landed": [
     {
-      "title": "Lockheed Martin says Vectis, F-35 and PAC-3 underpin defense industrial investment strategy - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFVoa0lNMWlBR2xKYmtEaGROekxaQjNnbk43NVBVYXhaVWpDaDZKSVNJVDBsb1lKQzhMQW42azZnT3AwTm1wSVM0cElnVjN3WkFaZWhPTHlIN1k0MlpXZng4b01WRFpKUENGSHRKXzJ6NUVzMzhJNTJ0anNGOXB3TlpENGgyb2x3VW9xYVVPaEVBZDJyZk55bUdLc1ppWWRYOU42dXR5c2lfM3M1Q0sya1kwVWJuTWp2X0JPU25NV2RCQ2pUbVE?oc=5",
-      "published": "Sun, 25 Oct 2026 13:30:15 GMT",
-      "source": "Defence Industry Europe",
-      "sector": "Defence & Aerospace",
+      "title": "India Approves E100 Ethanol Fuel for Flex-Fuel Vehicles: What It Means for Carmakers and Buyers - Autopunditz",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTFMR3UxYkF1ZnNQTTU0anFSampvOWtzd0FaWjc5LTlHbGhyOXViSlNaMzhWaFE5dmljTEhRanJCbGpSZ0N3WnNKQ2dqRlRUaF8ycHkwc1ZFZml4eUFoMkxBbjVrV0c1Rm5PcGRGNkFSMndoRnhMV0cwckZieHh3aXJoc0dacjBXYnFCQUJ4ZE1RQU0?oc=5",
+      "published": "Mon, 26 Oct 2026 11:00:53 GMT",
+      "source": "Autopunditz",
+      "sector": "Sugar & Ethanol",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 16.6
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 1.9
     },
     {
       "title": "Banking Liquidity Surplus Slumps To Rs 542 Cr As Cash Tightens - BW Businessworld",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzZvSE43WkRLSjdfekgwdUxDSmlNTFFRNWZVdGRjSDhuYXFlSDdXZG43TzlQSjh0Y2xmS0NlbjNfSlJMbTVnT051VmlsRWp3d041OHNwWWVqRWh0NC1lVHVTb2s4VER6WDBKNmZsVnVrelBGUEVpWW1Oa0dMd0JNa1pNSlpra0hxYlBMYUgtSkgwMGpscUYtNEFRMnBwX0JiSHFPOVJGNFp1QQ?oc=5",
-      "published": "Sun, 25 Oct 2026 08:21:34 GMT",
+      "published": "Sun, 25 Oct 2026 16:11:33 GMT",
       "source": "BW Businessworld",
       "sector": "Banking & Financials",
       "triggers": [
@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 21.7
+      "freshness_hours": 20.7
     },
     {
       "title": "Orchid Pharma signs $80m Latin America deal for Exblifep with Libra - scanx.trade",
@@ -45,7 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 10.7
+      "freshness_hours": 17.6
     }
   ],
   "opportunities": [
@@ -444,5 +444,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-26T06:05:14.042982+00:00"
+  "landed_updated_utc": "2026-10-26T12:54:37.867270+00:00"
 }
