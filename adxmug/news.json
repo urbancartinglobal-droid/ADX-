@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Increases Liquidity Support to Banks as Tight Conditions Push Up Short-Term Borrowing Costs: ICICI Bank - KNN India",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGp0UE9IQkRTcmZGUUE4R3piTWtmOFhCbGNmdXNYN29jc09uMGdydWd0MkctTk5Cb1RfZGw2TkUxRXRqYTl6U1B2Y2JVczQ0cFhSXzRidy1UVE5XTThHc1BUZGIyMXRWTkdxM2JRZ1R6dU5Ub2laMGZscGJfdGl0QUxvYUxQaDVGQ2xFdzhRNEVTMGxzNTFPXy03RHRTeTFxa0VVWFVfNUNFaTBIQkNlZlVQYmZ2WTBmbW5hTy1BSUxMRzR5ZzlaRkVkR1AwdzczaVF5WGg2aVR4T1Zwemk5Y0NRWHlsNE1sWXc?oc=5",
+      "published": "Tue, 27 Oct 2026 11:05:20 GMT",
+      "source": "KNN India",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.4
+    },
+    {
+      "title": "India’s petrochemical makers chase specialty chemicals to cut import dependence - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNXM5Q09BaWtNTEcwamhQMXZ1TTRIOFJoZHVobkJwN01ON0R4WlBSTFpLdktPUDFOdnhGZjR2aWFwazlJX1pLY3VLeHdYVFVSemNjQ2FOekl0R0duRm91X2Nqb0xuMy00dHpHWEt0VkpmNlZXLU51N1JiblNCaXFFcnl0ZmxZTmxabExFOFY2SDRrcDE2NnFNME15NkJyU0FId2Z0OG5EckpmTnNRcFBXV2w5U2Q4ZFJMd2NBZFZ2TXk4cnlsVXpUZXlCQUxCVl9hMVdkcm9uYjlsTWZscExhVndXVGMwdUxnU2VJ0gHvAUFVX3lxTE9TdnhZQUdnTm9ySW1TYjUtWnZxMXBrQ0RDeVk3Rm1BcmtvMzdSdENWN1hZMU96TnhYVlZ5M3R0QWl3Z3hTSTI1WktlOHVNVHczalFxSWM3T0UxUlNiYS1GcERIZzZzSmVBNmluX2RNal9XZU05WGtsS1Z6RW1ha0YtVGhqX2xWVUU3ZUpqYUVEY3VHVnpZbnlSNEtPWTBEVmpMQXMxRFhYYzJnVl9PZlpIeTNZMkJuTTc5SUhvZnlCcFhCeWM0TUVPZFhUMjlUMXJXMUZTNFF1Tmc0eEtBdmZfYVFhOGxWNk1sS0tYeFJn?oc=5",
+      "published": "Tue, 27 Oct 2026 08:38:46 GMT",
+      "source": "Indiatimes",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 7.9
+    },
+    {
+      "title": "Illinois approves ComEd substation and lines - Transformer Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY2RBd2JCQUhYbklCUl9WU0k0NVNEM1Z2U2lldk12M3BjUUtKV29oOXdZOVE3em1pUUlNSlBQZzNRUzV0cHM5NGllUHZqTTM3dkxwQ0YxcjNMSFQ3c1o3Y1d6ajluVjZQcG5GWlczblFMeEhncV9JWnNoanpPYVctYkZmUV81MmZFTkJN?oc=5",
+      "published": "Tue, 27 Oct 2026 08:36:37 GMT",
+      "source": "Transformer Magazine",
+      "sector": "Power & Grid",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
+      "freshness_hours": 7.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -300,5 +343,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-27T16:30:58.865336+00:00"
 }
