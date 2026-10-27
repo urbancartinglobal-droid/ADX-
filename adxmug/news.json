@@ -6,6 +6,20 @@
   "articles": [],
   "landed": [
     {
+      "title": "India Overnight Rates Climb as Liquidity Surplus Evaporates - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1lJNjZlbzVGSlVBR3diWTBDMnlFeVF5S3JXRmJWanRTQUlYOU15RnIybzF4enZmSTdQZEpBZ2xNSUJTSjRIRkY2Z3djSm5FbzBGMTZ3N3dEUzRmYWdzcTBsWU9GeG45U1VEYnJ5XzlaSG0yU0p5dXNZQ2U5X0swd1hZMHhMd3hjZDczLVgxNkF0eXlqZ2F3M3J5RVUyS3NuZHhPakV1MHQwZG5FNnF0bmJ6UQ?oc=5",
+      "published": "Tue, 27 Oct 2026 02:32:03 GMT",
+      "source": "Bloomberg.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.4
+    },
+    {
       "title": "Pakistan launches programme to help pharma industry meet US FDA standards - The Nation (Pakistan )",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWJFZk5VUTMyVnhnbFFjeUw0VHJhVTdjZHJPck9zS2tEcFZrZUNlZnFQMWJBelBEMTQydDgySV91aGR3bXlYZ0xkOGhkQVdianRVNkJBeU15MVNUZ2RjSVdFRFFNZnU5WkhDYXR2eFFDNEhmSWNXVmpQRElmRjlCZzdiMElMdTducXd0M05LS2xoRlRBTVZvNjZhdHJoT3I3TGc1TzVnWGRocDFD?oc=5",
       "published": "Mon, 26 Oct 2026 17:52:00 GMT",
@@ -17,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 5.9
+      "freshness_hours": 11.1
     },
     {
       "title": "India Approves E100 Ethanol Fuel for Flex-Fuel Vehicles: What It Means for Carmakers and Buyers - Autopunditz",
@@ -31,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 6.8
+      "freshness_hours": 11.9
     }
   ],
   "opportunities": [
@@ -343,5 +357,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-26T23:48:39.979621+00:00"
+  "landed_updated_utc": "2026-10-27T04:55:47.201387+00:00"
 }
