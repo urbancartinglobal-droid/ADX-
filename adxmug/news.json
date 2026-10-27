@@ -1,65 +1,71 @@
 {
-  "updated_utc": "2026-10-27T12:14:09.395626+00:00",
+  "updated_utc": "2026-10-27T18:03:09.728017+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [],
+  "articles": [
+    {
+      "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
+      "published": "Tue, 27 Oct 2026 09:21:52 GMT",
+      "source": "CMB News",
+      "feed": "Sugar & Ethanol",
+      "description": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News CMB News",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "PRICING"
+      ],
+      "signal_score": 14.0
+    }
+  ],
   "landed": [
     {
-      "title": "RBI Increases Liquidity Support to Banks as Tight Conditions Push Up Short-Term Borrowing Costs: ICICI Bank - KNN India",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGp0UE9IQkRTcmZGUUE4R3piTWtmOFhCbGNmdXNYN29jc09uMGdydWd0MkctTk5Cb1RfZGw2TkUxRXRqYTl6U1B2Y2JVczQ0cFhSXzRidy1UVE5XTThHc1BUZGIyMXRWTkdxM2JRZ1R6dU5Ub2laMGZscGJfdGl0QUxvYUxQaDVGQ2xFdzhRNEVTMGxzNTFPXy03RHRTeTFxa0VVWFVfNUNFaTBIQkNlZlVQYmZ2WTBmbW5hTy1BSUxMRzR5ZzlaRkVkR1AwdzczaVF5WGg2aVR4T1Zwemk5Y0NRWHlsNE1sWXc?oc=5",
-      "published": "Tue, 27 Oct 2026 11:05:20 GMT",
-      "source": "KNN India",
-      "sector": "Banking & Financials",
+      "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
+      "published": "Tue, 27 Oct 2026 09:21:52 GMT",
+      "source": "CMB News",
+      "sector": "Sugar & Ethanol",
       "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.4
-    },
-    {
-      "title": "India’s petrochemical makers chase specialty chemicals to cut import dependence - Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNXM5Q09BaWtNTEcwamhQMXZ1TTRIOFJoZHVobkJwN01ON0R4WlBSTFpLdktPUDFOdnhGZjR2aWFwazlJX1pLY3VLeHdYVFVSemNjQ2FOekl0R0duRm91X2Nqb0xuMy00dHpHWEt0VkpmNlZXLU51N1JiblNCaXFFcnl0ZmxZTmxabExFOFY2SDRrcDE2NnFNME15NkJyU0FId2Z0OG5EckpmTnNRcFBXV2w5U2Q4ZFJMd2NBZFZ2TXk4cnlsVXpUZXlCQUxCVl9hMVdkcm9uYjlsTWZscExhVndXVGMwdUxnU2VJ0gHvAUFVX3lxTE9TdnhZQUdnTm9ySW1TYjUtWnZxMXBrQ0RDeVk3Rm1BcmtvMzdSdENWN1hZMU96TnhYVlZ5M3R0QWl3Z3hTSTI1WktlOHVNVHczalFxSWM3T0UxUlNiYS1GcERIZzZzSmVBNmluX2RNal9XZU05WGtsS1Z6RW1ha0YtVGhqX2xWVUU3ZUpqYUVEY3VHVnpZbnlSNEtPWTBEVmpMQXMxRFhYYzJnVl9PZlpIeTNZMkJuTTc5SUhvZnlCcFhCeWM0TUVPZFhUMjlUMXJXMUZTNFF1Tmc0eEtBdmZfYVFhOGxWNk1sS0tYeFJn?oc=5",
-      "published": "Tue, 27 Oct 2026 08:38:46 GMT",
-      "source": "Indiatimes",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 7.9
-    },
-    {
-      "title": "Illinois approves ComEd substation and lines - Transformer Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY2RBd2JCQUhYbklCUl9WU0k0NVNEM1Z2U2lldk12M3BjUUtKV29oOXdZOVE3em1pUUlNSlBQZzNRUzV0cHM5NGllUHZqTTM3dkxwQ0YxcjNMSFQ3c1o3Y1d6ajluVjZQcG5GWlczblFMeEhncV9JWnNoanpPYVctYkZmUV81MmZFTkJN?oc=5",
-      "published": "Tue, 27 Oct 2026 08:36:37 GMT",
-      "source": "Transformer Magazine",
-      "sector": "Power & Grid",
-      "triggers": [
-        "MATERIAL CHANGE"
+        "PRICING"
       ],
       "label": "GIGA+",
-      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 7.9
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 8.7
     }
   ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 70,
-      "article_count": 6,
-      "trigger_count": 12,
+      "score": 68,
+      "article_count": 11,
+      "trigger_count": 21,
       "triggers": [
         "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
+        {
+          "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
+          "source": "CMB News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNUd3ZCVHIxWmxiYTVqZkg2QVZNZTkycXVObXFldGxtMDNjZnZXb3I2RUdhUnZ3ckhZMDVlUTBTMU1wMWdXZWFyQnEtZkhwaWU1Y2F2d2Nua2VqNkpkVjNOeV9yUjJuMmcwX1ZTRE9lLUpPNldzY2JKUUJwczZGVWN0NW93ZmhvT29pUVhfeHNlTW1KOWlwb01OVkFNMjRCRWJVUzdR?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
         {
           "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
           "source": "Policy Circle",
@@ -90,37 +96,119 @@
             "TRADE"
           ],
           "companies": []
-        },
-        {
-          "title": "India bans sugar exports till Sept 30 - News Arena India",
-          "source": "News Arena India",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTNtU3VXek1Gb0ZLMzAtbzBTdS1ReTBUa2QzbTlldzFWSlZvTjdjTkQyV25PUnJtMnluMUE1aUYxME44QWxza3J5MGUwVjBGSllGejZDcEhMSlBSUnBqTXNWOFZ0WGpncW9fcHllWUxJaVhaRVUtRjFLdXBwUXQtd0xybzM?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India prohibits raw, white & refined sugar export till Sept 30 - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFhzbmRvOXN0cWduZjVRQkN4S3dIZjJ0XzBfaHdxZ2N0RW9WeWJEQkZScEhXb0tZbmV1S20xaFhQTUNzWjVJakhzZFRkVVVDQ2F3QlFiM1c2cnpNR0ZfSmpQQ0hjT3A2THVNUVBhTzd1TUtTelFBMzV6cGFTeHRfMExSYkJnRlliZkFPNXNqXzFOcHllOXJJazVKT0NVSWFpYUU1RjN0eTMya3lqajhKWC1jMnRIT0I1bjRyMTZjcXVWOWRSVGk0YXd2UjdveE9RX2dmeEZ6N01aRUZOSzk5Q9IB5gFBVV95cUxOUlBYUVNuXy1KRGZqalBIMjkwQ3ZaU1RYZEFUQVFCMGZIaEtDcU9mVC15X3hSZEVXaUxMWXlGVlEyeGtBVTR2M19aZkVFajJNYW5lRGpKcU9NSUxnNU9ubVJxMmxON3hLNkNiRzJTam5SWlprS2RNVl9uZEVFcWJfM3R6Qnc5Q1FTcWs2cHVKbUtiNnFYOHhfbGZxNGFVYTkwZGRRV19kcTFFUGNqV3BfOU90NS1WSXcyb0JNSmphakIwU3B3NFZVOE5DOEVZRDBPS1pyZFMzV2cxWjVETWMxWVlqcXdRQQ?oc=5",
-          "triggers": [
-            "TRADE"
-          ],
-          "companies": []
         }
       ],
       "confidence": "high",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 4 independent sources.",
-      "source_count": 4,
-      "story_clusters": 6,
+      "watch": "WATCH",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 11 distinct story clusters; 8 independent sources; 1 fresh evidence items; mixed positive/negative evidence.",
+      "source_count": 8,
+      "story_clusters": 11,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 1
+    },
+    {
+      "industry": "Banking & Financials",
+      "score": 56,
+      "article_count": 4,
+      "trigger_count": 6,
+      "triggers": [
+        "POLICY",
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI Tightens Bank Liquidity Requirements - Bankersadda",
+          "source": "Bankersadda",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaV0RjTE5qNmpKUUk3dkVvTUdVWmEwTzk4dFdwbTRseEd4NTBXY2dlQ3JqNHJ5ajJnRkttRko5dUdFUG43LTB3ZGs1aVR3Y3RucmdJbHRBeFZ6MFBfd0FoWHdfcUprMFo2YkE5WkcwRnZDNXl1QzR4YQ?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
+          "triggers": [
+            "POLICY",
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING; 4 distinct story clusters; 3 independent sources.",
+      "source_count": 3,
+      "story_clusters": 4,
+      "companies": [],
+      "connections": [
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Electronics & Semiconductors",
+      "score": 37,
+      "article_count": 2,
+      "trigger_count": 3,
+      "triggers": [
+        "CAPEX",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "Hosur-based Titan Engineering & Automation Ltd (TEAL) is expanding in semiconductor and aerospace manufacturing, driven by rising AI adoption. The Tata Group subsidiary produces wafer fab equipment and exports critical aerospace components. TEAL, - Instagram",
+          "source": "Instagram",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HMHUxNTlXQjIyRENIVjVnZVpiamZDTFJHbUJxam1RMkFXajJXcm5wZ3RwcXhPdzdNSnd5OHZjNGppaEdIdTF1aUxWTDlqT0tRTlE?oc=5",
+          "triggers": [
+            "CAPEX",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
+          "source": "Energetica India Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, TRADE; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
       ],
       "fresh_count": 0
     },
@@ -206,6 +294,79 @@
       "fresh_count": 0
     },
     {
+      "industry": "Auto & Components",
+      "score": 22,
+      "article_count": 2,
+      "trigger_count": 2,
+      "triggers": [
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
+          "source": "Autocar Professional",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": [
+            "mahindra"
+          ]
+        },
+        {
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
+          "source": "India Briefing",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY; 2 distinct story clusters; 2 independent sources; mixed positive/negative evidence.",
+      "source_count": 2,
+      "story_clusters": 2,
+      "companies": [
+        "mahindra"
+      ],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Defence & Aerospace",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Power & Grid",
       "score": 18,
       "article_count": 1,
@@ -236,99 +397,7 @@
       "fresh_count": 0
     },
     {
-      "industry": "Auto & Components",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "POLICY"
-      ],
-      "evidence": [
-        {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Pharma & Healthcare",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Defence & Aerospace",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Electronics & Semiconductors",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Banking & Financials",
       "score": 0,
       "article_count": 0,
       "trigger_count": 0,
@@ -343,6 +412,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-27T16:30:58.865336+00:00"
+  ]
 }
