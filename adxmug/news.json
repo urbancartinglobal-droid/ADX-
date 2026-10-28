@@ -20,18 +20,46 @@
   ],
   "landed": [
     {
-      "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
-      "published": "Tue, 27 Oct 2026 09:21:52 GMT",
-      "source": "CMB News",
-      "sector": "Sugar & Ethanol",
+      "title": "RBI Increases Liquidity Support to Banks as Tight Conditions Push Up Short-Term Borrowing Costs: ICICI Bank - KNN India",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGp0UE9IQkRTcmZGUUE4R3piTWtmOFhCbGNmdXNYN29jc09uMGdydWd0MkctTk5Cb1RfZGw2TkUxRXRqYTl6U1B2Y2JVczQ0cFhSXzRidy1UVE5XTThHc1BUZGIyMXRWTkdxM2JRZ1R6dU5Ub2laMGZscGJfdGl0QUxvYUxQaDVGQ2xFdzhRNEVTMGxzNTFPXy03RHRTeTFxa0VVWFVfNUNFaTBIQkNlZlVQYmZ2WTBmbW5hTy1BSUxMRzR5ZzlaRkVkR1AwdzczaVF5WGg2aVR4T1Zwemk5Y0NRWHlsNE1sWXc?oc=5",
+      "published": "Tue, 27 Oct 2026 11:10:17 GMT",
+      "source": "KNN India",
+      "sector": "Banking & Financials",
       "triggers": [
-        "PRICING"
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 14.1
+    },
+    {
+      "title": "India must cut foreign dependence across semiconductor value chain; needs to build capabilities beyond chip design, says Semiconductor Lab chief - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNTEIycjlZZ2xEU3Y0SXVFaEFBRFBQLXZKZlVDVW9HZ1dFbUhoVDhTdEF2Y0NSUEI3Ni1rUG9jc2dhbjFZampDdE5QZDlvUXFONndFYTJzV0FmWUlNZTV6VTZBMXF6OXYzT2xNYmRSSlNkU0NQdHlPNHl4ZVRwWDBic3ZMWVJOZzBUNUFVWWtSYjZhVEt3NEtzRFhjUGZURWRnU3UxcmZqWE9hdzJNS2FaTjVwNXdyY0Y0SHZRWFpSaDFGQ2h0eU9QRXNHTVNVZXBVY0c3MlRtQlpWYUlWX3N3clg4MVp6SlFLa3V4X0Z0TFFDQ3l3aFlYX00xSFlpUXVDejZnRFNYcVYtblp5dnZZWk9VZkt5N3ZoYlN6Q1VuTk9HWmVrVVhhaVJVd2wtUdIBtAJBVV95cUxNVG8xNV9DUTJyWkpnZ2ZUdWFqS09GYmI1ZE9ULVFuWWpyV3RIUHpxUlhCelVDRnBNTU9CYlRHdzhtODBSOUpBWk5LRjd0bV9pR3gyNk9LalZ0UXBhTFFKcFFJbjJaMy0wZzAxbDRfc3ZyOF9waDBXbGU2UEdVWWxuRldHaFpiV0Q0RklCTEowMzI2aUNVV3h3S1NGOHZZWTU1V3hIVWpkWlhubUNFWk96OFdmZ1hFX2kxSDFmR01TVzdka2hEMWMtckw4RHpFY2FpNWk4NUdSa0ZvWnhwZEVabVpwbDUxcXZpaGdpQVFqaHlqVWNtTGpkUzM1NTl2dVlQeHM2WDYtTjNJOUFobm44dmFHdWgyNVZXY09IYTdXOUdPd2ZrX0NTeU5CYTFzUmdOLUVYcw?oc=5",
+      "published": "Tue, 27 Oct 2026 10:26:36 GMT",
+      "source": "The Hindu",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 12.9
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 14.8
+    },
+    {
+      "title": "India’s petrochemical makers chase specialty chemicals to cut import dependence - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNXM5Q09BaWtNTEcwamhQMXZ1TTRIOFJoZHVobkJwN01ON0R4WlBSTFpLdktPUDFOdnhGZjR2aWFwazlJX1pLY3VLeHdYVFVSemNjQ2FOekl0R0duRm91X2Nqb0xuMy00dHpHWEt0VkpmNlZXLU51N1JiblNCaXFFcnl0ZmxZTmxabExFOFY2SDRrcDE2NnFNME15NkJyU0FId2Z0OG5EckpmTnNRcFBXV2w5U2Q4ZFJMd2NBZFZ2TXk4cnlsVXpUZXlCQUxCVl9hMVdkcm9uYjlsTWZscExhVndXVGMwdUxnU2VJ0gHvAUFVX3lxTE9TdnhZQUdnTm9ySW1TYjUtWnZxMXBrQ0RDeVk3Rm1BcmtvMzdSdENWN1hZMU96TnhYVlZ5M3R0QWl3Z3hTSTI1WktlOHVNVHczalFxSWM3T0UxUlNiYS1GcERIZzZzSmVBNmluX2RNal9XZU05WGtsS1Z6RW1ha0YtVGhqX2xWVUU3ZUpqYUVEY3VHVnpZbnlSNEtPWTBEVmpMQXMxRFhYYzJnVl9PZlpIeTNZMkJuTTc5SUhvZnlCcFhCeWM0TUVPZFhUMjlUMXJXMUZTNFF1Tmc0eEtBdmZfYVFhOGxWNk1sS0tYeFJn?oc=5",
+      "published": "Tue, 27 Oct 2026 08:38:46 GMT",
+      "source": "Indiatimes",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 16.6
     }
   ],
   "opportunities": [
@@ -346,5 +374,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-28T01:15:41.420359+00:00"
 }
