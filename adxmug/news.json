@@ -17,7 +17,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.1
+      "freshness_hours": 9.1
     },
     {
       "title": "Indian petrochemical firms eye specialty chemicals to cut import dependence - Indiatimes",
@@ -31,21 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 7.8
-    },
-    {
-      "title": "#News_Alert: #Ethiopia receives 12 Russian Su-35 fighter jets, plans to acquire four S-400 air defense batteries The latest announcement would represent a further expansion of Ethiopia’s air combat and air defense capabilities if the stated deliveries and plan - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUG1CV3ZjcGtRSWVpcVRRYW5HTElUSHlNMURybmFWdTk5ZFdDRzlqMmw2YkxUd1c3SVduQU96R3ktR0V3UXF2Zjc5cExSeGdtZmlqdUFudzVIbTYwWWRReHNCLUJ6R253Tm5ScVZRalRucHBUYkY5WGhlWHlQaGJnRE1uTnlPRWZfN3l3MUxwTGlyWjdvbXoydlFXNm5INHpiQ1h2LTBjXzVrYXlQeDFRWktEMk5UR3BCNk9mendOSTBBY29DcEFxYldTUnNoQTBGQjVDdXM3Y0Z3OHQ0VFRJ?oc=5",
-      "published": "Wed, 28 Oct 2026 12:50:36 GMT",
-      "source": "Facebook",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 3.1
+      "freshness_hours": 12.8
     }
   ],
   "opportunities": [
@@ -440,5 +426,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-28T15:57:34.567478+00:00"
+  "landed_updated_utc": "2026-10-28T20:59:36.204359+00:00"
 }
