@@ -1,85 +1,22 @@
 {
-  "updated_utc": "2026-10-28T22:36:36.473893+00:00",
+  "updated_utc": "2026-10-29T05:50:07.670956+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [
-    {
-      "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
-      "published": "Tue, 27 Oct 2026 09:21:52 GMT",
-      "source": "CMB News",
-      "feed": "Sugar & Ethanol",
-      "description": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News CMB News",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "PRICING"
-      ],
-      "signal_score": 14.0
-    }
-  ],
-  "landed": [
-    {
-      "title": "RBI’s Rupee Defence Tightens Banking Liquidity, Pushes Up Funding Costs - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHMtLTZEY2ZwMk5mQjY2WVlzeDhNUWwwOTRYS3lwV2VlbUxtY0hkMURtWmw0ZjV3aldPUU1MRm5ZdEx4UG5tODMtdWJRNzlFc3FaS2NySUhUZVR5YjNrTU0xRzFBemM1LTBHRXpDVU5BR0xVcEJaSTZWd2dKX0J6T3oyd0Rac19Ienlfb2NHR2lWVnN1NjU3MVBSdVJnMUYzMEhoZWxNY25kM2wtVndvTFhuVy1Gb1ZNRGswYnVqNnd3akxNVGc?oc=5",
-      "published": "Wed, 28 Oct 2026 11:52:24 GMT",
-      "source": "TradingView",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.0
-    },
-    {
-      "title": "Indian petrochemical firms eye specialty chemicals to cut import dependence - Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQOG5fQjBMZHcycXFQN2dZYTZmSkhYRkx3MkNTZ3c3NXc2TXNTWUd2aGxuMmxZajNvLWwzQ0R1eHVkUFlDLW9qdC1YeVlCakxpaUdnUmQ0Q0s4TTNQQm5VQ0tzSThPRzhtNC1RaFVuand3N2REYTdBWVFScFJDVlJjczZ1YTZUSHU0RHY0ME5EX05VVUwxbHctTmw0SDN6R0x6ZktDWndmZ3psVjg0QjR3QUU5T3FMdHlRM3FkV05Ya2pISDVzSTN6N2ljSFJ6Y0tZQzlOY0RYTHlWY2phck1FR2ZmMUpBYnJ5SWh5elgwdTctc2xBVEYtRzNkSGRxWTFzTTlBdUtBX3lPc0dPc1FTWm1wVUxXYS1CanZPLUFwbTI3WnJDekHSAfQBQVVfeXFMTWZxMkp6RXVPRzY2ZWNCdTRvZTFQRE10aml0WHY0WUNYOGw5R1pNcW1yVHZJZFNVQ3FYbEJ5V05lekNpdU1ESjVLb1R4NS1nZ08wZjNZSl9PU3JST2kydTNlT1VvZ1c4emo4b1pTanpoMDBEb0RoV0tPS2FSSklNQ1k0WkV1WDB5ZVNTSThOazZyM3dEUmRqTE1PWG50RW1vZEo2ZGZ0ckZob1lkaktRLXZpM19CVWZzdzA4WV9yY0lZX01jZHdWalozTk1TR0pON2ZfTXM2TDFXY0lsaUVXU3gyaUFGblotSl9tN1RBNUtha3VtbA?oc=5",
-      "published": "Wed, 28 Oct 2026 08:11:18 GMT",
-      "source": "Indiatimes",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 16.7
-    }
-  ],
+  "articles": [],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 68,
-      "article_count": 11,
-      "trigger_count": 21,
+      "score": 70,
+      "article_count": 6,
+      "trigger_count": 12,
       "triggers": [
         "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
-        {
-          "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
-          "source": "CMB News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
-          "source": "ChiniMandi",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNUd3ZCVHIxWmxiYTVqZkg2QVZNZTkycXVObXFldGxtMDNjZnZXb3I2RUdhUnZ3ckhZMDVlUTBTMU1wMWdXZWFyQnEtZkhwaWU1Y2F2d2Nua2VqNkpkVjNOeV9yUjJuMmcwX1ZTRE9lLUpPNldzY2JKUUJwczZGVWN0NW93ZmhvT29pUVhfeHNlTW1KOWlwb01OVkFNMjRCRWJVUzdR?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        },
         {
           "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
           "source": "Policy Circle",
@@ -110,20 +47,89 @@
             "TRADE"
           ],
           "companies": []
+        },
+        {
+          "title": "India bans sugar exports till Sept 30 - News Arena India",
+          "source": "News Arena India",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTNtU3VXek1Gb0ZLMzAtbzBTdS1ReTBUa2QzbTlldzFWSlZvTjdjTkQyV25PUnJtMnluMUE1aUYxME44QWxza3J5MGUwVjBGSllGejZDcEhMSlBSUnBqTXNWOFZ0WGpncW9fcHllWUxJaVhaRVUtRjFLdXBwUXQtd0xybzM?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India prohibits raw, white & refined sugar export till Sept 30 - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFhzbmRvOXN0cWduZjVRQkN4S3dIZjJ0XzBfaHdxZ2N0RW9WeWJEQkZScEhXb0tZbmV1S20xaFhQTUNzWjVJakhzZFRkVVVDQ2F3QlFiM1c2cnpNR0ZfSmpQQ0hjT3A2THVNUVBhTzd1TUtTelFBMzV6cGFTeHRfMExSYkJnRlliZkFPNXNqXzFOcHllOXJJazVKT0NVSWFpYUU1RjN0eTMya3lqajhKWC1jMnRIT0I1bjRyMTZjcXVWOWRSVGk0YXd2UjdveE9RX2dmeEZ6N01aRUZOSzk5Q9IB5gFBVV95cUxOUlBYUVNuXy1KRGZqalBIMjkwQ3ZaU1RYZEFUQVFCMGZIaEtDcU9mVC15X3hSZEVXaUxMWXlGVlEyeGtBVTR2M19aZkVFajJNYW5lRGpKcU9NSUxnNU9ubVJxMmxON3hLNkNiRzJTam5SWlprS2RNVl9uZEVFcWJfM3R6Qnc5Q1FTcWs2cHVKbUtiNnFYOHhfbGZxNGFVYTkwZGRRV19kcTFFUGNqV3BfOU90NS1WSXcyb0JNSmphakIwU3B3NFZVOE5DOEVZRDBPS1pyZFMzV2cxWjVETWMxWVlqcXdRQQ?oc=5",
+          "triggers": [
+            "TRADE"
+          ],
+          "companies": []
         }
       ],
       "confidence": "high",
-      "watch": "WATCH",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 11 distinct story clusters; 8 independent sources; 1 fresh evidence items; mixed positive/negative evidence.",
-      "source_count": 8,
-      "story_clusters": 11,
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 4 independent sources.",
+      "source_count": 4,
+      "story_clusters": 6,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
       ],
-      "fresh_count": 1
+      "fresh_count": 0
+    },
+    {
+      "industry": "Electronics & Semiconductors",
+      "score": 49,
+      "article_count": 3,
+      "trigger_count": 4,
+      "triggers": [
+        "CAPEX",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "Hosur-based Titan Engineering & Automation Ltd (TEAL) is expanding in semiconductor and aerospace manufacturing, driven by rising AI adoption. The Tata Group subsidiary produces wafer fab equipment and exports critical aerospace components. TEAL, - Instagram",
+          "source": "Instagram",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HMHUxNTlXQjIyRENIVjVnZVpiamZDTFJHbUJxam1RMkFXajJXcm5wZ3RwcXhPdzdNSnd5OHZjNGppaEdIdTF1aUxWTDlqT0tRTlE?oc=5",
+          "triggers": [
+            "CAPEX",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "12 semiconductor plants approved: Where India’s chip manufacturing mission stands, what’s next - The Indian Express",
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaVZIN3NCOGJkNHM4ZGE1UkJzRjBXSWp2NDBVMHdfSmdRclFSVl8taUM3bDIxR2VrX3RlaUdtYThLZjRtUUw2N2VaMk1pR2NkbmZDUGxFNURkYUZUZS1OQ21hZE1yZ3BQQWJLLVphbVY2QkJhUjF6Z2hGNmFuYlVVTG5uemp0Zkd2YnZoQVl1VTVjVl9TOHczQVhSbC04WDdkRXBCQzk5c2dZTGtNVHkyWkFDT0ZlU0xsUXM4b25tbmdnckhvS1ZR0gHOAUFVX3lxTE1iUGpxTVVzMENmeWszb2tXRHFBbThUeGFpc3lJOTZHNjIzckNJVTJ3R0Q0RE9fbHYzLUVzdUJGLTRyNHRsX3lZVDVYV3o1UjZIVlQxaVQ5ZGw3NGNsUWgtLXlnYUtZbzBVWV9VOE5sZ0hNYnVXNDhSdGhwcGRqSmtQeWFxSVA2cEpWc2xVdU5fS0FMYnZBaFdzXzU1Yk9lRUh2YlY3bGRqLXJvVHlXYXpvVXZsV0RpQWFwU01YV1lJRVZudGNVMjhQNDFuRnNB?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
+          "source": "Energetica India Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, TRADE; 3 distinct story clusters; 3 independent sources.",
+      "source_count": 3,
+      "story_clusters": 3,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
     },
     {
       "industry": "Rail & Infrastructure",
@@ -167,24 +173,44 @@
       "fresh_count": 0
     },
     {
-      "industry": "Power & Grid",
-      "score": 36,
-      "article_count": 2,
-      "trigger_count": 2,
+      "industry": "Defence & Aerospace",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
       "triggers": [
-        "CAPEX",
-        "PRICING"
+        "CAPEX"
       ],
       "evidence": [
         {
-          "title": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” - Powerline Magazine",
-          "source": "Powerline Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHJoY2xpXzNWSW9PdkJkM2xIRGNOVXhVMThzTTh1OFRQVThkaG1scDFtaHgwbHFFa1VOeThkaFUwaFE4dXI1MmppRlc3andmbnRRUFphd3JFMmRnUFR3cXJpSS10Tmlpdy1VU0hLTmowNm1ycUhOTjJ1d2s1cGhYNElnRnJsZVN6TVlLTlRwbW54ZXgxdzhHeVZZYW9sNGt0Mjk0Ty10aEFWSGRYT3QzVXNtRGtjQmN4SDRUN2t3S3JpbkhwSnVTS2lUN1dZSERmQWxwVGdfWllKWXNVLUp3N1lwQnotTkhNNlBkN2ZRdXNoWWZRbkJyZU0wazV0QQ?oc=5",
+          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
           "triggers": [
             "CAPEX"
           ],
           "companies": []
-        },
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Power & Grid",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "PRICING"
+      ],
+      "evidence": [
         {
           "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
           "source": "POWER Magazine",
@@ -195,11 +221,11 @@
           "companies": []
         }
       ],
-      "confidence": "medium",
+      "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, PRICING; 2 distinct story clusters; 2 independent sources.",
-      "source_count": 2,
-      "story_clusters": 2,
+      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
@@ -208,24 +234,13 @@
     },
     {
       "industry": "Auto & Components",
-      "score": 22,
-      "article_count": 2,
-      "trigger_count": 2,
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
       "triggers": [
         "POLICY"
       ],
       "evidence": [
-        {
-          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
-          "source": "Autocar Professional",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": [
-            "mahindra"
-          ]
-        },
         {
           "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
           "source": "India Briefing",
@@ -236,14 +251,12 @@
           "companies": []
         }
       ],
-      "confidence": "medium",
+      "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY; 2 distinct story clusters; 2 independent sources; mixed positive/negative evidence.",
-      "source_count": 2,
-      "story_clusters": 2,
-      "companies": [
-        "mahindra"
-      ],
+      "reason": "Cross-signal POLICY; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
       ],
@@ -280,38 +293,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Defence & Aerospace",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Electronics & Semiconductors",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
       "industry": "Banking & Financials",
       "score": 0,
       "article_count": 0,
@@ -343,6 +324,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-29T00:51:03.090373+00:00"
+  ]
 }
