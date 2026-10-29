@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI’s Rupee Defence Tightens Banking Liquidity, Pushes Up Funding Costs - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHMtLTZEY2ZwMk5mQjY2WVlzeDhNUWwwOTRYS3lwV2VlbUxtY0hkMURtWmw0ZjV3aldPUU1MRm5ZdEx4UG5tODMtdWJRNzlFc3FaS2NySUhUZVR5YjNrTU0xRzFBemM1LTBHRXpDVU5BR0xVcEJaSTZWd2dKX0J6T3oyd0Rac19Ienlfb2NHR2lWVnN1NjU3MVBSdVJnMUYzMEhoZWxNY25kM2wtVndvTFhuVy1Gb1ZNRGswYnVqNnd3akxNVGc?oc=5",
+      "published": "Wed, 28 Oct 2026 11:52:24 GMT",
+      "source": "TradingView",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 19.1
+    },
+    {
+      "title": "Ethiopia Confirms Orders for Four Russian S-400 Long Range Air Defence Battalions - Military Watch Magazine",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTBuMTB4NzR1UWg2SzZtVDVOSDNudHV6Nk15bGNtR2toU2FoWU5iZUpSRmFzd2ZoUVlqLU9XcWREalE2NE9IZHJ3X1NvMEN2OWZmcjJZT25lWTg5QVVpM2NVUWloMnBSc255cENxYklvMV93SDRwMFlXMTVPSy1FcmhUam1WNWEtaW5jeG9LUzE?oc=5",
+      "published": "Wed, 28 Oct 2026 20:10:00 GMT",
+      "source": "Military Watch Magazine",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 10.8
+    },
+    {
+      "title": "Indian petrochemical firms eye specialty chemicals to cut import dependence - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQOG5fQjBMZHcycXFQN2dZYTZmSkhYRkx3MkNTZ3c3NXc2TXNTWUd2aGxuMmxZajNvLWwzQ0R1eHVkUFlDLW9qdC1YeVlCakxpaUdnUmQ0Q0s4TTNQQm5VQ0tzSThPRzhtNC1RaFVuand3N2REYTdBWVFScFJDVlJjczZ1YTZUSHU0RHY0ME5EX05VVUwxbHctTmw0SDN6R0x6ZktDWndmZ3psVjg0QjR3QUU5T3FMdHlRM3FkV05Ya2pISDVzSTN6N2ljSFJ6Y0tZQzlOY0RYTHlWY2phck1FR2ZmMUpBYnJ5SWh5elgwdTctc2xBVEYtRzNkSGRxWTFzTTlBdUtBX3lPc0dPc1FTWm1wVUxXYS1CanZPLUFwbTI3WnJDekHSAfQBQVVfeXFMTWZxMkp6RXVPRzY2ZWNCdTRvZTFQRE10aml0WHY0WUNYOGw5R1pNcW1yVHZJZFNVQ3FYbEJ5V05lekNpdU1ESjVLb1R4NS1nZ08wZjNZSl9PU3JST2kydTNlT1VvZ1c4emo4b1pTanpoMDBEb0RoV0tPS2FSSklNQ1k0WkV1WDB5ZVNTSThOazZyM3dEUmRqTE1PWG50RW1vZEo2ZGZ0ckZob1lkaktRLXZpM19CVWZzdzA4WV9yY0lZX01jZHdWalozTk1TR0pON2ZfTXM2TDFXY0lsaUVXU3gyaUFGblotSl9tN1RBNUtha3VtbA?oc=5",
+      "published": "Wed, 28 Oct 2026 08:11:18 GMT",
+      "source": "Indiatimes",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 22.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -324,5 +367,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-29T06:59:44.405324+00:00"
 }
