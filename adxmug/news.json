@@ -1,54 +1,101 @@
 {
-  "updated_utc": "2026-10-30T12:57:54.051646+00:00",
+  "updated_utc": "2026-10-30T22:22:01.700323+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [],
-  "landed": [
+  "articles": [
     {
-      "title": "North Korea displays stealth-designed unmanned aircraft at its first UAV exhibition - Defensehere",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGxQTXBvMlNxMUVjU0VWeHdEMk9QR2NIMFRNekNzbVdGaU5rYzlISl9yQ0UxdzZuS2dDYTY5OTdpOXljZVlFVVJHT1FQb0s3Um84dmtUWkZyT19SeHozLUVCLS0zWHlYQkNXdDhDM3RKeWl2N3FGSm1GV3lzcERKeDU1N3JxTlEwbHNjUVVrMF9PbDc4WUl6a1U4WmhsbE5zZ1hlZWgyUW82VXFsSWotLQ?oc=5",
-      "published": "Fri, 30 Oct 2026 16:36:57 GMT",
-      "source": "Defensehere",
-      "sector": "Defence & Aerospace",
+      "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
+      "published": "Tue, 27 Oct 2026 09:21:52 GMT",
+      "source": "CMB News",
+      "feed": "Sugar & Ethanol",
+      "description": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News CMB News",
+      "sector": "Sugar & Ethanol",
       "triggers": [
-        "MATERIAL CHANGE"
+        "PRICING"
       ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.7
-    },
-    {
-      "title": "Sun Pharma Expands ILUMYA's Label with USFDA Approval for Psoriatic Arthritis - Medical Dialogues",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTRYVndqQV9qMEhMbmFnS1h4SUtFLWVzQWViM2dPek5qZkRKYzU1bUhBLTdtRlEtR3ZUZ3RuaHRWZFU3LXNsMTRhMElWdEU5SEVOdzhlc2dfRG9sS3FjMlF4RHFiMmVLaUc4OFJCSjVBbEtiOHRZWGZrZENkNUlLLWRGSHVrQXNJalZXRFFGandTcVlLQWZySXU3MzhONDFrRzlMaHRheDhWejdKMWhwQ0dRRjhWbjN1bVVnd0xFanRrWDRCUTY3OHdPemxHRnBOU2fSAdIBQVVfeXFMTW00WFZ3akFfajBITG5hZ0tYeElLRS1lc0FlYjNnT3pOamZESmM1NW1IQS03bUZRLUd2VGd0bmh0VmRVNy1zbDE0YTBJVnRFOUhFTnc4ZXNnX0RvbEtxYzJReERxYjJlS2lHODhSQko1QWxLYjh0WVhma2RDZDVJSy1kRkh1a0FzSWpWV0RRRmp3U3FZS0Fmckl1NzM4TjQxa0c5TGh0YXg4Vno3SjFocENHUUY4Vm4zdW1VZ3dMRWp0a1g0QlE2Nzh3T3psR0ZwTlNn?oc=5",
-      "published": "Fri, 30 Oct 2026 16:11:38 GMT",
-      "source": "Medical Dialogues",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 3.1
-    },
-    {
-      "title": "Indian Railways Orders 4,955 BOXNHL Wagons from Titagarh in ₹1,717 Crore Deal - Metro Rail News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTVLbE5kdmY5VDlBQXJxZng2Z2txWjdFSmJRSm1UX3NmNkFNYmFOOFRDTlRuYWpBNUphbXIzMm9BNE54YWhyWnpLRFBLWWFwMmUtWFE0TEZ1aVNyTTlJQnJqZnk2UjlRWnJHc0s2dThWOGl2OEtNVmU1dlZSdzJyNg?oc=5",
-      "published": "Fri, 30 Oct 2026 10:34:07 GMT",
-      "source": "Metro Rail News",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 8.7
+      "signal_score": 9.0
     }
   ],
+  "landed": [],
   "opportunities": [
+    {
+      "industry": "Sugar & Ethanol",
+      "score": 72,
+      "article_count": 5,
+      "trigger_count": 11,
+      "triggers": [
+        "POLICY",
+        "PRICING",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
+          "source": "CMB News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNUd3ZCVHIxWmxiYTVqZkg2QVZNZTkycXVObXFldGxtMDNjZnZXb3I2RUdhUnZ3ckhZMDVlUTBTMU1wMWdXZWFyQnEtZkhwaWU1Y2F2d2Nua2VqNkpkVjNOeV9yUjJuMmcwX1ZTRE9lLUpPNldzY2JKUUJwczZGVWN0NW93ZmhvT29pUVhfeHNlTW1KOWlwb01OVkFNMjRCRWJVUzdR?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
+          "source": "Policy Circle",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
+          "source": "ChiniMandi",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India to Import 1 Million Tonnes of Sugar as Ethanol Diversion Tightens Supplies - Global Agriculture",
+          "source": "Global Agriculture",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzUyRjB5UkItWDIxNXBpOWJzdi1uS2pEbEJZQXd3UWg3QzlkY1ljY3JTclJ3cDltZWZiSFdMVktwMXJjQnJWcDRoTnAyNGJ5a0pIeU9nTTJRVVJqRllmelJwMUpyRnZfaUswelhBb2dMWW93MmtRbmxGMmZYSmNaNTNKYWt2aXRRMEhxSkI0T01mZmhxdGZ3RkVIcmQ4R2VCM29sR2c0b1ktMXVDUU5yWUo1WnlzZGFkM29fRFFnUHdlMkROS1ZZOA?oc=5",
+          "triggers": [
+            "TRADE"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "high",
+      "watch": "WATCH",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 4 independent sources; 1 fresh evidence items.",
+      "source_count": 4,
+      "story_clusters": 5,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations.",
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 1
+    },
     {
       "industry": "Banking & Financials",
       "score": 56,
@@ -110,46 +157,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Power & Grid",
-      "score": 36,
-      "article_count": 2,
-      "trigger_count": 2,
-      "triggers": [
-        "CAPEX",
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "Interview with N. Venu: “India’s energy demand is scaling at a pace that requires aggressive expansion of transmission infrastructure” - Powerline Magazine",
-          "source": "Powerline Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHJoY2xpXzNWSW9PdkJkM2xIRGNOVXhVMThzTTh1OFRQVThkaG1scDFtaHgwbHFFa1VOeThkaFUwaFE4dXI1MmppRlc3andmbnRRUFphd3JFMmRnUFR3cXJpSS10Tmlpdy1VU0hLTmowNm1ycUhOTjJ1d2s1cGhYNElnRnJsZVN6TVlLTlRwbW54ZXgxdzhHeVZZYW9sNGt0Mjk0Ty10aEFWSGRYT3QzVXNtRGtjQmN4SDRUN2t3S3JpbkhwSnVTS2lUN1dZSERmQWxwVGdfWllKWXNVLUp3N1lwQnotTkhNNlBkN2ZRdXNoWWZRbkJyZU0wazV0QQ?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
-          "source": "POWER Magazine",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, PRICING; 2 distinct story clusters; 2 independent sources.",
-      "source_count": 2,
-      "story_clusters": 2,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Chemicals & Materials",
       "score": 36,
       "article_count": 2,
@@ -190,86 +197,39 @@
       "fresh_count": 0
     },
     {
-      "industry": "Sugar & Ethanol",
-      "score": 32,
+      "industry": "Rail & Infrastructure",
+      "score": 25,
       "article_count": 1,
-      "trigger_count": 3,
+      "trigger_count": 2,
       "triggers": [
-        "POLICY",
-        "PRICING",
-        "TRADE"
+        "CAPEX",
+        "POLICY"
       ],
       "evidence": [
         {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
-          "source": "Policy Circle",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
+          "source": "Swarajya",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
           "triggers": [
             "POLICY",
-            "TRADE",
-            "PRICING"
+            "CAPEX"
           ],
           "companies": []
         }
       ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 1 distinct story clusters.",
+      "reason": "Cross-signal CAPEX, POLICY; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
-      "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations.",
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Auto & Components",
-      "score": 22,
-      "article_count": 2,
-      "trigger_count": 2,
-      "triggers": [
-        "POLICY"
-      ],
-      "evidence": [
-        {
-          "title": "Weekly News Wrap: Indigenous Magnets in 2 Years, CV Safety Mandate, JSW Motors Launch Delay, Mahindra Doubles Tractor Growth Forecast - Autocar Professional",
-          "source": "Autocar Professional",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDc2U1FhcUdveXJVQWYwakNtbXZBTVdUdGtpejBsZVg3aWo1TldGWkZ2alFSQW9XNmFOZmdZZWtPb1lHcWhxMUQtS19xdTZzdTJvd0lDbXN6a0NtVG5KQVdXOWZsbW9ISzFlMmxDMTEtTk9wYzkwUXc5Vmhwc0pDRW9HNnRUUXU5V2ZNUE1jRmlhalQ4X3Bqbmd3THVHRGh6bWUyZFdUTXZhS1pMeV9HYTZRaTlPenZDVUVWZFpYVGpLX2M1ZTNJb1VNYlZiVUhydWFLNF9SckxzVDNEWlFKdG1vSkhTOGRaV0J1djBKcHdSbFo4Qm5jSmt6WdIBgwJBVV95cUxPbUlMWGxnNWJWbllNcDFZQXZlMXExQXhBTWVSWGtjeGNqMWEtNVRCVlNhekJWVmRPcnhzeWxqbFNrQTZrNkZvcUV4eV9IeEd4SFdlMXNkZWdPX1Z4NWxTeU96ME9LSmVFWExLWU1SNmw1UU14bE5uNnhPNUNYVUJPc2w1czZleklEdUJ2RHZJTmVxLXE4NEZIYzVFRHRaRFhiaF9rVGRtQVZwX3NyV2JseGZVeXBqS3V1VUVna1psbGxaUFRoZExubWZMandwdGVxa2hFc0xLRVJvWVNZYUlsblROY3ZEaUVhN0FFUjBZRTVobHppVEtLeDBLbFpNUDE3b3Qw?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": [
-            "mahindra"
-          ]
-        },
-        {
-          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY; 2 distinct story clusters; 2 independent sources; mixed positive/negative evidence.",
-      "source_count": 2,
-      "story_clusters": 2,
-      "companies": [
-        "mahindra"
-      ],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
       ],
       "fresh_count": 0
     },
     {
-      "industry": "Rail & Infrastructure",
+      "industry": "Defence & Aerospace",
       "score": 18,
       "article_count": 1,
       "trigger_count": 1,
@@ -278,9 +238,9 @@
       ],
       "evidence": [
         {
-          "title": "Cabinet Approves Rs 130.41 Billion Railway And Highway Projects Across Five States - Construction World India",
-          "source": "Construction World India",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNnJQbU5lbmt6ZE1vQ0ZsN0FocE5kS2dRbDBSS3hta1pOVXZHdUZwUF82b3BvTHhFOTJlWnZFaGE2eTdUNHUzdUVLbE10UnN6OVpUaXBjalk4WnhiVzRVTTVfSXhUU3haLXotd2RYS21aOXJDMTViX0w1aml4VHZ0Yzlma1JBRXVVZTJuSzcwOGJHSUNSTWR0X3NoSXV3eTlGTlVHRUhabHFfOEszYWpkY3E1ZVA4ZFo3c2tLT21PQzJobFdQc3dOekF0VDNTYXJWZzhsbVdOaGFJWkhJNjlCTmtsNVdFaTd5bmY2MWd5QWRuRy1feFpKUXV1R3pKYTFjbGF0b0VOQ1Ztd25h?oc=5",
+          "title": "India clears project to develop AMCA 5th generation stealth fighter aircraft - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVjFJa3NyOGE1bi00LTNZM1F5eDVQOHJ4ZUlWbWZOUm12QUZWUzRIaVE1QkMyaXc3dGhCd0UtZ1NDbEx2dEZnNEMtV2pMaTF4Z2FfWGR2bDQ0S1VlcW9HTWxTLWJSa3ZCTVhmSGpacDVkX3pzSElIZXlwZmVVQ0hDdlFLYTZxREwzRVRUOU1JMzR3Y2VuUUNJSFRYUHhyQV84eEhLYlZiZ0RjM3YwRHZlbFl4cEVnc3NhRFl5Yi0wY3hHWHNDX2VSRzlfTkRwS3JKWUZrQUg3RWc4anfSAeABQVVfeXFMTklXbUNCckc4V1RsTmVlcjVxSHR0N09KZE1xeWc4b3h3SnV2QU1OYi1TVTZjQUl6cURETl9pa1hKb21Rb0hMT2NiMnV2MVk0NXVTS1d3VjhBNWZwME1jTk0wS3RmWHVzeUk3cnVGVnNxZjFES1YwendUS3VNXzZDSEl3VG1hRjJKMTBjLTVnUXNwTjFqT254VUhGdVVnTVhTVWYyZUgwVjI1X2xydUl4S3oxTEpJeXQ3VWdmN0hMYVdwT2sweHVvRGRMZ0xxeVhrTERuWGhDOGpTa1VWTDctRGk?oc=5",
           "triggers": [
             "CAPEX"
           ],
@@ -299,19 +259,93 @@
       "fresh_count": 0
     },
     {
-      "industry": "Defence & Aerospace",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
+      "industry": "Power & Grid",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
+          "source": "POWER Magazine",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
+      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
       "companies": [],
-      "connections": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Auto & Components",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
+          "source": "India Briefing",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
       "fresh_count": 0
     },
     {
@@ -329,23 +363,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Pharma & Healthcare",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-10-30T19:17:46.672790+00:00"
+  ]
 }
