@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "India’s Banking Liquidity Surplus Falls As RBI Defends Rupee - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekxJSnpoa09DbVBlRERiRTZLZUhoQVIxblBxSGM4VF9uMXRMaW1fUEtzR0Zxa1Q1RE9hcDVZN0ZDUVdxMUJiWXotaWJjczIwNDJiMkU5NlpoM0h0dDVIdmE5WlJpY1dyVk81WmNzMXVaYjFFc2VCRlBvV1N6a3otSXZzaDlWb1VERkQzbnNJcXc0SUZlelRNSDlRSGRqcXppMThaYnFzcVRxQ2tIU2JRQmRHYjJFdmNE?oc=5",
+      "published": "Thu, 29 Oct 2026 10:32:31 GMT",
+      "source": "TradingView",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 14.3
+    },
+    {
+      "title": "Govt tests green ammonia as urea alternative to cut fertiliser costs by two-thirds - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS0NzYTZoaFRjTzRUWEQwQUtXYkpDYkZ5ZXV1TXdCUDF2RzVTR0ttVzFBeUVlaW81NWs2QnlRTzJ5RTRHRXlJSTVGYnJySFRnRXZieG05ZFp1Vk9XNHEwbnZERXZHc2RPWFVzLXZKa0NSb1B5ZklEN296djJzTWN6dUNEZVpXcFA1S2k4c2VDQllXWjhJZlA5Sm1USW9WaHo5bTBNdnl3aXBtN01aWHRMUW9YQVc2M3dQcDhrYnE5MTNmNVlGTVFsSTNaRXgxLUFkNDVjSW5R0gHbAUFVX3lxTE9RZEVCbFAwZFdqenhfeGhaRkhzWlBfX1dxcDRaS2NsX29ZdG1Zb3VtbDhtZ2VoWWJ2VkQ4aHJzU05WMGcxQVY3WXVzcTRwWU9QenBmMFRuQUFiT2lPYUJ6U0dOcmVYRV9EN2xqU0Zpdld0WjktVFJ6M0FOUHZfQ0FmZUFLOXplZkJrSkw3MmJ1YVB3dnJqbUZ3V3VUc1g3M3VrRHlDSFNFaVJFUnBVdE83SnppZnEyaG1hRnJRdEU1b19pN1lEUjBHWVo4WGtPUGVIWTZCZHRMZ1Qybw?oc=5",
+      "published": "Thu, 29 Oct 2026 11:32:34 GMT",
+      "source": "Moneycontrol.com",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 13.3
+    },
+    {
+      "title": "Axiro Semiconductor invests in ThinSiC for SiC power devices - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTEZpV21VeGJHUE5wLW9ZdzNWdk1iMUIzbTVrS190VGVXT0tSbHRiRnZDVlpqSmNXOWpHbWpTempDRnE2WVlZV1UzVFE3YnRzdEh2QnhfOTBqUGI0a3dhSWVOU3d3S3RSNGxJZGxCQk9TLVJmSkhDMi1RSzhaTTktNG1hdW81bDItSkQ1MWNDTlF5R1otbm1GbDZtZWhpall2Qm1Tc1JDeVVmSHJFN0J1YS1Ldm5sUDR1dF8yQTdGRENMM2VZN21TanBzaWp2VGpqdjF4bNIB2gFBVV95cUxPYVpvZnEzcFB0Skt3VTVRN09EdU9mbDB1U2ZLaFZOdVRheXQzbVRxd2NfcHMzNFpkTXQxUzlKaGZPU2hZNlpIM1Vrb3AzZldpVWtDSW5URXBfX2p2bXU2dGFlNFdwaFhHZjFNZkFScU9BMVFfTDBpdUZvVUktSloxU2pha1lEWVJzSUt4aW40aTljcjZucE9pZkFtZTgyMTJ4UUVVM3E3U3BEX2ZPeGNsaDA2QzF5c25zR0NtNGVHRzhBcjlhYkVPUzItVXBjNnZoTDQtTFpzMWZLdw?oc=5",
+      "published": "Thu, 29 Oct 2026 16:20:59 GMT",
+      "source": "electronics.economictimes.indiatimes.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 8.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -318,5 +361,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-30T00:53:03.624253+00:00"
 }
