@@ -18,7 +18,50 @@
       "signal_score": 9.0
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "North Korea displays stealth-designed unmanned aircraft at its first UAV exhibition - Defensehere",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGxQTXBvMlNxMUVjU0VWeHdEMk9QR2NIMFRNekNzbVdGaU5rYzlISl9yQ0UxdzZuS2dDYTY5OTdpOXljZVlFVVJHT1FQb0s3Um84dmtUWkZyT19SeHozLUVCLS0zWHlYQkNXdDhDM3RKeWl2N3FGSm1GV3lzcERKeDU1N3JxTlEwbHNjUVVrMF9PbDc4WUl6a1U4WmhsbE5zZ1hlZWgyUW82VXFsSWotLQ?oc=5",
+      "published": "Fri, 30 Oct 2026 16:36:57 GMT",
+      "source": "Defensehere",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 7.1
+    },
+    {
+      "title": "Sun Pharma Expands ILUMYA's Label with USFDA Approval for Psoriatic Arthritis - Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTRYVndqQV9qMEhMbmFnS1h4SUtFLWVzQWViM2dPek5qZkRKYzU1bUhBLTdtRlEtR3ZUZ3RuaHRWZFU3LXNsMTRhMElWdEU5SEVOdzhlc2dfRG9sS3FjMlF4RHFiMmVLaUc4OFJCSjVBbEtiOHRZWGZrZENkNUlLLWRGSHVrQXNJalZXRFFGandTcVlLQWZySXU3MzhONDFrRzlMaHRheDhWejdKMWhwQ0dRRjhWbjN1bVVnd0xFanRrWDRCUTY3OHdPemxHRnBOU2fSAdIBQVVfeXFMTW00WFZ3akFfajBITG5hZ0tYeElLRS1lc0FlYjNnT3pOamZESmM1NW1IQS03bUZRLUd2VGd0bmh0VmRVNy1zbDE0YTBJVnRFOUhFTnc4ZXNnX0RvbEtxYzJReERxYjJlS2lHODhSQko1QWxLYjh0WVhma2RDZDVJSy1kRkh1a0FzSWpWV0RRRmp3U3FZS0Fmckl1NzM4TjQxa0c5TGh0YXg4Vno3SjFocENHUUY4Vm4zdW1VZ3dMRWp0a1g0QlE2Nzh3T3psR0ZwTlNn?oc=5",
+      "published": "Fri, 30 Oct 2026 16:11:38 GMT",
+      "source": "Medical Dialogues",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 7.5
+    },
+    {
+      "title": "Indian Railways Orders 4,955 BOXNHL Wagons from Titagarh in ₹1,717 Crore Deal - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTVLbE5kdmY5VDlBQXJxZng2Z2txWjdFSmJRSm1UX3NmNkFNYmFOOFRDTlRuYWpBNUphbXIzMm9BNE54YWhyWnpLRFBLWWFwMmUtWFE0TEZ1aVNyTTlJQnJqZnk2UjlRWnJHc0s2dThWOGl2OEtNVmU1dlZSdzJyNg?oc=5",
+      "published": "Fri, 30 Oct 2026 10:34:07 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 13.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -364,5 +407,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-30T23:41:03.139262+00:00"
 }
