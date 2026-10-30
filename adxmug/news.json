@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Indian Railways Orders 4,955 BOXNHL Wagons from Titagarh in ₹1,717 Crore Deal - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTVLbE5kdmY5VDlBQXJxZng2Z2txWjdFSmJRSm1UX3NmNkFNYmFOOFRDTlRuYWpBNUphbXIzMm9BNE54YWhyWnpLRFBLWWFwMmUtWFE0TEZ1aVNyTTlJQnJqZnk2UjlRWnJHc0s2dThWOGl2OEtNVmU1dlZSdzJyNg?oc=5",
+      "published": "Fri, 30 Oct 2026 10:34:07 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 3.5
+    },
+    {
+      "title": "Indian petrochemical firms eye specialty chemicals to cut import dependence - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNak4zWUY5TGUxSk5YcUpEYTdwWkNNZ0hjMUlhTXpLb2dneXhnVTB4UDItSUVGT2dLLWZJWXgyc2NCcHI4N1l2RUdWSDlwTnNHYXRzODV2bkFESFZYek9vSGp6RWY3dTBwdHlRZWpHWHAxNi15dWpJSjNlQjhJa1h2ZS0yZ2pfNlBtSWNFaktOaDVZTUtQZEg3WEdSU09YUmtFd215TEtJWmo0OUdGellKU0F0cUdVUWk1d2NuTVByWWVSbHhIWC1WZmdWTWJ0OENOQkxUYjFuLWI4QnZpZWtDdHZlQzFoZ2trd2JxRGVwSi3SAfQBQVVfeXFMTWZxMkp6RXVPRzY2ZWNCdTRvZTFQRE10aml0WHY0WUNYOGw5R1pNcW1yVHZJZFNVQ3FYbEJ5V05lekNpdU1ESjVLb1R4NS1nZ08wZjNZSl9PU3JST2kydTNlT1VvZ1c4emo4b1pTanpoMDBEb0RoV0tPS2FSSklNQ1k0WkV1WDB5ZVNTSThOazZyM3dEUmRqTE1PWG50RW1vZEo2ZGZ0ckZob1lkaktRLXZpM19CVWZzdzA4WV9yY0lZX01jZHdWalozTk1TR0pON2ZfTXM2TDFXY0lsaUVXU3gyaUFGblotSl9tN1RBNUtha3VtbA?oc=5",
+      "published": "Fri, 30 Oct 2026 05:30:31 GMT",
+      "source": "Indiatimes",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 8.6
+    },
+    {
+      "title": "Power Transformers Market Expands as Hitachi Energy - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlpyZXBvN3BjYnVSd1dwTnFlb0RiMlh6QkE0SGd4TDJJOWtIU0hnM255ejU5MGRfVzdUeTk3QjJUMkZqQnY1SWJJTWpBMGRXaW5NdXZ3NU1fQy1uMWQ4bkE4Zl9wNU1UWVBxTVZHWUlFbXlaYmRwN1ZiY244dzFCUkNGbk1zRTZMR3E4Z1J5ZnA?oc=5",
+      "published": "Fri, 30 Oct 2026 10:31:39 GMT",
+      "source": "openPR.com",
+      "sector": "Power & Grid",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
+      "freshness_hours": 3.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -303,5 +346,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-10-30T14:03:35.340494+00:00"
 }
