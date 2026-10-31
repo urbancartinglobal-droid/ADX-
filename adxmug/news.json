@@ -20,10 +20,10 @@
   ],
   "landed": [
     {
-      "title": "North Korea displays stealth-designed unmanned aircraft at its first UAV exhibition - Defensehere",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGxQTXBvMlNxMUVjU0VWeHdEMk9QR2NIMFRNekNzbVdGaU5rYzlISl9yQ0UxdzZuS2dDYTY5OTdpOXljZVlFVVJHT1FQb0s3Um84dmtUWkZyT19SeHozLUVCLS0zWHlYQkNXdDhDM3RKeWl2N3FGSm1GV3lzcERKeDU1N3JxTlEwbHNjUVVrMF9PbDc4WUl6a1U4WmhsbE5zZ1hlZWgyUW82VXFsSWotLQ?oc=5",
-      "published": "Fri, 30 Oct 2026 16:36:57 GMT",
-      "source": "Defensehere",
+      "title": "US approves $2.1 billion sale of Patriot air defence missiles to Ukraine after alleged holdup - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWDMwamZJb28xV1gzR0p2Vklvemg2dzF0VWVyMmIxQ243SlZkR3FHOEVISEl0ZWxFYlRrT2hkOEFldUIzZFFPcHRFbEdxNGRyVnptR1daeFpJbERrSjA3WnlobFVINDg0Vmg3Qkx2ZzNWb2o0RnBFalZ3WWd1VFRtaXc1RDVsVzIwdWxrWllyRTFxaXRRMVJrdlN3U2xPa0RUX3BlMFlBbDZNd0NWeV92cVJzOWRZbXZKOERtT2hXWTNXOTltdmwyYjZlMHBLQkliMVJ5RjV2WWpiZTRFeU9DbW5HRTV5VGdvQ1h1bVRNcUjSAfYBQVVfeXFMT094cU9MWGl3V1lWbXE0bjBwS2tyMTV1MzVRbEJEcU96SkNWa2xKcmFjQU1KMkdsYnBRczVwdWM3dkNya3FPU3NEeTU0b3VEd1hhd0JKU18zRnctV1BVYUFyemduZkl0ekNYLXczNTM3ZkViZW9YbDEtLUEzR0ZOdzhiZkRaRGlPcVdjSFpDeWJ6dXJzMFdIbHZfSDhVeVc3Mmd6aHhMYjRSZmM1QUhnX213LVBvQmo5VkZHUE51VE5jcVROQmVRaFEwSzVQQ1NsNWJxeWdjQms4UFpoWkE4M1dXYXVkOTZKWC11V3ZwWVJBcE42bUJR?oc=5",
+      "published": "Sat, 31 Oct 2026 01:12:18 GMT",
+      "source": "The Economic Times",
       "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 7.1
+      "freshness_hours": 4.3
     },
     {
       "title": "Sun Pharma Expands ILUMYA's Label with USFDA Approval for Psoriatic Arthritis - Medical Dialogues",
@@ -45,21 +45,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.5
-    },
-    {
-      "title": "Indian Railways Orders 4,955 BOXNHL Wagons from Titagarh in ₹1,717 Crore Deal - Metro Rail News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTVLbE5kdmY5VDlBQXJxZng2Z2txWjdFSmJRSm1UX3NmNkFNYmFOOFRDTlRuYWpBNUphbXIzMm9BNE54YWhyWnpLRFBLWWFwMmUtWFE0TEZ1aVNyTTlJQnJqZnk2UjlRWnJHc0s2dThWOGl2OEtNVmU1dlZSdzJyNg?oc=5",
-      "published": "Fri, 30 Oct 2026 10:34:07 GMT",
-      "source": "Metro Rail News",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 13.1
+      "freshness_hours": 13.3
     }
   ],
   "opportunities": [
@@ -408,5 +394,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-10-30T23:41:03.139262+00:00"
+  "landed_updated_utc": "2026-10-31T05:28:38.244883+00:00"
 }
