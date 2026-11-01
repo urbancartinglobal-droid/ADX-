@@ -34,19 +34,32 @@
   ],
   "landed": [
     {
-      "title": "Government allows duty-free import of 10 lakh MT Raw Sugar under TRQ till 31 October 2026 - A2Z Taxcorp LLP",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkh6dmloUEk5QlF3dnEwWUVTN1FFdk5hal9rb2pZcmc5T0wwejBsUzVUa0VPLWZBYjE0UmRpWmI1VnZJZUdETmpPdWRQdWh0QXFxV0pTbDZuanRmOFR0YlBNWUhjS0IwYl9EY0dYR0YwbmhfZVRmckxCWW9nV2ZsVWpIMVhsVUduVERyOW9rUG41bzRoU0c3Ukh2Slh6U0RTeFAzWERKZm1lR3BDYWRNVGdsRQ?oc=5",
-      "published": "Sat, 31 Oct 2026 13:38:02 GMT",
-      "source": "A2Z Taxcorp LLP",
-      "sector": "Sugar & Ethanol",
+      "title": "Railway Couplers Market Forecast to 2035: Freight Rail Expansion and Automatic Coupler Retrofits Drive Growth - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU3RmbXhFcVFYelBVa1hyeHA2N1ozUFhOeVpsSEtYdGpVNWZSd3hsbEFXQTBIU2ZRYWVlMW8xbHlQVUQ2b1BtZlRtbm5OLTBWdkYyMGZUUTdRekZCbVdfc2JraG9ONlRmZ0lWbC1WSmtwLVFUUE9jREg5WDQxVlFral9LSFpYTmwzQ1c1MWpmSVJYbXMxcGgycmxwRWF0NkpDWE5NM2tRTEFLX29XVWRacUNxUUNKYVdFNVVQd2dtYmdsQVpoVS03WDEyZDdscnItZ0kwSQ?oc=5",
+      "published": "Sun, 01 Nov 2026 19:06:04 GMT",
+      "source": "IndexBox",
+      "sector": "Rail & Infrastructure",
       "triggers": [
-        "POLICY",
-        "TRADE"
+        "MATERIAL CHANGE"
       ],
       "label": "MACRO",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Policy + trade can change domestic supply, import/export flows and realisations.",
-      "freshness_hours": 32.4
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 4.4
+    },
+    {
+      "title": "US holds off new tariffs on commercial aircraft imports - ET Infra",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelB0cFFiUVBOUkpwUnBTanI0MFc4RVRwLVJBN0FqcS1sZGpaOHZkcVVvS2llSjJZX2lrbHFtWmVMOUxUbTh3SW1LNzBmUHFLUXh1Nld2SlZwMHBjQkJZTDhMOHhvd2M2R3NQaVdQME5BQWFWLWdBdnVxZWIyeFd6R2lZNi0wMVI1SGZkN2Vpczh3ZmQybmRrUHdkTDBETklQM28zREpEN3lIcDcxaDNPRnZFY25jOV8za0pjQWtUOGk0dWpia1dDetIBwwFBVV95cUxPYXFfeTFFNnBIZG40bm4zTXZpc3Y1ZU9KNFBWUndMdXFfSkhJOGhENFZwdnFNMEFWQUxxTTd5NFRyNVM3U2FHUWtaUVZpdF82blN1eHc5YWJtdDZMQTBYOUxtSXN1OUpka1hzRC0zM0M1aXFjREJwVEVrZUZoTGxSeE9aa29lOUJYY1RvdWtTd1h2c1RtZHh0ZjJlOWJKOHJuc3M2TlNKMFJzdGxPR1h5NFFLZFMtZWZPMTRQV0pNek9YNkE?oc=5",
+      "published": "Sun, 01 Nov 2026 06:31:17 GMT",
+      "source": "ET Infra",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 17.0
     }
   ],
   "opportunities": [
@@ -402,5 +415,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-01T23:32:10.235950+00:00"
 }
