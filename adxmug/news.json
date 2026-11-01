@@ -1,9 +1,23 @@
 {
-  "updated_utc": "2026-11-01T13:26:44.396109+00:00",
+  "updated_utc": "2026-11-01T22:03:24.569493+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [
+    {
+      "title": "Government allows duty-free import of 10 lakh MT Raw Sugar under TRQ till 31 October 2026 - A2Z Taxcorp LLP",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkh6dmloUEk5QlF3dnEwWUVTN1FFdk5hal9rb2pZcmc5T0wwejBsUzVUa0VPLWZBYjE0UmRpWmI1VnZJZUdETmpPdWRQdWh0QXFxV0pTbDZuanRmOFR0YlBNWUhjS0IwYl9EY0dYR0YwbmhfZVRmckxCWW9nV2ZsVWpIMVhsVUduVERyOW9rUG41bzRoU0c3Ukh2Slh6U0RTeFAzWERKZm1lR3BDYWRNVGdsRQ?oc=5",
+      "published": "Sat, 31 Oct 2026 13:38:02 GMT",
+      "source": "A2Z Taxcorp LLP",
+      "feed": "Macro Discovery",
+      "description": "Government allows duty-free import of 10 lakh MT Raw Sugar under TRQ till 31 October 2026 A2Z Taxcorp LLP",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "POLICY",
+        "TRADE"
+      ],
+      "signal_score": 20.0
+    },
     {
       "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
@@ -15,37 +29,48 @@
       "triggers": [
         "PRICING"
       ],
-      "signal_score": 6.8
+      "signal_score": 6.3
     }
   ],
   "landed": [
     {
-      "title": "US holds off new tariffs on commercial aircraft imports - ET Infra",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelB0cFFiUVBOUkpwUnBTanI0MFc4RVRwLVJBN0FqcS1sZGpaOHZkcVVvS2llSjJZX2lrbHFtWmVMOUxUbTh3SW1LNzBmUHFLUXh1Nld2SlZwMHBjQkJZTDhMOHhvd2M2R3NQaVdQME5BQWFWLWdBdnVxZWIyeFd6R2lZNi0wMVI1SGZkN2Vpczh3ZmQybmRrUHdkTDBETklQM28zREpEN3lIcDcxaDNPRnZFY25jOV8za0pjQWtUOGk0dWpia1dDetIBwwFBVV95cUxPYXFfeTFFNnBIZG40bm4zTXZpc3Y1ZU9KNFBWUndMdXFfSkhJOGhENFZwdnFNMEFWQUxxTTd5NFRyNVM3U2FHUWtaUVZpdF82blN1eHc5YWJtdDZMQTBYOUxtSXN1OUpka1hzRC0zM0M1aXFjREJwVEVrZUZoTGxSeE9aa29lOUJYY1RvdWtTd1h2c1RtZHh0ZjJlOWJKOHJuc3M2TlNKMFJzdGxPR1h5NFFLZFMtZWZPMTRQV0pNek9YNkE?oc=5",
-      "published": "Sun, 01 Nov 2026 06:31:17 GMT",
-      "source": "ET Infra",
-      "sector": "Defence & Aerospace",
+      "title": "Government allows duty-free import of 10 lakh MT Raw Sugar under TRQ till 31 October 2026 - A2Z Taxcorp LLP",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkh6dmloUEk5QlF3dnEwWUVTN1FFdk5hal9rb2pZcmc5T0wwejBsUzVUa0VPLWZBYjE0UmRpWmI1VnZJZUdETmpPdWRQdWh0QXFxV0pTbDZuanRmOFR0YlBNWUhjS0IwYl9EY0dYR0YwbmhfZVRmckxCWW9nV2ZsVWpIMVhsVUduVERyOW9rUG41bzRoU0c3Ukh2Slh6U0RTeFAzWERKZm1lR3BDYWRNVGdsRQ?oc=5",
+      "published": "Sat, 31 Oct 2026 13:38:02 GMT",
+      "source": "A2Z Taxcorp LLP",
+      "sector": "Sugar & Ethanol",
       "triggers": [
-        "MATERIAL CHANGE"
+        "POLICY",
+        "TRADE"
       ],
-      "label": "GLOBAL",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 13.1
+      "label": "MACRO",
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Policy + trade can change domestic supply, import/export flows and realisations.",
+      "freshness_hours": 32.4
     }
   ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 76,
-      "article_count": 6,
-      "trigger_count": 13,
+      "score": 68,
+      "article_count": 9,
+      "trigger_count": 19,
       "triggers": [
         "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
+        {
+          "title": "Government allows duty-free import of 10 lakh MT Raw Sugar under TRQ till 31 October 2026 - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkh6dmloUEk5QlF3dnEwWUVTN1FFdk5hal9rb2pZcmc5T0wwejBsUzVUa0VPLWZBYjE0UmRpWmI1VnZJZUdETmpPdWRQdWh0QXFxV0pTbDZuanRmOFR0YlBNWUhjS0IwYl9EY0dYR0YwbmhfZVRmckxCWW9nV2ZsVWpIMVhsVUduVERyOW9rUG41bzRoU0c3Ukh2Slh6U0RTeFAzWERKZm1lR3BDYWRNVGdsRQ?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
         {
           "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
           "source": "ChiniMandi",
@@ -69,69 +94,49 @@
           "companies": []
         },
         {
-          "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
-          "source": "CMB News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India opens sugar imports as prices climb: Where are global sugar prices headed? - Invezz",
-          "source": "Invezz",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVElaMDl3WEwtdWVSV1ctRkE0d1hvWnhCcm4tM3BSQV9uc3dYbGdWYTFRTWtMZmR5blhFVkZvaU1vWlVmRzlKSXhweTV6VFF1bk9GSHRVQ095eldTc2V1cFh0VUxDWjUyR0pWOEF0RG1IUzN5MG5YWVV3aTI5bC1tSl9Gd1c0Si1JRlF0Y2NBTmlTdGR1NXlBcDlLdTVlUjVnQ1dHYUZ6VWVvQm55RFk4ZWdERzhjS1p3?oc=5",
-          "triggers": [
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India may import 1 million tonnes of raw sugar duty-free as domestic prices surge - ChiniMandi",
-          "source": "ChiniMandi",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9LR3Jnc3pnMWZtMHhqWmdTSm9rNWdvT0pydU13UThRMVl6ajJWN2dDUjNSa19sQThmakZUdDNZWjkyamJSbjdPVGVyVERkTGxhbkVtUHRzSldxQlFYaGlqd0E5Y2o5cGpxOUduNTRIRExOenMzQVgzRmdYZ2lPVnNXVVRDMXU5MEhGRmxXMTdpaUtDdEgyVzJyYXdNYzlFQzRXakZOWEw0Q3JRb2c?oc=5",
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
           "triggers": [
             "POLICY",
-            "TRADE",
-            "PRICING"
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
           ],
           "companies": []
         }
       ],
       "confidence": "high",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 5 independent sources.",
-      "source_count": 5,
-      "story_clusters": 6,
+      "watch": "WATCH",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 9 distinct story clusters; 7 independent sources; 1 fresh evidence items; mixed positive/negative evidence.",
+      "source_count": 7,
+      "story_clusters": 9,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
       ],
-      "fresh_count": 0
+      "fresh_count": 1
     },
     {
       "industry": "Banking & Financials",
-      "score": 62,
-      "article_count": 5,
-      "trigger_count": 8,
+      "score": 56,
+      "article_count": 4,
+      "trigger_count": 6,
       "triggers": [
         "POLICY",
         "PRICING"
       ],
       "evidence": [
-        {
-          "title": "RBI sees liquidity surplus peaking in September before normal absorption - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS054LW1PeFZuSERSaVdIeHBMSjBhWHdyV2tFWkk4akEzLUcxdno3VlhFVW9ILUZheElNMXhQVnRNblFpTVVFQndlN0VuWW84emgwbV9iMlRzUkxfWkY5SUhaUm5IejBnRGxETFR6REIxV01FTkJvYlZSa2lydm1fanZHNUp1cDZXQm14Z1phb0I5b2JFTGgzejdmUzNBYVJNOXBOWHd4SFJlV0p3T00wa2NKbW1zajdUYlhOTlpXeW9YMjV2c1F0T2VUdGMwNkFOLW8tU0N30gHbAUFVX3lxTFBmZ3dfekcxWXNrbWU2emRqNzIydUlZYnF6YUFCUktPRHotdVBwMFVneU55alJCRXZQcFNPS3ZZbWY5T2NXUl9wZXIyTDVlY3VGb3Jsb0RSNV9ieFFVUWZ0MFIzeTAtQVN5d193VnJTWFpadHBrWmNIOVpQNVBuSnk3VVk2Vm9hYVpMNW1jUXpnc3U4OHhWUXh4dDA4dW10ZU9ZVUlONkU5eEo2YW9ZdjVkM1RBMXZ3cFZiYzRMREUtZXhwbmw3X1ZNVXJWUGpZQ3RPVWJNdTRwZElCYw?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
         {
           "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
           "source": "bfsi.economictimes.indiatimes.com",
@@ -173,12 +178,62 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING; 5 distinct story clusters; 3 independent sources.",
+      "reason": "Cross-signal POLICY, PRICING; 4 distinct story clusters; 3 independent sources.",
       "source_count": 3,
-      "story_clusters": 5,
+      "story_clusters": 4,
       "companies": [],
       "connections": [
         "Policy + pricing can change inventory economics, margins or the supply-demand balance."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Rail & Infrastructure",
+      "score": 49,
+      "article_count": 3,
+      "trigger_count": 4,
+      "triggers": [
+        "CAPEX",
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Cabinet approves Thane Integral Ring Metro Rail Project for Rs 12,200 cr - ET Infra",
+          "source": "ET Infra",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR1lWeDNvcHFieERzQnhxLWdQd0J6dHFpay1aWC12enpNN2RtRktTWHA1MlZmbnlJUzFNNWVGbmEwQkxjUDM5S3h3d1FMblpMX2oxZzdpQ3NWZmV3V2J1RzhHNElWQXQzc29TYlh2QVJQOXl2dFAwdFp0NU8tYjY0SmNBM2hmTUdfd1FmLU5DemRMYXJ1V1paQjhWWFRveFRlVTFuanRzdEJvWTU2WEV0VENJU0pVYno1YmsyS1Z2N2dmQnNZSnhxRXZwVmx6cUN5TElYVWZfaERQbG0tcl9vN0M4bTjSAegBQVVfeXFMUDB0U29BMldqbVdsMG9qQ0M4cFdXbE14WjVvZzRhd3Q4SS1YNnVXM3hxM1ZSSURpbUc2MXljckFkUTM2RmoxMUR3Y1VCXzlMa2xGZzBkZ0hKRlZGNndlc1hab21VWS1kam9LZERNYVlWNHdqSTBrdkM4WTl6ajJpMzNPd21FcjdBUld0VTdnMEpha2N3NGw2MThBTWJldThDYTR2UFlrRFV0Vm81dDNqR0NFUmxSVnp4ZU5BTUFmcUphQ1d5WWs4b0tEZVpVTzBQbkRfbVdWVmZQenVNN3JBY3BVVEZvbmhhMw?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
+          "source": "Swarajya",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Cabinet Approves Rs 130.41 Billion Railway And Highway Projects Across Five States - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNnJQbU5lbmt6ZE1vQ0ZsN0FocE5kS2dRbDBSS3hta1pOVXZHdUZwUF82b3BvTHhFOTJlWnZFaGE2eTdUNHUzdUVLbE10UnN6OVpUaXBjalk4WnhiVzRVTTVfSXhUU3haLXotd2RYS21aOXJDMTViX0w1aml4VHZ0Yzlma1JBRXVVZTJuSzcwOGJHSUNSTWR0X3NoSXV3eTlGTlVHRUhabHFfOEszYWpkY3E1ZVA4ZFo3c2tLT21PQzJobFdQc3dOekF0VDNTYXJWZzhsbVdOaGFJWkhJNjlCTmtsNVdFaTd5bmY2MWd5QWRuRy1feFpKUXV1R3pKYTFjbGF0b0VOQ1Ztd25h?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, POLICY; 3 distinct story clusters; 3 independent sources.",
+      "source_count": 3,
+      "story_clusters": 3,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
       ],
       "fresh_count": 0
     },
@@ -256,7 +311,7 @@
       "fresh_count": 0
     },
     {
-      "industry": "Rail & Infrastructure",
+      "industry": "Pharma & Healthcare",
       "score": 18,
       "article_count": 1,
       "trigger_count": 1,
@@ -265,9 +320,9 @@
       ],
       "evidence": [
         {
-          "title": "Cabinet Approves Rs 130.41 Billion Railway And Highway Projects Across Five States - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNnJQbU5lbmt6ZE1vQ0ZsN0FocE5kS2dRbDBSS3hta1pOVXZHdUZwUF82b3BvTHhFOTJlWnZFaGE2eTdUNHUzdUVLbE10UnN6OVpUaXBjalk4WnhiVzRVTTVfSXhUU3haLXotd2RYS21aOXJDMTViX0w1aml4VHZ0Yzlma1JBRXVVZTJuSzcwOGJHSUNSTWR0X3NoSXV3eTlGTlVHRUhabHFfOEszYWpkY3E1ZVA4ZFo3c2tLT21PQzJobFdQc3dOekF0VDNTYXJWZzhsbVdOaGFJWkhJNjlCTmtsNVdFaTd5bmY2MWd5QWRuRy1feFpKUXV1R3pKYTFjbGF0b0VOQ1Ztd25h?oc=5",
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
           ],
@@ -346,23 +401,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Pharma & Healthcare",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-01T19:36:04.378506+00:00"
+  ]
 }
