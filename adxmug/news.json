@@ -18,7 +18,36 @@
       "signal_score": 6.8
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "UN-Approved Shipping Containers Market Forecast to Expand by 2035, Driven by Chemical Logistics Demand - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmZrb0NoTk1hS3dTRlNSNGhHNXBiRXFxODNGZ18tSF9vbHhVUERaU2s3YWtLWVdNNUlHeTg1ekRadHBYd0UwMHo5UnBxaTFrWmpZOC1qSk5KeFhwWGdMWnRLRm5HTlZYZ0VxWkh6ZzNSZFdEanlraDU4d2VGREJBWU01X3RLNGhKY05zdVlQWWNQRTQxOHFfRC1lODBHamJBam9tb2loQVZaME4zMENEcldEOUtidVZhVVZPV0NaVGVMNG5KckNTa0ZVQQ?oc=5",
+      "published": "Sat, 31 Oct 2026 22:11:03 GMT",
+      "source": "IndexBox",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 16.8
+    },
+    {
+      "title": "Cabinet exemption for small defence deals: Govt considers move to cut approval time for major defence deals - Bhaskar English",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejhOWHVDMEZ3V1M0M3ZjZV90LTFhek9qQ3c4OE9DeUg5bml1UVg0b1RMM3B1OHNMTVJyWF9yS1M2QURwNXFJS1l0WHNqbnphRVBqUHNxMXVGb3VKSXJSWXBQNWlHTHhOSW9MWlFZa2xuMHRWX0RFU0pEeG85cmVVYjg0eDU4VFhxZDFobEVWVTF4cmVxOTU4ZTN3aEJGdDBVclpMR3gwY0hyUDllWkdWNzdQQ1FBZExkelHSAb8BQVVfeXFMTkp6cGxFemZubHpWcVRfQlpuTHNlaXJGUE4wQlU5WFRfd29TT1c4TzNEaDI3TEdYeU5Rbm1CcU5DeE1sRFh0Mlc4UUFTZ0x5ajZtcUhNRXVMRl95UkRKQ2UwTWNHSzNOcTYwMW81T1JGbEs2eGtCMVBJTWZrVG1keWhEMFMwYm5DYkttZmVkVVAwYUdZc2RrT2MxZmRZb3dicnZKM19JdWZKYW5QWTl1RHJfaWxXNWh4eXBSb0p3Rk0?oc=5",
+      "published": "Sat, 31 Oct 2026 18:56:06 GMT",
+      "source": "Bhaskar English",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 20.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -348,5 +377,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-01T15:00:55.210318+00:00"
 }
