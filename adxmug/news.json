@@ -19,7 +19,50 @@
       "signal_score": 15.8
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Pakistan’s Reported SLC-14 Radar Sighting Raises Stakes for India’s Missile Strategy - Defence Security Asia",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVZLdzFBVHU1aHd2blkzcXVBSkxjVmE1czhxemdTTjI5dl9VSEJyQ2lHaEsyV3BWQ0dtYk1ob3Z6WFlrQTBYOGdCcGNmUmF0S213ZFJjRW1rSDl5WnRQSlIteF9sRWFiSUZLSldmV1l4dEpUOFFhbHQyWk5NWG5sODZDRERVZ05seFU2UndZSQ?oc=5",
+      "published": "Mon, 02 Nov 2026 06:17:03 GMT",
+      "source": "Defence Security Asia",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 17.2
+    },
+    {
+      "title": "US FDA Approves Sun Pharmaceutical ILUMYA for Adults with Active Psoriatic Arthritis - Machine Maker",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZnEzZjdZZTRXY01KTUdiOEY2anVNbXRac0xEc1A5WGwtQ3RBdmxYYW9lVTh2TzV1dHFJYzRJME5WQTQtMFlZWXFPeTFqaGpFb2xYMjNnTEpnN1cxcWFKbjI5ME1iLTcyc2pTSmxQQm9fZWNZb1R0clVZQnRPaVIyM3o2aHBsX0FEZnBrUDRtYnlVU2lJMXR4b1Y3VzJFc1ViUkRCQWpfXzEycjJyZjVDUEZEYkFraDBYdlE?oc=5",
+      "published": "Mon, 02 Nov 2026 00:57:34 GMT",
+      "source": "Machine Maker",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 22.5
+    },
+    {
+      "title": "Jupiter Wagons Ltd Secures ₹324 Cr ACT2 Wagon Orders from GATX India and Chetak International - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWa1A4bUZnLUhHaURXWlEwak92THF1Z0NnbWh3a2JSdXJ3bjhsY2FWUXBSYkV4Q1pBMjh1V2FubENFcE42RHRRdFJyZzhmNHR0T3EtQjkwZTJhaWtxYl8yX3JIdlA5YmZ3YVhxYXFmU3I3MGRHVmh5dEtXeHNfdw?oc=5",
+      "published": "Mon, 02 Nov 2026 12:11:56 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 11.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -338,5 +381,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-02T23:27:27.913739+00:00"
 }
