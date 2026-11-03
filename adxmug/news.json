@@ -47,18 +47,46 @@
   ],
   "landed": [
     {
-      "title": "Step-Up Transformers Market Forecast to 2035: Renewable Integration and Grid Upgrades Drive Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQldDbktYMkZWWFl4WjFENnNHZ3NIYk5oYUdNTUxEY1B6YUpobVhxc3lvUjN2aG9ldXNZX0hNTXF1QV9mSlNTWTBFOGVQcFJidkxWcF9QWTNxUTZIU2lhLTNpdHlIRDk4bF9Na0ltc0pIMkV5dmRRc0EzY0NOeFFwODIwdHExaHZ3b3h2X1lkYUVUSG1LV1JRb291VDlvSUVIY1NBblJkMkJwX3dhX3RhaURLTHJfa1RYUHN6a2ZyMG9XSmxfWXJ5UUln?oc=5",
-      "published": "Mon, 02 Nov 2026 04:16:04 GMT",
-      "source": "IndexBox",
-      "sector": "Power & Grid",
+      "title": "From trade and tariffs to defence and H-1B visas: Why India has a stake in US midterm elections - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZU9tRFJvN1lVbm9GTDdaaW5EcGs4UnI0M2dXVHFEbV9NV19saFFLNlc0dWtRb2ZIUW9IWkdsY1JhNlZDeXJxX2luc0JSVmI2blAyRGV6Y00tSkZ5WW1ieE1CcnVEd3ZzTEtTZXlEVW5JaFBCSk51V09WWUpiR1JxSi14OXIzVF9WSER0ZUsyNktCR2RzcGg1ZzNPZEdfd1F3TUpvdzZEN25RQ01taW5fLThFaWhPSWJaNkNnTlIteTZWZWpuY1d6QlFOaVFNQnZfUWJsdXExeE9kR1hReG05SDVxUTRCQdIB6wFBVV95cUxONlR6ZWc4MVctVzVrZlFqQmxxUmh1R0RnRW1mU0xYWHp2QjRQbXFsN0xQRzg0WW9OSlJJWXU1UjBNWUFzcjhnekJsMjhsRzdaSVBxc3kweUpjQ2pJZExvWDctVGtPb1JfcFd5YWV4X3NMbE45Z29YMFBSSTR1WGVBMDQ1M3RDR3ZiVVhTZTN0Y2cwOGdFYlZsSjBEUmd0Zl95R0c0cnhqZm0yQWs0a3pyUGpBN2wtdGtzbDRkbXRxSlE5aTh0Vk1QRU9FUzZaSTdBYXoyODQtTUxaYVhLMkVMbGYtOUV2OXFVdVBn?oc=5",
+      "published": "Tue, 03 Nov 2026 04:37:46 GMT",
+      "source": "Moneycontrol.com",
+      "sector": "Defence & Aerospace",
       "triggers": [
-        "CAPEX"
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 2.0
+    },
+    {
+      "title": "RBI’s $239 billion bet raises the cost of rupee stability | Policy Circle - Policy Circle",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01LWY5cDFWdEdoRE1vblZsTEJkbU05eEFsQy1rTVNpM3cxZS12SUgtR2F4dFRudmktc1JxZ3lzV1JORU1UdDBGd1c0QUVUbnFyOWdBaDZFX1htNVdSRnlMZWtXS29IQ2VPdXI0ckxGNjdOdFli0gF0QVVfeXFMTTUtZjlwMVZ0R2hETW9uVmxMQmRtTTl4QWxDLWtNU2kzdzFlLXZJSC1HYXh0VG52aS1zUnFneXNXUk5FTVR0MEZ3VzRBRVRucXI5Z0FoNkVfWG01V1JGeUxla1dLb0hDZU91cjRyTEY2N050WWI?oc=5",
+      "published": "Tue, 03 Nov 2026 01:35:32 GMT",
+      "source": "Policy Circle",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.1
+    },
+    {
+      "title": "Tata Motors records 27 per cent growth in commercial vehicle sales - Manufacturing Today India",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SQjRjM1FTWjlLaUNqbkVYb1d5dW91WWkzUlQyaE55MDZlOTlYQ3NHTEp5Vm13bnhDM01BRy1MNGNQVjIxa001N1U2SFk1UVFVWndPNHF5QWtrSURjX01wb1Fjbk1BWDliQUhEVUtxZWZleVBiNmx3Tg?oc=5",
+      "published": "Mon, 02 Nov 2026 09:33:41 GMT",
+      "source": "Manufacturing Today India",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 20.7
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 21.1
     }
   ],
   "opportunities": [
@@ -383,5 +411,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-03T06:39:10.163141+00:00"
 }
