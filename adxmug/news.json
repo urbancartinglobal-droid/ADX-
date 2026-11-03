@@ -34,6 +34,20 @@
   ],
   "landed": [
     {
+      "title": "India maintains agricultural import restrictions amid US announcement of 25% tariff - Dairynews.today",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWFlkXzlOTEYyeFBjb1l2aWZhdGtfRUNXckNyeUZPLWhiVTJqZmM1bG95WFVMUXFuTXk3NjV2OFhPSGZjN1RFQWs5b0cwT3p6Qk9oODFZQ0lnaG5Ya0VKSXJxMV9sUEtVMEZMWWV6akFaTmZEZHk4YjlhX2dZelJ2NUFOQm9hdVNOMFhwT25tTWMtTllzd0l4TzZOV3hkSFFlQy1henNCR2Q5N3JlOFZwZEhjWFdVRFU5VGRNS3JGT1VZdWRreV95R3NpUQ?oc=5",
+      "published": "Tue, 03 Nov 2026 17:35:32 GMT",
+      "source": "Dairynews.today",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 3.4
+    },
+    {
       "title": "India orders next-gen corvettes for $5.7b under broad naval modernization push - Defense News",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjZraEJrakF4NHdoZmt2V2Z4akJ6eERiZTFPX3lwcnA1YnNpN0w3aXI1V1R2R0FhelVBTXFYZ0htd2pXVU1tS1l0TGJncTJ4NDM1aFJESFBOZEVNM0dPbmV6bWJOdHpzVTcyU2FSbHdjVG8zb245cEVTMFJxOFZQQ1dMbWI0VWkycUc4bXVDUVZmVkpJVU5qRS11bkZMbGVZUzN4UDNQcU1JSUVSNVhzRkVPQU1nRjZTRVBMT28wSGtsRGhnTW1IbTRrTEU3cDdNOFRj?oc=5",
       "published": "Tue, 03 Nov 2026 12:56:27 GMT",
@@ -45,12 +59,12 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.1
+      "freshness_hours": 8.0
     },
     {
       "title": "Banks Begin Raising FD Rates as Liquidity Tightens; Bank of India Offers Up to 6.85% - Thekanal",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDFBNFNkaGIwVzlaSFk5UEx6ZlJJdHM4SjFOVkNUdDVEeHN0eDdIRjhvYkRxbUJoZF9TcVBzdG9RRFFPMEtMd0hKMFRJdHJMRjlham9lLUNJTEJzUzBFRmdYN2pVU2Vab1VmWGpZYlk1OWViWjlRUHoxM0JrWUFLQ1hhamJST3pUNDdrVnJZRkNvZ0xRNjdPMGhIdkxXMDk3OUFSemtQVHlWNDNfSTF0RXgtWXBLLW8tUloxc0F3?oc=5",
-      "published": "Tue, 03 Nov 2026 11:19:05 GMT",
+      "published": "Tue, 03 Nov 2026 11:22:06 GMT",
       "source": "Thekanal",
       "sector": "Banking & Financials",
       "triggers": [
@@ -59,7 +73,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.7
+      "freshness_hours": 9.6
     }
   ],
   "opportunities": [
@@ -411,5 +425,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-03T15:01:50.605704+00:00"
+  "landed_updated_utc": "2026-11-03T20:56:36.982922+00:00"
 }
