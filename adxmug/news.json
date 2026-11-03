@@ -34,18 +34,32 @@
   ],
   "landed": [
     {
-      "title": "Step-Up Transformers Market Forecast to 2035: Renewable Integration and Grid Upgrades Drive Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQldDbktYMkZWWFl4WjFENnNHZ3NIYk5oYUdNTUxEY1B6YUpobVhxc3lvUjN2aG9ldXNZX0hNTXF1QV9mSlNTWTBFOGVQcFJidkxWcF9QWTNxUTZIU2lhLTNpdHlIRDk4bF9Na0ltc0pIMkV5dmRRc0EzY0NOeFFwODIwdHExaHZ3b3h2X1lkYUVUSG1LV1JRb291VDlvSUVIY1NBblJkMkJwX3dhX3RhaURLTHJfa1RYUHN6a2ZyMG9XSmxfWXJ5UUln?oc=5",
-      "published": "Mon, 02 Nov 2026 04:16:04 GMT",
-      "source": "IndexBox",
-      "sector": "Power & Grid",
+      "title": "India orders next-gen corvettes for $5.7b under broad naval modernization push - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjZraEJrakF4NHdoZmt2V2Z4akJ6eERiZTFPX3lwcnA1YnNpN0w3aXI1V1R2R0FhelVBTXFYZ0htd2pXVU1tS1l0TGJncTJ4NDM1aFJESFBOZEVNM0dPbmV6bWJOdHpzVTcyU2FSbHdjVG8zb245cEVTMFJxOFZQQ1dMbWI0VWkycUc4bXVDUVZmVkpJVU5qRS11bkZMbGVZUzN4UDNQcU1JSUVSNVhzRkVPQU1nRjZTRVBMT28wSGtsRGhnTW1IbTRrTEU3cDdNOFRj?oc=5",
+      "published": "Tue, 03 Nov 2026 12:56:27 GMT",
+      "source": "Defense News",
+      "sector": "Defence & Aerospace",
       "triggers": [
-        "CAPEX"
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 34.0
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 2.1
+    },
+    {
+      "title": "Banks Begin Raising FD Rates as Liquidity Tightens; Bank of India Offers Up to 6.85% - Thekanal",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDFBNFNkaGIwVzlaSFk5UEx6ZlJJdHM4SjFOVkNUdDVEeHN0eDdIRjhvYkRxbUJoZF9TcVBzdG9RRFFPMEtMd0hKMFRJdHJMRjlham9lLUNJTEJzUzBFRmdYN2pVU2Vab1VmWGpZYlk1OWViWjlRUHoxM0JrWUFLQ1hhamJST3pUNDdrVnJZRkNvZ0xRNjdPMGhIdkxXMDk3OUFSemtQVHlWNDNfSTF0RXgtWXBLLW8tUloxc0F3?oc=5",
+      "published": "Tue, 03 Nov 2026 11:19:05 GMT",
+      "source": "Thekanal",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 3.7
     }
   ],
   "opportunities": [
@@ -396,5 +410,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-03T15:01:50.605704+00:00"
 }
