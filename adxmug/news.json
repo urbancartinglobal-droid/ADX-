@@ -1,168 +1,11 @@
 {
-  "updated_utc": "2026-11-04T06:25:21.240769+00:00",
+  "updated_utc": "2026-11-04T19:46:19.008806+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [
-    {
-      "title": "Step-Up Transformers Market Forecast to 2035: Renewable Integration and Grid Upgrades Drive Expansion - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQldDbktYMkZWWFl4WjFENnNHZ3NIYk5oYUdNTUxEY1B6YUpobVhxc3lvUjN2aG9ldXNZX0hNTXF1QV9mSlNTWTBFOGVQcFJidkxWcF9QWTNxUTZIU2lhLTNpdHlIRDk4bF9Na0ltc0pIMkV5dmRRc0EzY0NOeFFwODIwdHExaHZ3b3h2X1lkYUVUSG1LV1JRb291VDlvSUVIY1NBblJkMkJwX3dhX3RhaURLTHJfa1RYUHN6a2ZyMG9XSmxfWXJ5UUln?oc=5",
-      "published": "Mon, 02 Nov 2026 04:16:04 GMT",
-      "source": "IndexBox",
-      "feed": "Power & Grid",
-      "description": "Step-Up Transformers Market Forecast to 2035: Renewable Integration and Grid Upgrades Drive Expansion IndexBox",
-      "sector": "Power & Grid",
-      "triggers": [
-        "CAPEX"
-      ],
-      "signal_score": 17.4
-    }
-  ],
-  "landed": [
-    {
-      "title": "After curbs on sugarcane, government restricts use of rice for ethanol | India News - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnprZzRjVDFlb1AxNVJoRUdlNjIyazkwZlFxVXhTdUF3WG1EUmZFQTBFSjVkOVBOeERqRXhQRzREWGhwaXJIci1taGVuVjRNWWhjX0ZLMW13TzR2TDU1aVNEazNnb0YyN0ZSLXpZZklQbnp4Um5wY3c2STlubm5nWDk0MHZRSFdnd1Z0elNtVnRqSFRqanM4R2pReHkzdDdVX0Z3OW54a2g0amlpWnpiQjI2c3hQVG0wcWhYZzBVLTY1U1BaVmlZYXFfVUrSAdIBQVVfeXFMTXFaUzh1TWdwY0k0WS12dnlNT0V4QlVBbi1jb2VTcFpnV3VwRnJlNXl1NWNZZUZuZTVNaUpKcE1OMHgxTGdHQmV3a2x6dmJtNWxONVdSXy1NNFZnaGkxSVR0YS12ZFJGdExUU3Z3ejB4R1lEVzRoWVByQWMzT3hNZDdOVThkU2ROZ1Y4aUxnRVp4SzU5SGY5MkRJM1JaLXU2UHM3TWR0OUZ4R3lQcUpFUWpPU2xQdHlxdFl6V0xfc2pFcGpvdktZZGxSV3RYb3VKUk1n?oc=5",
-      "published": "Wed, 04 Nov 2026 00:44:34 GMT",
-      "source": "Hindustan Times",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 16.4
-    },
-    {
-      "title": "Diffusion Sources Market To 2035: Growth Driven by Sub-10nm Node Ramp and Wide-Bandgap Semiconductor Expansion - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeTFKaEotekRMcENuNERYTzdXQ0J1aW5GZE9IVHNsbGNLRGJaT2Uyc0k0T1lnVW56VE80ZVRnZHloS1gzb1VnUEg4eE9wOTdyZ2JuV1FhbHBnRGg3OUhPVzlFNW1HX3dvYzhRMjFDMnR6UVdudVdWZ2hkbkRHeExxUEZCOWRubnRaeFFkbWxsbldjeVplRG4xM3dwelVIM2ZnVGtFVFpYWnNsRzc4Zks3NXdQOXNUTy1tdGVBZ1pma0tvMDdUVFVlOVZveVdCV2trVk1uR2NGdmhvamJQUGE0bVRwT0VCd3RQ?oc=5",
-      "published": "Wed, 04 Nov 2026 11:41:04 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 5.5
-    },
-    {
-      "title": "Compliance backlogs delay drug batch releases at pharma plants: Study - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY3RFcThXVFNadnJKamxUbVpVcVVlRGctRjNDSkc0UEY5Yl9GVklmMTVyWk1wV3RGbk5oM1VmNGhtWEd5WHo0ZHpZakF3eldOeXpXUGZsYmx4MGk2bTFsNW9yRVdVeDhFcGpoY283UlRkQ01jSDduYlM0TUlNUzBUdzRUakN6aHVzVEZLV3g4eUF3cWVEby1QanRnR0YxQnFScTJzdzN1LU1pb3ZQOVg2WnlhWjljQTY4c2tUM1JZMW94dE5DaDItN21TNW9RN25jYkHSAdcBQVVfeXFMTlBieTVtcnlIT2t6QnM1eHpqNWI2REdTQ2lBbDZDQkNjMVBOVVpkM3M4MUxtQjhJYmNiQm1xbFVUbnVCQzA1U0hoX2tERXJGRWFJb09tYnROTHVYM1BjNWM1QUtiTUNESHRRS3hqdlFDX1poN1hDM2R6QUViTmZRaWZRLUFyYlRVYUpFdXQxRDFxSTBIRzFPZHdySXotaW51U0s5eTNoa2hjNXBIeU9BVnFQREN2Nko3bExvQmtYemRZc3ZoeWQ0RFU2dW9fbG9tcXU3N3N5Q1U?oc=5",
-      "published": "Wed, 04 Nov 2026 00:35:00 GMT",
-      "source": "Business Standard",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 16.6
-    }
-  ],
+  "articles": [],
+  "landed": [],
   "opportunities": [
-    {
-      "industry": "Banking & Financials",
-      "score": 56,
-      "article_count": 4,
-      "trigger_count": 6,
-      "triggers": [
-        "POLICY",
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "Banks with faster loan growth face funding pressure as RBI tightens liquidity - bfsi.economictimes.indiatimes.com",
-          "source": "bfsi.economictimes.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEg4ZklOUEswSWU5MVkyX3ZnSGdHb3h3VEF5WC1pZi1BWWR4Wl9Xa1JJN294QkRxcVRnOHBTZEQtQkpyZHprWnhVaHVTc2ZLc2xpQm5wM2lsSkh1NTZzOTQ1bUN6eVNDaGNPNDNYR09ULThUVXNqZTFMYVpPbFYzM3hMZHdmNjA1Y0RlV1RYNmU0OGs4TDB0YWFwSUgzZE4yR3ZfRGtqRDhvWXFJbC1EejVXQzBuSUtkMllENGh4anVJQVNmRjVzRjFUSjY2MUo5UkZUS9IB2gFBVV95cUxNRFE1OXN3RnhKSGdNQ2dPVFNEQ201Ui1GRzg1aExxTldxeUZLNnJVS1Z0YlBoZnJLcEh5eGU4bHpYV2hWUU5BUXpJNUxSV0ZsZE96YVo5TUpNZzV0R0gxT01wcXMwREpxMDlsbnNfbTJtenJobWt2bGxCb0dVYkZ3Zy1PeEdXdzBzM1c3TDl5eGJIVy1xWkRybXBxRHdVV1J0eDlUYzhpMVNCMmhtZ2k2LXhvRWQtWTQ2U1NjWmw0QnlILS1GNGZjMGpFYW1aN0J6OEd5S01NaXJmUQ?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        },
-        {
-          "title": "RBI Tightens Bank Liquidity Requirements - Bankersadda",
-          "source": "Bankersadda",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaV0RjTE5qNmpKUUk3dkVvTUdVWmEwTzk4dFdwbTRseEd4NTBXY2dlQ3JqNHJ5ajJnRkttRko5dUdFUG43LTB3ZGs1aVR3Y3RucmdJbHRBeFZ6MFBfd0FoWHdfcUprMFo2YkE5WkcwRnZDNXl1QzR4YQ?oc=5",
-          "triggers": [
-            "POLICY"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Banking liquidity surplus stays over ₹5 trillion for fifth straight day - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamI2azJaaDAxZGc4UVJzWXRsZlV2VlVNQzAwN3MwOG0tVm13ZS1OUkpUdkhDLXZPSlJOQjE0SzhxeGlDSXl3QXpuNzRpV0FaRlJQYTFZVjFmSmNGNF9jTjdtVk9OaGNzeHBodlJKdkJKbnB0aVNvaDJjZkFfd0FJTkpBZUlsU1BrMFduM3l0OGx0SkU3WmRKa3I0dDFxcDUzRGRjck1WaVFobGljc2JIR1doUGItVmdGSWRTSmNwZUxnWmh2N0pfQzVYTUJaVmVlNHfSAdcBQVVfeXFMTjl5RjYyQ2t6RWY3eDBlRl81cVFZR2Nsc3ZmdmYzWWk2R2ltaHZ5QW1LUThsMUVnQmlPSWM0S3Bzc3NablNCTmpxb0lCRXE4X3MzRE9jOGZKeHdLeDA5aUFOVDVzLXJiM1BFRTBSZndENWJnRkNXTVdwWV9TTDFsb3NROUVaaldtTEdZRy1xTnZ3Vkg5cFZzN0EwVjdvSEVnQ1VuY2dpTFhPZ25rOHc0VG5jT0hSc09hMjFVR0txck55MU1qSHFKTzdqZ2wzbk4ySGVCR2Rld0k?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        },
-        {
-          "title": "India's liquidity surplus hides deeper funding stress in banking system - Business Standard",
-          "source": "Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGRVeXdLM0ZpNVBucWRJLXJKbldsZkxKV2xnQUI3NzNCMVIyQjU1cWZicnl0YTUzT0ZCUGpxeXVVWEJBZ3NBQUEzT2lTckNPbHctc3lzSVF3dkhQMXd5NW5UQWJrZTN6Q0NDRzNlRFlSYnVHUmRPYXFaZzJsYU9hZkpTcEpCZHd1Skk0NkcyR2tUdm15Q1NDbHZfcVhIZjJYcW9qSVZqZUdVeFk1VWlOcHRvWE1sMEgzSGZnaVVmc3FET19YczN3dE9NNjBOTnc5QmZhN0RkdTNhQdIB3wFBVV95cUxQandXSVlWelFaT0I0em1VbTlFamNZVXBuYlpxVzlIeFRiNkJPQmRIMjNwU0p5T0ZDeXVCWDl0ZHB6OG8zSUZrM2dvcGpYakFmMnd1Q2llaUgxdXA4bmtaUGo2UzBmZ0UwWGhqTUtXY25ha0R0X3kxVG0wV0hOV3RhYkk1Ync1V0hvZ3pWM1BhdUFucExnc1FaTVo2SndOZ0ZPTk5JX3puMExCOXM4Z1hPVnFCaUR1ZjlaQXNUVjZHQ0p4Vlk0WFFOYVduOGkwY0xTSVFWVWkxb1QzVV9tdVdn?oc=5",
-          "triggers": [
-            "POLICY",
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING; 4 distinct story clusters; 3 independent sources.",
-      "source_count": 3,
-      "story_clusters": 4,
-      "companies": [],
-      "connections": [
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Power & Grid",
-      "score": 38,
-      "article_count": 2,
-      "trigger_count": 2,
-      "triggers": [
-        "CAPEX",
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "Step-Up Transformers Market Forecast to 2035: Renewable Integration and Grid Upgrades Drive Expansion - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQldDbktYMkZWWFl4WjFENnNHZ3NIYk5oYUdNTUxEY1B6YUpobVhxc3lvUjN2aG9ldXNZX0hNTXF1QV9mSlNTWTBFOGVQcFJidkxWcF9QWTNxUTZIU2lhLTNpdHlIRDk4bF9Na0ltc0pIMkV5dmRRc0EzY0NOeFFwODIwdHExaHZ3b3h2X1lkYUVUSG1LV1JRb291VDlvSUVIY1NBblJkMkJwX3dhX3RhaURLTHJfa1RYUHN6a2ZyMG9XSmxfWXJ5UUln?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        },
-        {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
-          "source": "POWER Magazine",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, PRICING; 2 distinct story clusters; 2 independent sources; 1 fresh evidence items.",
-      "source_count": 2,
-      "story_clusters": 2,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 1
-    },
     {
       "industry": "Sugar & Ethanol",
       "score": 32,
@@ -200,27 +43,27 @@
       "fresh_count": 0
     },
     {
-      "industry": "Electronics & Semiconductors",
+      "industry": "Power & Grid",
       "score": 18,
       "article_count": 1,
       "trigger_count": 1,
       "triggers": [
-        "CAPEX"
+        "PRICING"
       ],
       "evidence": [
         {
-          "title": "Cabinet Approves Over INR 3,900 Crore Semiconductor Units, Boosts Mini/Micro LED Manufacturing - Energetica India Magazine",
-          "source": "Energetica India Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2hQU0VvanJUWGVUbXJiSy1YWFh2dWFJc0gtdGxKaWJVTUFDalViVm5qUkhMeWo2UmNRbWw3bldTTnJNQlBBN2VpV3lEazBTaWg0amtYQ3pGb2pfbks5TXF4T3pmSFpmQXlsV2VBczlmR0hlbnVpOUF4aVNhcjlnUktMc2RhbjFxUlFjOHV2Y1lrbzg0YWdBcXdSOWJvOXNXenNTNUxkSVNLcGNIRjVQTzhCc1MzWFJBb2NUTmFzWDBuUHl5VFlucA?oc=5",
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
+          "source": "POWER Magazine",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
           "triggers": [
-            "CAPEX"
+            "PRICING"
           ],
           "companies": []
         }
       ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
@@ -336,6 +179,38 @@
       "fresh_count": 0
     },
     {
+      "industry": "Electronics & Semiconductors",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Banking & Financials",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
+    },
+    {
       "industry": "Pharma & Healthcare",
       "score": 0,
       "article_count": 0,
@@ -351,6 +226,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-04T17:10:09.859686+00:00"
+  ]
 }
