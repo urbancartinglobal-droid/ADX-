@@ -18,7 +18,50 @@
       "signal_score": 22.0
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "After curbs on sugarcane, government restricts use of rice for ethanol | India News - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnprZzRjVDFlb1AxNVJoRUdlNjIyazkwZlFxVXhTdUF3WG1EUmZFQTBFSjVkOVBOeERqRXhQRzREWGhwaXJIci1taGVuVjRNWWhjX0ZLMW13TzR2TDU1aVNEazNnb0YyN0ZSLXpZZklQbnp4Um5wY3c2STlubm5nWDk0MHZRSFdnd1Z0elNtVnRqSFRqanM4R2pReHkzdDdVX0Z3OW54a2g0amlpWnpiQjI2c3hQVG0wcWhYZzBVLTY1U1BaVmlZYXFfVUrSAdIBQVVfeXFMTXFaUzh1TWdwY0k0WS12dnlNT0V4QlVBbi1jb2VTcFpnV3VwRnJlNXl1NWNZZUZuZTVNaUpKcE1OMHgxTGdHQmV3a2x6dmJtNWxONVdSXy1NNFZnaGkxSVR0YS12ZFJGdExUU3Z3ejB4R1lEVzRoWVByQWMzT3hNZDdOVThkU2ROZ1Y4aUxnRVp4SzU5SGY5MkRJM1JaLXU2UHM3TWR0OUZ4R3lQcUpFUWpPU2xQdHlxdFl6V0xfc2pFcGpvdktZZGxSV3RYb3VKUk1n?oc=5",
+      "published": "Wed, 04 Nov 2026 00:44:34 GMT",
+      "source": "Hindustan Times",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 0.5
+    },
+    {
+      "title": "Compliance backlogs delay drug batch releases at pharma plants: Study - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY3RFcThXVFNadnJKamxUbVpVcVVlRGctRjNDSkc0UEY5Yl9GVklmMTVyWk1wV3RGbk5oM1VmNGhtWEd5WHo0ZHpZakF3eldOeXpXUGZsYmx4MGk2bTFsNW9yRVdVeDhFcGpoY283UlRkQ01jSDduYlM0TUlNUzBUdzRUakN6aHVzVEZLV3g4eUF3cWVEby1QanRnR0YxQnFScTJzdzN1LU1pb3ZQOVg2WnlhWjljQTY4c2tUM1JZMW94dE5DaDItN21TNW9RN25jYkHSAdcBQVVfeXFMTlBieTVtcnlIT2t6QnM1eHpqNWI2REdTQ2lBbDZDQkNjMVBOVVpkM3M4MUxtQjhJYmNiQm1xbFVUbnVCQzA1U0hoX2tERXJGRWFJb09tYnROTHVYM1BjNWM1QUtiTUNESHRRS3hqdlFDX1poN1hDM2R6QUViTmZRaWZRLUFyYlRVYUpFdXQxRDFxSTBIRzFPZHdySXotaW51U0s5eTNoa2hjNXBIeU9BVnFQREN2Nko3bExvQmtYemRZc3ZoeWQ0RFU2dW9fbG9tcXU3N3N5Q1U?oc=5",
+      "published": "Wed, 04 Nov 2026 00:35:00 GMT",
+      "source": "Business Standard",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 0.7
+    },
+    {
+      "title": "India orders next-gen corvettes for $5.7b under broad naval modernization push - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjZraEJrakF4NHdoZmt2V2Z4akJ6eERiZTFPX3lwcnA1YnNpN0w3aXI1V1R2R0FhelVBTXFYZ0htd2pXVU1tS1l0TGJncTJ4NDM1aFJESFBOZEVNM0dPbmV6bWJOdHpzVTcyU2FSbHdjVG8zb245cEVTMFJxOFZQQ1dMbWI0VWkycUc4bXVDUVZmVkpJVU5qRS11bkZMbGVZUzN4UDNQcU1JSUVSNVhzRkVPQU1nRjZTRVBMT28wSGtsRGhnTW1IbTRrTEU3cDdNOFRj?oc=5",
+      "published": "Tue, 03 Nov 2026 12:56:27 GMT",
+      "source": "Defense News",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 12.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -352,5 +395,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-04T01:16:50.527900+00:00"
 }
