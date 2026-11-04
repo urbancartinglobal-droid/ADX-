@@ -18,7 +18,50 @@
       "signal_score": 17.4
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "After curbs on sugarcane, government restricts use of rice for ethanol | India News - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnprZzRjVDFlb1AxNVJoRUdlNjIyazkwZlFxVXhTdUF3WG1EUmZFQTBFSjVkOVBOeERqRXhQRzREWGhwaXJIci1taGVuVjRNWWhjX0ZLMW13TzR2TDU1aVNEazNnb0YyN0ZSLXpZZklQbnp4Um5wY3c2STlubm5nWDk0MHZRSFdnd1Z0elNtVnRqSFRqanM4R2pReHkzdDdVX0Z3OW54a2g0amlpWnpiQjI2c3hQVG0wcWhYZzBVLTY1U1BaVmlZYXFfVUrSAdIBQVVfeXFMTXFaUzh1TWdwY0k0WS12dnlNT0V4QlVBbi1jb2VTcFpnV3VwRnJlNXl1NWNZZUZuZTVNaUpKcE1OMHgxTGdHQmV3a2x6dmJtNWxONVdSXy1NNFZnaGkxSVR0YS12ZFJGdExUU3Z3ejB4R1lEVzRoWVByQWMzT3hNZDdOVThkU2ROZ1Y4aUxnRVp4SzU5SGY5MkRJM1JaLXU2UHM3TWR0OUZ4R3lQcUpFUWpPU2xQdHlxdFl6V0xfc2pFcGpvdktZZGxSV3RYb3VKUk1n?oc=5",
+      "published": "Wed, 04 Nov 2026 00:44:34 GMT",
+      "source": "Hindustan Times",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 8.3
+    },
+    {
+      "title": "Auto Sales Periodical: October 2026 Strong Festive Demand Drives Growth by Monarch Networth Capital - Investment Guru India",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR1I2TWZLQmlFMzZUd2NRN0N1VUI0X0diZ054dnhpWVF1VDFBLTBad2tDTE1qTXBiVldDelR6Nm10cDdCa1ozejBSZWlFczVvVlRvekZBOFNHY3VCdGJLZE9aNDZTX0xtS29RQ1ZSekpNbGQyc2FHcExuSWwwWFdQOG1pczluWW1NU2ZtUmNlSGN3MDNOMEJkS1k4NlVuWV9fRXlKMGJBX0RjZHNjb3ZOX0ZRTmR0UGZabUIzV3l5Y256OHdwVnk2dkhpWW12Nk04d3MwTTRDZnkzVTlRZmJwMg?oc=5",
+      "published": "Wed, 04 Nov 2026 08:36:56 GMT",
+      "source": "Investment Guru India",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 0.4
+    },
+    {
+      "title": "From trade and tariffs to defence and H-1B visas: What Democrats' House victory means for India - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZU9tRFJvN1lVbm9GTDdaaW5EcGs4UnI0M2dXVHFEbV9NV19saFFLNlc0dWtRb2ZIUW9IWkdsY1JhNlZDeXJxX2luc0JSVmI2blAyRGV6Y00tSkZ5WW1ieE1CcnVEd3ZzTEtTZXlEVW5JaFBCSk51V09WWUpiR1JxSi14OXIzVF9WSER0ZUsyNktCR2RzcGg1ZzNPZEdfd1F3TUpvdzZEN25RQ01taW5fLThFaWhPSWJaNkNnTlIteTZWZWpuY1d6QlFOaVFNQnZfUWJsdXExeE9kR1hReG05SDVxUTRCQdIB6wFBVV95cUxONlR6ZWc4MVctVzVrZlFqQmxxUmh1R0RnRW1mU0xYWHp2QjRQbXFsN0xQRzg0WW9OSlJJWXU1UjBNWUFzcjhnekJsMjhsRzdaSVBxc3kweUpjQ2pJZExvWDctVGtPb1JfcFd5YWV4X3NMbE45Z29YMFBSSTR1WGVBMDQ1M3RDR3ZiVVhTZTN0Y2cwOGdFYlZsSjBEUmd0Zl95R0c0cnhqZm0yQWs0a3pyUGpBN2wtdGtzbDRkbXRxSlE5aTh0Vk1QRU9FUzZaSTdBYXoyODQtTUxaYVhLMkVMbGYtOUV2OXFVdVBn?oc=5",
+      "published": "Wed, 04 Nov 2026 04:00:37 GMT",
+      "source": "Moneycontrol.com",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 5.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -308,5 +351,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-04T09:03:15.833517+00:00"
 }
