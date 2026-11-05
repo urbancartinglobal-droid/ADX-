@@ -6,18 +6,18 @@
   "articles": [],
   "landed": [
     {
-      "title": "After curbs on sugarcane, government restricts use of rice for ethanol | India News - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnprZzRjVDFlb1AxNVJoRUdlNjIyazkwZlFxVXhTdUF3WG1EUmZFQTBFSjVkOVBOeERqRXhQRzREWGhwaXJIci1taGVuVjRNWWhjX0ZLMW13TzR2TDU1aVNEazNnb0YyN0ZSLXpZZklQbnp4Um5wY3c2STlubm5nWDk0MHZRSFdnd1Z0elNtVnRqSFRqanM4R2pReHkzdDdVX0Z3OW54a2g0amlpWnpiQjI2c3hQVG0wcWhYZzBVLTY1U1BaVmlZYXFfVUrSAdIBQVVfeXFMTXFaUzh1TWdwY0k0WS12dnlNT0V4QlVBbi1jb2VTcFpnV3VwRnJlNXl1NWNZZUZuZTVNaUpKcE1OMHgxTGdHQmV3a2x6dmJtNWxONVdSXy1NNFZnaGkxSVR0YS12ZFJGdExUU3Z3ejB4R1lEVzRoWVByQWMzT3hNZDdOVThkU2ROZ1Y4aUxnRVp4SzU5SGY5MkRJM1JaLXU2UHM3TWR0OUZ4R3lQcUpFUWpPU2xQdHlxdFl6V0xfc2pFcGpvdktZZGxSV3RYb3VKUk1n?oc=5",
-      "published": "Wed, 04 Nov 2026 00:44:34 GMT",
-      "source": "Hindustan Times",
-      "sector": "Sugar & Ethanol",
+      "title": "Southern Railway Line Expansion Cost Rises to Rs 705.6 mn - Construction World",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVi1FZlFBYUhyLUR5MmxYV1RBLWpXam5xeDUzOHpoaDZWVDllVnZmZmhKWmh6NE54RThmZWZiWHVJRUFOdks3NENSRmVyb1RRcS1PM3JQZmNTeXVvZ09ONXBnNzJZaVFUOXJ1T0xiS2o5aU96YllmODNWSzlPUEFRMDI4Zm5xNFUxUzlZbkJ3cEZRQlFXcnR6cXpZU1dzMF9DeWZqVENDQXZzOGN2NUc4TUUtRmJLVXE0LWRlcXRtV0I3OTg3SDFIY3lDcEE4LUI0VnlDTG1IelZhTDY5LXF2SmJlMXVsQjVHR0Qyd0FSRTNHUQ?oc=5",
+      "published": "Thu, 05 Nov 2026 05:15:08 GMT",
+      "source": "Construction World",
+      "sector": "Rail & Infrastructure",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 22.9
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 1.3
     },
     {
       "title": "Decoded: Why India’s $130 billion pharma ambition faces a hurdle as investigation backlogs delay drug batch releases - Livemint",
@@ -31,7 +31,7 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 5.9
+      "freshness_hours": 12.9
     },
     {
       "title": "Diffusion Sources Market To 2035: Growth Driven by Sub-10nm Node Ramp and Wide-Bandgap Semiconductor Expansion - News and Statistics - IndexBox",
@@ -45,7 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 11.9
+      "freshness_hours": 18.9
     }
   ],
   "opportunities": [
@@ -270,5 +270,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-04T23:35:58.405200+00:00"
+  "landed_updated_utc": "2026-11-05T06:35:29.590062+00:00"
 }
