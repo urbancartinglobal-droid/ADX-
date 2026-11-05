@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Algo8 Signs PlantBrain Deployment Contract with Major Indian Fertilizer and Chemicals Producer - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVDIyN2dvNG0yS2xXQlljT1dLUEFnZ1RmMTdoc1RaRzJUR0RaM25yT29MVXZlQjdxXzh3eXU4b2VQcm5Sb3gteW5OVFAycDZwbHFZUldtcGhpM0NpU0o5aGZ4YlBaazF0bmxZUlFyUXRTeU1HRjA1TDlPc21hUUx0LWF6UjhHUnU3bHdXUVluODZOdXM0X1BtT2p4Y2QzNTVOQ0pua2NDQ2RLVldBOG1PV3hNci1jWkxLYTVWWk0zcHFZbXBCRkNoX1gzZmRPYjFXalJqUlRtYzBRbGVYaGNPYU9BZTI1UTVqY3BLSWpmWDFVMVBzMklUdkFtcnfSAYICQVVfeXFMT2JrUlV3SXMwYTdkSmc0c1pINnBkcnNTVEUtSHBQbFBIV09MNXhhMXdqbW5FRUlXYkZNclRCQmZWcUlpRmd5ejU2MVc2VlN5SEN0VUZ0TUhmMWl2S2hSbUZZU2M3SkVzNDNlMkRSQ0VyUkxCRERMRVRZTHVGcnlMTEh6Y0otVWJrNDNmaHlYWUZXbE9Sb01ublZ4THVQMkRkQndka1FSOVpuVHIwVlJOV2tQQ0hDbVhpNEJ6Rk5hd3lpSWhwUFJwcm9ydnJEbDVta2c5OEJCWjFkam9oZ2lFVTBmWHFKOExiazdGNGZIQUNtZDdFbGZsbFRRWTNDejlaWDdn?oc=5",
+      "published": "Thu, 05 Nov 2026 13:08:58 GMT",
+      "source": "The Manila Times",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 8.8
+    },
+    {
+      "title": "Indian Railways Records Highest-Ever October Freight Loading at 145.07 Million Tonnes - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vbjgwR2RUcWhwSjdRR0JDVjNIQk9zc09TS2NvZjNEN0ZPSm1lMVRpNnZ0UDlyYTF5bF9zVkpveFdFSEJyRkgxdEZHRjZlM3ByWHNCRlhwYnVnYVpSLTY1X0hQSUtJV0NSeDlXNmhFQkhacnBST2t4Vko4Y1Y?oc=5",
+      "published": "Thu, 05 Nov 2026 10:38:08 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 11.3
+    },
+    {
+      "title": "Perfluoroalkoxy Alkane (PFA) Market To 2035: Semiconductor Demand Supports Expansion - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLU1ZS21ST3dTM0stdXdjazN1YzV5dXctYUw2RklfWkR4LTlha1k2NnNycTEtclVoYk1CWUMwSzAwRWhXOHB4VDYzUFE0XzdmcVZYYkFVU0x6NFA2UkFMdGFkSHZlNUtiU1dIZGwxRHNrc0JHNE1rVHRmX2FyeGdvQzFGOUxZeHJVMWFCRHU1QUFJaUV5VGowQVNIdzJjMjF5elZxWGtab3dqRkxaZDFzLVRkOU5LbjN4YVhBVk1jNEROV01OTnc?oc=5",
+      "published": "Thu, 05 Nov 2026 20:46:04 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 1.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -240,5 +283,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-05T21:57:06.480268+00:00"
 }
