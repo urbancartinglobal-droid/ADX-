@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-11-06T06:49:41.731112+00:00",
+  "updated_utc": "2026-11-06T19:25:56.955242+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Community colleges rush to expand semiconductor training as labor shortage looms US chip industry - ET Manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPMmhJWkRMbzZKa0xFSy02bUVLWUFqR2liX3BDcHFxZC1wNWZKNjluSll5Z0gxLUs0b2NVV0tQR2h6bVQyS0toSGhqUjlWbnhmREFPYUt1MFhQRENMTi11VTdWVlJzRXB5ZHBnNF9ZQmxnR3VfRWs5QjY3ZV81ZXBKRXQ0U2RCcXdKcjd3ck9STVZWZFpZekFtVEdJbVBwMk04YUVTeDRNQUQwbXdUall3NG1MTzlJSmpRcnVPOGpVY0U2clMxdmVuSnVfVXh5LXFiNXZzOERoX2x3cE1oQ1FqaEkwaG1ST1NfeHpJYjhoaUJ2SDg5N01XbGZuREVhaWp0V2xESXM0SmRsaHRyWXVZVjdnNkkzNWdQZWJMb2JucHJTaGt5Q0FXVDI3R2E1Y0o0LVJhUmdhVjFzc3BC0gGEAkFVX3lxTFB5WjNQNHczUFc1U2FhWWNZZVY0X21BQlpNVUJ5dmNVNURMeXBaMlA1VmNtOC1kWjFhcmpJbmlUVUhId1NnSjJ1ZmZjTkNjLURoWWdqRnl5c2RmbW9hWVJSdE02RDN6bEFVaHNabG1ORS00VnZ6R2FFOVIxaF9jS2xjYXg1SjM3c1pYRFVJZmJmcU9BRDNuemlCSFdtb2JlZXBmcll0NGFURXJZaXRNODUyTjdJbF94dXkxWDZEVXh2WWFIOE12LUlVNXBvZ3REWjRCeWV2cnJvR1JycW1ldG91S2ZaeFdlRGV2OWpqVWhLcTg4MWVDVnpvVTdwNjh5T1VfeDNv?oc=5",
-      "published": "Fri, 06 Nov 2026 13:39:19 GMT",
-      "source": "ET Manufacturing",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.3
-    },
-    {
-      "title": "Algo8 Signs PlantBrain Deployment Contract with Major Indian Fertilizer and Chemicals Producer - AiThority",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd1ZDMmNYZ0dxc0JTSkhVb3MyWU5xWXZ1VC0xcHhsZGUxQWtNRmpkN2JJWHJRTF9zR2FDZjFxSVkxdFFENy13WXhRdndlRE1sTU9qcnNCcXBLZnZOcWlUTl9kTWRiMEV4V3B3SFdpWFAxX2Q0TXR0T19PVGRmem00MWVFUDVmd003VmNKNElNakdtZ3gzZXZHX2thYU1xYTk2SUxwV3psN2VOeWZveHBIcEx0QVFnRXA2R3ZpSnBPZDZWVFF0ekdKNVJiT0VPa1U?oc=5",
-      "published": "Fri, 06 Nov 2026 08:36:32 GMT",
-      "source": "AiThority",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.3
-    },
-    {
-      "title": "Pune Metro has opened India’s first line built under a public-private partnership - Railway PRO",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajBaN05fTkxFNUEzZUlVOHp4LUNkRy0yaU9KOHIzVVBodkVubVFFX3NKaEs5WEFQMnV2WjZoNkFaSlJXOVh3ZHFZTFpzd1pOM1JKd2prVFZERndMNFJRNWJwVFlldXdpdWJNVmZ3NFA5LXlwUFNUVXNMLTJOTElCb29kc2hrdnhUd0dNSGFfdXBYQQ?oc=5",
-      "published": "Fri, 06 Nov 2026 10:50:31 GMT",
-      "source": "Railway PRO",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 7.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -269,6 +226,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-06T17:54:55.002280+00:00"
+  ]
 }
