@@ -17,7 +17,21 @@
       "label": "GLOBAL",
       "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 8.8
+      "freshness_hours": 13.2
+    },
+    {
+      "title": "India targets homegrown GPU within two years as semiconductor mission expands - news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFE1eDFTakFTbEdRamRldll4bmpsVTRmZ2NsVmZDVnNiTXZXVnNFVlJTRWtDYUZtaldQVGtkTDU0Wkt6Z2k1ODB6bWFCQ3JXRzhFOXdJQWZwTkFJSGk1TjFTOTBuZ1RWRkxScGNIS2d1Uk9CWXVnNENvZVVTNUNqcGE1U0E0WktpY0FNVVN0Q2hKTHR6NUdocEtQZE53SlJESXZqN1FpWXh2QQ?oc=5",
+      "published": "Fri, 06 Nov 2026 00:20:13 GMT",
+      "source": "news.lavx.hu",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 2.0
     },
     {
       "title": "Indian Railways Records Highest-Ever October Freight Loading at 145.07 Million Tonnes - Metro Rail News",
@@ -31,21 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 11.3
-    },
-    {
-      "title": "Perfluoroalkoxy Alkane (PFA) Market To 2035: Semiconductor Demand Supports Expansion - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLU1ZS21ST3dTM0stdXdjazN1YzV5dXctYUw2RklfWkR4LTlha1k2NnNycTEtclVoYk1CWUMwSzAwRWhXOHB4VDYzUFE0XzdmcVZYYkFVU0x6NFA2UkFMdGFkSHZlNUtiU1dIZGwxRHNrc0JHNE1rVHRmX2FyeGdvQzFGOUxZeHJVMWFCRHU1QUFJaUV5VGowQVNIdzJjMjF5elZxWGtab3dqRkxaZDFzLVRkOU5LbjN4YVhBVk1jNEROV01OTnc?oc=5",
-      "published": "Thu, 05 Nov 2026 20:46:04 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.2
+      "freshness_hours": 15.7
     }
   ],
   "opportunities": [
@@ -284,5 +284,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-05T21:57:06.480268+00:00"
+  "landed_updated_utc": "2026-11-06T02:20:51.653472+00:00"
 }
