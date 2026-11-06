@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Algo8 Signs PlantBrain Deployment Contract with Major Indian Fertilizer and Chemicals Producer - AiThority",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd1ZDMmNYZ0dxc0JTSkhVb3MyWU5xWXZ1VC0xcHhsZGUxQWtNRmpkN2JJWHJRTF9zR2FDZjFxSVkxdFFENy13WXhRdndlRE1sTU9qcnNCcXBLZnZOcWlUTl9kTWRiMEV4V3B3SFdpWFAxX2Q0TXR0T19PVGRmem00MWVFUDVmd003VmNKNElNakdtZ3gzZXZHX2thYU1xYTk2SUxwV3psN2VOeWZveHBIcEx0QVFnRXA2R3ZpSnBPZDZWVFF0ekdKNVJiT0VPa1U?oc=5",
+      "published": "Fri, 06 Nov 2026 08:36:32 GMT",
+      "source": "AiThority",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.1
+    },
+    {
+      "title": "F-35B Releases MBDA Meteor Missile From Internal Weapons Bay for First Time - The Defense Watch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa0JhMTVPcnVwOE90ZXkwQ25lT2ticmFFYkFubzNPQUZwQ2dtRVN5UGl0MWZJTmowSHFrQnEtTmplelhOSTlfYjBCMks5RTRkV3ZraGt0akxfRDN2NGp2ZHBsdHhPblFSNGJGOGN6S0xEY1FzbHFCdGVBZFZfWlNlbEFEYlRyZDQzanI3LU5vaE9KYnZXLXRFbkRn?oc=5",
+      "published": "Fri, 06 Nov 2026 05:27:49 GMT",
+      "source": "The Defense Watch",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 5.3
+    },
+    {
+      "title": "RBI Tightens Cybersecurity Regulations for Non-Bank Payment Operators, Mandates Six-Hour Incident... - PSU India",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSFV5MmRXSDFjV1FXaW5LVEk1X3NzNVNhd2w0YlMwdFNPbkxGa0Q4aEtvc2Flb1Vxa01BR1dUa1A0Zi1TWnBLQUljUXFaUElILTQ3WlRLM1FKU0lNNjcwR0FqZElFY2UtN3E0Q21jY2k3bklpcWpIMFVQaE9JUXpmNjl6akt2bHNzT3Q3ZlJwNXhMNXY2MkRFbjA0WGJKLTBXR3VSRGRpeV9YaGJudG45TUYzd29VT1pYR2lfVS1QTjJub3lhUE5hNnpBd0RUSDFsTWRtckpxZExfcHBBdmpTb1NSaXo5OTRrd2ZJbtIB7AFBVV95cUxOSFV5MmRXSDFjV1FXaW5LVEk1X3NzNVNhd2w0YlMwdFNPbkxGa0Q4aEtvc2Flb1Vxa01BR1dUa1A0Zi1TWnBLQUljUXFaUElILTQ3WlRLM1FKU0lNNjcwR0FqZElFY2UtN3E0Q21jY2k3bklpcWpIMFVQaE9JUXpmNjl6akt2bHNzT3Q3ZlJwNXhMNXY2MkRFbjA0WGJKLTBXR3VSRGRpeV9YaGJudG45TUYzd29VT1pYR2lfVS1QTjJub3lhUE5hNnpBd0RUSDFsTWRtckpxZExfcHBBdmpTb1NSaXo5OTRrd2ZJbg?oc=5",
+      "published": "Fri, 06 Nov 2026 06:40:33 GMT",
+      "source": "PSU India",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 4.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -226,5 +269,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-06T10:44:50.035375+00:00"
 }
