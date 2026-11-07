@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-11-07T05:59:37.704732+00:00",
+  "updated_utc": "2026-11-07T13:03:36.172251+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Community colleges rush to expand semiconductor training as labor shortage looms US chip industry - ET Manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVDFCemZjdzNDRmkwVk5DdC1OUXpKNC0xN2NlTHQ1b2tjcjdnekg5elFkVVZLNWJXLXFyRzlvQ1NJSnc4TDlLY0NhYUc0VkRVVEoxa3NHRm9USVhzTDdvM1NHR2RiODg0UHdlMFd3cjR4ZEZIZ05KS1JScXZlOHE1cXo4TU9vN3BQUFhPS2lBNi1FWTAwaUdpNWpfbjBTYzlzQkRrVUZmdkhXeHRaX20xRGhHaHoyTm5fVV9HeHhjamVld19SeGpORHoxR0dTcG5oTkZrT2loMWROVkc3MUdqMHNsSTJrVnpUMlYyS1poTGROX1Z3LW1ZQ2V1YU56M3Ix0gGEAkFVX3lxTFB5WjNQNHczUFc1U2FhWWNZZVY0X21BQlpNVUJ5dmNVNURMeXBaMlA1VmNtOC1kWjFhcmpJbmlUVUhId1NnSjJ1ZmZjTkNjLURoWWdqRnl5c2RmbW9hWVJSdE02RDN6bEFVaHNabG1ORS00VnZ6R2FFOVIxaF9jS2xjYXg1SjM3c1pYRFVJZmJmcU9BRDNuemlCSFdtb2JlZXBmcll0NGFURXJZaXRNODUyTjdJbF94dXkxWDZEVXh2WWFIOE12LUlVNXBvZ3REWjRCeWV2cnJvR1JycW1ldG91S2ZaeFdlRGV2OWpqVWhLcTg4MWVDVnpvVTdwNjh5T1VfeDNv?oc=5",
-      "published": "Fri, 06 Nov 2026 19:42:47 GMT",
-      "source": "ET Manufacturing",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 14.2
-    },
-    {
-      "title": "India May Relax Make in India Rules to Boost Shipbuilding, Attract Foreign Investment - India Business Trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnVxMEFpMDYtb0lPaWtYQWViX0JUdWVqT2ZjX0VNc2pwNl9KOFZZUC03WGpLRU1XRXh3ZTBIcVpEazFwUzA3M3plRlBlc2VjdWtVR3VGU1ZGSl9sVGw1UU5qX1FzbmZfVU95U2NQZFlfd3pKMER1QkNCb2lRbjdvYTZ6REJxRTd5enBteklmc05BQlh0RW9WRktXTHFDZnJNTEx4ZmlsdldsRmxJOWVTVTUzNGFIS3VYSXc?oc=5",
-      "published": "Sat, 07 Nov 2026 03:53:04 GMT",
-      "source": "India Business Trade",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 6.1
-    },
-    {
-      "title": "Alkem Laboratories Appoints Pharma Veteran Dr Amrut Naik as Chief Executive Officer - Medical Dialogues",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUFFEMXg1V0hlMmQ1LUlKZkM4ak96RkhJbHN6bFRCN2ZKUmdub3hRQnkzTnRLNjFuM2plalpnNW50VkxMcXRGTjNEc0V1NHhTWlU4cjFCYU5yM0h0dzl0LUNLcndNSXNwcmFreTRZLUhtTVJfeHhCT0xUVUZtUDFUZThSZm1sdDdfNzE1ZXJ2ZVBBVWZaa1FMWWl1UmNiMkJNRjNCVzlnbmVOZXc5SW9CeDVrYWtDQmsxcnVGMkhTZXRST1VhME1mdUxndExWdUNYZ0Z3b0RvejZBMG_SAdsBQVVfeXFMT1BRRDF4NVdIZTJkNS1JSmZDOGpPekZISWxzemxUQjdmSlJnbm94UUJ5M050SzYxbjNqZWpaZzVudFZMTHF0Rk4zRHNFdTR4U1pVOHIxQmFOcjNIdHc5dC1DS3J3TUlzcHJha3k0WS1IbU1SX3h4Qk9MVFVGbVAxVGU4UmZtbHQ3XzcxNWVydmVQQVVmWmtRTFlpdVJjYjJCTUYzQlc5Z25lTmV3OUlvQng1a2FrQ0JrMXJ1RjJIU2V0Uk9VYTBNZnVMZ3RMVnVDWGdGd29Eb3o2QTBv?oc=5",
-      "published": "Fri, 06 Nov 2026 14:17:17 GMT",
-      "source": "Medical Dialogues",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 19.7
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -269,6 +226,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-07T09:57:35.407074+00:00"
+  ]
 }
