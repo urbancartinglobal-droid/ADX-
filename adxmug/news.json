@@ -4,7 +4,22 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Bangladesh Reportedly Clears 20 Chinese J-10CEs in Bay of Bengal Air Defence Push - Defence Security Asia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpLXE3bkVNZmpaTnNzbDJCUHdyX2JBb3dtd29tcVIwTUJJbjlzc2p3YVpwRGl4TElyNU54cURUUEY0dHZmUkdwLUJtc0x5ZGNhdXVGQVJaQkZDNGQ3akNEUTExRnF1U1JVWXp2OVJqZW5TQmhocTFKNXFB?oc=5",
+      "published": "Sat, 07 Nov 2026 15:06:30 GMT",
+      "source": "Defence Security Asia",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 24.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -226,5 +241,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-08T15:05:15.626611+00:00"
 }
