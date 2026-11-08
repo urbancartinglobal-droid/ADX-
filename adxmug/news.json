@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-11-07T21:52:26.548285+00:00",
+  "updated_utc": "2026-11-08T06:03:31.282747+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Bangladesh Reportedly Clears 20 Chinese J-10CEs in Bay of Bengal Air Defence Push - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpLXE3bkVNZmpaTnNzbDJCUHdyX2JBb3dtd29tcVIwTUJJbjlzc2p3YVpwRGl4TElyNU54cURUUEY0dHZmUkdwLUJtc0x5ZGNhdXVGQVJaQkZDNGQ3akNEUTExRnF1U1JVWXp2OVJqZW5TQmhocTFKNXFB?oc=5",
-      "published": "Sat, 07 Nov 2026 15:06:30 GMT",
-      "source": "Defence Security Asia",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 9.4
-    },
-    {
-      "title": "Alembic Pharma Q2FY27 profit rises 81%, raises FY27 revenue guidance - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFZPa3ZGY1E0NVVVT3h1MkVnYUZ3RzVqZWJEdkRNN3VFT2U2UGRwSjBIc3F4d0NQdUl2dDNPYjJGVjNHUjl0b3JLRnFWZ2NUMTF1azlDSGVDbnI1X2ozY1pqQ0xMTER0TjlUdXNEVzYzN0V6cmI5dGY5VmNFSndPaU1pVTZlMVdLdXIwMXlTMUlrQlJrbFZPSjRVRUdXZlh2WGxXM0liR0JDU3QxS1VwSnRueWE?oc=5",
-      "published": "Sat, 07 Nov 2026 09:30:41 GMT",
-      "source": "scanx.trade",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 15.0
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -255,6 +226,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-08T00:30:17.462970+00:00"
+  ]
 }
