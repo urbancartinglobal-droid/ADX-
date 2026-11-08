@@ -4,7 +4,22 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Weekly News Wrap: Tata Raises Iveco Stake, Mahindra Accelerates Expansion, Bosch Eyes Chip Growth  - Autocar Professional",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGJXRUt5cXh2NW00dW1YRTdXUWdpY2tyWk81WlQ1SzlYQTU4OVBqc2VHV0hESzhBRzNRVC1yOEFkdll0NGZCWDJWc2RtVkpMM1Q2b2VBTEFOQ3FVT1c0SXpKSmZZNTRESUNLb040TFFOcDg4QkIzYnl6QnVzOTk4OHNsNE1jTl9QT3EzdXlnOC1leVRHNnI4SkNTZHNaVFo2TWl4RXUwNUhNSlB5aEtpcDE2cGdPT294WF90Vno4bmJuTkRpN2FoS2p5bjTSAdQBQVVfeXFMTVQ0OGhlZGV5bHBoeFFSbm43ckZLM1E4ZEFzS3BnQWlDYjVJMFRIeUpxUWZjZnJ1S2h3Wjc1YWcyQ29vcXFxRUhlMm15aUpVR0VmWDdzLVZzSTJrVEVBVEFLM1FGd2xmZGRUeTMyMG1DVmg3Vk1LamtKTnpFdXJRdzJ0em16SVZzaDV0U2tCSEhjQ0prV2l4UmNSN2JRSzJvNGJaZFoyS3ljMGVvekFNb21yaU1vSDk1WHY3MGx6OFZ5ejlqUm1GdEhlZUo2UUF5SXZvaDQ?oc=5",
+      "published": "Sun, 08 Nov 2026 15:34:43 GMT",
+      "source": "Autocar Professional",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 8.1
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -226,5 +241,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-08T23:39:56.318618+00:00"
 }
