@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-11-09T06:33:19.215995+00:00",
+  "updated_utc": "2026-11-09T22:23:03.576614+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "L&T awarded ₹1,234 Crore Civil Contract for Noida Metro Aqua Line Extension Project - Metro Rail Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2ZFRGwyX2RvSkZLUG1GRzZVNGhGeE1GZjBuRXZ0UXlXNDA5d2hGNlpaQ3hxTW1XTGVEUnl4eDdIY0RjUGZkWlJIVlBRb0x6NHVIWG5UM1JVWWFjMkRjLXdzNlctR2FNX1pTZEtZOTVTTG1wcENzaVllMVZZeVJpS3o1WEFQdmVIbGF0cFB0LTVqaGNXNmlVYlhhUm5ZNEdWWUY3MXp1WnVKX0I2dWtDU1JB?oc=5",
-      "published": "Mon, 09 Nov 2026 16:41:15 GMT",
-      "source": "Metro Rail Today",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 0.7
-    },
-    {
-      "title": "US Semiconductor Expansion Hinges on Fab Efficiency, Supply Chain Coordination - EE Times Asia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjBUNGo0N0VwYkR2bnRnb3hKWDNmcENLRnRZSUNwYUttRm1pOTFacWUxQUtBYWZiVGFJendGcFVVVEZ5R2NQNEJvcWNmSHZzQVgxVkVRNlhTaURlTVJlWkNNS2dLYWZUR25tNHd0QWdPVEk5QjU0NWJzeVZaM1hWclc4bmRZNlFlT08wc1g3R21ldFNIWjlJa0xfMDNSZjNzM1QweQ?oc=5",
-      "published": "Mon, 09 Nov 2026 02:11:06 GMT",
-      "source": "EE Times Asia",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 15.2
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -255,6 +226,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-09T17:24:57.956406+00:00"
+  ]
 }
