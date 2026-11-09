@@ -6,10 +6,24 @@
   "articles": [],
   "landed": [
     {
-      "title": "Weekly News Wrap: Tata Raises Iveco Stake, Mahindra Accelerates Expansion, Bosch Eyes Chip Growth  - Autocar Professional",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGJXRUt5cXh2NW00dW1YRTdXUWdpY2tyWk81WlQ1SzlYQTU4OVBqc2VHV0hESzhBRzNRVC1yOEFkdll0NGZCWDJWc2RtVkpMM1Q2b2VBTEFOQ3FVT1c0SXpKSmZZNTRESUNLb040TFFOcDg4QkIzYnl6QnVzOTk4OHNsNE1jTl9QT3EzdXlnOC1leVRHNnI4SkNTZHNaVFo2TWl4RXUwNUhNSlB5aEtpcDE2cGdPT294WF90Vno4bmJuTkRpN2FoS2p5bjTSAdQBQVVfeXFMTVQ0OGhlZGV5bHBoeFFSbm43ckZLM1E4ZEFzS3BnQWlDYjVJMFRIeUpxUWZjZnJ1S2h3Wjc1YWcyQ29vcXFxRUhlMm15aUpVR0VmWDdzLVZzSTJrVEVBVEFLM1FGd2xmZGRUeTMyMG1DVmg3Vk1LamtKTnpFdXJRdzJ0em16SVZzaDV0U2tCSEhjQ0prV2l4UmNSN2JRSzJvNGJaZFoyS3ljMGVvekFNb21yaU1vSDk1WHY3MGx6OFZ5ejlqUm1GdEhlZUo2UUF5SXZvaDQ?oc=5",
-      "published": "Sun, 08 Nov 2026 15:34:43 GMT",
-      "source": "Autocar Professional",
+      "title": "NBFC credit growth accelerates to 15.4% in September; retail loans lead expansion - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXNtbmJ5WExYOTc3OHVpdUFqT2s1dEJvc2VvdDZmRUNKaGZRR3hrS2ZUZEN2Y1paRUlJekVTV2o1eWpQNEs1dDduUWNIQjVnM0c4SGpDbFFPckFaMEtZYVd2ZUlFYm55a0dZQ1ZGSklkRVYxN3FORU1CT2lJSzlJLWhtc2pKbHNWdkpkTlZjRnQ0N0RibnF4MjdNVkUyWnQ3YW01TW9VS2U0MndDYjlYMjF1QXc5Snk2cTNhT1BZS3VFQXpveXdvekxxSDRQVURzTzk3UzRiQUtOU1pUZ3lB0gHmAUFVX3lxTE9jOGZFeVprNVVEalZQUmw4aF9ZS1NNV2tHRkNiRXlkc3ZUUHp6WG9NV3ZDLVVJbzljSU10dHBqZHQzM2pod1FmWWFwaWU2OUJpcUdSTUY4ZGV0dFpDd240T3FxUHpMUnRZV2s1cUhaU1ZRc3V5UmI1QVpfZEoyNkJ3aWlidG5TNldrX0dlZEhxb2xWZDlLM210RVdUTlFHdGw0WWxNeTNxS3FWR2xLT0IwSDZXa3BtQ1VrbWp0aDlYanpRSTF1RWRmRmNvSVhiWWo2UnBpOW5NYW1hd2NXaC1lMEdtRGln?oc=5",
+      "published": "Mon, 09 Nov 2026 03:44:57 GMT",
+      "source": "The Financial Express",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.5
+    },
+    {
+      "title": "US Semiconductor Expansion Hinges on Fab Efficiency, Supply Chain Coordination - EE Times Asia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjBUNGo0N0VwYkR2bnRnb3hKWDNmcENLRnRZSUNwYUttRm1pOTFacWUxQUtBYWZiVGFJendGcFVVVEZ5R2NQNEJvcWNmSHZzQVgxVkVRNlhTaURlTVJlWkNNS2dLYWZUR25tNHd0QWdPVEk5QjU0NWJzeVZaM1hWclc4bmRZNlFlT08wc1g3R21ldFNIWjlJa0xfMDNSZjNzM1QweQ?oc=5",
+      "published": "Mon, 09 Nov 2026 02:11:06 GMT",
+      "source": "EE Times Asia",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +31,7 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.1
+      "freshness_hours": 4.0
     }
   ],
   "opportunities": [
@@ -242,5 +256,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-08T23:39:56.318618+00:00"
+  "landed_updated_utc": "2026-11-09T06:12:07.381005+00:00"
 }
