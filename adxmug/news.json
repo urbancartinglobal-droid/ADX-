@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-11-08T22:07:13.501809+00:00",
+  "updated_utc": "2026-11-09T06:33:19.215995+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "NBFC credit growth accelerates to 15.4% in September; retail loans lead expansion - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXNtbmJ5WExYOTc3OHVpdUFqT2s1dEJvc2VvdDZmRUNKaGZRR3hrS2ZUZEN2Y1paRUlJekVTV2o1eWpQNEs1dDduUWNIQjVnM0c4SGpDbFFPckFaMEtZYVd2ZUlFYm55a0dZQ1ZGSklkRVYxN3FORU1CT2lJSzlJLWhtc2pKbHNWdkpkTlZjRnQ0N0RibnF4MjdNVkUyWnQ3YW01TW9VS2U0MndDYjlYMjF1QXc5Snk2cTNhT1BZS3VFQXpveXdvekxxSDRQVURzTzk3UzRiQUtOU1pUZ3lB0gHmAUFVX3lxTE9jOGZFeVprNVVEalZQUmw4aF9ZS1NNV2tHRkNiRXlkc3ZUUHp6WG9NV3ZDLVVJbzljSU10dHBqZHQzM2pod1FmWWFwaWU2OUJpcUdSTUY4ZGV0dFpDd240T3FxUHpMUnRZV2s1cUhaU1ZRc3V5UmI1QVpfZEoyNkJ3aWlidG5TNldrX0dlZEhxb2xWZDlLM210RVdUTlFHdGw0WWxNeTNxS3FWR2xLT0IwSDZXa3BtQ1VrbWp0aDlYanpRSTF1RWRmRmNvSVhiWWo2UnBpOW5NYW1hd2NXaC1lMEdtRGln?oc=5",
-      "published": "Mon, 09 Nov 2026 03:44:57 GMT",
-      "source": "The Financial Express",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 2.5
-    },
-    {
-      "title": "US Semiconductor Expansion Hinges on Fab Efficiency, Supply Chain Coordination - EE Times Asia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjBUNGo0N0VwYkR2bnRnb3hKWDNmcENLRnRZSUNwYUttRm1pOTFacWUxQUtBYWZiVGFJendGcFVVVEZ5R2NQNEJvcWNmSHZzQVgxVkVRNlhTaURlTVJlWkNNS2dLYWZUR25tNHd0QWdPVEk5QjU0NWJzeVZaM1hWclc4bmRZNlFlT08wc1g3R21ldFNIWjlJa0xfMDNSZjNzM1QweQ?oc=5",
-      "published": "Mon, 09 Nov 2026 02:11:06 GMT",
-      "source": "EE Times Asia",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.0
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -255,6 +226,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-09T06:12:07.381005+00:00"
+  ]
 }
