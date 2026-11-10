@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-11-10T07:20:36.536774+00:00",
+  "updated_utc": "2026-11-10T19:44:57.869110+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "India Orders Eight Project 28A Corvettes to Guard Indian Ocean Trade - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOERDc2Z6dTE1T3NwcFVweDM5S2JyNi15WUhiZm5PWTdQdnFXUGdIamVXLUpCMjlvMnJQMS1XeXItWE41Rk9wdFJRcHBKVWgxOVlsWXNKSWtRalY4V0F6QzdYSlJNOGVrUXFmNlNCWlVmczFaLUd4dDdRQWJic0EtTElR?oc=5",
-      "published": "Tue, 10 Nov 2026 11:14:25 GMT",
-      "source": "Defence Security Asia",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 6.5
-    },
-    {
-      "title": "US FDA orders new eye risk warnings for Ozempic, Zepbound - pharma.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZnBOVk5ZSUV2bDVxTWZCa1JFUWpfVjQ5d0hwYno2RXlzeGVVNXlraDAxZHdoTXJ2ZjQ5WW9pZGo1QjIxcU5wLUsxYmJjTmFmQ195ZU9wRE5WcnR5cVp2aGJqQ1E5THZSa2pSeHg1bHBGWWV3a0Z3OUFKSUgxNmh4UlRadWRtWl9HVUtIQVhZeEJuZDFkaS1DYjFOQzJkMnFXa2hFZDAtN280c2c3Rkh4OU9KODhtcVN2X0VwSTVHdFdub3M3US16akFzZ3hyS0dIM3o00gHTAUFVX3lxTE1mcE5WTllJRXZsNXFNZkJrUkVRal9WNDl3SHBiejZFeXN4ZVU1eWtoMDFkd2hNcnZmNDlZb2lkajVCMjFxTnAtSzFiYmNOYWZDX3llT3BETlZydHlxWnZoYmpDUTlMdlJralJ4eDVscEZZZXdrRnc5QUpJSDE2aHhSVFp1ZG1aX0dVS0hBWFl4Qm5kMWRpLUNiMU5DMmQycVdraEVkMC03bzRzZzdGSHg5T0o4OG1xU3ZfRXBJNUd0V25vczdRLXpqQXNneHJLR0gzejQ?oc=5",
-      "published": "Tue, 10 Nov 2026 01:19:22 GMT",
-      "source": "pharma.economictimes.indiatimes.com",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 16.4
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -114,36 +85,6 @@
           "title": "Cabinet Approves Rs 130.41 Billion Railway And Highway Projects Across Five States - Construction World",
           "source": "Construction World",
           "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNnJQbU5lbmt6ZE1vQ0ZsN0FocE5kS2dRbDBSS3hta1pOVXZHdUZwUF82b3BvTHhFOTJlWnZFaGE2eTdUNHUzdUVLbE10UnN6OVpUaXBjalk4WnhiVzRVTTVfSXhUU3haLXotd2RYS21aOXJDMTViX0w1aml4VHZ0Yzlma1JBRXVVZTJuSzcwOGJHSUNSTWR0X3NoSXV3eTlGTlVHRUhabHFfOEszYWpkY3E1ZVA4ZFo3c2tLT21PQzJobFdQc3dOekF0VDNTYXJWZzhsbVdOaGFJWkhJNjlCTmtsNVdFaTd5bmY2MWd5QWRuRy1feFpKUXV1R3pKYTFjbGF0b0VOQ1Ztd25h?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Pharma & Healthcare",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
-          "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
           ],
@@ -254,7 +195,22 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-10T17:43:50.433112+00:00"
+  ]
 }
