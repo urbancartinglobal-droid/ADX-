@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-11-09T22:23:03.576614+00:00",
+  "updated_utc": "2026-11-10T07:20:36.536774+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Polyimide Films Market to Reach USD 2.32 Billion by 2031 as Demand for Flexible Electronics, EV Insulation, and Advanced Semiconductor Packaging Increases - StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZ3FLMXRNU0dvUmxUR3VXRThYYk82UWx0c1hIQk9ZekE0cWFWcGNxOG1OZEI5ZkJlalZpOXlRVDU3a0FqUVphQW1CUEpZNVU3WlJHYkZCUFRlMlFKOVRHZlhwLWpsZUdWNGdaN1lKSGVJZndiUDZHMFNDT1dVaWhVdGkyS1loN18xQWNiR2tWbElWSzBYSU5UM09PNEZUMjBpa2lBclpiaFhZdVlqN3FjTzU5c3NQVDdBdGw0aXdLNG9EY2Q0b2dBSjhaUnRDTU5IZnpocFB4T0xGMEMxSTFTdS0wR0ptajY4ak04ZTl3clBZMGxXeHFoeUFfcUtxMTdDRDZCc3Zzazk1M1JyNUNheUJ0MzloSTFvTWFfQUluMzUtUkpyUFhlZmtPTGp3aGdseEVjTg?oc=5",
-      "published": "Mon, 09 Nov 2026 22:20:52 GMT",
-      "source": "StreetInsider",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.1
-    },
-    {
-      "title": "L&T awarded ₹1,234 Crore Civil Contract for Noida Metro Aqua Line Extension Project - Metro Rail Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2ZFRGwyX2RvSkZLUG1GRzZVNGhGeE1GZjBuRXZ0UXlXNDA5d2hGNlpaQ3hxTW1XTGVEUnl4eDdIY0RjUGZkWlJIVlBRb0x6NHVIWG5UM1JVWWFjMkRjLXdzNlctR2FNX1pTZEtZOTVTTG1wcENzaVllMVZZeVJpS3o1WEFQdmVIbGF0cFB0LTVqaGNXNmlVYlhhUm5ZNEdWWUY3MXp1WnVKX0I2dWtDU1JB?oc=5",
-      "published": "Mon, 09 Nov 2026 16:43:24 GMT",
-      "source": "Metro Rail Today",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 8.7
-    },
-    {
-      "title": "Why Trump’s Tariff Announcements Crashed and Then Spared Markets in 2025 - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY08wczJzaDQxWmFLblppQ29ua0VLLTV1TmpWSGxXdmJvRU15Tm1hMmxZbmhQRTU5N2pMdlhlWVZHeXhybjhfRUNyYWpRNGJQVldJY0ZEbk5Yb3JPWHY3Qm9OUURxLXB6emxHNnJXUnh6eVEwU3RYc1VrSUExNllndTNmOVZmT1Bzbm0yempkcXExek1qcHBJYllISDNZR1pOTnBvMUxuSnByYzVWSE05ZVJESlhjNXEzNWdz?oc=5",
-      "published": "Mon, 09 Nov 2026 10:09:40 GMT",
-      "source": "HDFC Sky",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 15.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -269,6 +226,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-10T01:28:19.784408+00:00"
+  ]
 }
