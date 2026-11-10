@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "India Orders Eight Project 28A Corvettes to Guard Indian Ocean Trade - Defence Security Asia",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOERDc2Z6dTE1T3NwcFVweDM5S2JyNi15WUhiZm5PWTdQdnFXUGdIamVXLUpCMjlvMnJQMS1XeXItWE41Rk9wdFJRcHBKVWgxOVlsWXNKSWtRalY4V0F6QzdYSlJNOGVrUXFmNlNCWlVmczFaLUd4dDdRQWJic0EtTElR?oc=5",
+      "published": "Tue, 10 Nov 2026 11:14:25 GMT",
+      "source": "Defence Security Asia",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 12.0
+    },
+    {
+      "title": "US FDA orders new eye risk warnings for Ozempic, Zepbound - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZnBOVk5ZSUV2bDVxTWZCa1JFUWpfVjQ5d0hwYno2RXlzeGVVNXlraDAxZHdoTXJ2ZjQ5WW9pZGo1QjIxcU5wLUsxYmJjTmFmQ195ZU9wRE5WcnR5cVp2aGJqQ1E5THZSa2pSeHg1bHBGWWV3a0Z3OUFKSUgxNmh4UlRadWRtWl9HVUtIQVhZeEJuZDFkaS1DYjFOQzJkMnFXa2hFZDAtN280c2c3Rkh4OU9KODhtcVN2X0VwSTVHdFdub3M3US16akFzZ3hyS0dIM3o00gHTAUFVX3lxTE1mcE5WTllJRXZsNXFNZkJrUkVRal9WNDl3SHBiejZFeXN4ZVU1eWtoMDFkd2hNcnZmNDlZb2lkajVCMjFxTnAtSzFiYmNOYWZDX3llT3BETlZydHlxWnZoYmpDUTlMdlJralJ4eDVscEZZZXdrRnc5QUpJSDE2aHhSVFp1ZG1aX0dVS0hBWFl4Qm5kMWRpLUNiMU5DMmQycVdraEVkMC03bzRzZzdGSHg5T0o4OG1xU3ZfRXBJNUd0V25vczdRLXpqQXNneHJLR0gzejQ?oc=5",
+      "published": "Tue, 10 Nov 2026 01:19:22 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 21.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -212,5 +241,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-10T23:13:01.205572+00:00"
 }
