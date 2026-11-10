@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Polyimide Films Market to Reach USD 2.32 Billion by 2031 as Demand for Flexible Electronics, EV Insulation, and Advanced Semiconductor Packaging Increases - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZ3FLMXRNU0dvUmxUR3VXRThYYk82UWx0c1hIQk9ZekE0cWFWcGNxOG1OZEI5ZkJlalZpOXlRVDU3a0FqUVphQW1CUEpZNVU3WlJHYkZCUFRlMlFKOVRHZlhwLWpsZUdWNGdaN1lKSGVJZndiUDZHMFNDT1dVaWhVdGkyS1loN18xQWNiR2tWbElWSzBYSU5UM09PNEZUMjBpa2lBclpiaFhZdVlqN3FjTzU5c3NQVDdBdGw0aXdLNG9EY2Q0b2dBSjhaUnRDTU5IZnpocFB4T0xGMEMxSTFTdS0wR0ptajY4ak04ZTl3clBZMGxXeHFoeUFfcUtxMTdDRDZCc3Zzazk1M1JyNUNheUJ0MzloSTFvTWFfQUluMzUtUkpyUFhlZmtPTGp3aGdseEVjTg?oc=5",
+      "published": "Mon, 09 Nov 2026 22:20:52 GMT",
+      "source": "StreetInsider",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 11.3
+    },
+    {
+      "title": "US FDA orders new eye risk warnings for Ozempic, Zepbound - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZnBOVk5ZSUV2bDVxTWZCa1JFUWpfVjQ5d0hwYno2RXlzeGVVNXlraDAxZHdoTXJ2ZjQ5WW9pZGo1QjIxcU5wLUsxYmJjTmFmQ195ZU9wRE5WcnR5cVp2aGJqQ1E5THZSa2pSeHg1bHBGWWV3a0Z3OUFKSUgxNmh4UlRadWRtWl9HVUtIQVhZeEJuZDFkaS1DYjFOQzJkMnFXa2hFZDAtN280c2c3Rkh4OU9KODhtcVN2X0VwSTVHdFdub3M3US16akFzZ3hyS0dIM3o00gHTAUFVX3lxTE1mcE5WTllJRXZsNXFNZkJrUkVRal9WNDl3SHBiejZFeXN4ZVU1eWtoMDFkd2hNcnZmNDlZb2lkajVCMjFxTnAtSzFiYmNOYWZDX3llT3BETlZydHlxWnZoYmpDUTlMdlJralJ4eDVscEZZZXdrRnc5QUpJSDE2aHhSVFp1ZG1aX0dVS0hBWFl4Qm5kMWRpLUNiMU5DMmQycVdraEVkMC03bzRzZzdGSHg5T0o4OG1xU3ZfRXBJNUd0V25vczdRLXpqQXNneHJLR0gzejQ?oc=5",
+      "published": "Tue, 10 Nov 2026 01:19:22 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 8.4
+    },
+    {
+      "title": "L&T awarded ₹1,234 Crore Civil Contract for Noida Metro Aqua Line Extension Project - Metro Rail Today",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2ZFRGwyX2RvSkZLUG1GRzZVNGhGeE1GZjBuRXZ0UXlXNDA5d2hGNlpaQ3hxTW1XTGVEUnl4eDdIY0RjUGZkWlJIVlBRb0x6NHVIWG5UM1JVWWFjMkRjLXdzNlctR2FNX1pTZEtZOTVTTG1wcENzaVllMVZZeVJpS3o1WEFQdmVIbGF0cFB0LTVqaGNXNmlVYlhhUm5ZNEdWWUY3MXp1WnVKX0I2dWtDU1JB?oc=5",
+      "published": "Mon, 09 Nov 2026 16:43:24 GMT",
+      "source": "Metro Rail Today",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 17.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -226,5 +269,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-10T09:41:03.743723+00:00"
 }
