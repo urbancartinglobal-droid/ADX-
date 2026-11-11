@@ -1,62 +1,11 @@
 {
-  "updated_utc": "2026-11-10T19:44:57.869110+00:00",
+  "updated_utc": "2026-11-11T06:24:32.386616+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "India Reopens Medical Devices Incentive Scheme Applications - OpenGov Asia",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2Q4YktieDdyM1BOTjllVXY0S2I2TFl2czZuYldaSkJKRVRiVnN3WjdRQUNhS3NPTERTQkM3TFJYVno0a0ZvSGtpaUZJLWEtWkV5cXFBSExQQV80MlVzNDR2TG9PamZqN3pIZ2JMR2pqbHJoUl9sNEdKNEFnY3V3STNRN2U0RDdIN05mNg?oc=5",
-      "published": "Tue, 10 Nov 2026 13:58:28 GMT",
-      "source": "OpenGov Asia",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 16.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
-    {
-      "industry": "Sugar & Ethanol",
-      "score": 32,
-      "article_count": 1,
-      "trigger_count": 3,
-      "triggers": [
-        "POLICY",
-        "PRICING",
-        "TRADE"
-      ],
-      "evidence": [
-        {
-          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
-          "source": "Policy Circle",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE",
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations.",
-        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
     {
       "industry": "Power & Grid",
       "score": 18,
@@ -226,7 +175,22 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Sugar & Ethanol",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-11T06:01:41.536239+00:00"
+  ]
 }
