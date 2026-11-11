@@ -20,18 +20,32 @@
   ],
   "landed": [
     {
-      "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
-      "published": "Wed, 11 Nov 2026 12:43:42 GMT",
-      "source": "CMB News",
-      "sector": "Sugar & Ethanol",
+      "title": "India Approves First 1150 kV Transmission Corridor - https://www.mvapulse.com/",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGJ6eDZvU2RwWFEtSUJMWXNMYVVwMGVtbkExZkpRWE5CeVFDVlZqWWljTm9hSEpqMEIwRlNuV2FoTWltZVpKT1gycVNtMG84aVFsdzlTRFJpNFEzN3c3emlzd0EzVGVSMFUtX1c3X0xjVDFZWXdXRldBVGlEdElhc1h3?oc=5",
+      "published": "Wed, 11 Nov 2026 13:33:13 GMT",
+      "source": "https://www.mvapulse.com/",
+      "sector": "Power & Grid",
       "triggers": [
-        "PRICING"
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 6.9
+      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
+      "freshness_hours": 8.3
+    },
+    {
+      "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations - PM India",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNQkV4UDEwWWNvbFNodU9zd3J3RHJTbVhPdnBPanNkMFdLWkFBN1MxYVlya3NEdjJGaW9XckV6TkJoR0ozS19Wd015S1NyWU5BNFQxMUhYbXZIb2JWMlQ5TWV5VVJOeTh4anBoX0VvR0pzZXI3azdRQ0NwcGVUa1Zuc2FiaEdLTDhoXzc4UWx6VFU4RENhRHZSSm4wXy1CVlp4Nm13aW1CVlF1X3RPb2lGdXFrcnlMcUVHNkQ5SHUzUy1QWTFEdUh5eElmVDBlWk9zbFhzUS1OR20tS1ZWMWVVZzdOd0xlZnRQTUpvSzhueWIxQVVjY1JFUXN6RGtISlY3OWE0N2JwVkNZRFBzYnJkZUFRT09OWTNzZGdTa09ZRFQ?oc=5",
+      "published": "Wed, 11 Nov 2026 10:34:47 GMT",
+      "source": "PM India",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 11.3
     }
   ],
   "opportunities": [
@@ -249,5 +263,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-11T21:52:42.020017+00:00"
 }
