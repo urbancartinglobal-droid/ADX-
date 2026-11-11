@@ -1,40 +1,70 @@
 {
-  "updated_utc": "2026-11-11T06:24:32.386616+00:00",
+  "updated_utc": "2026-11-11T19:37:19.977904+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [],
+  "articles": [
+    {
+      "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
+      "published": "Wed, 11 Nov 2026 12:43:42 GMT",
+      "source": "CMB News",
+      "feed": "Sugar & Ethanol",
+      "description": "India sugar market: ethanol curbs, rising cane costs and tight balance CMB News",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "PRICING"
+      ],
+      "signal_score": 25.0
+    }
+  ],
   "landed": [
     {
-      "title": "Talbros Automotive Components Q2: Net Profit Surges 43.2% YoY To ₹32.94 Cr; Multi-Year Orders Exceed ₹1,000 Crore - Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGJUSkFCVEtJNi1MYWJxbXFLSG9IaldZTk1JOUh3UVp3VThkN3g2azdpc2lOWFlYNktCZXZzN1h1Nk8xOGkzR1hXdjE5RldvMTRuQ0tGdm1EeHJJcjRxSHpUcVN5b2o2UjVZSFdadVZLX01JNzNlS29mMGFtRm12N1cwcmdmdzFXNURVOXVBZ3pxVGZod0V0UWZidXBGS1hjR2hFbTB5bW5TUE93Z09rVnBZSDJKd01xaFV2bGVheWFkVGpvMUxCMkd3RmprcWNjanFxemhHR19kVm1SLUpsWDg2bk1ESzQ?oc=5",
-      "published": "Wed, 11 Nov 2026 11:26:37 GMT",
-      "source": "Trade Brains",
-      "sector": "Auto & Components",
+      "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
+      "published": "Wed, 11 Nov 2026 12:43:42 GMT",
+      "source": "CMB News",
+      "sector": "Sugar & Ethanol",
       "triggers": [
-        "MATERIAL CHANGE"
+        "PRICING"
       ],
       "label": "GIGA+",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 2.7
-    },
-    {
-      "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations - PM India",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxONjVyWjZYSGw4QVFLdXp6ak9MQV8xdFR6TjdZWEJLXzl3NHF6UVpqMDdXSHVaSExNZnE0dl9zb3ZJU3NnWjdmcHdtOW5CZHRWODZpMjJncU12OG9Sd1NlSVhQcEtrWTZyNmVLUjNYNUVCVDY4dkJaai01S2R6QlBwcUVvTFd4Nm1rN0hRc3V5ZXQ5Y3otRHRwWkpCOTJYeTdhZVdCc21VSnc4YlFTNFV0d3BuSTdyVUp2azlvOWdIQ0M3VU1RRnctY0RTUlVBMkVWMk1Ma1I5WklLYTlXZEh1dm0wb2phYXBoaWRDWHgtd3o0V2d4XzcteTg5UW9lQzhvLXZ2ZnpBOWVJa1JtQkJZdjZEV0Zya01tTmpfSllfTC1BTzNEU2tZS296S2Q4Z0RHcEJ2WjVR?oc=5",
-      "published": "Wed, 11 Nov 2026 10:34:47 GMT",
-      "source": "PM India",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 3.6
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 6.9
     }
   ],
   "opportunities": [
+    {
+      "industry": "Sugar & Ethanol",
+      "score": 20,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
+          "source": "CMB News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal PRICING; 1 distinct story clusters; 1 fresh evidence items.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 1
+    },
     {
       "industry": "Power & Grid",
       "score": 18,
@@ -78,6 +108,36 @@
           "title": "Cabinet Approves Rs 130.41 Billion Railway And Highway Projects Across Five States - Construction World",
           "source": "Construction World",
           "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNnJQbU5lbmt6ZE1vQ0ZsN0FocE5kS2dRbDBSS3hta1pOVXZHdUZwUF82b3BvTHhFOTJlWnZFaGE2eTdUNHUzdUVLbE10UnN6OVpUaXBjalk4WnhiVzRVTTVfSXhUU3haLXotd2RYS21aOXJDMTViX0w1aml4VHZ0Yzlma1JBRXVVZTJuSzcwOGJHSUNSTWR0X3NoSXV3eTlGTlVHRUhabHFfOEszYWpkY3E1ZVA4ZFo3c2tLT21PQzJobFdQc3dOekF0VDNTYXJWZzhsbVdOaGFJWkhJNjlCTmtsNVdFaTd5bmY2MWd5QWRuRy1feFpKUXV1R3pKYTFjbGF0b0VOQ1Ztd25h?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "source": "India Briefing",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
           "triggers": [
             "CAPEX"
           ],
@@ -188,39 +248,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Pharma & Healthcare",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Sugar & Ethanol",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-11T14:08:14.881961+00:00"
+  ]
 }
