@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Talbros Automotive Components Q2: Net Profit Surges 43.2% YoY To ₹32.94 Cr; Multi-Year Orders Exceed ₹1,000 Crore - Trade Brains",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGJUSkFCVEtJNi1MYWJxbXFLSG9IaldZTk1JOUh3UVp3VThkN3g2azdpc2lOWFlYNktCZXZzN1h1Nk8xOGkzR1hXdjE5RldvMTRuQ0tGdm1EeHJJcjRxSHpUcVN5b2o2UjVZSFdadVZLX01JNzNlS29mMGFtRm12N1cwcmdmdzFXNURVOXVBZ3pxVGZod0V0UWZidXBGS1hjR2hFbTB5bW5TUE93Z09rVnBZSDJKd01xaFV2bGVheWFkVGpvMUxCMkd3RmprcWNjanFxemhHR19kVm1SLUpsWDg2bk1ESzQ?oc=5",
+      "published": "Wed, 11 Nov 2026 11:26:37 GMT",
+      "source": "Trade Brains",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 2.7
+    },
+    {
+      "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations - PM India",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxONjVyWjZYSGw4QVFLdXp6ak9MQV8xdFR6TjdZWEJLXzl3NHF6UVpqMDdXSHVaSExNZnE0dl9zb3ZJU3NnWjdmcHdtOW5CZHRWODZpMjJncU12OG9Sd1NlSVhQcEtrWTZyNmVLUjNYNUVCVDY4dkJaai01S2R6QlBwcUVvTFd4Nm1rN0hRc3V5ZXQ5Y3otRHRwWkpCOTJYeTdhZVdCc21VSnc4YlFTNFV0d3BuSTdyVUp2azlvOWdIQ0M3VU1RRnctY0RTUlVBMkVWMk1Ma1I5WklLYTlXZEh1dm0wb2phYXBoaWRDWHgtd3o0V2d4XzcteTg5UW9lQzhvLXZ2ZnpBOWVJa1JtQkJZdjZEV0Zya01tTmpfSllfTC1BTzNEU2tZS296S2Q4Z0RHcEJ2WjVR?oc=5",
+      "published": "Wed, 11 Nov 2026 10:34:47 GMT",
+      "source": "PM India",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 3.6
+    }
+  ],
   "opportunities": [
     {
       "industry": "Power & Grid",
@@ -192,5 +221,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-11T14:08:14.881961+00:00"
 }
