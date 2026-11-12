@@ -20,18 +20,32 @@
   ],
   "landed": [
     {
-      "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
-      "published": "Wed, 11 Nov 2026 12:43:42 GMT",
-      "source": "CMB News",
-      "sector": "Sugar & Ethanol",
+      "title": "Belgium Orders 14 Thales Radars for Its New ‘Blue Dome’ Air Defense Network - The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IMlJEZWRkVDZJejhVLUZUOGVjZUlOS0p1V2JVbkVOWi1XTXdQSDM4VmtaeUN2S2haQTFMcEdqRWFfbmVFMWtwbDExODduSFpCNEphVklpbWpES1QyNzVEbkp3eXl5cFZRZnZOSUg5ZDk0OGZmd0lLOUV30gF_QVVfeXFMUFJrWUczNS1MVlExaVlXNGctdGc5NVZPTW5lcEF2MHJySUI4WUFwVFEyckdtSmRPV1ozcTFZQmVIY0w2aTZoT21PbHpLOW1YSmFyZzBJNUM1VE91ZG5oNmdxUkxabkl5YU9LdW4zZmRoTGJEanp5aFJLZzJpYklkQQ?oc=5",
+      "published": "Thu, 12 Nov 2026 09:09:45 GMT",
+      "source": "The Defense Post",
+      "sector": "Defence & Aerospace",
       "triggers": [
-        "PRICING"
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 18.5
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 1.8
+    },
+    {
+      "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations - India Education Diary",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOeXB1UU5qUnRqdFZMaWtFT2tQN082NUFiSVgyUzR0c1BkR052TS1wd3FqeldqUWFpUGk3Y1dlME9XZDdldVdveWpzVWhJbjZVRlNXVG5raEhzNDEzMTY4Y3JXUE9mdlE1ZmJJVXVGUWxCRXo2SS1hUFF2d210UDR5QVlwYzRIcFNOZVFyQ3lWYk9MSGdMOWlvaV9aV3d3SXBqWm1FRWxsLUY2dUtja2dVNmM0cmhGRllzTkZ2VlU2YTdTOEF2bmp6Ti0wSW11UmJGVlh2cHJTaklVcDFSUmYxTjBpOEdvVDg1UjZQR1RnM3JJMU5PNWJDazdWSjdfUnBMQWRlRTJiel9uQ0NmODJEMw?oc=5",
+      "published": "Wed, 11 Nov 2026 18:12:37 GMT",
+      "source": "India Education Diary",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 16.7
     }
   ],
   "opportunities": [
@@ -249,5 +263,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-12T10:56:40.338702+00:00"
 }
