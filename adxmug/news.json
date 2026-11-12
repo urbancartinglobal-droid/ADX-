@@ -20,10 +20,10 @@
   ],
   "landed": [
     {
-      "title": "Belgium Orders 14 Thales Radars for Its New ‘Blue Dome’ Air Defense Network - The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IMlJEZWRkVDZJejhVLUZUOGVjZUlOS0p1V2JVbkVOWi1XTXdQSDM4VmtaeUN2S2haQTFMcEdqRWFfbmVFMWtwbDExODduSFpCNEphVklpbWpES1QyNzVEbkp3eXl5cFZRZnZOSUg5ZDk0OGZmd0lLOUV30gF_QVVfeXFMUFJrWUczNS1MVlExaVlXNGctdGc5NVZPTW5lcEF2MHJySUI4WUFwVFEyckdtSmRPV1ozcTFZQmVIY0w2aTZoT21PbHpLOW1YSmFyZzBJNUM1VE91ZG5oNmdxUkxabkl5YU9LdW4zZmRoTGJEanp5aFJLZzJpYklkQQ?oc=5",
-      "published": "Thu, 12 Nov 2026 09:09:45 GMT",
-      "source": "The Defense Post",
+      "title": "Rajnath Singh calls for stronger offensive and defensive capabilities, launches IAF's indigenous AI applications - Defence Watch",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVjVHUFE1Q0hVMFc3NkRIa0NlUDYwNjRDYW9SOXo4bGt6S0hFNjhVWG1xM3IzRkdrU2tnbWZySXU2UExic0t1MFFWeHVnU3V2Y3hBTldxckpHdlFfblpnVUE3b3ZYTGxSLUhna2dHeWhnWkQ1Y01EMVVtZExsQjllY2xNcGk3XzF3cG9NVzRtLWgtZV9jT08zNDlWVm5oZTNCXzZHWVlHaU5jWjRrVmNFbVBjWW5iVTVJYTlTSnVGZkxCVnVuVWYyTkM3M0ticnVkcW5MTnNNaHNLd9IB5wFBVV95cUxPYmVpb01UeEpmSU9Ta2xjT0ZpaWZrT19XeHQ3d1JXblVCTkZybHJJcU5URDlrSmlITjdXZ0FEbGJlNERFSFl1YmlvYWJSaVVzRFNQQlRkQnlrOUxSVThUWnpZaGdpM25yc1RkMFdQcUtiSnZkZ0pnVGk5WHBLM1RaU3MwemRYOG55amZlZUM5SHVqdTdxN0pVVzA3REI4RnA1MDFhWXpEbnRKZDJlbTBDZnViUmhaOHd0NXkyRGtjcHd6Q21kWF9TUDBYdnd6VndqSTBJc1l5LXUtQW92UHl1aGppSjB5eWs?oc=5",
+      "published": "Thu, 12 Nov 2026 16:08:41 GMT",
+      "source": "Defence Watch",
       "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,13 +31,27 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 1.8
+      "freshness_hours": 2.7
     },
     {
-      "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations - India Education Diary",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOeXB1UU5qUnRqdFZMaWtFT2tQN082NUFiSVgyUzR0c1BkR052TS1wd3FqeldqUWFpUGk3Y1dlME9XZDdldVdveWpzVWhJbjZVRlNXVG5raEhzNDEzMTY4Y3JXUE9mdlE1ZmJJVXVGUWxCRXo2SS1hUFF2d210UDR5QVlwYzRIcFNOZVFyQ3lWYk9MSGdMOWlvaV9aV3d3SXBqWm1FRWxsLUY2dUtja2dVNmM0cmhGRllzTkZ2VlU2YTdTOEF2bmp6Ti0wSW11UmJGVlh2cHJTaklVcDFSUmYxTjBpOEdvVDg1UjZQR1RnM3JJMU5PNWJDazdWSjdfUnBMQWRlRTJiel9uQ0NmODJEMw?oc=5",
-      "published": "Wed, 11 Nov 2026 18:12:37 GMT",
-      "source": "India Education Diary",
+      "title": "UK Extends 269 Import Tariff Suspensions, Offering Fresh Cost Relief to Chemical Manufacturers - ChemAnalyst",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWp5NzVVQThDUDQ3aFdjcUdvNjczS1V2MHY1WHlNVDczZEcxeHN4WjZ6S241M0FIcHVaTk40YUVOYm5RQ0lvd1dwajBxT2IwYmhQZzRDd1Foc0VvYTdpblA2UE9MQjg4eXo1MXN5M0V3UzdLWkFnQXdHVThmQW92T0NJY2xUbzJ4Rl9HY3VWbzhTbFdGa0piUVJtX3VnVEFpSEVoQXpET3FMeHhya3U3bTRfei1xUkU4RHRZTmdPeml0dlpt?oc=5",
+      "published": "Thu, 12 Nov 2026 13:17:14 GMT",
+      "source": "ChemAnalyst",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.6
+    },
+    {
+      "title": "Noida Aqua Line extension cleared to Greater Noida Sector 4 - Railway Supply",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3NHMHo2ZW9WajJvdHNoY1JyYWRmdjFVdUN3Unc4ZmN2NmRtdzJFT090NmJpUkx4aGlXZk01S0pxN29iNFhSS3pSOUV1V1dCWFYwb3ZsbVpCbExNcVhsQnpITlEtUjg3SkJsdGxnZXdoRmowcnRXTk9ZY3U2dTAydEtZd3haMVE1OGIwZnRLV0w?oc=5",
+      "published": "Thu, 12 Nov 2026 11:16:22 GMT",
+      "source": "Railway Supply",
       "sector": "Rail & Infrastructure",
       "triggers": [
         "MATERIAL CHANGE"
@@ -45,7 +59,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 16.7
+      "freshness_hours": 7.6
     }
   ],
   "opportunities": [
@@ -264,5 +278,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-12T10:56:40.338702+00:00"
+  "landed_updated_utc": "2026-11-12T18:51:14.622426+00:00"
 }
