@@ -20,18 +20,18 @@
   ],
   "landed": [
     {
-      "title": "India Approves First 1150 kV Transmission Corridor - https://www.mvapulse.com/",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGJ6eDZvU2RwWFEtSUJMWXNMYVVwMGVtbkExZkpRWE5CeVFDVlZqWWljTm9hSEpqMEIwRlNuV2FoTWltZVpKT1gycVNtMG84aVFsdzlTRFJpNFEzN3c3emlzd0EzVGVSMFUtX1c3X0xjVDFZWXdXRldBVGlEdElhc1h3?oc=5",
-      "published": "Wed, 11 Nov 2026 13:33:13 GMT",
-      "source": "https://www.mvapulse.com/",
-      "sector": "Power & Grid",
+      "title": "The Hidden Geography of Defence Electronics: How Technology Changes Names - Crosses Borders and Reappears on the Battlefield - https://debuglies.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWUtNVDNsZ2RsRFJBal9aNXFIYUxpOVB4b2RLZHF6ZVJOMXhhOTN1bEFDRW9EMy1GdDJ5ZVZqcTJlY21UdUd5Y21ZX01pVUZUbnk0U0R1cXFOVXI0ZW1Hdko0U01mSHdENmlGNFF0d2U5NHlhbDg1b0t1MkZPWmxpUWh0MFV0cnMwTXk5WXRCNlJXQ0tDWjEwZ19kZ2hfT3RXeTZBSVpWVnRITjNwUE9ZR2V1Y3B1R3RYdHlDQi14Wk9FVEFSLWN3UWVMUTJCaDlqaVAzeHZFb25wTEpPaHl5cVY5SjFReWU2V2RZ?oc=5",
+      "published": "Wed, 11 Nov 2026 19:24:16 GMT",
+      "source": "https://debuglies.com",
+      "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
-      "freshness_hours": 8.3
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 7.5
     },
     {
       "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations - PM India",
@@ -45,7 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 11.3
+      "freshness_hours": 16.3
     }
   ],
   "opportunities": [
@@ -264,5 +264,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-11T21:52:42.020017+00:00"
+  "landed_updated_utc": "2026-11-12T02:54:47.433584+00:00"
 }
