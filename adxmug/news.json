@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12T07:12:47.654050+00:00",
+  "updated_utc": "2026-11-12T19:55:24.450333+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -20,46 +20,18 @@
   ],
   "landed": [
     {
-      "title": "Rajnath Singh calls for stronger offensive and defensive capabilities, launches IAF's indigenous AI applications - Defence Watch",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVjVHUFE1Q0hVMFc3NkRIa0NlUDYwNjRDYW9SOXo4bGt6S0hFNjhVWG1xM3IzRkdrU2tnbWZySXU2UExic0t1MFFWeHVnU3V2Y3hBTldxckpHdlFfblpnVUE3b3ZYTGxSLUhna2dHeWhnWkQ1Y01EMVVtZExsQjllY2xNcGk3XzF3cG9NVzRtLWgtZV9jT08zNDlWVm5oZTNCXzZHWVlHaU5jWjRrVmNFbVBjWW5iVTVJYTlTSnVGZkxCVnVuVWYyTkM3M0ticnVkcW5MTnNNaHNLd9IB5wFBVV95cUxPYmVpb01UeEpmSU9Ta2xjT0ZpaWZrT19XeHQ3d1JXblVCTkZybHJJcU5URDlrSmlITjdXZ0FEbGJlNERFSFl1YmlvYWJSaVVzRFNQQlRkQnlrOUxSVThUWnpZaGdpM25yc1RkMFdQcUtiSnZkZ0pnVGk5WHBLM1RaU3MwemRYOG55amZlZUM5SHVqdTdxN0pVVzA3REI4RnA1MDFhWXpEbnRKZDJlbTBDZnViUmhaOHd0NXkyRGtjcHd6Q21kWF9TUDBYdnd6VndqSTBJc1l5LXUtQW92UHl1aGppSjB5eWs?oc=5",
-      "published": "Thu, 12 Nov 2026 16:08:41 GMT",
-      "source": "Defence Watch",
-      "sector": "Defence & Aerospace",
+      "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
+      "published": "Wed, 11 Nov 2026 12:43:42 GMT",
+      "source": "CMB News",
+      "sector": "Sugar & Ethanol",
       "triggers": [
-        "MATERIAL CHANGE"
+        "PRICING"
       ],
       "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 2.7
-    },
-    {
-      "title": "UK Extends 269 Import Tariff Suspensions, Offering Fresh Cost Relief to Chemical Manufacturers - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWp5NzVVQThDUDQ3aFdjcUdvNjczS1V2MHY1WHlNVDczZEcxeHN4WjZ6S241M0FIcHVaTk40YUVOYm5RQ0lvd1dwajBxT2IwYmhQZzRDd1Foc0VvYTdpblA2UE9MQjg4eXo1MXN5M0V3UzdLWkFnQXdHVThmQW92T0NJY2xUbzJ4Rl9HY3VWbzhTbFdGa0piUVJtX3VnVEFpSEVoQXpET3FMeHhya3U3bTRfei1xUkU4RHRZTmdPeml0dlpt?oc=5",
-      "published": "Thu, 12 Nov 2026 13:17:14 GMT",
-      "source": "ChemAnalyst",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 5.6
-    },
-    {
-      "title": "Noida Aqua Line extension cleared to Greater Noida Sector 4 - Railway Supply",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3NHMHo2ZW9WajJvdHNoY1JyYWRmdjFVdUN3Unc4ZmN2NmRtdzJFT090NmJpUkx4aGlXZk01S0pxN29iNFhSS3pSOUV1V1dCWFYwb3ZsbVpCbExNcVhsQnpITlEtUjg3SkJsdGxnZXdoRmowcnRXTk9ZY3U2dTAydEtZd3haMVE1OGIwZnRLV0w?oc=5",
-      "published": "Thu, 12 Nov 2026 11:16:22 GMT",
-      "source": "Railway Supply",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 7.6
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 31.2
     }
   ],
   "opportunities": [
@@ -115,36 +87,6 @@
       "confidence": "low",
       "watch": "MONITOR",
       "reason": "Cross-signal PRICING; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Rail & Infrastructure",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "CAPEX"
-      ],
-      "evidence": [
-        {
-          "title": "Cabinet Approves Rs 130.41 Billion Railway And Highway Projects Across Five States - Construction World",
-          "source": "Construction World",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNnJQbU5lbmt6ZE1vQ0ZsN0FocE5kS2dRbDBSS3hta1pOVXZHdUZwUF82b3BvTHhFOTJlWnZFaGE2eTdUNHUzdUVLbE10UnN6OVpUaXBjalk4WnhiVzRVTTVfSXhUU3haLXotd2RYS21aOXJDMTViX0w1aml4VHZ0Yzlma1JBRXVVZTJuSzcwOGJHSUNSTWR0X3NoSXV3eTlGTlVHRUhabHFfOEszYWpkY3E1ZVA4ZFo3c2tLT21PQzJobFdQc3dOekF0VDNTYXJWZzhsbVdOaGFJWkhJNjlCTmtsNVdFaTd5bmY2MWd5QWRuRy1feFpKUXV1R3pKYTFjbGF0b0VOQ1Ztd25h?oc=5",
-          "triggers": [
-            "CAPEX"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
@@ -246,6 +188,22 @@
       "fresh_count": 0
     },
     {
+      "industry": "Rail & Infrastructure",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
+    },
+    {
       "industry": "Banking & Financials",
       "score": 0,
       "article_count": 0,
@@ -277,6 +235,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-12T18:51:14.622426+00:00"
+  ]
 }
