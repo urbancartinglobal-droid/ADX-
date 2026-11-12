@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11T19:37:19.977904+00:00",
+  "updated_utc": "2026-11-12T07:12:47.654050+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -20,32 +20,18 @@
   ],
   "landed": [
     {
-      "title": "The Hidden Geography of Defence Electronics: How Technology Changes Names - Crosses Borders and Reappears on the Battlefield - https://debuglies.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWUtNVDNsZ2RsRFJBal9aNXFIYUxpOVB4b2RLZHF6ZVJOMXhhOTN1bEFDRW9EMy1GdDJ5ZVZqcTJlY21UdUd5Y21ZX01pVUZUbnk0U0R1cXFOVXI0ZW1Hdko0U01mSHdENmlGNFF0d2U5NHlhbDg1b0t1MkZPWmxpUWh0MFV0cnMwTXk5WXRCNlJXQ0tDWjEwZ19kZ2hfT3RXeTZBSVpWVnRITjNwUE9ZR2V1Y3B1R3RYdHlDQi14Wk9FVEFSLWN3UWVMUTJCaDlqaVAzeHZFb25wTEpPaHl5cVY5SjFReWU2V2RZ?oc=5",
-      "published": "Wed, 11 Nov 2026 19:24:16 GMT",
-      "source": "https://debuglies.com",
-      "sector": "Defence & Aerospace",
+      "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
+      "published": "Wed, 11 Nov 2026 12:43:42 GMT",
+      "source": "CMB News",
+      "sector": "Sugar & Ethanol",
       "triggers": [
-        "MATERIAL CHANGE"
+        "PRICING"
       ],
       "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 7.5
-    },
-    {
-      "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations - PM India",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNQkV4UDEwWWNvbFNodU9zd3J3RHJTbVhPdnBPanNkMFdLWkFBN1MxYVlya3NEdjJGaW9XckV6TkJoR0ozS19Wd015S1NyWU5BNFQxMUhYbXZIb2JWMlQ5TWV5VVJOeTh4anBoX0VvR0pzZXI3azdRQ0NwcGVUa1Zuc2FiaEdLTDhoXzc4UWx6VFU4RENhRHZSSm4wXy1CVlp4Nm13aW1CVlF1X3RPb2lGdXFrcnlMcUVHNkQ5SHUzUy1QWTFEdUh5eElmVDBlWk9zbFhzUS1OR20tS1ZWMWVVZzdOd0xlZnRQTUpvSzhueWIxQVVjY1JFUXN6RGtISlY3OWE0N2JwVkNZRFBzYnJkZUFRT09OWTNzZGdTa09ZRFQ?oc=5",
-      "published": "Wed, 11 Nov 2026 10:34:47 GMT",
-      "source": "PM India",
-      "sector": "Rail & Infrastructure",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
-      "freshness_hours": 16.3
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 18.5
     }
   ],
   "opportunities": [
@@ -140,27 +126,27 @@
       "fresh_count": 0
     },
     {
-      "industry": "Pharma & Healthcare",
+      "industry": "Auto & Components",
       "score": 18,
       "article_count": 1,
       "trigger_count": 1,
       "triggers": [
-        "CAPEX"
+        "POLICY"
       ],
       "evidence": [
         {
-          "title": "Foreign Investment Prospects in India's Pharmaceutical Industry - India Briefing",
+          "title": "Full List of Approvals Released: PLI Scheme for Automobile and Auto Components Industry - India Briefing",
           "source": "India Briefing",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU5LNm05WUlWaGNZU1lRZDF6UG4xR1Vsb0hsZFphdUFYelBIZTkzRF84MFVDQV9rZE1VWFN4YmJsUjZ0YWoxaFBidXBtSTJmMHZMdUEwR1BjbElrQkhxZ21rcy1WTmI2eWJETHVUN0pLWEtCZEp5N05zeWFTNllGaGgzU3ZrVlJKN1Z5c0lfUjNnQWF4ckxoSzF0VVJPaE5GbGdrRzA1LS1MVzMzUXZF?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEZqRXlMSEtSSTMwbWpIRjcxMEJ3cW11XzFlZ1R1c0FUVTVHRi1YalpCQlFiMVVQOU5XcDRoT2pINmdfSnJybTZUZHE2MDJIY2wzY1VQaGU3TjNXMDJXbWM4RmQxRG1tZ0xJZFJFcDM5MGo4X2xRTkpBa1VmcVNOOTZMbEp0bTM5OG81cmVLdm9rLWl1ZDVSWXdNOV9EcVlIb0FsdTJMT1QyWXNFVl9XUk12WWlrenpGOXdNTmctMHJJaGRuOXFReVhGNWNTeVN0Y0t6T09Ecw?oc=5",
           "triggers": [
-            "CAPEX"
+            "POLICY"
           ],
           "companies": []
         }
       ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
+      "reason": "Cross-signal POLICY; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
@@ -248,7 +234,7 @@
       "fresh_count": 0
     },
     {
-      "industry": "Auto & Components",
+      "industry": "Pharma & Healthcare",
       "score": 0,
       "article_count": 0,
       "trigger_count": 0,
@@ -263,6 +249,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-12T02:54:47.433584+00:00"
+  ]
 }
