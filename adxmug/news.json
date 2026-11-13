@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-13T06:47:34.853339+00:00",
+  "updated_utc": "2026-11-13T19:43:19.198712+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,39 +15,10 @@
       "triggers": [
         "PRICING"
       ],
-      "signal_score": 25.0
+      "signal_score": 19.3
     }
   ],
-  "landed": [
-    {
-      "title": "RBI money market operations record liquidity absorption, with overnight volume at 789,769.30 crore rupees - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZldEOGU1X0pxenJtOVpCTzdJZXQwUzFBbWdHcnhkdElIclFyTW1QVHRoc0RqaWwzZ3N2RlZDZUp2THV1bHVYUXJzbWpWM2NzcjMtcllyazNIc05FMHhCTk40TnBiSjdJN3FFMk51d3VuRF9vekFSNWJBLUFuSHV4S2FqRVdEU19kR3NDSDc5ZGlYMmszV2ZNVG9IRQ?oc=5",
-      "published": "Fri, 13 Nov 2026 04:21:33 GMT",
-      "source": "Traders Union",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.9
-    },
-    {
-      "title": "Japan warns defence contractors of potential cuts to military orders amid fiscal constraints: Report - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQWJ1WEd6N25aSmthVnFXZXdIMEJ3Y1JKQW04NE1CUmJJTmhEOGZOV1Z5aXdVaDV2N3M1V2RJdG5TVTFtNkdSbDNCM25yMnRTcjdPNFc0a2lUY09VLXFtX2VjLVBLLWJ5YXdsZjNtdXNTU0VpR2J5TFJkLU1lUWRqX0wxOWxrQ1JTT05zNEcwNE9WdnpuY09QMUdfU0FadEdva2RRX0dBaVJyVnJYTUUwWEJPNHZ2THFjV3pWb05Fc2dyeUFkQmRmQ2NvUG9BMmZmN2U4ZTVGZnpWX3gzaWxVSWZoVHB4M01tMmJmWi1tWW9KRkdybGdHMDQ0YWVUbHFqSnJ6dnNB0gH_AUFVX3lxTE5FVTFRNEw2N1RXSzNSS2cwYXQ0S1ZNTjBxUm9kbG1aTm1hY1dvV2s4NzlqdTlYQ0pWZ1hjUlE4a0w1cDE2ejRNZVcwNFBIam9vTXZ0OUF4ZmhSVk83SkJzV0F1MURRbTR5RGlUUXl3RHdSb0t1U1I0VWU3RlpEYzJfR0xZZkxDX0NLc0l3YXBhWV9mdVR0enpZZ1BmU3JlOFBXMHVJQmJHS2FZOTE4WTRVY2lGdDlzOHFqR0VRRkxQblQ2NDN1TGRBRnhqZzRlVEh5Ui1qeDV1UGkxeE00YUxvLVlBMWhnd1J5Vm8xd2ZkdjZrMmV1dTFVbGMxckRjbw?oc=5",
-      "published": "Fri, 13 Nov 2026 04:13:28 GMT",
-      "source": "The Economic Times",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 12.0
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -249,6 +220,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-13T16:13:59.902093+00:00"
+  ]
 }
