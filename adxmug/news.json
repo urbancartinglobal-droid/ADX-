@@ -31,7 +31,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 3.5
+      "freshness_hours": 11.9
     },
     {
       "title": "Japan warns defence contractors of potential cuts to military orders amid fiscal constraints: Report - The Economic Times",
@@ -45,21 +45,7 @@
       "label": "GIGA+",
       "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 3.6
-    },
-    {
-      "title": "UK Extends 269 Import Tariff Suspensions, Offering Fresh Cost Relief to Chemical Manufacturers - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWp5NzVVQThDUDQ3aFdjcUdvNjczS1V2MHY1WHlNVDczZEcxeHN4WjZ6S241M0FIcHVaTk40YUVOYm5RQ0lvd1dwajBxT2IwYmhQZzRDd1Foc0VvYTdpblA2UE9MQjg4eXo1MXN5M0V3UzdLWkFnQXdHVThmQW92T0NJY2xUbzJ4Rl9HY3VWbzhTbFdGa0piUVJtX3VnVEFpSEVoQXpET3FMeHhya3U3bTRfei1xUkU4RHRZTmdPeml0dlpt?oc=5",
-      "published": "Thu, 12 Nov 2026 13:31:09 GMT",
-      "source": "ChemAnalyst",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 18.3
+      "freshness_hours": 12.0
     }
   ],
   "opportunities": [
@@ -264,5 +250,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-13T07:51:57.530534+00:00"
+  "landed_updated_utc": "2026-11-13T16:13:59.902093+00:00"
 }
