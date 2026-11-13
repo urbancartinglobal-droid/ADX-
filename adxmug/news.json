@@ -18,7 +18,36 @@
       "signal_score": 19.3
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Passenger vehicle sales hit record 5.19 lakh units in October ahead of Diwali: SIAM - Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlB3eG5qRXc3Q08wU0haVGNudkl4dW8zM000SDAxeW9aNnc1eG5iZ3F2MEhSTTV3cTE3Z3B5RGhSYmYycjVVUVVDakRabVFTUG0wbE1BRUM1ZktoWmFlMTEwaFhrSDJWTkpmRDEtMlFWZUw2SUNXdFRaSEM3UnJYZGxPSGdPVFBuai1yN1U5SmZycGpSSEJtejRYWEc5OGZXRDdKRURJenlybVIzNHd1RUFnRHp3MHdJMlVQUkxzcGJrbEJCZUEzZEh5aUJad3Z5d3ZV?oc=5",
+      "published": "Fri, 13 Nov 2026 16:28:25 GMT",
+      "source": "Deccan Herald",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 6.1
+    },
+    {
+      "title": "RBI money market operations record liquidity absorption, with overnight volume at 789,769.30 crore rupees - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZldEOGU1X0pxenJtOVpCTzdJZXQwUzFBbWdHcnhkdElIclFyTW1QVHRoc0RqaWwzZ3N2RlZDZUp2THV1bHVYUXJzbWpWM2NzcjMtcllyazNIc05FMHhCTk40TnBiSjdJN3FFMk51d3VuRF9vekFSNWJBLUFuSHV4S2FqRVdEU19kR3NDSDc5ZGlYMmszV2ZNVG9IRQ?oc=5",
+      "published": "Fri, 13 Nov 2026 04:21:33 GMT",
+      "source": "Traders Union",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 18.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -220,5 +249,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-13T22:32:58.881663+00:00"
 }
