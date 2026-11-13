@@ -20,18 +20,46 @@
   ],
   "landed": [
     {
-      "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
-      "published": "Wed, 11 Nov 2026 12:43:42 GMT",
-      "source": "CMB News",
-      "sector": "Sugar & Ethanol",
+      "title": "India should own chip designs, not just host foreign fabs: Misra - The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRUFTT1NseG84MlYtSnRCM01hQi10dV95a0FLZlAxcTA2Vk83aHluV1gwWG0tTVZ6Mm9MZVl0aEh1dWhUMHNMb3hFV3NJeGhCYVZnVlFlT25VTllZTHBPLUVSQ21zWmV3WlF3d1ZzQmFaODhta3N5dzVoWTZmTkN5X1d2STR0aWNCMWZ5ZDZJX3pGMVNJRjdCQ2ZHMlBnekFKWGxtSXRJNTh6OUE1VWVKcXJ2cmxoY2UwV3l6VURBanVvTy1STmfSAcYBQVVfeXFMTUVBU09TbHhvODJWLUp0QjNNYUItdHVfeWtBS2ZQMXEwNlZPN2h5bldYMFhtLU1WejJvTGVZdGhIdXVoVDBzTG94RVdzSXhoQmFWZ1ZRZU9uVU5ZWUxwTy1FUkNtc1pld1pRd3dWc0JhWjg4bWtzeXc1aFk2Zk5DeV9Xdkk0dGljQjFmeWQ2SV96RjFTSUY3QkNmRzJQZ3pBSlhsbUl0STU4ejlBNVVlSnFydnJsaGNlMFd5elVEQWp1b08tUk5n?oc=5",
+      "published": "Thu, 12 Nov 2026 21:53:07 GMT",
+      "source": "The Hans India",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
-        "PRICING"
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 31.2
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 2.4
+    },
+    {
+      "title": "RBI approves Pratap Singh as Fino Payments Bank MD & CEO - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd1FfLXI4WG9VQ1lFTHJqcXZ1b0N1OXZ0RHlVb3NRa1I5UC05OFBhOGQ4RUZPR1Yzd282aVlCUjQ2d05qdWNLN3liNS1pTTBYTGpjcEE5YUlKRk51T1prMk82XzNaWEJZWnhfX1pGQzJIYTk1NDg1bExWMVhwYjRwWmN3OVh2OUp3NTFWdjRhcmJaYjJ0dnNKc2NiTzRRVWlzOVBDUmJ4SktnTkF2?oc=5",
+      "published": "Thu, 12 Nov 2026 21:26:13 GMT",
+      "source": "scanx.trade",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 2.8
+    },
+    {
+      "title": "UK Extends 269 Import Tariff Suspensions, Offering Fresh Cost Relief to Chemical Manufacturers - ChemAnalyst",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWp5NzVVQThDUDQ3aFdjcUdvNjczS1V2MHY1WHlNVDczZEcxeHN4WjZ6S241M0FIcHVaTk40YUVOYm5RQ0lvd1dwajBxT2IwYmhQZzRDd1Foc0VvYTdpblA2UE9MQjg4eXo1MXN5M0V3UzdLWkFnQXdHVThmQW92T0NJY2xUbzJ4Rl9HY3VWbzhTbFdGa0piUVJtX3VnVEFpSEVoQXpET3FMeHhya3U3bTRfei1xUkU4RHRZTmdPeml0dlpt?oc=5",
+      "published": "Thu, 12 Nov 2026 13:31:09 GMT",
+      "source": "ChemAnalyst",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 10.7
     }
   ],
   "opportunities": [
@@ -235,5 +263,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-13T00:14:26.318198+00:00"
 }
