@@ -20,18 +20,18 @@
   ],
   "landed": [
     {
-      "title": "Passenger vehicle sales hit record 5.19 lakh units in October ahead of Diwali: SIAM - Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQlB3eG5qRXc3Q08wU0haVGNudkl4dW8zM000SDAxeW9aNnc1eG5iZ3F2MEhSTTV3cTE3Z3B5RGhSYmYycjVVUVVDakRabVFTUG0wbE1BRUM1ZktoWmFlMTEwaFhrSDJWTkpmRDEtMlFWZUw2SUNXdFRaSEM3UnJYZGxPSGdPVFBuai1yN1U5SmZycGpSSEJtejRYWEc5OGZXRDdKRURJenlybVIzNHd1RUFnRHp3MHdJMlVQUkxzcGJrbEJCZUEzZEh5aUJad3Z5d3ZV?oc=5",
-      "published": "Fri, 13 Nov 2026 16:28:25 GMT",
-      "source": "Deccan Herald",
-      "sector": "Auto & Components",
+      "title": "Japan warns defence contractors of potential cuts to military orders amid fiscal constraints: Report - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQWJ1WEd6N25aSmthVnFXZXdIMEJ3Y1JKQW04NE1CUmJJTmhEOGZOV1Z5aXdVaDV2N3M1V2RJdG5TVTFtNkdSbDNCM25yMnRTcjdPNFc0a2lUY09VLXFtX2VjLVBLLWJ5YXdsZjNtdXNTU0VpR2J5TFJkLU1lUWRqX0wxOWxrQ1JTT05zNEcwNE9WdnpuY09QMUdfU0FadEdva2RRX0dBaVJyVnJYTUUwWEJPNHZ2THFjV3pWb05Fc2dyeUFkQmRmQ2NvUG9BMmZmN2U4ZTVGZnpWX3gzaWxVSWZoVHB4M01tMmJmWi1tWW9KRkdybGdHMDQ0YWVUbHFqSnJ6dnNB0gH_AUFVX3lxTE5FVTFRNEw2N1RXSzNSS2cwYXQ0S1ZNTjBxUm9kbG1aTm1hY1dvV2s4NzlqdTlYQ0pWZ1hjUlE4a0w1cDE2ejRNZVcwNFBIam9vTXZ0OUF4ZmhSVk83SkJzV0F1MURRbTR5RGlUUXl3RHdSb0t1U1I0VWU3RlpEYzJfR0xZZkxDX0NLc0l3YXBhWV9mdVR0enpZZ1BmU3JlOFBXMHVJQmJHS2FZOTE4WTRVY2lGdDlzOHFqR0VRRkxQblQ2NDN1TGRBRnhqZzRlVEh5Ui1qeDV1UGkxeE00YUxvLVlBMWhnd1J5Vm8xd2ZkdjZrMmV1dTFVbGMxckRjbw?oc=5",
+      "published": "Fri, 13 Nov 2026 04:13:28 GMT",
+      "source": "The Economic Times",
+      "sector": "Defence & Aerospace",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 6.1
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 22.9
     },
     {
       "title": "RBI money market operations record liquidity absorption, with overnight volume at 789,769.30 crore rupees - Traders Union",
@@ -45,7 +45,7 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 18.2
+      "freshness_hours": 22.8
     }
   ],
   "opportunities": [
@@ -250,5 +250,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-13T22:32:58.881663+00:00"
+  "landed_updated_utc": "2026-11-14T03:07:38.417105+00:00"
 }
