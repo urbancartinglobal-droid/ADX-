@@ -33,18 +33,32 @@
   ],
   "landed": [
     {
-      "title": "Drug regulator halts obeticholic acid production, orders recall - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3BEY1dad1BGV0ZNYmtfWWVuWWVQSG12MlJ0SmdkU2Q0cUdXS1dQU09WSTNKNERRMWNiYk5sN2E1TzZtakFtV3FURV95eFl0dUVkZGJCUzRLQ2I2ckotT0VnU1kxanFoSG5fMGE5YUNGQzRqeGJIN2c3LTczOHNoWEthY0NpYTlmNVdJQ0hzSlFsODB3MzdYbndub1Zma19MT3NldlpzdzdRU1o4M0RNZzE4R1I5T2FpWGfSAb8BQVVfeXFMT0h4QVVCMXk3Y0pNaEFQZnpEYWY3ZWMweXdaem1sdjBZWGZYejdOUGFVNXpqM3BRM184NjRnRHZSV01KM0wzZzVORjBxOERPLVZFTm9nZVgxN2xQSHVHWUFXMGV2a0lCb1l4T2xYclRIbVF6dm1wUzhWME8zdm90cGFIcnQwR3BXNmpEamU3bEdtZnh6RFJCLVlMZFRsMzNkeU9zNFRNWk1HOFhPX3ZnNHFLNk1ZYUUzdS1hU1hPbUU?oc=5",
-      "published": "Sat, 14 Nov 2026 00:30:33 GMT",
-      "source": "Livemint",
-      "sector": "Pharma & Healthcare",
+      "title": "Bulk Specialty Gases Market To 2035: Semiconductor Fab Expansion Supports Forward Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNai1Edi1sek5uV1NyX2NDTHN3dmM3cndsZkVoMGowcExNUmhuWTRFWXpwc1BDM1BiS1RGb0JHMFMwNFpjQ3h1ZFF0b1NRaTB5WWxLSG5jbUVBdlpUajNLXzUzam45UlZHV1F1Y0Q0dWpNTF9IZDV2VExZUzh4YTk2VW1xOGk4QUV5V051ZUdNRkJ3Q1BSOWdVeVpoN3FmZVBaWHRlU3dTd29TWXpEa1VGTkVaTnBUMFVVLXhjaFJDLVcwYjA?oc=5",
+      "published": "Sat, 14 Nov 2026 04:51:10 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
       "triggers": [
-        "ORDERS"
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 5.9
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 6.5
+    },
+    {
+      "title": "Bank Credit Growth Remains above 19% for Fourth Consecutive Month in October 2026 - Thekanal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalY2WnF3WFI3dW04cE8yWm9WVHhiWjZXbTAxUDNXbXJzMDkzV0pxdzItd3JjV1lYOHRybEJheDRISUt6eTlzNzltMDZjbDRlbF9Vc2VQQlRTY2Y3NVVITWliNUpMV3RqYllNb2tyWmJKUEM0NjZRVjd1ZEVhNFRxQnhVYXZjTzJFQ21QbHNucTlWblVOS0szYjc4OXRZZnY4SzNoc2RoYXdBM0UzczlvY19kOXpZMjJwNTNlUw?oc=5",
+      "published": "Sat, 14 Nov 2026 09:44:46 GMT",
+      "source": "Thekanal",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 1.7
     }
   ],
   "opportunities": [
@@ -262,5 +276,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-14T11:23:53.091848+00:00"
 }
