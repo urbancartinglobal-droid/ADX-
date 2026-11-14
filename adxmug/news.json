@@ -1,9 +1,22 @@
 {
-  "updated_utc": "2026-11-13T19:43:19.198712+00:00",
+  "updated_utc": "2026-11-14T06:25:27.264607+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [
+    {
+      "title": "Drug regulator halts obeticholic acid production, orders recall - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3BEY1dad1BGV0ZNYmtfWWVuWWVQSG12MlJ0SmdkU2Q0cUdXS1dQU09WSTNKNERRMWNiYk5sN2E1TzZtakFtV3FURV95eFl0dUVkZGJCUzRLQ2I2ckotT0VnU1kxanFoSG5fMGE5YUNGQzRqeGJIN2c3LTczOHNoWEthY0NpYTlmNVdJQ0hzSlFsODB3MzdYbndub1Zma19MT3NldlpzdzdRU1o4M0RNZzE4R1I5T2FpWGfSAb8BQVVfeXFMT0h4QVVCMXk3Y0pNaEFQZnpEYWY3ZWMweXdaem1sdjBZWGZYejdOUGFVNXpqM3BRM184NjRnRHZSV01KM0wzZzVORjBxOERPLVZFTm9nZVgxN2xQSHVHWUFXMGV2a0lCb1l4T2xYclRIbVF6dm1wUzhWME8zdm90cGFIcnQwR3BXNmpEamU3bEdtZnh6RFJCLVlMZFRsMzNkeU9zNFRNWk1HOFhPX3ZnNHFLNk1ZYUUzdS1hU1hPbUU?oc=5",
+      "published": "Sat, 14 Nov 2026 00:30:33 GMT",
+      "source": "Livemint",
+      "feed": "Pharma & Healthcare",
+      "description": "Drug regulator halts obeticholic acid production, orders recall Livemint",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "ORDERS"
+      ],
+      "signal_score": 22.0
+    },
     {
       "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
@@ -15,40 +28,56 @@
       "triggers": [
         "PRICING"
       ],
-      "signal_score": 19.3
+      "signal_score": 18.2
     }
   ],
   "landed": [
     {
-      "title": "Japan warns defence contractors of potential cuts to military orders amid fiscal constraints: Report - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQWJ1WEd6N25aSmthVnFXZXdIMEJ3Y1JKQW04NE1CUmJJTmhEOGZOV1Z5aXdVaDV2N3M1V2RJdG5TVTFtNkdSbDNCM25yMnRTcjdPNFc0a2lUY09VLXFtX2VjLVBLLWJ5YXdsZjNtdXNTU0VpR2J5TFJkLU1lUWRqX0wxOWxrQ1JTT05zNEcwNE9WdnpuY09QMUdfU0FadEdva2RRX0dBaVJyVnJYTUUwWEJPNHZ2THFjV3pWb05Fc2dyeUFkQmRmQ2NvUG9BMmZmN2U4ZTVGZnpWX3gzaWxVSWZoVHB4M01tMmJmWi1tWW9KRkdybGdHMDQ0YWVUbHFqSnJ6dnNB0gH_AUFVX3lxTE5FVTFRNEw2N1RXSzNSS2cwYXQ0S1ZNTjBxUm9kbG1aTm1hY1dvV2s4NzlqdTlYQ0pWZ1hjUlE4a0w1cDE2ejRNZVcwNFBIam9vTXZ0OUF4ZmhSVk83SkJzV0F1MURRbTR5RGlUUXl3RHdSb0t1U1I0VWU3RlpEYzJfR0xZZkxDX0NLc0l3YXBhWV9mdVR0enpZZ1BmU3JlOFBXMHVJQmJHS2FZOTE4WTRVY2lGdDlzOHFqR0VRRkxQblQ2NDN1TGRBRnhqZzRlVEh5Ui1qeDV1UGkxeE00YUxvLVlBMWhnd1J5Vm8xd2ZkdjZrMmV1dTFVbGMxckRjbw?oc=5",
-      "published": "Fri, 13 Nov 2026 04:13:28 GMT",
-      "source": "The Economic Times",
-      "sector": "Defence & Aerospace",
+      "title": "Drug regulator halts obeticholic acid production, orders recall - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3BEY1dad1BGV0ZNYmtfWWVuWWVQSG12MlJ0SmdkU2Q0cUdXS1dQU09WSTNKNERRMWNiYk5sN2E1TzZtakFtV3FURV95eFl0dUVkZGJCUzRLQ2I2ckotT0VnU1kxanFoSG5fMGE5YUNGQzRqeGJIN2c3LTczOHNoWEthY0NpYTlmNVdJQ0hzSlFsODB3MzdYbndub1Zma19MT3NldlpzdzdRU1o4M0RNZzE4R1I5T2FpWGfSAb8BQVVfeXFMT0h4QVVCMXk3Y0pNaEFQZnpEYWY3ZWMweXdaem1sdjBZWGZYejdOUGFVNXpqM3BRM184NjRnRHZSV01KM0wzZzVORjBxOERPLVZFTm9nZVgxN2xQSHVHWUFXMGV2a0lCb1l4T2xYclRIbVF6dm1wUzhWME8zdm90cGFIcnQwR3BXNmpEamU3bEdtZnh6RFJCLVlMZFRsMzNkeU9zNFRNWk1HOFhPX3ZnNHFLNk1ZYUUzdS1hU1hPbUU?oc=5",
+      "published": "Sat, 14 Nov 2026 00:30:33 GMT",
+      "source": "Livemint",
+      "sector": "Pharma & Healthcare",
       "triggers": [
-        "MATERIAL CHANGE"
+        "ORDERS"
       ],
       "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 22.9
-    },
-    {
-      "title": "RBI money market operations record liquidity absorption, with overnight volume at 789,769.30 crore rupees - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZldEOGU1X0pxenJtOVpCTzdJZXQwUzFBbWdHcnhkdElIclFyTW1QVHRoc0RqaWwzZ3N2RlZDZUp2THV1bHVYUXJzbWpWM2NzcjMtcllyazNIc05FMHhCTk40TnBiSjdJN3FFMk51d3VuRF9vekFSNWJBLUFuSHV4S2FqRVdEU19kR3NDSDc5ZGlYMmszV2ZNVG9IRQ?oc=5",
-      "published": "Fri, 13 Nov 2026 04:21:33 GMT",
-      "source": "Traders Union",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 22.8
+      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
+      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
+      "freshness_hours": 5.9
     }
   ],
   "opportunities": [
+    {
+      "industry": "Pharma & Healthcare",
+      "score": 20,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "ORDERS"
+      ],
+      "evidence": [
+        {
+          "title": "Drug regulator halts obeticholic acid production, orders recall - Livemint",
+          "source": "Livemint",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3BEY1dad1BGV0ZNYmtfWWVuWWVQSG12MlJ0SmdkU2Q0cUdXS1dQU09WSTNKNERRMWNiYk5sN2E1TzZtakFtV3FURV95eFl0dUVkZGJCUzRLQ2I2ckotT0VnU1kxanFoSG5fMGE5YUNGQzRqeGJIN2c3LTczOHNoWEthY0NpYTlmNVdJQ0hzSlFsODB3MzdYbndub1Zma19MT3NldlpzdzdRU1o4M0RNZzE4R1I5T2FpWGfSAb8BQVVfeXFMT0h4QVVCMXk3Y0pNaEFQZnpEYWY3ZWMweXdaem1sdjBZWGZYejdOUGFVNXpqM3BRM184NjRnRHZSV01KM0wzZzVORjBxOERPLVZFTm9nZVgxN2xQSHVHWUFXMGV2a0lCb1l4T2xYclRIbVF6dm1wUzhWME8zdm90cGFIcnQwR3BXNmpEamU3bEdtZnh6RFJCLVlMZFRsMzNkeU9zNFRNWk1HOFhPX3ZnNHFLNk1ZYUUzdS1hU1hPbUU?oc=5",
+          "triggers": [
+            "ORDERS"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal ORDERS; 1 distinct story clusters; 1 fresh evidence items.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 1
+    },
     {
       "industry": "Sugar & Ethanol",
       "score": 20,
@@ -232,23 +261,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Pharma & Healthcare",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-14T03:07:38.417105+00:00"
+  ]
 }
