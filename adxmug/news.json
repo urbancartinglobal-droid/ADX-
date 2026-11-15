@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-15T06:35:12.506288+00:00",
+  "updated_utc": "2026-11-15T18:52:09.719543+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,70 +15,11 @@
       "triggers": [
         "PRICING"
       ],
-      "signal_score": 15.6
+      "signal_score": 14.4
     }
   ],
-  "landed": [
-    {
-      "title": "Polysilicon Market To 2035: Fab Capacity Expansion Supports Forward Growth - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ0prWVdKQkxfdFNQRmZtbjNaRFEtQlh1a094OGpVcW9vaUs1enllcERzVmMwY1BvZFI3dk1UVVJFZkx1LWV4MzYtTFpxRXByTmh5VGV0elp0N1pYNHU2eUlUUmdBcV91MEJydDNJc0V6bHNwTkdMS0lOZTkwcmNfemZMbWJUWEdjdU9sUWhzV0JiMmtrNHlxaDBqRDh1UlRhLUlHVUgzVFN4SUc5X1loTWE3UWd3UEk?oc=5",
-      "published": "Sun, 15 Nov 2026 13:56:05 GMT",
-      "source": "IndexBox",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.7
-    },
-    {
-      "title": "Sell Tata Motors Passenger Vehicles Ltd For Target Rs.240 by Motilal Oswal Financial Services Ltd - Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb0xzNUR2dWF2SDFhS0sxZ29ubzFJMVNwY0p1UEs0eDR0TTFNUTV3cDBFdFBmbzJaWGRsTGtzN2UwelVQWnBOT3I5SWdSMk1NMW9iUUJocGozcnhZRnpER0RlUHd5SDdQR3JPUHA2SHJNbkNWRzZIMDItUk5TUUZIYks1aHF6cXBUc1p1Y0pxZ2hrdmVxVFl2bTdlYUZpSFpFYktkZ1RyN1BBWlNPckFwSHIxdzlKazF0cmVOU3poZ1ItVUhhSkEzQURLYWROdXo2MjVNSGIzTk5yUGxCUTVV?oc=5",
-      "published": "Sun, 15 Nov 2026 04:00:20 GMT",
-      "source": "Investment Guru India",
-      "sector": "Auto & Components",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 13.7
-    }
-  ],
+  "landed": [],
   "opportunities": [
-    {
-      "industry": "Sugar & Ethanol",
-      "score": 20,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
-          "source": "CMB News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal PRICING; 1 distinct story clusters; 1 fresh evidence items.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 1
-    },
     {
       "industry": "Power & Grid",
       "score": 18,
@@ -101,6 +42,36 @@
       "confidence": "low",
       "watch": "MONITOR",
       "reason": "Cross-signal PRICING; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Rail & Infrastructure",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "CAPEX"
+      ],
+      "evidence": [
+        {
+          "title": "Cabinet Approves Rs 130.41 Billion Railway And Highway Projects Across Five States - Construction World",
+          "source": "Construction World",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNnJQbU5lbmt6ZE1vQ0ZsN0FocE5kS2dRbDBSS3hta1pOVXZHdUZwUF82b3BvTHhFOTJlWnZFaGE2eTdUNHUzdUVLbE10UnN6OVpUaXBjalk4WnhiVzRVTTVfSXhUU3haLXotd2RYS21aOXJDMTViX0w1aml4VHZ0Yzlma1JBRXVVZTJuSzcwOGJHSUNSTWR0X3NoSXV3eTlGTlVHRUhabHFfOEszYWpkY3E1ZVA4ZFo3c2tLT21PQzJobFdQc3dOekF0VDNTYXJWZzhsbVdOaGFJWkhJNjlCTmtsNVdFaTd5bmY2MWd5QWRuRy1feFpKUXV1R3pKYTFjbGF0b0VOQ1Ztd25h?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
@@ -170,6 +141,36 @@
       "fresh_count": 0
     },
     {
+      "industry": "Sugar & Ethanol",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
+          "source": "CMB News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Defence & Aerospace",
       "score": 0,
       "article_count": 0,
@@ -187,22 +188,6 @@
     },
     {
       "industry": "Electronics & Semiconductors",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Rail & Infrastructure",
       "score": 0,
       "article_count": 0,
       "trigger_count": 0,
@@ -249,6 +234,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-15T17:40:13.495083+00:00"
+  ]
 }
