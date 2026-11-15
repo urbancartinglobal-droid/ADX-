@@ -18,7 +18,50 @@
       "signal_score": 15.6
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Vaishnaw Calls For Domestic Chipmaking Equipment As India Expands Semiconductor Industry - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU9VTDhMLWVJY2t4aF9NM2tGd1RYOUs4MXNKb1JmbGxCVmktSkR0c0tYcnI2OExlX1VxcEdXM25fcnN0ejRRQWZZWnZPNnlnc05aak41WENUa1hNUkFtb3VNZE45TFI0T1JrWjdRM3ZFQTJYVXF4UDI1OVNJUnl6M25oUk1sM3pNSTlybmI5TTRmcW1WdHVCZ1hVQ0c4b3RvTVVDVU9RSFRzMG8?oc=5",
+      "published": "Sat, 14 Nov 2026 18:04:21 GMT",
+      "source": "The 420.in",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 16.7
+    },
+    {
+      "title": "USFDA Stops Issuing New Priority Vouchers, Executive Council Goes Dormant: Report - Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcDFid1JUaTlWTVJKS1VMYnR5OENDVnhqdVA5WHV2bmdkRlJWMkNwMjFUS0tabFpFMF80WVRnMFI1aFhncWhOTmkwSUY5dWR3dmt1eW1kTk9Mc3Jva0x1TnNvNjBWdDUxMkVMSkpjNl9UaUcxM244ZG5jV3pSSTJuOU9MYmdqSlVQZmc2TWl6WGJubkZHR1B4a3c1S0VMankyZ19udkR3YVZXX1R3b284RHFvYWdXOUpHOWFNRXVtQ1FVUmVTMlRvMXJiUVk3Qmgw0gHWAUFVX3lxTE9sUldNU3dDV2lEa3dIMnhiVmlaSGl5M1VITGJKWW90TXZSQ25vWGRUdGducHZJQ3ZUWFlsaHpjVXJfUUlGbEJuMDdKNjdUd1RzQVB2Y0VUN2xZcllhbmtqV3BHMG1IYWJQQVNJRmJRQkxmQ0lrOWdhUlJVU0htd1I0NklqOE92d3ZPbG5EaDg3WENMLUVqNDZDcDMxbkpmT3hwOUgwSTRoYmYwNTRRcENpaVJXZWdCY051SHc3YWwzZEF3V1lRQWo2bjVkT19CMDBGZF9XZnc?oc=5",
+      "published": "Sun, 15 Nov 2026 05:30:21 GMT",
+      "source": "Medical Dialogues",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 5.2
+    },
+    {
+      "title": "Sugar industry facing financial crisis; India may face sugar shortage next season: Harshvardhan Patil - ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYnc4R1ZCMGhLbzVlTEpHVGd4U0RBSWJzNGM1Z1RaMlUzRmNwcjJUQTFkNTZpeTlyR0FoS19VenBjTmlGcmdRT2I1QmtvSWctVVREbGdQVUl0VGxnX3g2VVd3UDVRa09kaXRaYTV4eGJlX3N5bmJ2SU9GSWx3Zk1MUzhrbi1naXc1a0dBRXZLOVBaNktxSHlpdF9MaUNlY1VxNTBDLXpXSFpsa1hQRjAtOUNMakNqQVhLTnRac3lGei16ODQweEE?oc=5",
+      "published": "Sat, 14 Nov 2026 12:18:03 GMT",
+      "source": "ChiniMandi",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 22.4
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -220,5 +263,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-15T10:43:26.668236+00:00"
 }
