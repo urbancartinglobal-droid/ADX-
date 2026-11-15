@@ -18,7 +18,36 @@
       "signal_score": 14.4
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Indian auto companies face cost pressures amid AI-led chip shortage - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbVQwaXlEdWFoLXZYZlg1QkdyVG9Gb2JjM2JPQ0JpTjRUbHFBS09NTk4xZTIyX0gxV1pBZU1wMGZwUDNTc1ktZmd4cHRZbkpwZDVEVHlIRnpWV2xaWXgwdGdpblhnVGE4SjU2RGtTeDBCMDVzam53ZzRMdzh2X3RjTXlqWU9RWkJHaXl4U09zSVBfUklmdmpDSHdobWYxTnBGa0RoNk5vc3FIZjhocGZzTGpFMU5ldlJMVUhNRXZBUEJsdnpTTHYtN3hUb0treVJp0gHWAUFVX3lxTFBMTVVpaS01eWI5XzhkV1Jmc2RQNzlseEFrTllBMGN6NDZTVlFROW5RT2Y3QTFVbmFXcVRKdXF2Yy14RnNuNFU0Q0k1UUNEWlBhZUtCa2xvYlRhYnFZNWtxSlpQc3oxaFNzdC1mMGFlRjJ5RlV3Sm4zOWVPdjUwQVJCOFl0UVVOVVE4c1BzcmFFOXV6MkwtbHBWLWdCZU0wU0d0cllnU1hJSGZ4V0RlN3F4ZEpISUo2UktybnJITVB6VDhlODVmaU5aNTBZcUQ1ejBDTDkwNHc?oc=5",
+      "published": "Sun, 15 Nov 2026 18:09:30 GMT",
+      "source": "Business Standard",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 4.6
+    },
+    {
+      "title": "USFDA Stops Issuing New Priority Vouchers, Executive Council Goes Dormant: Report - Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcDFid1JUaTlWTVJKS1VMYnR5OENDVnhqdVA5WHV2bmdkRlJWMkNwMjFUS0tabFpFMF80WVRnMFI1aFhncWhOTmkwSUY5dWR3dmt1eW1kTk9Mc3Jva0x1TnNvNjBWdDUxMkVMSkpjNl9UaUcxM244ZG5jV3pSSTJuOU9MYmdqSlVQZmc2TWl6WGJubkZHR1B4a3c1S0VMankyZ19udkR3YVZXX1R3b284RHFvYWdXOUpHOWFNRXVtQ1FVUmVTMlRvMXJiUVk3Qmgw0gHWAUFVX3lxTE9sUldNU3dDV2lEa3dIMnhiVmlaSGl5M1VITGJKWW90TXZSQ25vWGRUdGducHZJQ3ZUWFlsaHpjVXJfUUlGbEJuMDdKNjdUd1RzQVB2Y0VUN2xZcllhbmtqV3BHMG1IYWJQQVNJRmJRQkxmQ0lrOWdhUlJVU0htd1I0NklqOE92d3ZPbG5EaDg3WENMLUVqNDZDcDMxbkpmT3hwOUgwSTRoYmYwNTRRcENpaVJXZWdCY051SHc3YWwzZEF3V1lRQWo2bjVkT19CMDBGZF9XZnc?oc=5",
+      "published": "Sun, 15 Nov 2026 05:30:21 GMT",
+      "source": "Medical Dialogues",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 17.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Power & Grid",
@@ -234,5 +263,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-15T22:45:07.632158+00:00"
 }
