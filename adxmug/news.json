@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-15T18:52:09.719543+00:00",
+  "updated_utc": "2026-11-16T06:31:53.024780+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,70 +15,11 @@
       "triggers": [
         "PRICING"
       ],
-      "signal_score": 14.4
+      "signal_score": 13.1
     }
   ],
-  "landed": [
-    {
-      "title": "Indian auto companies face cost pressures amid AI-led chip shortage - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbVQwaXlEdWFoLXZYZlg1QkdyVG9Gb2JjM2JPQ0JpTjRUbHFBS09NTk4xZTIyX0gxV1pBZU1wMGZwUDNTc1ktZmd4cHRZbkpwZDVEVHlIRnpWV2xaWXgwdGdpblhnVGE4SjU2RGtTeDBCMDVzam53ZzRMdzh2X3RjTXlqWU9RWkJHaXl4U09zSVBfUklmdmpDSHdobWYxTnBGa0RoNk5vc3FIZjhocGZzTGpFMU5ldlJMVUhNRXZBUEJsdnpTTHYtN3hUb0treVJp0gHWAUFVX3lxTFBMTVVpaS01eWI5XzhkV1Jmc2RQNzlseEFrTllBMGN6NDZTVlFROW5RT2Y3QTFVbmFXcVRKdXF2Yy14RnNuNFU0Q0k1UUNEWlBhZUtCa2xvYlRhYnFZNWtxSlpQc3oxaFNzdC1mMGFlRjJ5RlV3Sm4zOWVPdjUwQVJCOFl0UVVOVVE4c1BzcmFFOXV6MkwtbHBWLWdCZU0wU0d0cllnU1hJSGZ4V0RlN3F4ZEpISUo2UktybnJITVB6VDhlODVmaU5aNTBZcUQ1ejBDTDkwNHc?oc=5",
-      "published": "Sun, 15 Nov 2026 18:09:30 GMT",
-      "source": "Business Standard",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 8.5
-    },
-    {
-      "title": "USFDA Stops Issuing New Priority Vouchers, Executive Council Goes Dormant: Report - Medical Dialogues",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcDFid1JUaTlWTVJKS1VMYnR5OENDVnhqdVA5WHV2bmdkRlJWMkNwMjFUS0tabFpFMF80WVRnMFI1aFhncWhOTmkwSUY5dWR3dmt1eW1kTk9Mc3Jva0x1TnNvNjBWdDUxMkVMSkpjNl9UaUcxM244ZG5jV3pSSTJuOU9MYmdqSlVQZmc2TWl6WGJubkZHR1B4a3c1S0VMankyZ19udkR3YVZXX1R3b284RHFvYWdXOUpHOWFNRXVtQ1FVUmVTMlRvMXJiUVk3Qmgw0gHWAUFVX3lxTE9sUldNU3dDV2lEa3dIMnhiVmlaSGl5M1VITGJKWW90TXZSQ25vWGRUdGducHZJQ3ZUWFlsaHpjVXJfUUlGbEJuMDdKNjdUd1RzQVB2Y0VUN2xZcllhbmtqV3BHMG1IYWJQQVNJRmJRQkxmQ0lrOWdhUlJVU0htd1I0NklqOE92d3ZPbG5EaDg3WENMLUVqNDZDcDMxbkpmT3hwOUgwSTRoYmYwNTRRcENpaVJXZWdCY051SHc3YWwzZEF3V1lRQWo2bjVkT19CMDBGZF9XZnc?oc=5",
-      "published": "Sun, 15 Nov 2026 05:30:21 GMT",
-      "source": "Medical Dialogues",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 21.2
-    }
-  ],
+  "landed": [],
   "opportunities": [
-    {
-      "industry": "Power & Grid",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
-          "source": "POWER Magazine",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
     {
       "industry": "Rail & Infrastructure",
       "score": 18,
@@ -232,6 +173,22 @@
       "fresh_count": 0
     },
     {
+      "industry": "Power & Grid",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
+    },
+    {
       "industry": "Banking & Financials",
       "score": 0,
       "article_count": 0,
@@ -263,6 +220,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-16T02:41:37.124803+00:00"
+  ]
 }
