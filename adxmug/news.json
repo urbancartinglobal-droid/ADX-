@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-16T06:31:53.024780+00:00",
+  "updated_utc": "2026-11-16T22:03:58.960161+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
@@ -15,54 +15,41 @@
       "triggers": [
         "PRICING"
       ],
-      "signal_score": 13.1
+      "signal_score": 11.5
     }
   ],
-  "landed": [
-    {
-      "title": "India's IG Defence Signs MoU for 200-Acre Missile Development Complex in Andhra Pradesh - Defense Mirror",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQTlzYnE5YkdsTjZFb2FyZGlHSWhGcmtCZ3Jmblp0UGIxd2IwblE4Wmx0U1F3Vm56M1BTMV9pZUYtX0pFVWNnUzVkYzVwOVNrdjhMUUJiWkl3U25OZUJ2UUJ3bW1KQTM5YzlNRmRMdGp2UDh6Ml95Rm1jWjM5VEE5d1UzMTRjWWVUQWVMdXBMUnY4UlJKNkdWQXhONWlfNmxHNzIzNXh2SlEyTTJwQ0luaVBFTF9QbGVCWWxHek0tR2hldw?oc=5",
-      "published": "Mon, 16 Nov 2026 08:45:36 GMT",
-      "source": "Defense Mirror",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 12.2
-    },
-    {
-      "title": "USFDA approves Biocon’s perjeta biosimilar pebrilzo - Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNDhRdDhhVmJOQUNMQ2QzYklUQ2ZqWktNQmY5MlpEYldWUlBEUkZERlcxX1MyaGNWYi1TNGl3ZXQwd1p1WVRCWlhSWllXZDhLUzFxN2VDTzctc2JGRjUxUEdYUVNxV2R3cFNwakJpczBydHkxVE9DYVozdy1oeE1VMDdTdXdvWHY0c05USUQ3SHd2RzNCdU41TWV0SFdEaWlMTHfSAagBQVVfeXFMUGRES01DM1UwNGY0VE9zRWp6aklTVXB2UmFsS1ZzbHhiemV2bUdnQmwteDF6LXpzOUpfMTRQbE9HQXlQTUFMU1NCeGJXbTFuXzE5dDZVNVhpb01ZYTZUV2FEbUt4NDdBcER1dnZiOGhlTDE3OUZWdVR5SzJkclJNNFpBeHhPQmhBQnlReS1kdGdnVHl4QkVfdWhOaWJWNzZiTHRLMl9jQWtM?oc=5",
-      "published": "Mon, 16 Nov 2026 13:46:39 GMT",
-      "source": "Indian Pharma Post",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 7.2
-    },
-    {
-      "title": "United Forum of IDBI Bankers Urges RBI to Withhold Approval for Proposed Disinvestment, Raises Concerns Over Fairfax Acquisition - Thekanal",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVmVlUU4xYkNPM3ZYd05JeF9fS09GYVJJejVmQzBHZlJjQ0pGTGZlSHV4SElwU1F0RXNhRTNmblhUNlNtS3Jockg5eEVNc2FUVEo3V2JJQTFZSjV5SGtpT0F6ODI2OTcwYTJXRGN6VmxGek1HZlk1dUllYnNma0JRMUFOdGZfV2dJM1NQZnl2X2JOcDg5V2ljX04yTkYzcG42Y3NnRUMwNGc1Z0ZXT092a2YwTDRmN19nejN2MXdSeURKV2praVlETlRuN2J2dEFMYTI5VXdsTGVaN2JydWJzTm5xc2k2SmdQMGxGOGd5bFNqa0NlUmpDNnQ5cw?oc=5",
-      "published": "Mon, 16 Nov 2026 08:23:05 GMT",
-      "source": "Thekanal",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 12.6
-    }
-  ],
+  "landed": [],
   "opportunities": [
+    {
+      "industry": "Power & Grid",
+      "score": 18,
+      "article_count": 1,
+      "trigger_count": 1,
+      "triggers": [
+        "PRICING"
+      ],
+      "evidence": [
+        {
+          "title": "Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis? - POWER Magazine",
+          "source": "POWER Magazine",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcm55Rl8xTUZKenlHTl95c191TzBMTVhOdHAtZTFaYWctTDdfQ1F4WVA3aUdvWURlcFJMSEZXVlVVdFpLNHhQXzN3T2c3U3hPS0ZHN2VmQUlWTXZhamNBSDF4VDVlS3NiampHaVFYdFlicVBtQTdCZHNyRWRUcFJvN0N4dUlPck1ZQ0xNMFl5SEVrelU?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 1,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
     {
       "industry": "Rail & Infrastructure",
       "score": 18,
@@ -115,36 +102,6 @@
       "confidence": "low",
       "watch": "MONITOR",
       "reason": "Cross-signal POLICY; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Chemicals & Materials",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - Indiatimes",
-          "source": "Indiatimes",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbjdHWW5JN3ZmUlAyRXR0bUl1SjhMZUlLM1JyLUtaN1FmZk5CX2cyUG9wVVZ5bFNDcFctUE1zQ0FHbF85d1lEQm5qd1daTGc2UkNFNHBPRGRFNWY0RlVPYzNzQV9oUHVZcjdya01IS3NCZ1VjRm1ZZC1qTXN5WXJELVY5MlFET1lrMncyYVQ4eXdfVlhTOGxHTVdxMHRQeGRSc2hwS1doM1dvMm91N2xBYWZtS0JJU216MGtWODYyYnAtdUo1azNtMzJ6TEE0SXE1dGxpUHBvQ2xlVGlkVlBPaXpjbUZaRTRmenJUdnFMaGhSSlJoT1pYWtIB_gFBVV95cUxOREpkYVRvcFhpR2RKRHRxQWVMbTlaNXpxVzE2Y3RTZXlWbDRkd0tOaUVyZ011UGg3aThJclFyd0ZQTHdNb1RYMEJNZXA4M0Fzclowc2ZtNWotVE1sZXVYZUhMUDFOWHJtVDh0VjJxX21NZVZTYWdOSHhncHVKemRXc1doYUFTS0l2eVRGUUpDQU1tZ0wyd0Z2bkNrU0NPa0tZTHZBVHJUX3FKbDBtZWppTTZrUHpfQ05yajRMNVJnR25kMENIQzlxTWhuYlNwRURNMmVKdU0ybXRQOGdkMGtaNHIwU3VaSU5iTThESVUyTGJ5M3hJVWRCbUNLbS1WQQ?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
       "source_count": 1,
       "story_clusters": 1,
       "companies": [],
@@ -216,22 +173,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Power & Grid",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
-    },
-    {
       "industry": "Banking & Financials",
       "score": 0,
       "article_count": 0,
@@ -262,7 +203,22 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
+    },
+    {
+      "industry": "Chemicals & Materials",
+      "score": 0,
+      "article_count": 0,
+      "trigger_count": 0,
+      "triggers": [],
+      "evidence": [],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
+      "source_count": 0,
+      "story_clusters": 0,
+      "companies": [],
+      "connections": [],
+      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-16T20:57:32.216933+00:00"
+  ]
 }
