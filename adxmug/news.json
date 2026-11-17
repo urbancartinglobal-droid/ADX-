@@ -18,7 +18,36 @@
       "signal_score": 10.5
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Cabinet approves Thane Integral Ring Metro Rail Project for Rs 12,200 cr - ET Infra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1AxMktXeWxiNXhiRkNTSVVuRzhrQ0pjU0J0X3p4cllGNUExUHhVZkVBd2Rzd0ltc2IydFdqTDNnRno2TXFGX3BxNllqb1c4Rmp6V3NVY3VNNlY1QXlQXzVjREc4WjgxSnExQmVRbVY5Z2tCWF8wSUIyaGJGbVdBNmxOcDFXQTVybU1uWFlSMXN3TlQwZlVmTElJRTFwOXlBN2NPd2RTZUstU1RoVFJfTTVOXy10T0hZOGZPNWV3M1NJR211aTM2WlhTWHFpRHVHdmNfNHlndmRabVhQakJqeVJIV2p2Y2VLMlgwNXNB0gHoAUFVX3lxTFAwdFNvQTJXam1XbDBvakNDOHBXV2xNeFo1b2c0YXd0OEktWDZ1VzN4cTNWUklEaW1HNjF5Y3JBZFEzNkZqMTFEd2NVQl85TGtsRmcwZGdISkZWRjZ3ZXNYWm9tVVktZGpvS2RETWFZVjR3akkwa3ZDOFk5emoyaTMzT3dtRXI3QVJXdFU3ZzBKYWtjdzRsNjE4QU1iZXU4Q2E0dlBZa0RVdFZvNXQzakdDRVJsUlZ6eGVOQU1BZnFKYUNXeVlrOG9LRGVaVU8wUG5EX21XVlZmUHp1TTdyQWNwVVRGb25oYTM?oc=5",
+      "published": "Tue, 17 Nov 2026 08:17:16 GMT",
+      "source": "ET Infra",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 4.9
+    },
+    {
+      "title": "US FDA Approves Roche's Wilserdly for Advanced Breast Cancer Treatment - Voice of Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjRJWUswaXNkOTJGZjVSQ2R3THR6ZU1zSl81RDJhQ3BSanNsMGJ4cmNoZjlYclY1VXptOXRxZGx6MTh4QU9fNmRRVVVISmliMlpNdnJleURKMHdXeXJ0c09EQWJCUUpBU1V3dlphcHpscE9DZ1pGQ0t3VXdUMS1KX1ctUzF3MWtKMG9HU0c5UjdPTjFqUlVxbzZ4Y0x4eVl1bUJ4VldnZ0I?oc=5",
+      "published": "Tue, 17 Nov 2026 08:15:00 GMT",
+      "source": "Voice of Healthcare",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 5.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Power & Grid",
@@ -206,5 +235,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-17T13:12:41.045386+00:00"
 }
