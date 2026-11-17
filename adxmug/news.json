@@ -18,7 +18,36 @@
       "signal_score": 11.5
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "India's IG Defence Signs MoU for 200-Acre Missile Development Complex in Andhra Pradesh - Defense Mirror",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQTlzYnE5YkdsTjZFb2FyZGlHSWhGcmtCZ3Jmblp0UGIxd2IwblE4Wmx0U1F3Vm56M1BTMV9pZUYtX0pFVWNnUzVkYzVwOVNrdjhMUUJiWkl3U25OZUJ2UUJ3bW1KQTM5YzlNRmRMdGp2UDh6Ml95Rm1jWjM5VEE5d1UzMTRjWWVUQWVMdXBMUnY4UlJKNkdWQXhONWlfNmxHNzIzNXh2SlEyTTJwQ0luaVBFTF9QbGVCWWxHek0tR2hldw?oc=5",
+      "published": "Mon, 16 Nov 2026 08:45:36 GMT",
+      "source": "Defense Mirror",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 19.0
+    },
+    {
+      "title": "USFDA approves Biocon’s perjeta biosimilar pebrilzo - Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNDhRdDhhVmJOQUNMQ2QzYklUQ2ZqWktNQmY5MlpEYldWUlBEUkZERlcxX1MyaGNWYi1TNGl3ZXQwd1p1WVRCWlhSWllXZDhLUzFxN2VDTzctc2JGRjUxUEdYUVNxV2R3cFNwakJpczBydHkxVE9DYVozdy1oeE1VMDdTdXdvWHY0c05USUQ3SHd2RzNCdU41TWV0SFdEaWlMTHfSAagBQVVfeXFMUGRES01DM1UwNGY0VE9zRWp6aklTVXB2UmFsS1ZzbHhiemV2bUdnQmwteDF6LXpzOUpfMTRQbE9HQXlQTUFMU1NCeGJXbTFuXzE5dDZVNVhpb01ZYTZUV2FEbUt4NDdBcER1dnZiOGhlTDE3OUZWdVR5SzJkclJNNFpBeHhPQmhBQnlReS1kdGdnVHl4QkVfdWhOaWJWNzZiTHRLMl9jQWtM?oc=5",
+      "published": "Mon, 16 Nov 2026 13:46:39 GMT",
+      "source": "Indian Pharma Post",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 14.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Power & Grid",
@@ -220,5 +249,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-17T03:45:10.710105+00:00"
 }
