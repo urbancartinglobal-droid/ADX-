@@ -18,7 +18,50 @@
       "signal_score": 9.1
     }
   ],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Indian Railways Approves Weekly Train Between Nepal’s Janakpur Dham and Ayodhya - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QRjVmbjQtUHdQazhmZzU3Q0pSLUdjSTdkTS1IV09La3NDV05sbjU0SXR1MVB5UGZLaG5IX2FYSFZLZWJfR2N3NE1uQkVjczc2bS1uODJ6WE5DR2F1WmlndzkzNEJEOU5hT3h5YmtrckFzbXIwUm5LakNHeDRhUQ?oc=5",
+      "published": "Tue, 17 Nov 2026 08:26:43 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 13.8
+    },
+    {
+      "title": "NDR Auto Components signs JV with South Korea's DYA for passenger car seats - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdlpJUEJ4X3ZPRjc1WE9NY3FSUzU3ZHNQR2g3d2tIeTB1bjZKY21JMHdkNHY0bEhibEp2WHFaMUxhWHhKM0FHdHN1MFI3U1dISno5X0FBQVFEeVNwUWpMT0gtc0VubzY2RlR1YkF5a3EzM1RBb2wybHdFbjRuQmhxWnpnb0todmlFbkVIekFzczM2TV92QWtUNm9UQlBVeG1SY1VoYTVEOWt1bHRleTluT29xV2VES3JLNUxMbjVFN2EyZVZCVi1BSWdB0gHPAUFVX3lxTFA3ME9uSmEtTFNWMkV1TVQwMlBEZ2UwU1VJREFnYnJCM3k3YWlWYm5HWE5hYTRaY0ZjdlFSdXNpM3pYNnFEY0JUOTNYRGJnTFdfamRXRmhtUkdRc21XZDFNNzRaWWxQOC02Ym9nWmQwcXFwMGl2anpBSEdiN0x1OG9vbzAzTDFmWXhiRE1CelBaRUNFZUNobk5MeUVTYlBGWlo3cnZKVE1vbmxNWEdpTW9rc1d2d0hZZnpFUHZZellWUHhSVmhhSndObElYNXpTTQ?oc=5",
+      "published": "Tue, 17 Nov 2026 18:10:27 GMT",
+      "source": "CNBC TV18",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 4.1
+    },
+    {
+      "title": "India-US ties look beyond trade deal as AI, defence and fresh investment drive growth hopes - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYklBTWtuVG82U1JNMnczNjBDUTFycnljeE9QOE5sUWE1RmZiMmhuVWJwcDl1cm43TFJoTW13RUxYd3dMV25QYWgwYnBHemZkblBFWGlUM1pPNWRtSlhJT1hubkZrZmpfdXR0LUprYnpXN200UXp5X3Qzd1NOaWxGeUZQbzM5MXd3RnU0VkNENFVaX283Wms3SU81WVVmNlRScmZQbkhrUmhfdUJHV2UxbVVzbnVSbm5wSS03R2VpUElTcFE?oc=5",
+      "published": "Tue, 17 Nov 2026 15:45:42 GMT",
+      "source": "Business Upturn",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 6.5
+    }
+  ],
   "opportunities": [
     {
       "industry": "Power & Grid",
@@ -220,5 +263,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-17T22:15:18.176588+00:00"
 }
