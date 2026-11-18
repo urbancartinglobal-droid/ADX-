@@ -1,67 +1,10 @@
 {
-  "updated_utc": "2026-11-18T07:31:03.994155+00:00",
+  "updated_utc": "2026-11-18T20:32:56.391486+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [
-    {
-      "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
-      "published": "Wed, 11 Nov 2026 12:43:42 GMT",
-      "source": "CMB News",
-      "feed": "Sugar & Ethanol",
-      "description": "India sugar market: ethanol curbs, rising cane costs and tight balance CMB News",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "PRICING"
-      ],
-      "signal_score": 8.0
-    }
-  ],
-  "landed": [
-    {
-      "title": "Defence ministry signs ₹1,976.40 crore deal with Israel Aerospace Industries to upgrade Navy’s Barak missile systems - India Sentinels",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaFJHSW1hTVhSVEp4a2JlVGcybFRkNVZHRmtaSHFxMUY4VnY3RFBwUDBQWm1ZM3RGUzhYdlZhOU91RDJ4VmxxRWJacFVIMV9FUmY5bHRlZ3U1SVpOc29aWEJROHM1WkpuRER0WnZwMWttWkZUSjNsMmtYWG5kTVcyRkUzVFhIRFg5U0tQc0thelBrRm4wZ0xLRzRCV0xxWUhHV1JYX1I2MzQ4T01rMTVzRXZ6aGpuV3IyOTVhYUpNWVg3Sm5Mb2JZcnJya0FZSnNfLVhWZUt5Mk5VZ18yZjhnQnlzZzZQWFNaTU5SRGM5VjdFN2F0dVdhTi02TVlEQQ?oc=5",
-      "published": "Wed, 18 Nov 2026 12:42:46 GMT",
-      "source": "India Sentinels",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 1.2
-    },
-    {
-      "title": "Brazil’s proposed 35% pesticide import tariff could reshape global agrochemical trade, impacting Indian ch.. - Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUXg0eHc4N0xLcmJrWndid3lLQ2d2eGtleE5tT0I0N1I0RXlMc2xUczRrM201ME1BQkZYbFBUY09jQTlsaHgycG9vX3UwV0NTNUdoUW4tNlh0OHlrdGxsUzM4UnZ6aVNWUzRWenBzTC1MaXRHNGZYYUFaNEp4aE1HLWRXRndLVjdrWFhEakdGNDVGUnBkWHdhTTJYRDJCWmx1dFVaYmtfWGtKcVc4S0k2OGU2SjRaTjV3cnZaNjBYdGszTm1yYVdyS1g2LUZpWEdPLUU5dzhhcUlUdVZHMlh5ZnprRlNlR1hSencxTnU2Rkd0STdSbnY2ZEllY0EwTDZacHA4WHVLS25oVDVnbzV5b1hRS09zQ3JMWTF1V2VKS21lUHUySi1lX19fb9IBrwJBVV95cUxPbVUtbkpVb3FpMktXNHRWYjBzSFB3dFNQRTFCYlNWWWRKOG5ZN3k5ZmVFelY1NG9VVlllUjlaMXJwVjJlSGNaVzZLNEl0TUFKWUVmczBoU0dIVXJoQlV5MUxySHJBdlR1SlI0VGFwZ2gxVk5oNVRWUVR3eWpHdHFma0tNYkVfd0ttWmpDMjNMbXAxeEVueVBVTENFR3RrVE9EMEZVUnRNcm0yckZTSU5EbWJ4MC00eUJrcGtlRXJRRlhfNDlMbUlOQ2s0ZEZQWjdPTnlGMXRYc1VWVzZBZktzb0ViMlYwR2dOUEladGlrMHFoNXZYVFI0YjRXWWNlT0hzTW1oRnl4Zm9NVDdoa0tzVGFfRXlMQ1VhT2Eta3R0bGkwaTFyb21vNGdHOVBFZjQ?oc=5",
-      "published": "Wed, 18 Nov 2026 12:35:01 GMT",
-      "source": "Indiatimes",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 1.3
-    },
-    {
-      "title": "Bulk deposit rates rise as liquidity tightens - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdEZKMHJtRDJnN1hNbkN3Q0FONmRrLXhucHQ1RDRabGRBMzlGWVhOUlFVWmVNZk1rTVdlVDFyaVVpRjNtNi0xVHVJRHNvR01zQVk3V2IyZ3RaVGV2N3hfVDREX0pCT0U1MUhqQkpiemJVakJoUkRpVDYtV3VGVXVDbm1TMGczemhDeVh6OHNIVjVRN3NfSjJiQlpDcFBqaGk4VWVuN0psX3k5ZXpxTlpjTk530gG4AUFVX3lxTFBUMkswMnlqTHJpNWZ0Tk40dEpPRFRnUFQ4Yk4xMVUzSUQwNFdkLVlkTExsM1FoQjhuUE41UEZGejNIUTJubWl3SkI4Yl9MeWx3cE1OREFZcFg5ZHYtNHJybEVBeFVFUGJWbEc1MExsT0dvM0dHM2lCRHJmQjd4ZVIySjl1bGJDbjU0WXk1SmJ2SjlNQWVyX0YyeDdiT0U5RkRDYUJ5V3JEXzR3cllOVmE2TGJzZWx5TVY?oc=5",
-      "published": "Tue, 17 Nov 2026 15:06:33 GMT",
-      "source": "The Financial Express",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 22.8
-    }
-  ],
+  "articles": [],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Rail & Infrastructure",
@@ -274,6 +217,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-18T13:53:00.144650+00:00"
+  ]
 }
