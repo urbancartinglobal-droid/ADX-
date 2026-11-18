@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "India signs a 1,976 crore rupee deal with Israel Aerospace Industries to upgrade the Navy's Barak missile defence - MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMWJOdmxUS1hVa0o5Wkt2ZG1ZUjJhbjNWN2Q0VUFPLXRPa3BoTHd2NHBDa0NSaWlJSEZCTWxpeHNDWlB1N05QU3JQeUhjZ3Z0aGVxdXBKekYwN0cyZkE4azhFbFNpMEVJejEwZDZrLVJZX2l1QmRaREdSQ19sZEVoX252ektmb2RmVmt2RnZBaEtzMWVEdU9rT243OXVpaFRFZTZLbUxUVURoWTVnY1dGU0lJUVNtZVRkTlNfeWZTMWx0NEM3WW1MbG9CcEs?oc=5",
+      "published": "Wed, 18 Nov 2026 16:47:47 GMT",
+      "source": "MLQ.ai",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 5.1
+    },
+    {
+      "title": "Brazil’s proposed 35% pesticide import tariff could reshape global agrochemical trade, impacting Indian ch.. - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUXg0eHc4N0xLcmJrWndid3lLQ2d2eGtleE5tT0I0N1I0RXlMc2xUczRrM201ME1BQkZYbFBUY09jQTlsaHgycG9vX3UwV0NTNUdoUW4tNlh0OHlrdGxsUzM4UnZ6aVNWUzRWenBzTC1MaXRHNGZYYUFaNEp4aE1HLWRXRndLVjdrWFhEakdGNDVGUnBkWHdhTTJYRDJCWmx1dFVaYmtfWGtKcVc4S0k2OGU2SjRaTjV3cnZaNjBYdGszTm1yYVdyS1g2LUZpWEdPLUU5dzhhcUlUdVZHMlh5ZnprRlNlR1hSencxTnU2Rkd0STdSbnY2ZEllY0EwTDZacHA4WHVLS25oVDVnbzV5b1hRS09zQ3JMWTF1V2VKS21lUHUySi1lX19fb9IBrwJBVV95cUxPbVUtbkpVb3FpMktXNHRWYjBzSFB3dFNQRTFCYlNWWWRKOG5ZN3k5ZmVFelY1NG9VVlllUjlaMXJwVjJlSGNaVzZLNEl0TUFKWUVmczBoU0dIVXJoQlV5MUxySHJBdlR1SlI0VGFwZ2gxVk5oNVRWUVR3eWpHdHFma0tNYkVfd0ttWmpDMjNMbXAxeEVueVBVTENFR3RrVE9EMEZVUnRNcm0yckZTSU5EbWJ4MC00eUJrcGtlRXJRRlhfNDlMbUlOQ2s0ZEZQWjdPTnlGMXRYc1VWVzZBZktzb0ViMlYwR2dOUEladGlrMHFoNXZYVFI0YjRXWWNlT0hzTW1oRnl4Zm9NVDdoa0tzVGFfRXlMQ1VhT2Eta3R0bGkwaTFyb21vNGdHOVBFZjQ?oc=5",
+      "published": "Wed, 18 Nov 2026 13:29:01 GMT",
+      "source": "Indiatimes",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 8.4
+    },
+    {
+      "title": "‘CBI cannot appro­bate and reprobate’: Bombay HC quashes sanction to prosecute Chanda Kochhar in Videocon loan case, says RBI alone could authorise it - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdk5fTlIwYVdYM0Ffb2JFUU5iODVlc3RmN1Iza0dhcVdLVnhfel84Q0VPYXhUYUwzRkk2ckZxS3habWZfa0lzZGdwV3gyQ2wyNEwtMlNWQmZDb2h1R3Q4bndmdnBSM2xSY09CaldwOTg2cThiek9UTVFwR0ZlT3BrblpDaXNsZHh5Ml9UTkRCTFludV9mcm8xSDZTWDgzSXNoaVQ1LWdfTlVsRTlMbXladEdsbWJHZzlRVlZ0U1NlcW1Xa3ZpNEFVb1BtLUhVY1RFcjYtYWc4RGl4Zlg0U1hXMFRSNHNMN084S3IxUS1LUENvQzFHR0gtSVFqWm4xRnVkVkk2V3NjbE9QeElSWEHSAY4CQVVfeXFMUHZOX05SMGFXWDNBX29iRVFOYjg1ZXN0ZjdSM2tHYXFXS1Z4X3pfOENFT2F4VGFMM0ZJNnJGcUt4Wm1mX2tJc2RncFd4MkNsMjRMLTJTVkJmQ29odUd0OG53ZnZwUjNsUmNPQmpXcDk4NnE4YnpPVE1RcEdGZU9wa25aQ2lzbGR4eTJfVE5EQkxZbnVfZnJvMUg2U1g4M0lzaGlUNS1nX05VbEU5TG15WnRHbG1iR2c5UVZWdFNTZXFtV2t2aTRBVW9QbS1IVWNURXI2LWFnOERpeGZYNFNYVzBUUjRzTDdPOEtyMVEtS1BDb0MxR0dILUlRalpuMUZ1ZFZJNldzY2xPUHhJUlhB?oc=5",
+      "published": "Wed, 18 Nov 2026 12:57:58 GMT",
+      "source": "Devdiscourse",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 8.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Rail & Infrastructure",
@@ -217,5 +260,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-18T21:52:47.101438+00:00"
 }
