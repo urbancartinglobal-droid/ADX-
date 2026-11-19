@@ -1,39 +1,10 @@
 {
-  "updated_utc": "2026-11-18T20:32:56.391486+00:00",
+  "updated_utc": "2026-11-19T07:27:23.897261+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "India signs a 1,976 crore rupee deal with Israel Aerospace Industries to upgrade the Navy's Barak missile defence - MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMWJOdmxUS1hVa0o5Wkt2ZG1ZUjJhbjNWN2Q0VUFPLXRPa3BoTHd2NHBDa0NSaWlJSEZCTWxpeHNDWlB1N05QU3JQeUhjZ3Z0aGVxdXBKekYwN0cyZkE4azhFbFNpMEVJejEwZDZrLVJZX2l1QmRaREdSQ19sZEVoX252ektmb2RmVmt2RnZBaEtzMWVEdU9rT243OXVpaFRFZTZLbUxUVURoWTVnY1dGU0lJUVNtZVRkTlNfeWZTMWx0NEM3WW1MbG9CcEs?oc=5",
-      "published": "Wed, 18 Nov 2026 16:47:47 GMT",
-      "source": "MLQ.ai",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 10.5
-    },
-    {
-      "title": "Brazil’s proposed 35% pesticide import tariff could reshape global agrochemical trade, impacting Indian ch.. - Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUXg0eHc4N0xLcmJrWndid3lLQ2d2eGtleE5tT0I0N1I0RXlMc2xUczRrM201ME1BQkZYbFBUY09jQTlsaHgycG9vX3UwV0NTNUdoUW4tNlh0OHlrdGxsUzM4UnZ6aVNWUzRWenBzTC1MaXRHNGZYYUFaNEp4aE1HLWRXRndLVjdrWFhEakdGNDVGUnBkWHdhTTJYRDJCWmx1dFVaYmtfWGtKcVc4S0k2OGU2SjRaTjV3cnZaNjBYdGszTm1yYVdyS1g2LUZpWEdPLUU5dzhhcUlUdVZHMlh5ZnprRlNlR1hSencxTnU2Rkd0STdSbnY2ZEllY0EwTDZacHA4WHVLS25oVDVnbzV5b1hRS09zQ3JMWTF1V2VKS21lUHUySi1lX19fb9IBrwJBVV95cUxPbVUtbkpVb3FpMktXNHRWYjBzSFB3dFNQRTFCYlNWWWRKOG5ZN3k5ZmVFelY1NG9VVlllUjlaMXJwVjJlSGNaVzZLNEl0TUFKWUVmczBoU0dIVXJoQlV5MUxySHJBdlR1SlI0VGFwZ2gxVk5oNVRWUVR3eWpHdHFma0tNYkVfd0ttWmpDMjNMbXAxeEVueVBVTENFR3RrVE9EMEZVUnRNcm0yckZTSU5EbWJ4MC00eUJrcGtlRXJRRlhfNDlMbUlOQ2s0ZEZQWjdPTnlGMXRYc1VWVzZBZktzb0ViMlYwR2dOUEladGlrMHFoNXZYVFI0YjRXWWNlT0hzTW1oRnl4Zm9NVDdoa0tzVGFfRXlMQ1VhT2Eta3R0bGkwaTFyb21vNGdHOVBFZjQ?oc=5",
-      "published": "Wed, 18 Nov 2026 13:29:01 GMT",
-      "source": "Indiatimes",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 13.8
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Rail & Infrastructure",
@@ -246,6 +217,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-19T03:17:41.260567+00:00"
+  ]
 }
