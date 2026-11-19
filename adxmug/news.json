@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Power Grid Approves Rs. 2.2 bn Transmission Line Upgrade - Construction World",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZG5ZWlhPWXdDRm15NzFiNVo4N2pMMG50NFdTb1cwWGNzelJleXUtS3pieHIzOGo3V2RUcHcxTllnRXI2MEhrRHBPdzl4MlNvM3pyXzVHV1gxVUtkSE8zTkJ4Z0dycVNYTUV6OHZDM1ljcEtxYjlXTjQyZVphMGpBRjZfTmo3Umx6N2hPdnFzbGYwNmxfQUxmRUhsWU5YM2liYXFmVE9HS0VVd0FoN0puU2RIRHV0ZllIZkpBZEdMOF9RaXZJTU9fbS0wTlRJN3U4b2p3N09QaXJNZEZwaGc?oc=5",
+      "published": "Thu, 19 Nov 2026 07:45:02 GMT",
+      "source": "Construction World",
+      "sector": "Power & Grid",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Power & Grid signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Power & Grid operating conditions → company-level research candidate.",
+      "freshness_hours": 13.7
+    },
+    {
+      "title": "Sanofi's pill becomes first US-approved drug for rare neurological disorder - pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYnRhcWZqeW1iU0xoX2ZYSFhvRTl5MWlFdW1MU0hwRWd4RkVRaTZkbGFRQjVhcnY3OTdNTnZqYlRxYmFDV1dtT21SUlhDaXZnRnkxWi1ZYTVMZ3ctbm1JWlVYSXQzTDRvOVJEZUQ3Z2dnck10cE5RNWdlSVljVUttclFhZ042dlk3TVcya3kyNFJoT2hWREZkSFdjZFY1cHhBNkE4Z09MVVUxMm5VVlBtSHZDSS1qcHB2N3Y5TE1pSUk5bkJtWlRuUWVmRHROV2NiYXdMT1NNaHFoY0hwY2VsNjRqQlB5aEZwcjBLUDRwelNjNHhqVm9r0gH3AUFVX3lxTE1idGFxZmp5bWJTTGhfZlhIWG9FOXkxaUV1bUxTSHBFZ3hGRVFpNmRsYVFCNWFydjc5N01OdmpiVHFiYUNXV21PbVJSWENpdmdGeTFaLVlhNUxndy1ubUlaVVhJdDNMNG85UkRlRDdnZ2dyTXRwTlE1Z2VJWWNVS21yUWFnTjZ2WTdNVzJreTI0UmhPaFZERmRIV2NkVjVweEE2QThnT0xVVTEyblVWUG1IdkNJLWpwcHY3djlMTWlJSTluQm1aVG5RZWZEdE5XY2Jhd0xPU01ocWhjSHBjZWw2NGpCUHloRnByMEtQNHB6U2M0eGpWb2s?oc=5",
+      "published": "Thu, 19 Nov 2026 11:08:57 GMT",
+      "source": "pharma.economictimes.indiatimes.com",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 10.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Rail & Infrastructure",
@@ -231,5 +260,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-19T21:26:00.115952+00:00"
 }
