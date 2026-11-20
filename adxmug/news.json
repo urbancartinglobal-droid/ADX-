@@ -4,7 +4,22 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Chip Shortages and Rising Costs Put Pressure on India's Electronics Manufacturing Industry - Siliconindia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNUtTRnVzcGh4MTJSYXRKUVcxVTRvSmdRQ3pkd2ZDRHlaUkc2QlFPQWpjZVZzdjBnY3VEWk83VXE3ZmZaOFRMblBnSkZxYzJObUVCTmEtQlVwZTB4R2Jud3A0cVFwYjZhTWpJc1c5d3VjQ0hzOWgxV3EzRHpTY0t2N3FjNi1yQUtsQS1HRERmZkxKNkx4aEFpeHVWZGdEc2JocG5nd3BtbGdabm5WS2Z4TWN0OXZZVXpJX21Hd2ZGNVBGWmtpUktFU2tMa241LV9MOUV0QTNvdkNsTWt2NHhkRk96NXJ1eGx6?oc=5",
+      "published": "Fri, 20 Nov 2026 08:08:19 GMT",
+      "source": "Siliconindia",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 3.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -284,5 +299,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-20T11:27:55.451414+00:00"
 }
