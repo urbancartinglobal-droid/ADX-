@@ -6,10 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "Chip Shortages and Rising Costs Put Pressure on India's Electronics Manufacturing Industry - Siliconindia",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNUtTRnVzcGh4MTJSYXRKUVcxVTRvSmdRQ3pkd2ZDRHlaUkc2QlFPQWpjZVZzdjBnY3VEWk83VXE3ZmZaOFRMblBnSkZxYzJObUVCTmEtQlVwZTB4R2Jud3A0cVFwYjZhTWpJc1c5d3VjQ0hzOWgxV3EzRHpTY0t2N3FjNi1yQUtsQS1HRERmZkxKNkx4aEFpeHVWZGdEc2JocG5nd3BtbGdabm5WS2Z4TWN0OXZZVXpJX21Hd2ZGNVBGWmtpUktFU2tMa241LV9MOUV0QTNvdkNsTWt2NHhkRk96NXJ1eGx6?oc=5",
-      "published": "Fri, 20 Nov 2026 08:08:19 GMT",
-      "source": "Siliconindia",
+      "title": "EU Chips Act Unlocks €33B in Semiconductor Investments: What’s Being Built? - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHM0MWdDVGVGVzRIekdEamQ5RmZEQ3JfRlJ0UFRzVURDeUQ0TTl2dTV1S3NxTGpNcF9YRTV4RmktX0tUQVZsTEp0RmVyWVJtTkFoUkppcldzN1o0aklFdU9fdDNmYThnODRVd05xTW5jVmlya0NxRktYcG5Bci14NTE1cC1ZaV9JTGZyU2s3R0hScUU0WVhmLThIeDJRZw?oc=5",
+      "published": "Fri, 20 Nov 2026 08:53:16 GMT",
+      "source": "TechRepublic",
       "sector": "Electronics & Semiconductors",
       "triggers": [
         "MATERIAL CHANGE"
@@ -17,7 +17,35 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 3.3
+      "freshness_hours": 11.2
+    },
+    {
+      "title": "RBI announces government securities switch to help states manage liquidity - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWhwdlYybmFhZ2xjRDF1OUdlTzEtRDE5T0ZqTWtCOGVXU3BFbEdvX2tWZkc4MEZqRThEY1ZHWjY5UGk0SWpDQzhLLUJnYzBsZzVuM0NZd2xiSzltYXdfeFNDQnJmbXk4eUlkSGFJaDNnMEVRLUd6aW55cDNnUzFCSXNjSEQ4Y20wT1d0VFdwbw?oc=5",
+      "published": "Fri, 20 Nov 2026 14:29:09 GMT",
+      "source": "Traders Union",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 5.6
+    },
+    {
+      "title": "ACME Clears $3.6 Billion FID for 760,000 TPA Green Ammonia Plant in Odisha - ChemAnalyst",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTdEZnFNN3RlbjM1U2x6V0JLUklJbFpNd2N2bHZfSmp1S3dpY3pXd253aHVrWi05aDZIVmQ2cmpZZ2RXYW0yS1REMmZReVJHWFp6cmFEdXNfaWotemhMOHVoQmJjYkplU1BPajE3VTBjTlhVTGJka254Tm5rc214QWVTQkhzWUZBMHo4UW9NRXZCbzc1MlJvdW9YcGRmZS1oWFdMY1ZxX1Y1b1FIdjd3X244TVVSdw?oc=5",
+      "published": "Fri, 20 Nov 2026 13:58:10 GMT",
+      "source": "ChemAnalyst",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 6.1
     }
   ],
   "opportunities": [
@@ -300,5 +328,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-20T11:27:55.451414+00:00"
+  "landed_updated_utc": "2026-11-20T20:03:30.284390+00:00"
 }
