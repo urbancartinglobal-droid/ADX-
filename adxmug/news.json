@@ -1,54 +1,56 @@
 {
-  "updated_utc": "2026-11-20T20:22:56.010947+00:00",
+  "updated_utc": "2026-11-21T07:10:22.031072+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "EU Chips Act Unlocks €33B in Semiconductor Investments: What’s Being Built? - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHM0MWdDVGVGVzRIekdEamQ5RmZEQ3JfRlJ0UFRzVURDeUQ0TTl2dTV1S3NxTGpNcF9YRTV4RmktX0tUQVZsTEp0RmVyWVJtTkFoUkppcldzN1o0aklFdU9fdDNmYThnODRVd05xTW5jVmlya0NxRktYcG5Bci14NTE1cC1ZaV9JTGZyU2s3R0hScUU0WVhmLThIeDJRZw?oc=5",
-      "published": "Fri, 20 Nov 2026 08:53:16 GMT",
-      "source": "TechRepublic",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 16.6
-    },
-    {
-      "title": "RBI announces government securities switch to help states manage liquidity - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWhwdlYybmFhZ2xjRDF1OUdlTzEtRDE5T0ZqTWtCOGVXU3BFbEdvX2tWZkc4MEZqRThEY1ZHWjY5UGk0SWpDQzhLLUJnYzBsZzVuM0NZd2xiSzltYXdfeFNDQnJmbXk4eUlkSGFJaDNnMEVRLUd6aW55cDNnUzFCSXNjSEQ4Y20wT1d0VFdwbw?oc=5",
-      "published": "Fri, 20 Nov 2026 14:29:09 GMT",
-      "source": "Traders Union",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.0
-    },
-    {
-      "title": "Mexico to Scrap Most EU Agri Tariffs, Reshaping Dairy and Meat Trade Into Mexico — CMB News - CMB News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXdsSUxMMWJ4ODNsQW1WWWJ5YWNYOUozUHYxY3BWWGo3aWg0dEZrVXhjbGdvZzhIUlNvMVZfejNoODFRdmdxUUdPUGpTZVJMVmpSRmF0Zl9TQTlSbC1VODlRQ0VyMVJoWmhPNmVXM1hvdkdRVTV0QmE5WmY5S1FscU1IQUFtYmZUYVhYSWpnbzhTWTlZRGNsZUxHVG9qbWItdzJYQl9KemQ2Q0lObXo0YlVoMkJIVEJFdDZ4UmtNTQ?oc=5",
-      "published": "Fri, 20 Nov 2026 21:13:51 GMT",
-      "source": "CMB News",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 4.2
-    }
-  ],
+  "landed": [],
   "opportunities": [
+    {
+      "industry": "Sugar & Ethanol",
+      "score": 44,
+      "article_count": 2,
+      "trigger_count": 4,
+      "triggers": [
+        "POLICY",
+        "PRICING",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "India’s sugar imports started after a bad surplus call | Policy Circle - Policy Circle",
+          "source": "Policy Circle",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ckRsLWhHLWJFNTRjQU8xbjVSUk9Pd1oyLW52ZVlzc29MT2YzX2RKbmlTWWI5MVRSa3BrZzFZWGQ0eldZckRoenY1bE1hb1pxZGxqM1h2eE13Y21iSFBJLTZSQ3hHcEVPSmM0dHVxVVfSAXZBVV95cUxQMGRkOHdyZHByZW84S2ZfZjZyOGZsQXNwVXRzQ1RHY1hDRjViVFZVdERVX0ZMOEFfYUtYbGJ0c2hYd3RnRlhpVlRqZGpNN21jTWg5dFVWeVV0SW5oRHV6NEY3YmJyR0h3WDlTU1htRWs5c2hJNTNB?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE",
+            "PRICING"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
+          "source": "CMB News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations.",
+        "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
+    },
     {
       "industry": "Rail & Infrastructure",
       "score": 37,
@@ -92,18 +94,28 @@
     },
     {
       "industry": "Banking & Financials",
-      "score": 25,
-      "article_count": 1,
-      "trigger_count": 2,
+      "score": 32,
+      "article_count": 2,
+      "trigger_count": 4,
       "triggers": [
         "POLICY",
         "TRADE"
       ],
       "evidence": [
         {
-          "title": "RBI Releases Draft FEMA Rules On Foreign Trade - Legal 500",
+          "title": "RBI Allows Tariff Rate Quota (\"TRQ\") Holders To Make Advance For Import Of Gold. - Legal 500",
           "source": "Legal 500",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3FYT21JQ0I2VzllbDV0aUZjb0M1Z0JpSlAxSG12Mm9oWU8teHdEbHZJSmZkd2tiZVMtTlBqaHpGWkhyT29QbVMwWWJkalZqcENzd20xTmNSM1hubEEtZm11aFRQYmZTMEdsNnc2dEhTMGQ3U0FYaGxxQXdsY2VELXh0REVVd3RvOFA1UUdUdUJxMXlvU3ZXUHc3el9FQVFlNGdKWTc2RDkyanRi?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2g2VTl5RHFoWXBvY3hjYmRnSHdYbTh4eEhkYXhOOThhVE1VYUdrSTdqOTVGM0ZXMFd1WC0zcDcwRkptcHZqRnZMMjNmcHRObldOb1hVZ25RaDlfQjBKeFhtVXQ5eW9aRUN6NmZ5MzYwMi13eEQwYVB6YV8zQURfTFR5LTVKMnAyY3JGMThwTmJuN0U4RXZETm1ZMEpTNXhDQXVaYThZYnRUeDlyN1IwenZzUGc1R3hzZk80X0p4MUpiemhnM3k3V1FsRTJNOXQ5RjM4Vjln?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI Releases Draft Trade Regulations And Directions 2025 Governing Export And Import - Legal 500",
+          "source": "Legal 500",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeWM0S2JBcHBIaHJCWjczLXUwVzdrRnN0blVuVk5QYUktNm93d2RWNDQ0SXpBcjVkMjBJUWxvNnZGS2FjSTJXa3pnUkxiOTB2VEZkeGdFaFBQeC1Mc2hqRWdBRWt4NFhUMmxVbmpmQ0J1NXZWRGgxYmZJOWNqN2k3Um92WE9odVRackQ2Und5NEpMRTVDQ0hnckUyUlVobnVCT3V4eG9DZ3h1a2l1MGRXRHdBMGFhT3EwMzJhaGVWUzRrWGFfdG9mTXltalhvU0JUbThNNzBfNVdXN3laaHlz?oc=5",
           "triggers": [
             "POLICY",
             "TRADE"
@@ -113,9 +125,9 @@
       ],
       "confidence": "low",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, TRADE; 1 distinct story clusters.",
+      "reason": "Cross-signal POLICY, TRADE; 2 distinct story clusters.",
       "source_count": 1,
-      "story_clusters": 1,
+      "story_clusters": 2,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations."
@@ -213,36 +225,6 @@
       "fresh_count": 0
     },
     {
-      "industry": "Sugar & Ethanol",
-      "score": 18,
-      "article_count": 1,
-      "trigger_count": 1,
-      "triggers": [
-        "PRICING"
-      ],
-      "evidence": [
-        {
-          "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
-          "source": "CMB News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
-          "triggers": [
-            "PRICING"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal PRICING; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
-      "companies": [],
-      "connections": [
-        "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
       "industry": "Defence & Aerospace",
       "score": 0,
       "article_count": 0,
@@ -290,6 +272,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-21T01:26:33.755768+00:00"
+  ]
 }
