@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "EU Chips Act Unlocks €33B in Semiconductor Investments: What’s Being Built? - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHM0MWdDVGVGVzRIekdEamQ5RmZEQ3JfRlJ0UFRzVURDeUQ0TTl2dTV1S3NxTGpNcF9YRTV4RmktX0tUQVZsTEp0RmVyWVJtTkFoUkppcldzN1o0aklFdU9fdDNmYThnODRVd05xTW5jVmlya0NxRktYcG5Bci14NTE1cC1ZaV9JTGZyU2s3R0hScUU0WVhmLThIeDJRZw?oc=5",
+      "published": "Fri, 20 Nov 2026 08:53:16 GMT",
+      "source": "TechRepublic",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 16.6
+    },
+    {
+      "title": "RBI announces government securities switch to help states manage liquidity - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWhwdlYybmFhZ2xjRDF1OUdlTzEtRDE5T0ZqTWtCOGVXU3BFbEdvX2tWZkc4MEZqRThEY1ZHWjY5UGk0SWpDQzhLLUJnYzBsZzVuM0NZd2xiSzltYXdfeFNDQnJmbXk4eUlkSGFJaDNnMEVRLUd6aW55cDNnUzFCSXNjSEQ4Y20wT1d0VFdwbw?oc=5",
+      "published": "Fri, 20 Nov 2026 14:29:09 GMT",
+      "source": "Traders Union",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 11.0
+    },
+    {
+      "title": "Mexico to Scrap Most EU Agri Tariffs, Reshaping Dairy and Meat Trade Into Mexico — CMB News - CMB News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXdsSUxMMWJ4ODNsQW1WWWJ5YWNYOUozUHYxY3BWWGo3aWg0dEZrVXhjbGdvZzhIUlNvMVZfejNoODFRdmdxUUdPUGpTZVJMVmpSRmF0Zl9TQTlSbC1VODlRQ0VyMVJoWmhPNmVXM1hvdkdRVTV0QmE5WmY5S1FscU1IQUFtYmZUYVhYSWpnbzhTWTlZRGNsZUxHVG9qbWItdzJYQl9KemQ2Q0lObXo0YlVoMkJIVEJFdDZ4UmtNTQ?oc=5",
+      "published": "Fri, 20 Nov 2026 21:13:51 GMT",
+      "source": "CMB News",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 4.2
+    }
+  ],
   "opportunities": [
     {
       "industry": "Rail & Infrastructure",
@@ -247,5 +290,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-21T01:26:33.755768+00:00"
 }
