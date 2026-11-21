@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Updates on the evolving tariff landscape for pharmaceutical and medical device companies - PwC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYl9YTmtiX3NGZ194OHZsblVEenZxN1hUYjhyZ2V3cE5pV25fY0x4bnBKNzB3WHhWUlhlNU5vSW5nd3pCS2VTblM2dlFCdWU1ZC1aQXI3UEdlTU45OThMQ3RfREduc2ZFdk1PRXpQRnhyaUp2c3RTaF83ZExBZ3Q2TjBuQ2FvQ0ZOZkgycWlQcUZiUXBaYm91NUJXRXM0UGtwMmhoSDBPOW5IQ1dUbFRTQw?oc=5",
+      "published": "Sat, 21 Nov 2026 02:57:34 GMT",
+      "source": "PwC",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 20.2
+    },
+    {
+      "title": "The Semiconductor Opportunity: How Global AI Chip Demand Is Reshaping Technology Investments - Business News This Week",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkFxdTlqcldKZ1p2VE1IOGxBZmxMWUtUd2o4bnJxZ3lPQmpZeXhWQjhoVFM1Q3hWRlA3UFVac1d6d0NncEJWd2FxaG1pdzNaTk5tZl82WDFPU0c2ZDVRek1Nb2VVOHRxLUpOOGV2dkRqbEhuNjRHcEF3UThIX2RkZHZSZTEtRjZZSlFFNHlDQmtMQ0diaEx3OWF0Tk9mQ0RSdWd2aV94eDIzdFBDcEh2YnhmMTJuYTdjQ1FGLWQwdUxZMDFpYllfVUpTbXdmSnc?oc=5",
+      "published": "Sat, 21 Nov 2026 05:48:09 GMT",
+      "source": "Business News This Week",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 17.3
+    },
+    {
+      "title": "Karnataka High Court Refuses To Stay Centre’s Ban On Sugar-Based Ethanol Amid Sugar Shortage - LawChakra",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXpVRHlGY1J0UzM5MW1XUnJPQWdJOXFvMTNkdC1rZmkyMTNkY0J2TDJtZl9ha0ZodlBnWWFtdl9vUWVoR3JWdXZIam5ZX1loUUEtSGlobGd3SG1peGsyUDFjQ3ZlZE1uenk1S1htNGNJakptTnRuMU5zY1dyemdRdGo2NA?oc=5",
+      "published": "Sat, 21 Nov 2026 05:07:52 GMT",
+      "source": "LawChakra",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 18.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -282,5 +325,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-21T23:07:24.771971+00:00"
 }
