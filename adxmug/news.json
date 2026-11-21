@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-11-21T07:10:22.031072+00:00",
+  "updated_utc": "2026-11-21T19:17:08.309798+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Updates on the evolving tariff landscape for pharmaceutical and medical device companies - PwC",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYl9YTmtiX3NGZ194OHZsblVEenZxN1hUYjhyZ2V3cE5pV25fY0x4bnBKNzB3WHhWUlhlNU5vSW5nd3pCS2VTblM2dlFCdWU1ZC1aQXI3UEdlTU45OThMQ3RfREduc2ZFdk1PRXpQRnhyaUp2c3RTaF83ZExBZ3Q2TjBuQ2FvQ0ZOZkgycWlQcUZiUXBaYm91NUJXRXM0UGtwMmhoSDBPOW5IQ1dUbFRTQw?oc=5",
-      "published": "Sat, 21 Nov 2026 02:57:34 GMT",
-      "source": "PwC",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 14.5
-    },
-    {
-      "title": "The Semiconductor Opportunity: How Global AI Chip Demand Is Reshaping Technology Investments - Business News This Week",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkFxdTlqcldKZ1p2VE1IOGxBZmxMWUtUd2o4bnJxZ3lPQmpZeXhWQjhoVFM1Q3hWRlA3UFVac1d6d0NncEJWd2FxaG1pdzNaTk5tZl82WDFPU0c2ZDVRek1Nb2VVOHRxLUpOOGV2dkRqbEhuNjRHcEF3UThIX2RkZHZSZTEtRjZZSlFFNHlDQmtMQ0diaEx3OWF0Tk9mQ0RSdWd2aV94eDIzdFBDcEh2YnhmMTJuYTdjQ1FGLWQwdUxZMDFpYllfVUpTbXdmSnc?oc=5",
-      "published": "Sat, 21 Nov 2026 05:48:09 GMT",
-      "source": "Business News This Week",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 11.6
-    },
-    {
-      "title": "Karnataka High Court Refuses To Stay Centre’s Ban On Sugar-Based Ethanol Amid Sugar Shortage - LawChakra",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXpVRHlGY1J0UzM5MW1XUnJPQWdJOXFvMTNkdC1rZmkyMTNkY0J2TDJtZl9ha0ZodlBnWWFtdl9vUWVoR3JWdXZIam5ZX1loUUEtSGlobGd3SG1peGsyUDFjQ3ZlZE1uenk1S1htNGNJakptTnRuMU5zY1dyemdRdGo2NA?oc=5",
-      "published": "Sat, 21 Nov 2026 05:07:52 GMT",
-      "source": "LawChakra",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 12.3
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -95,6 +52,58 @@
       "fresh_count": 0
     },
     {
+      "industry": "Banking & Financials",
+      "score": 39,
+      "article_count": 3,
+      "trigger_count": 6,
+      "triggers": [
+        "POLICY",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "RBI Releases Draft FEMA Rules On Foreign Trade - Legal 500",
+          "source": "Legal 500",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3FYT21JQ0I2VzllbDV0aUZjb0M1Z0JpSlAxSG12Mm9oWU8teHdEbHZJSmZkd2tiZVMtTlBqaHpGWkhyT29QbVMwWWJkalZqcENzd20xTmNSM1hubEEtZm11aFRQYmZTMEdsNnc2dEhTMGQ3U0FYaGxxQXdsY2VELXh0REVVd3RvOFA1UUdUdUJxMXlvU3ZXUHc3el9FQVFlNGdKWTc2RDkyanRi?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI Allows Tariff Rate Quota (\"TRQ\") Holders To Make Advance For Import Of Gold. - Legal 500",
+          "source": "Legal 500",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2g2VTl5RHFoWXBvY3hjYmRnSHdYbTh4eEhkYXhOOThhVE1VYUdrSTdqOTVGM0ZXMFd1WC0zcDcwRkptcHZqRnZMMjNmcHRObldOb1hVZ25RaDlfQjBKeFhtVXQ5eW9aRUN6NmZ5MzYwMi13eEQwYVB6YV8zQURfTFR5LTVKMnAyY3JGMThwTmJuN0U4RXZETm1ZMEpTNXhDQXVaYThZYnRUeDlyN1IwenZzUGc1R3hzZk80X0p4MUpiemhnM3k3V1FsRTJNOXQ5RjM4Vjln?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI Releases Draft Trade Regulations And Directions 2025 Governing Export And Import - Legal 500",
+          "source": "Legal 500",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeWM0S2JBcHBIaHJCWjczLXUwVzdrRnN0blVuVk5QYUktNm93d2RWNDQ0SXpBcjVkMjBJUWxvNnZGS2FjSTJXa3pnUkxiOTB2VEZkeGdFaFBQeC1Mc2hqRWdBRWt4NFhUMmxVbmpmQ0J1NXZWRGgxYmZJOWNqN2k3Um92WE9odVRackQ2Und5NEpMRTVDQ0hnckUyUlVobnVCT3V4eG9DZ3h1a2l1MGRXRHdBMGFhT3EwMzJhaGVWUzRrWGFfdG9mTXltalhvU0JUbThNNzBfNVdXN3laaHlz?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "low",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, TRADE; 3 distinct story clusters.",
+      "source_count": 1,
+      "story_clusters": 3,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Rail & Infrastructure",
       "score": 37,
       "article_count": 2,
@@ -132,48 +141,6 @@
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Banking & Financials",
-      "score": 32,
-      "article_count": 2,
-      "trigger_count": 4,
-      "triggers": [
-        "POLICY",
-        "TRADE"
-      ],
-      "evidence": [
-        {
-          "title": "RBI Allows Tariff Rate Quota (\"TRQ\") Holders To Make Advance For Import Of Gold. - Legal 500",
-          "source": "Legal 500",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2g2VTl5RHFoWXBvY3hjYmRnSHdYbTh4eEhkYXhOOThhVE1VYUdrSTdqOTVGM0ZXMFd1WC0zcDcwRkptcHZqRnZMMjNmcHRObldOb1hVZ25RaDlfQjBKeFhtVXQ5eW9aRUN6NmZ5MzYwMi13eEQwYVB6YV8zQURfTFR5LTVKMnAyY3JGMThwTmJuN0U4RXZETm1ZMEpTNXhDQXVaYThZYnRUeDlyN1IwenZzUGc1R3hzZk80X0p4MUpiemhnM3k3V1FsRTJNOXQ5RjM4Vjln?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "RBI Releases Draft Trade Regulations And Directions 2025 Governing Export And Import - Legal 500",
-          "source": "Legal 500",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeWM0S2JBcHBIaHJCWjczLXUwVzdrRnN0blVuVk5QYUktNm93d2RWNDQ0SXpBcjVkMjBJUWxvNnZGS2FjSTJXa3pnUkxiOTB2VEZkeGdFaFBQeC1Mc2hqRWdBRWt4NFhUMmxVbmpmQ0J1NXZWRGgxYmZJOWNqN2k3Um92WE9odVRackQ2Und5NEpMRTVDQ0hnckUyUlVobnVCT3V4eG9DZ3h1a2l1MGRXRHdBMGFhT3EwMzJhaGVWUzRrWGFfdG9mTXltalhvU0JUbThNNzBfNVdXN3laaHlz?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, TRADE; 2 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 2,
-      "companies": [],
-      "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations."
       ],
       "fresh_count": 0
     },
@@ -315,6 +282,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-21T17:24:39.072454+00:00"
+  ]
 }
