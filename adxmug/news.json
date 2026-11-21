@@ -17,12 +17,12 @@
       "label": "GLOBAL",
       "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 6.7
+      "freshness_hours": 14.5
     },
     {
       "title": "The Semiconductor Opportunity: How Global AI Chip Demand Is Reshaping Technology Investments - Business News This Week",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkFxdTlqcldKZ1p2VE1IOGxBZmxMWUtUd2o4bnJxZ3lPQmpZeXhWQjhoVFM1Q3hWRlA3UFVac1d6d0NncEJWd2FxaG1pdzNaTk5tZl82WDFPU0c2ZDVRek1Nb2VVOHRxLUpOOGV2dkRqbEhuNjRHcEF3UThIX2RkZHZSZTEtRjZZSlFFNHlDQmtMQ0diaEx3OWF0Tk9mQ0RSdWd2aV94eDIzdFBDcEh2YnhmMTJuYTdjQ1FGLWQwdUxZMDFpYllfVUpTbXdmSnc?oc=5",
-      "published": "Sat, 21 Nov 2026 05:33:23 GMT",
+      "published": "Sat, 21 Nov 2026 05:48:09 GMT",
       "source": "Business News This Week",
       "sector": "Electronics & Semiconductors",
       "triggers": [
@@ -31,21 +31,21 @@
       "label": "GIGA+",
       "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 4.1
+      "freshness_hours": 11.6
     },
     {
-      "title": "RBI announces government securities switch to help states manage liquidity - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWhwdlYybmFhZ2xjRDF1OUdlTzEtRDE5T0ZqTWtCOGVXU3BFbEdvX2tWZkc4MEZqRThEY1ZHWjY5UGk0SWpDQzhLLUJnYzBsZzVuM0NZd2xiSzltYXdfeFNDQnJmbXk4eUlkSGFJaDNnMEVRLUd6aW55cDNnUzFCSXNjSEQ4Y20wT1d0VFdwbw?oc=5",
-      "published": "Fri, 20 Nov 2026 14:29:09 GMT",
-      "source": "Traders Union",
-      "sector": "Banking & Financials",
+      "title": "Karnataka High Court Refuses To Stay Centre’s Ban On Sugar-Based Ethanol Amid Sugar Shortage - LawChakra",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXpVRHlGY1J0UzM5MW1XUnJPQWdJOXFvMTNkdC1rZmkyMTNkY0J2TDJtZl9ha0ZodlBnWWFtdl9vUWVoR3JWdXZIam5ZX1loUUEtSGlobGd3SG1peGsyUDFjQ3ZlZE1uenk1S1htNGNJakptTnRuMU5zY1dyemdRdGo2NA?oc=5",
+      "published": "Sat, 21 Nov 2026 05:07:52 GMT",
+      "source": "LawChakra",
+      "sector": "Sugar & Ethanol",
       "triggers": [
         "MATERIAL CHANGE"
       ],
       "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 19.2
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 12.3
     }
   ],
   "opportunities": [
@@ -316,5 +316,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-21T09:40:10.015770+00:00"
+  "landed_updated_utc": "2026-11-21T17:24:39.072454+00:00"
 }
