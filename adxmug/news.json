@@ -1,45 +1,16 @@
 {
-  "updated_utc": "2026-11-21T19:17:08.309798+00:00",
+  "updated_utc": "2026-11-22T06:51:04.747308+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "RBI listing mandate tops Tata Sons board agenda - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVMwNGRUQjZmU1NHOFd4X3ViWXpkTUVjcVdwLTBhZTBvY0V5TlFqSUlzR3cxeDdsam42TDVXMWVieUduR19zX1pLLXF6NVdMcVdsejRib2hkTGRNcUZySWdWWnJGNE5oQUx6a3N4UjF4Qzctc1FqWTZybHFISl9fRGxQUllnQ2RVckJTalljMFB2T1ZWbk9HYzFSNGJwZVVxcm5HY2NR0gGsAUFVX3lxTE1BQndGd0phamEya1AxV0hWVnU5elVvT24zQ0pwNE1Wd3pKMG14R0Zhd2VkX0JlMXFuVDNIV3NpR0xvMmFrUFdXWGd4VTl0Q2RBS092M19RcGxTWndfbGtad3JJd19KemFmRUZfUmJ3MkZ3SUlGenpWLV9vMTB2Yi1oQ2ltN0VMalhlaVAyUnNid1U5UUdhTWZSeGlhSXUwbTA2UUFLSVhWRFM1bWM?oc=5",
-      "published": "Sat, 21 Nov 2026 18:56:28 GMT",
-      "source": "The Financial Express",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 11.7
-    },
-    {
-      "title": "5 Pharma Stocks With Strong US Market Exposure: Can New Product Launches Drive Growth in FY27? - Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnQweUZONU1ibnk2aU5QWDdiSmZKblNIRGNwVEdHald2NllMUGd2OG0yWXNSVVNBejV0cDZuRFFBaWx2ekpUNlpjMTRPVWQzRTM2QVlTUFpYcEtRcTlmM3JhX1Z0ZWxUZXczUllEeV9jYU92dkMwdktVMjBJOE1nb053OHJNbUR3ejEyY003TmZ6d3JaT2swc0UzaEJZU1ZKSURaZEN0Y0NscUhXanRqcndjbW5HQ0hjeXd1YWFBbm9yQU5wa0d5RFlZV0lzWXlnT2lJbFZn?oc=5",
-      "published": "Sat, 21 Nov 2026 07:30:37 GMT",
-      "source": "Trade Brains",
-      "sector": "Pharma & Healthcare",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
-      "freshness_hours": 23.1
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 44,
-      "article_count": 2,
-      "trigger_count": 4,
+      "score": 70,
+      "article_count": 5,
+      "trigger_count": 10,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -58,6 +29,26 @@
           "companies": []
         },
         {
+          "title": "Government Prohibits Sugar Exports Till September 30, 2026; DGFT Revises Export Policy from “Restricted” to “Prohibited” to Safeguard Domestic Availability and Food Security, While Allowing Exemptions for EU-USA Quotas, Advance Authorization Scheme - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRDNYcGNCcDZ0c1ViX29sZXZoTDZFZzR2TFVkbk91OHhsOXVZSE5oaXlTb2w4am42b1RrOThDUDJJY2tGYjB1WE9GclZMOGNFSmpUZ2dTSkxpSTdwcElaczJXd2d2LU56OEFYUnhmT2FaX0J4TzNQVThUUEVDZVQzbVVaNTJkZUxKUFFpaTBQUk9pMUNacGYwYUszZVJpSHduNTZJVEtMX1VUWk9VVFl0SURfWGlxSHdyaFZobUNrSXRQcHAtanVra2xjNHRQZXpfaHhKOEF3akZPZlpLWHptbmV5R243SnpZb0NnYnA3RjNpeExNNElvUUpzakFRZGtvRnlaUVE1OTRrWEpxNFpIQVgtdk0?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "India eases raw sugar import rules as it cracks down on hoarding - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMTg5ZWxnR200OFk2V2FZOUdpai1rbmZwa0l6bEwzcjVKakQwUnl5YVNlTjF3Yy1WUnJqZXR4clJ3aUhicldNQUQ3MGlYa2phNHdzTU5pQTR0QlNVS3RqLTZ3TW45NWlQOC1NZm9kdFNlWlA3Q0cxLUUxazhRNG8wWWh2VkhvM0xlLXh1VGktc3k3cFdiMF8xVHkxQU9WTkxjelBTYjFoRXpMdUhIeUdSQ2JoejNvTHIzOGdBTHJFY1Rpajc5WEZ2NE12ejV2bXlNWjlPa1N4a3ZKb1VwTGJLQi1MaEw1dWhGa0xNONIB8gFBVV95cUxNdWZ5ZUpzZHJJdGxQWUNTcEZtMUN4RGQ5R1R1djYxSDRwWHBhbkJoSTlTRVFFV2R5Sk5lTW1sdHc3YkFwNV8zdWZVeENFNUtOX2NTSG1oNUJYNUtMNzZCa3F2Y3d3VmFBa0JTc3pSMzRHZ21xS0dCcHU1QnVXWkUzejhtR0RzR3pILVB3QXBDTnVxX25pZ0h1Ui1QS2tXUmN5TUhMSHI5T29odXBST1I4cGFSZjd2S0VfcDh6M25yVkZJYWhNcHp0c0tTLWNvVkdhRUNqMkE1YXFZVnFjeDhTNGRqeTRGd1lhM3hNYjZFTlhYUQ?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
           "title": "India sugar market: ethanol curbs, rising cane costs and tight balance - CMB News",
           "source": "CMB News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNUdC1lNDZFZE9CNU5tVUpqbXNiNjVkc2JDNnZ0YnA0NUxwVC03clhCdnlDT3RUeHowTFhlMEtNUFJiNWR1WXRnbUZFUjZ4SDlSZmtuLVRFdG5ZLWoxSU11ck96LTFxRGJOQXU2TVdtV2dwUWU0VUFtZ3YwZWIxYi0tUkNhaVlvMGlSd2JXTUJRUUUy?oc=5",
@@ -65,70 +56,28 @@
             "PRICING"
           ],
           "companies": []
+        },
+        {
+          "title": "Government allows duty-free import of 10 lakh MT Raw Sugar under TRQ till 31 October 2026 - A2Z Taxcorp LLP",
+          "source": "A2Z Taxcorp LLP",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkh6dmloUEk5QlF3dnEwWUVTN1FFdk5hal9rb2pZcmc5T0wwejBsUzVUa0VPLWZBYjE0UmRpWmI1VnZJZUdETmpPdWRQdWh0QXFxV0pTbDZuanRmOFR0YlBNWUhjS0IwYl9EY0dYR0YwbmhfZVRmckxCWW9nV2ZsVWpIMVhsVUduVERyOW9rUG41bzRoU0c3Ukh2Slh6U0RTeFAzWERKZm1lR3BDYWRNVGdsRQ?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 2 distinct story clusters; 2 independent sources.",
-      "source_count": 2,
-      "story_clusters": 2,
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 4 independent sources.",
+      "source_count": 4,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Banking & Financials",
-      "score": 39,
-      "article_count": 3,
-      "trigger_count": 6,
-      "triggers": [
-        "POLICY",
-        "TRADE"
-      ],
-      "evidence": [
-        {
-          "title": "RBI Releases Draft FEMA Rules On Foreign Trade - Legal 500",
-          "source": "Legal 500",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3FYT21JQ0I2VzllbDV0aUZjb0M1Z0JpSlAxSG12Mm9oWU8teHdEbHZJSmZkd2tiZVMtTlBqaHpGWkhyT29QbVMwWWJkalZqcENzd20xTmNSM1hubEEtZm11aFRQYmZTMEdsNnc2dEhTMGQ3U0FYaGxxQXdsY2VELXh0REVVd3RvOFA1UUdUdUJxMXlvU3ZXUHc3el9FQVFlNGdKWTc2RDkyanRi?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "RBI Allows Tariff Rate Quota (\"TRQ\") Holders To Make Advance For Import Of Gold. - Legal 500",
-          "source": "Legal 500",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2g2VTl5RHFoWXBvY3hjYmRnSHdYbTh4eEhkYXhOOThhVE1VYUdrSTdqOTVGM0ZXMFd1WC0zcDcwRkptcHZqRnZMMjNmcHRObldOb1hVZ25RaDlfQjBKeFhtVXQ5eW9aRUN6NmZ5MzYwMi13eEQwYVB6YV8zQURfTFR5LTVKMnAyY3JGMThwTmJuN0U4RXZETm1ZMEpTNXhDQXVaYThZYnRUeDlyN1IwenZzUGc1R3hzZk80X0p4MUpiemhnM3k3V1FsRTJNOXQ5RjM4Vjln?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        },
-        {
-          "title": "RBI Releases Draft Trade Regulations And Directions 2025 Governing Export And Import - Legal 500",
-          "source": "Legal 500",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeWM0S2JBcHBIaHJCWjczLXUwVzdrRnN0blVuVk5QYUktNm93d2RWNDQ0SXpBcjVkMjBJUWxvNnZGS2FjSTJXa3pnUkxiOTB2VEZkeGdFaFBQeC1Mc2hqRWdBRWt4NFhUMmxVbmpmQ0J1NXZWRGgxYmZJOWNqN2k3Um92WE9odVRackQ2Und5NEpMRTVDQ0hnckUyUlVobnVCT3V4eG9DZ3h1a2l1MGRXRHdBMGFhT3EwMzJhaGVWUzRrWGFfdG9mTXltalhvU0JUbThNNzBfNVdXN3laaHlz?oc=5",
-          "triggers": [
-            "POLICY",
-            "TRADE"
-          ],
-          "companies": []
-        }
-      ],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, TRADE; 3 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 3,
-      "companies": [],
-      "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations."
       ],
       "fresh_count": 0
     },
@@ -170,6 +119,47 @@
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Banking & Financials",
+      "score": 37,
+      "article_count": 2,
+      "trigger_count": 3,
+      "triggers": [
+        "POLICY",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "RBI Releases Draft FEMA Rules On Foreign Trade - Legal 500",
+          "source": "Legal 500",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3FYT21JQ0I2VzllbDV0aUZjb0M1Z0JpSlAxSG12Mm9oWU8teHdEbHZJSmZkd2tiZVMtTlBqaHpGWkhyT29QbVMwWWJkalZqcENzd20xTmNSM1hubEEtZm11aFRQYmZTMEdsNnc2dEhTMGQ3U0FYaGxxQXdsY2VELXh0REVVd3RvOFA1UUdUdUJxMXlvU3ZXUHc3el9FQVFlNGdKWTc2RDkyanRi?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "How an Innocuous RBI Circular Allows Defaulters To Retain Companies after Massive Loan Write-offs by Lenders - Moneylife",
+          "source": "Moneylife",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTlhsT09qT3I3S0pOSGp4dTd1ZEhlZjIxNkx3QzlQMG1ITkN0S3ZGc1FhWTdaRHE0aEdmVE5iMWswbWpoVFJqMUl2OTluRDJuRjlGZE1MWHhDR3JiTlRQU0ZVa2NjTURWbTRqak1KclpybGhFV2ZwZEZ4eFppOUxBNlRfZ0h0QjZPWVI0cGJOdVdqcnF6SmYzb29HaV9HZGlGWUZPc2cwN2JMVmtxbV8wa3lOWUJhbWNBYTJVazh2cHZURkh2OURXV0o2bjlFY0pXRm52WkxBNmRNc0pFdjV5MFRhVENpdw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, TRADE; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations."
       ],
       "fresh_count": 0
     },
@@ -311,6 +301,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-22T06:36:13.332619+00:00"
+  ]
 }
