@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Bihar approves sugarcane-industry investment incentive policy - GK Today",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDlQUzNJTEI0dzhWdzQzWUtwc2hCQ1BzQnVybGZJTEoxYlk4dmtiYUdJUjNITkhWMU4weHVlV0RCcTNiWUNXLXdTaTBlV0lQNHdkcDVGMzVibFd1MVdUejVFc2E1ZnNXQWFyQ0pKRjRHSWZLYlBCa0t6V0N4N2txTUhNRS16em5CQWhfZ3pR?oc=5",
+      "published": "Sun, 22 Nov 2026 11:05:39 GMT",
+      "source": "GK Today",
+      "sector": "Sugar & Ethanol",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
+      "freshness_hours": 4.1
+    },
+    {
+      "title": "India Signs ₹1,900-Crore Deal with Israel Aerospace Industries to Upgrade Navy’s Barak Missile System - Envanter Medya",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tRnUxWHdZWUVDV0JVSjdlT2JJcE5CeWN1TXo2SERWVmlWckJpWWNFdmVYeFhaMmd0cjExTjVPQ3gzTURVODRTNUJjRkg2YVhKZEYzaWNLUjdEa3RGMkZ6dFl6b0RNNFRJZkloM2lMUk1tRGNiWnUtRWpjX2Vodw?oc=5",
+      "published": "Sun, 22 Nov 2026 07:56:55 GMT",
+      "source": "Envanter Medya",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 7.3
+    },
+    {
+      "title": "Automotive Connectivity Control Unit Market To 2035: V2X Mandates and SDV Architectures Drive Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZjFNTTUxeUhmUTBHSUpmaUlWMFQyMHhRUjBGclB3VWhnb0Y3Mm96SElmUnNqQWZvS0dXOERsREp0UHBtZG9TZmZ3RUNJdzFqSjJFSGlQUzNvMnVZNGw2Z1BJUkdlcGRKRDNnQ05XUHZqQ1MzMEFsSllybDhLTnBpTldkeDVxZXlldDRiVXJxdVpJSHEwRmowVzJ1Rm5ObVVRaU1hRHVlNGdiMW9EUWgzM2E3dm1jVU9jeDBKcDUydDZCdlR5OHMxMDlmVUtVQkhpVmEtdno2SkRmdThoSFcxbmtOYWdVRUV3TUJ2cW1jaUZmZzFlcGc?oc=5",
+      "published": "Sat, 21 Nov 2026 22:21:04 GMT",
+      "source": "IndexBox",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 16.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -301,5 +344,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-22T15:13:53.628947+00:00"
 }
