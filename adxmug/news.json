@@ -1,53 +1,10 @@
 {
-  "updated_utc": "2026-11-22T06:51:04.747308+00:00",
+  "updated_utc": "2026-11-22T19:42:30.448961+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [
-    {
-      "title": "Bihar approves sugarcane-industry investment incentive policy - GK Today",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDlQUzNJTEI0dzhWdzQzWUtwc2hCQ1BzQnVybGZJTEoxYlk4dmtiYUdJUjNITkhWMU4weHVlV0RCcTNiWUNXLXdTaTBlV0lQNHdkcDVGMzVibFd1MVdUejVFc2E1ZnNXQWFyQ0pKRjRHSWZLYlBCa0t6V0N4N2txTUhNRS16em5CQWhfZ3pR?oc=5",
-      "published": "Sun, 22 Nov 2026 11:05:39 GMT",
-      "source": "GK Today",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Sugar & Ethanol signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Sugar & Ethanol operating conditions → company-level research candidate.",
-      "freshness_hours": 4.1
-    },
-    {
-      "title": "India Signs ₹1,900-Crore Deal with Israel Aerospace Industries to Upgrade Navy’s Barak Missile System - Envanter Medya",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tRnUxWHdZWUVDV0JVSjdlT2JJcE5CeWN1TXo2SERWVmlWckJpWWNFdmVYeFhaMmd0cjExTjVPQ3gzTURVODRTNUJjRkg2YVhKZEYzaWNLUjdEa3RGMkZ6dFl6b0RNNFRJZkloM2lMUk1tRGNiWnUtRWpjX2Vodw?oc=5",
-      "published": "Sun, 22 Nov 2026 07:56:55 GMT",
-      "source": "Envanter Medya",
-      "sector": "Defence & Aerospace",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
-      "freshness_hours": 7.3
-    },
-    {
-      "title": "Automotive Connectivity Control Unit Market To 2035: V2X Mandates and SDV Architectures Drive Growth - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZjFNTTUxeUhmUTBHSUpmaUlWMFQyMHhRUjBGclB3VWhnb0Y3Mm96SElmUnNqQWZvS0dXOERsREp0UHBtZG9TZmZ3RUNJdzFqSjJFSGlQUzNvMnVZNGw2Z1BJUkdlcGRKRDNnQ05XUHZqQ1MzMEFsSllybDhLTnBpTldkeDVxZXlldDRiVXJxdVpJSHEwRmowVzJ1Rm5ObVVRaU1hRHVlNGdiMW9EUWgzM2E3dm1jVU9jeDBKcDUydDZCdlR5OHMxMDlmVUtVQkhpVmEtdno2SkRmdThoSFcxbmtOYWdVRUV3TUJ2cW1jaUZmZzFlcGc?oc=5",
-      "published": "Sat, 21 Nov 2026 22:21:04 GMT",
-      "source": "IndexBox",
-      "sector": "Auto & Components",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
-      "freshness_hours": 16.9
-    }
-  ],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -125,6 +82,57 @@
       "fresh_count": 0
     },
     {
+      "industry": "Banking & Financials",
+      "score": 44,
+      "article_count": 3,
+      "trigger_count": 5,
+      "triggers": [
+        "POLICY",
+        "TRADE"
+      ],
+      "evidence": [
+        {
+          "title": "RBI Releases Draft FEMA Rules On Foreign Trade - Legal 500",
+          "source": "Legal 500",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3FYT21JQ0I2VzllbDV0aUZjb0M1Z0JpSlAxSG12Mm9oWU8teHdEbHZJSmZkd2tiZVMtTlBqaHpGWkhyT29QbVMwWWJkalZqcENzd20xTmNSM1hubEEtZm11aFRQYmZTMEdsNnc2dEhTMGQ3U0FYaGxxQXdsY2VELXh0REVVd3RvOFA1UUdUdUJxMXlvU3ZXUHc3el9FQVFlNGdKWTc2RDkyanRi?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "RBI Releases FEMA 2026 Export-Import Trade Regulations: What Businesses Need To Know - Legal 500",
+          "source": "Legal 500",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXVnWVZLVW4yaXhQOTY2Mm5mdHpGSzVJSFpGN0p6TDk3NFU3VldTU3h6UUQzS0JkMGhka2RuUTNMX0s2azM5NVdHTS00ZVJ1YlM4aEFHZm5oWUFIaF9uY0lMeG5rNnctdFlOcDZZQmFtb2Fja1ZVOHMxX1prM2hFZ1hHUjYtSk9MeFdUYWFyOW44TENqMVk1eTV3U1l0TTVJaXppbi1JVW5CM0dOMHVOS3hOZ0lubjJ4TjJSR2dIa012U3lGbTlvT2Q0bEcxSUEtOGFnTVNNWE1xa3M0UFE?oc=5",
+          "triggers": [
+            "POLICY",
+            "TRADE"
+          ],
+          "companies": []
+        },
+        {
+          "title": "How an Innocuous RBI Circular Allows Defaulters To Retain Companies after Massive Loan Write-offs by Lenders - Moneylife",
+          "source": "Moneylife",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTlhsT09qT3I3S0pOSGp4dTd1ZEhlZjIxNkx3QzlQMG1ITkN0S3ZGc1FhWTdaRHE0aEdmVE5iMWswbWpoVFJqMUl2OTluRDJuRjlGZE1MWHhDR3JiTlRQU0ZVa2NjTURWbTRqak1KclpybGhFV2ZwZEZ4eFppOUxBNlRfZ0h0QjZPWVI0cGJOdVdqcnF6SmYzb29HaV9HZGlGWUZPc2cwN2JMVmtxbV8wa3lOWUJhbWNBYTJVazh2cHZURkh2OURXV0o2bjlFY0pXRm52WkxBNmRNc0pFdjV5MFRhVENpdw?oc=5",
+          "triggers": [
+            "POLICY"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, TRADE; 3 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 3,
+      "companies": [],
+      "connections": [
+        "Policy + trade can change domestic supply, import/export flows and realisations."
+      ],
+      "fresh_count": 0
+    },
+    {
       "industry": "Rail & Infrastructure",
       "score": 37,
       "article_count": 2,
@@ -166,43 +174,42 @@
       "fresh_count": 0
     },
     {
-      "industry": "Banking & Financials",
-      "score": 37,
+      "industry": "Chemicals & Materials",
+      "score": 36,
       "article_count": 2,
-      "trigger_count": 3,
+      "trigger_count": 2,
       "triggers": [
-        "POLICY",
+        "PRICING",
         "TRADE"
       ],
       "evidence": [
         {
-          "title": "RBI Releases Draft FEMA Rules On Foreign Trade - Legal 500",
-          "source": "Legal 500",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3FYT21JQ0I2VzllbDV0aUZjb0M1Z0JpSlAxSG12Mm9oWU8teHdEbHZJSmZkd2tiZVMtTlBqaHpGWkhyT29QbVMwWWJkalZqcENzd20xTmNSM1hubEEtZm11aFRQYmZTMEdsNnc2dEhTMGQ3U0FYaGxxQXdsY2VELXh0REVVd3RvOFA1UUdUdUJxMXlvU3ZXUHc3el9FQVFlNGdKWTc2RDkyanRi?oc=5",
+          "title": "National Fertilizers Invests ₹5.72 Billion in Assam Valley Fertilizer for New Ammonia-Urea Facility - scanx.trade",
+          "source": "scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSEh4VXFnYTFuMDZPdk9tRk8zWTAtdEpHaVVRM3FvTzZWc2J2SVFyczh4dXcweTFzQ2xqcVRPMXRKZjdYTFBtaXY0cW01Yk9BWTZ2T2ZVS0lfSzlOcmMtaE5PLWFjczZZckZYZHEwbmVFLWY2QUo2OTdJb2ZhVkdmTC1CM2ZFWVI2QXBfOEVTSXZpT1c4TVQ1TmpKTnRNNnlqanBCd1JjRDR2bjF3MU1BZks5WXRXTEFOdW1NWFByQ0U1ZDZJWkpmNGx5eC1ieG81SjhmMmlXQm5aTVIwZHdKQjRMcVJiZEItTmh5aEdySHRuYUYwS0E?oc=5",
           "triggers": [
-            "POLICY",
             "TRADE"
           ],
           "companies": []
         },
         {
-          "title": "How an Innocuous RBI Circular Allows Defaulters To Retain Companies after Massive Loan Write-offs by Lenders - Moneylife",
-          "source": "Moneylife",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTlhsT09qT3I3S0pOSGp4dTd1ZEhlZjIxNkx3QzlQMG1ITkN0S3ZGc1FhWTdaRHE0aEdmVE5iMWswbWpoVFJqMUl2OTluRDJuRjlGZE1MWHhDR3JiTlRQU0ZVa2NjTURWbTRqak1KclpybGhFV2ZwZEZ4eFppOUxBNlRfZ0h0QjZPWVI0cGJOdVdqcnF6SmYzb29HaV9HZGlGWUZPc2cwN2JMVmtxbV8wa3lOWUJhbWNBYTJVazh2cHZURkh2OURXV0o2bjlFY0pXRm52WkxBNmRNc0pFdjV5MFRhVENpdw?oc=5",
+          "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - Indiatimes",
+          "source": "Indiatimes",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbjdHWW5JN3ZmUlAyRXR0bUl1SjhMZUlLM1JyLUtaN1FmZk5CX2cyUG9wVVZ5bFNDcFctUE1zQ0FHbF85d1lEQm5qd1daTGc2UkNFNHBPRGRFNWY0RlVPYzNzQV9oUHVZcjdya01IS3NCZ1VjRm1ZZC1qTXN5WXJELVY5MlFET1lrMncyYVQ4eXdfVlhTOGxHTVdxMHRQeGRSc2hwS1doM1dvMm91N2xBYWZtS0JJU216MGtWODYyYnAtdUo1azNtMzJ6TEE0SXE1dGxpUHBvQ2xlVGlkVlBPaXpjbUZaRTRmenJUdnFMaGhSSlJoT1pYWtIB_gFBVV95cUxOREpkYVRvcFhpR2RKRHRxQWVMbTlaNXpxVzE2Y3RTZXlWbDRkd0tOaUVyZ011UGg3aThJclFyd0ZQTHdNb1RYMEJNZXA4M0Fzclowc2ZtNWotVE1sZXVYZUhMUDFOWHJtVDh0VjJxX21NZVZTYWdOSHhncHVKemRXc1doYUFTS0l2eVRGUUpDQU1tZ0wyd0Z2bkNrU0NPa0tZTHZBVHJUX3FKbDBtZWppTTZrUHpfQ05yajRMNVJnR25kMENIQzlxTWhuYlNwRURNMmVKdU0ybXRQOGdkMGtaNHIwU3VaSU5iTThESVUyTGJ5M3hJVWRCbUNLbS1WQQ?oc=5",
           "triggers": [
-            "POLICY"
+            "PRICING"
           ],
           "companies": []
         }
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, TRADE; 2 distinct story clusters; 2 independent sources.",
+      "reason": "Cross-signal PRICING, TRADE; 2 distinct story clusters; 2 independent sources.",
       "source_count": 2,
       "story_clusters": 2,
       "companies": [],
       "connections": [
-        "Policy + trade can change domestic supply, import/export flows and realisations."
+        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
       ],
       "fresh_count": 0
     },
@@ -327,23 +334,6 @@
       "companies": [],
       "connections": [],
       "fresh_count": 0
-    },
-    {
-      "industry": "Chemicals & Materials",
-      "score": 0,
-      "article_count": 0,
-      "trigger_count": 0,
-      "triggers": [],
-      "evidence": [],
-      "confidence": "low",
-      "watch": "MONITOR",
-      "reason": "No sufficiently relevant sector-changing evidence in the monitored feeds.",
-      "source_count": 0,
-      "story_clusters": 0,
-      "companies": [],
-      "connections": [],
-      "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-22T15:13:53.628947+00:00"
+  ]
 }
