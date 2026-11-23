@@ -4,7 +4,22 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Indias Festive Auto Sales Hit Record 55.25 Lakh Units In 2026; Passenger Vehicle Sales Fall 7.16%, EV Sales - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNk45YS11ZU96RW1nZm9Ueks4cmV0RWVqQXMxZlNOMGVfY1pUMFVYS0RtYS1GOFdhN2VfUHJXWHJwbjU1MVlMM2U0dFN0cFlBWHNiWEloWWNLVkVrYXRjTmJCQVNabFRrQWl5TmhoM3M2UDdaajNtcjdkM0YwR2NOT3I2S1d2TTJoRlE2UkpEQVpfYi0zX1U1U1NRTEtSTk1VcHQxRWlidDMxM1ZFUEhmVmZJX25PU0NxMGhKUXNrcl9JaEdQWjM3NTFxYnV1VUNLcDFndVNsVHRKejE0V0NJZVVCdFFLdzM3Z1HSAe8BQVVfeXFMT2dSWjFGdmpvUklxWnpEb2l0TXBwQktMOUxhZ2lKcmYwdkRES1lnZkNSVXMtbGg4MHJPNkZNVmtiUUp4UDhTTWs2TVZxU0FBc1F4SzJFTG9nSnBBVHN6S3ZFRUhYWUVHRE12eDhGRUQ1azZoRzFscHBkendOdmx3c2R5cllaTkpvclFBTGE3NzY3ZEZXVTVfTm9fZW1UamtfUWEyRmtjLWRNRjFoNlc2d29Ob3EwVHctQS0zeUVkMGJhdmxrN3BmS0IyTGlfQ3R5OC1sSFU3SlhMallLemF4VGpvb1F5VDFRMnJpczlzY1U?oc=5",
+      "published": "Mon, 23 Nov 2026 11:41:27 GMT",
+      "source": "Free Press Journal",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 0.6
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -296,5 +311,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-23T12:20:12.617814+00:00"
 }
