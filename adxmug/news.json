@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Banking system liquidity turns deficit for first time since June 29 as surplus shrinks - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUndlUDlzcUg2RUxpd1BVZEJDS2pJTDZveTc4WEIzTk5uRzRWZ2NMTlAyV21aN1pLWTEwOFBaeFV4ZjQxcVZjRE9nSWk2Nmt4SXUwdlQ1YlU5V3B4ZURBdGgxbUtVM29MZXpVMjVYemtLWURwa1p2b1dQM3g1R09YZU9FeWhiclNiZGZSd2dTRDBoTFVGT0RaUkdIc0dpd1NQa2dmT2Jtb0NCZGhVaU00ZXdiWWhWMGFQQXJCSFlocXVsZy02T2hDOEZzeHJPRThvbWl0S1oxczZ3Y2lHV0JWdnB1d9IB4wFBVV95cUxPUndlUDlzcUg2RUxpd1BVZEJDS2pJTDZveTc4WEIzTk5uRzRWZ2NMTlAyV21aN1pLWTEwOFBaeFV4ZjQxcVZjRE9nSWk2Nmt4SXUwdlQ1YlU5V3B4ZURBdGgxbUtVM29MZXpVMjVYemtLWURwa1p2b1dQM3g1R09YZU9FeWhiclNiZGZSd2dTRDBoTFVGT0RaUkdIc0dpd1NQa2dmT2Jtb0NCZGhVaU00ZXdiWWhWMGFQQXJCSFlocXVsZy02T2hDOEZzeHJPRThvbWl0S1oxczZ3Y2lHV0JWdnB1dw?oc=5",
+      "published": "Mon, 23 Nov 2026 14:51:32 GMT",
+      "source": "Moneycontrol.com",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 9.9
+    },
+    {
+      "title": "DGFT Invites Applications for 2027 India–UK CETA Tariff Quota for Imported Cars and Commercial Vehicles - Juris Hour",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQekhwNjdZSXVHajVmNXZNcnAwXzBMeG5FcTViOEZ2NHJvdXNLcmpWYVgtVHU3VDBTUHppRUJMaXlRNHJISkt5c21CaWRhc3JGakgyUTBGZmJuRklGMTd2cGwySU1jU2V6SGh6T2Rrb1hZZTVqRmkxQW5yUXZPQzlNWUJ2N2lzNHZkemF2YW44aHB4Rm1nU3ZiSkJ3RHpWNjhVblc4QnJNMzViM053bkxrWFNB?oc=5",
+      "published": "Mon, 23 Nov 2026 13:11:00 GMT",
+      "source": "Juris Hour",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 11.6
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -364,5 +393,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-24T00:46:03.877246+00:00"
 }
