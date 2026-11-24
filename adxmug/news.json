@@ -6,24 +6,10 @@
   "articles": [],
   "landed": [
     {
-      "title": "India must move beyond yarn, fabric to win global apparel orders: BCG-CII - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWh0T2p4cWExYldrUEpGWVQ1Y1pvbzFYZ0I2WV9IM1dPMnd6eHlpanV0Y21IZGJqUER4QVZCUkRTMHBVOU9RX2FsNlF2eE9ZS1JOOXB0ZXNFWXoyVm12akM3NVZyOTFmbktOQ1ZhbUtfa0p2cFg1and6V2doemNPUlZqZHotbkRValQxaU42WHIxMjJxRDJFWWNHLV9KbWowNnVpTXJkeVRBZnhyU21PUUVTVDZid0NLbXRfSlBNVGZVQ1Z6TDUwd3IwWDRMMGwwX0t1WkRB0gHbAUFVX3lxTE5qbFpsTktZQnlVRG50a3hHdE5OTEhBV3ZiTDRiaW9vZmFDTm9fYk5ubUlTZmlmdV9KSEZ5TlBPUlllSVpmczhTcXJlT0NpQkd5aHlsZ3d1a09KdDdzSU8tXzE1aHVCd0Rqb2JnN1BlNkFXS0J5VDlnMVJKOGh3MENjOUllNHdYSy1WVVFha1Y0OG8zWTlLb1JNOHRDd2QwMjhiUkZLMGhlWGtzbld0Wk10SlJITTNUSE4zZnRvZ1pMMkF1TU01cmptdW9XSVVTOWstdEFMZnRvclRVQQ?oc=5",
-      "published": "Tue, 24 Nov 2026 09:07:51 GMT",
-      "source": "Business Standard",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 1.7
-    },
-    {
-      "title": "Indian Banks Face Cash Shortage as RBI Steps In - News Karnataka",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenpFN0pYQVYzQlhZdE5qTTZ4VWgzZGtsVncwazNBa29hM3lVUlAwVm1FMnNPdnBGVnpiYWRWTUFDNEIzOFg4R3VRSDUxdHM2Y1lGd213RUlLSW9zRnUwbTNIWGdFRlpWZy1aQUpQN0FfSm9DckJtd0E2UkJnQzhzWE1Bem1QMWFXWjdSQ1V6ZVNLTE1DLWpZ?oc=5",
-      "published": "Tue, 24 Nov 2026 04:18:25 GMT",
-      "source": "News Karnataka",
+      "title": "Bank Cash Crunch: RBI Injects Rs 12,825 Crore as Banks Face First Liquidity Shortage Since June - theopenpress.in",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTNMdndGZmR3RFpUbmpTNnM0czROWllaTFozR2xDd2FFVWZtNmJ1ZnRDX2hod3hJVk9KZHNqSThIc3RaNEl3aGc0TnJ0dkIwcnRELUp6MVF6WklaOW5XV25qLUVITHdVeFBZQXpieHE3eW9PS1hJajhZbEpVSDhqOQ?oc=5",
+      "published": "Tue, 24 Nov 2026 20:04:58 GMT",
+      "source": "theopenpress.in",
       "sector": "Banking & Financials",
       "triggers": [
         "MATERIAL CHANGE"
@@ -31,7 +17,35 @@
       "label": "MACRO",
       "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
       "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 6.5
+      "freshness_hours": 1.0
+    },
+    {
+      "title": "Ammonia Source Gases Market Forecast to 2035: Semiconductor Fab Expansion and Advanced Node Demand Drive 5-7% Annual Growth - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXcwNmNxQ21BNFN6ck5Jdmw4dVMzRFN5Y2tidXpMYjd5c3J0MzcyV1I4UHlBRGpyNlFTcnIxa1p2TGlnY2RRSTl4UGhZbzRiLU4zdmwxNTh5M3hkd0dCM1NIZ1dfUURBSlUxWEYzQ2QwSVI4a3gtYVhNMzlRY3VKOEE3eGVPMEwxNWxaMDJrYjdfaFRxUDVtN1VFWF83MV9pZlIwbkJpTHdmSjFILXhESzQ4LWh3aTczWURLRkRyWmpmR052ZnpWQVRUQllfYTREMG9vNTE4cFp3ekdyQ1BvcGYxeXFTdw?oc=5",
+      "published": "Tue, 24 Nov 2026 15:01:05 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 6.1
+    },
+    {
+      "title": "US FDA approves BridgeBio's muscle disorder drug - ETPharma",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMjlBOU51UUU5MFZab3I3aGQ2QVBZYW5lVFNFRUFzMjdtR2dKUU5xT1lkamFrTVJ1LUduZHFYc2pCbHFBODk2Vi1lUjE4bTZUSDNsNmRVVkhQMUxxX2ZQQk1fWldLZFN5UW5oTVNsR0s4NkFpRTZHejNBaTJ6NkJETkVtRno5Yi1MMlA0X1ljSy16UmRYTEh2dnZES2w5WUhaSnpKZjVhZTBMREw5TVg3WTlaeURHZGhCRkUydC0xdG9YVkFmS29BV3dGNENCTEnSAdQBQVVfeXFMT2p6aGpCZDVTOUk3aGZQVVBlQU9QdzdqdWNDQlJqNUFsMUhBRWxCazF2Y2htV3dxT1F2Rld0MU9fMTJMelBKNVQ4a0t5c0I4U0FIT3ZsSnR5Y1lKaDhvUElDMW13UHB1aVNYVXVYRU4zSHk2VmxnMGp0SlIwU1JXMnRKZVB6bFQ2WEtxNUZ4OGk1SkROQmlYZXctOEVjOGVQamZJSlpHX1BCSW8xWFB3dFl5VHhaSXdzZWRWek1DQS1XOGdZbFVfMEdFa3pLRm5hNGt5Sk0?oc=5",
+      "published": "Tue, 24 Nov 2026 06:51:01 GMT",
+      "source": "ETPharma",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 14.3
     }
   ],
   "opportunities": [
@@ -378,5 +392,5 @@
       "fresh_count": 0
     }
   ],
-  "landed_updated_utc": "2026-11-24T10:51:18.815583+00:00"
+  "landed_updated_utc": "2026-11-24T21:07:07.666004+00:00"
 }
