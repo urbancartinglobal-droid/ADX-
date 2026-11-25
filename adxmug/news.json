@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Bank Cash Crunch: RBI Injects Rs 12,825 Crore as Banks Face First Liquidity Shortage Since June - theopenpress.in",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTNMdndGZmR3RFpUbmpTNnM0czROWllaTFozR2xDd2FFVWZtNmJ1ZnRDX2hod3hJVk9KZHNqSThIc3RaNEl3aGc0TnJ0dkIwcnRELUp6MVF6WklaOW5XV25qLUVITHdVeFBZQXpieHE3eW9PS1hJajhZbEpVSDhqOQ?oc=5",
+      "published": "Tue, 24 Nov 2026 20:04:58 GMT",
+      "source": "theopenpress.in",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 8.1
+    },
+    {
+      "title": "Ammonia Source Gases Market Forecast to 2035: Semiconductor Fab Expansion and Advanced Node Demand Drive 5-7% Annual Growth - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXcwNmNxQ21BNFN6ck5Jdmw4dVMzRFN5Y2tidXpMYjd5c3J0MzcyV1I4UHlBRGpyNlFTcnIxa1p2TGlnY2RRSTl4UGhZbzRiLU4zdmwxNTh5M3hkd0dCM1NIZ1dfUURBSlUxWEYzQ2QwSVI4a3gtYVhNMzlRY3VKOEE3eGVPMEwxNWxaMDJrYjdfaFRxUDVtN1VFWF83MV9pZlIwbkJpTHdmSjFILXhESzQ4LWh3aTczWURLRkRyWmpmR052ZnpWQVRUQllfYTREMG9vNTE4cFp3ekdyQ1BvcGYxeXFTdw?oc=5",
+      "published": "Tue, 24 Nov 2026 15:01:05 GMT",
+      "source": "IndexBox",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 13.2
+    },
+    {
+      "title": "Trump Administration Weighs New Tariffs Targeting 16 Countries, Announcement as Early as the 25th - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Td2w3R3lObnBWWGpDNDc3M3ZUbnQtVm9teGt1SEQ0a0VfX3NuSHdTOW1iRDFucGZjUmpLTG5uODhMQzFjWDloRmswclJHT21RSlZpMXVES0FxN2ctNGZEUzYyZUYzbzB1YjRoYXJsUXRzRlRVaWc?oc=5",
+      "published": "Tue, 24 Nov 2026 14:35:00 GMT",
+      "source": "BigGo Finance",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 13.6
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -370,5 +413,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-25T04:10:33.489772+00:00"
 }
