@@ -1,88 +1,22 @@
 {
-  "updated_utc": "2026-11-26T08:20:22.925063+00:00",
+  "updated_utc": "2026-11-26T21:33:38.000166+00:00",
   "source": "Google News RSS · Business + Macro + Global + sector-focused discovery",
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
-  "articles": [
-    {
-      "title": "India Clears 8,606 MT Raw Sugar Shipment to US Despite Domestic Supply Tightness - ETV Bharat",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOE5mZlVWcVFBemtkeXRhOFpwbmx0eFBwYkYzVWNSeFhHUERLYThKZjFuclk5TTNaRWJ4TVpyWi1nQ3AxRVVWM1R3MXBuMXlNS0pfLUp0S1FQTDhwcEZsZnJwOFdaZVlkaHZrdjdvSkI0WHFkVGNYeW1hVjgtZUphRWJvMzBNSjRnWHItLV92MkYyRjlyRXlkc2hPS3RmX19uWTFkdEhtWlREdWF5dm1sMENCdDZ3NWRLSkhEdzNYRmItMlhqUGc0SjFqdlbSAdIBQVVfeXFMTzI0RUpuc2FSVmttSmd2Skl5V29vaXRZNmNxTDh1QlpoUUU4MXFpLU9pZTJGSm1USTZEVlRVQ0tHSnVjdWZJeHBEZ2FlVm9haU1xMTdFaU5SOGxtMXdGRWdsSzRUb0NTMWM4dWJjbm1QV05HanlKQm9NY0E4SWhOWEhGcGlISmlwOHdDZG1fdzE2ejFiWlJSV015MnlEVzNlX1lKRGpsbWxsdjNBaUgwdmFBY0xPTjk1LXhjNlNpbXRSRHM3ZVZGVHNvdW1KbE00V09R?oc=5",
-      "published": "Wed, 25 Nov 2026 08:36:31 GMT",
-      "source": "ETV Bharat",
-      "feed": "Sugar & Ethanol",
-      "description": "India Clears 8,606 MT Raw Sugar Shipment to US Despite Domestic Supply Tightness ETV Bharat",
-      "sector": "Sugar & Ethanol",
-      "triggers": [
-        "TRADE"
-      ],
-      "signal_score": 14.0
-    }
-  ],
-  "landed": [
-    {
-      "title": "Indian Government approves six new urea plants - World Fertilizer",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnpValpjUXZhSnRiQ2hwa1hYQXZaaHJiQUdlbFpHeGJXSFJpMElGamtaMGFCVHpQdTJha1RpOWFGckFCUUtuM2FxNThJTlBTeDNobEtaVlNwWDRIT3hRZnIyMGIyNTJOZDc5bHRmYkgxVFFFOWpoMGg1SEpfUENLRU0tVWFIOVBFT0dDWm9nSnRuTkJLd0hiMnowR0VSdw?oc=5",
-      "published": "Thu, 26 Nov 2026 09:40:46 GMT",
-      "source": "World Fertilizer",
-      "sector": "Chemicals & Materials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GLOBAL",
-      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
-      "freshness_hours": 9.9
-    },
-    {
-      "title": "Tata Electronics reportedly opens talks with contractors for phase 2 of Assam chip packaging plant - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3N3TW5JY0EyQzBwUXdJWFZYVW9EaHZibjNxQ2RWdTVHbnd5aXFTLW9xbFZIakFZMlFISnNWXzROM0N3Vk1XdFA3T1k2UzBVcW91OGZhbnk2RXdrYWFKTng3cmtEOGFXbFBTQzRYdEc3RzZuU2EzTDBvVVo1Rmtfa3ZqV3BSNkxDM3BhOFZacGdYZUx5QVZtR3hNakNBMi1NNmJ2X0dn?oc=5",
-      "published": "Thu, 26 Nov 2026 04:51:49 GMT",
-      "source": "digitimes",
-      "sector": "Electronics & Semiconductors",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "GIGA+",
-      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
-      "freshness_hours": 14.7
-    },
-    {
-      "title": "IDBI Bank disinvestment enters crucial stage as RBI examines Fairfax, says DIPAM secretary Chawla - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVi05ZXJ0NS1nbkFJeTA5UDI4LWZzNkNpcUJCVkdsbzYwdm9oYXdOZXFvX21DLXVkdVpkd3FfWUt2bVV2OU5OMk1SVmM0TWpZOFJFeXZJcTVFeE9IY3RXYVVfbjFscDhqaU1KOHdOSFZnelNXTXJqWFJUc3p2TGppcDJrTXYtZWhDNGpBOE5DVGtRcTJjSFJIcWV6TXFFT213YkwxSElLV01CVzI5d21UcW5UUWkzLTZiWEVwcVMxbk5wODdVVHF0V2ZnY1JINkd4SEcteGdIMjdjdnF1elVqZjl0QlNmX0xkMzZWLTFTV1Q?oc=5",
-      "published": "Thu, 26 Nov 2026 15:30:28 GMT",
-      "source": "TradingView",
-      "sector": "Banking & Financials",
-      "triggers": [
-        "MATERIAL CHANGE"
-      ],
-      "label": "MACRO",
-      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
-      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
-      "freshness_hours": 4.1
-    }
-  ],
+  "articles": [],
+  "landed": [],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
-      "score": 72,
-      "article_count": 6,
-      "trigger_count": 10,
+      "score": 64,
+      "article_count": 5,
+      "trigger_count": 9,
       "triggers": [
         "POLICY",
         "PRICING",
         "TRADE"
       ],
       "evidence": [
-        {
-          "title": "India Clears 8,606 MT Raw Sugar Shipment to US Despite Domestic Supply Tightness - ETV Bharat",
-          "source": "ETV Bharat",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOE5mZlVWcVFBemtkeXRhOFpwbmx0eFBwYkYzVWNSeFhHUERLYThKZjFuclk5TTNaRWJ4TVpyWi1nQ3AxRVVWM1R3MXBuMXlNS0pfLUp0S1FQTDhwcEZsZnJwOFdaZVlkaHZrdjdvSkI0WHFkVGNYeW1hVjgtZUphRWJvMzBNSjRnWHItLV92MkYyRjlyRXlkc2hPS3RmX19uWTFkdEhtWlREdWF5dm1sMENCdDZ3NWRLSkhEdzNYRmItMlhqUGc0SjFqdlbSAdIBQVVfeXFMTzI0RUpuc2FSVmttSmd2Skl5V29vaXRZNmNxTDh1QlpoUUU4MXFpLU9pZTJGSm1USTZEVlRVQ0tHSnVjdWZJeHBEZ2FlVm9haU1xMTdFaU5SOGxtMXdGRWdsSzRUb0NTMWM4dWJjbm1QV05HanlKQm9NY0E4SWhOWEhGcGlISmlwOHdDZG1fdzE2ejFiWlJSV015MnlEVzNlX1lKRGpsbWxsdjNBaUgwdmFBY0xPTjk1LXhjNlNpbXRSRHM3ZVZGVHNvdW1KbE00V09R?oc=5",
-          "triggers": [
-            "TRADE"
-          ],
-          "companies": []
-        },
         {
           "title": "Sugar prices may ease after India allows duty-free raw sugar imports: Ind-Ra - ChiniMandi",
           "source": "ChiniMandi",
@@ -122,26 +56,35 @@
             "TRADE"
           ],
           "companies": []
+        },
+        {
+          "title": "Sugar Cane Market: India Tightens Controls, Brazil Rains Support Prices — CMB News - CMB News",
+          "source": "CMB News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3hFNGNJM2dBRVV1R0ZfQTBTVmZydnFEUVBVUGZIMXMyc2xZMnRSSE9aM0gtTnNrdEFobmxPZTZlY0dlc05HX3VseHV6WmYxYkNYRzhYaUtiS3ZhdVl2dGViem5pZHlVTGVfOHBkZHA1d2pxZWFvTFhPeThMeTFwT3drU3Y1Z3JEdUI2Mk5lMkhTM0ZYMVM5Yld0NGlocWN4WFE?oc=5",
+          "triggers": [
+            "PRICING"
+          ],
+          "companies": []
         }
       ],
-      "confidence": "high",
-      "watch": "WATCH",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 4 independent sources; 1 fresh evidence items.",
-      "source_count": 4,
-      "story_clusters": 6,
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 5 distinct story clusters; 3 independent sources.",
+      "source_count": 3,
+      "story_clusters": 5,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
       ],
-      "fresh_count": 1
+      "fresh_count": 0
     },
     {
       "industry": "Banking & Financials",
       "score": 54,
-      "article_count": 6,
-      "trigger_count": 11,
+      "article_count": 7,
+      "trigger_count": 13,
       "triggers": [
         "POLICY",
         "PRICING",
@@ -188,9 +131,9 @@
           "companies": []
         },
         {
-          "title": "RBI Releases Draft FEMA Rules On Foreign Trade - Legal 500",
+          "title": "RBI Allows Tariff Rate Quota (\"TRQ\") Holders To Make Advance For Import Of Gold. - Legal 500",
           "source": "Legal 500",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3FYT21JQ0I2VzllbDV0aUZjb0M1Z0JpSlAxSG12Mm9oWU8teHdEbHZJSmZkd2tiZVMtTlBqaHpGWkhyT29QbVMwWWJkalZqcENzd20xTmNSM1hubEEtZm11aFRQYmZTMEdsNnc2dEhTMGQ3U0FYaGxxQXdsY2VELXh0REVVd3RvOFA1UUdUdUJxMXlvU3ZXUHc3el9FQVFlNGdKWTc2RDkyanRi?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2g2VTl5RHFoWXBvY3hjYmRnSHdYbTh4eEhkYXhOOThhVE1VYUdrSTdqOTVGM0ZXMFd1WC0zcDcwRkptcHZqRnZMMjNmcHRObldOb1hVZ25RaDlfQjBKeFhtVXQ5eW9aRUN6NmZ5MzYwMi13eEQwYVB6YV8zQURfTFR5LTVKMnAyY3JGMThwTmJuN0U4RXZETm1ZMEpTNXhDQXVaYThZYnRUeDlyN1IwenZzUGc1R3hzZk80X0p4MUpiemhnM3k3V1FsRTJNOXQ5RjM4Vjln?oc=5",
           "triggers": [
             "POLICY",
             "TRADE"
@@ -200,14 +143,55 @@
       ],
       "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal POLICY, PRICING, TRADE; 6 distinct story clusters; 3 independent sources; mixed positive/negative evidence.",
+      "reason": "Cross-signal POLICY, PRICING, TRADE; 7 distinct story clusters; 3 independent sources; mixed positive/negative evidence.",
       "source_count": 3,
-      "story_clusters": 6,
+      "story_clusters": 7,
       "companies": [],
       "connections": [
         "Policy + trade can change domestic supply, import/export flows and realisations.",
         "Policy + pricing can change inventory economics, margins or the supply-demand balance.",
         "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
+      ],
+      "fresh_count": 0
+    },
+    {
+      "industry": "Rail & Infrastructure",
+      "score": 37,
+      "article_count": 2,
+      "trigger_count": 3,
+      "triggers": [
+        "CAPEX",
+        "POLICY"
+      ],
+      "evidence": [
+        {
+          "title": "Cabinet approves Thane Integral Ring Metro Rail Project for Rs 12,200 cr - ET Infra",
+          "source": "ET Infra",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1AxMktXeWxiNXhiRkNTSVVuRzhrQ0pjU0J0X3p4cllGNUExUHhVZkVBd2Rzd0ltc2IydFdqTDNnRno2TXFGX3BxNllqb1c4Rmp6V3NVY3VNNlY1QXlQXzVjREc4WjgxSnExQmVRbVY5Z2tCWF8wSUIyaGJGbVdBNmxOcDFXQTVybU1uWFlSMXN3TlQwZlVmTElJRTFwOXlBN2NPd2RTZUstU1RoVFJfTTVOXy10T0hZOGZPNWV3M1NJR211aTM2WlhTWHFpRHVHdmNfNHlndmRabVhQakJqeVJIV2p2Y2VLMlgwNXNB0gHoAUFVX3lxTFAwdFNvQTJXam1XbDBvakNDOHBXV2xNeFo1b2c0YXd0OEktWDZ1VzN4cTNWUklEaW1HNjF5Y3JBZFEzNkZqMTFEd2NVQl85TGtsRmcwZGdISkZWRjZ3ZXNYWm9tVVktZGpvS2RETWFZVjR3akkwa3ZDOFk5emoyaTMzT3dtRXI3QVJXdFU3ZzBKYWtjdzRsNjE4QU1iZXU4Q2E0dlBZa0RVdFZvNXQzakdDRVJsUlZ6eGVOQU1BZnFKYUNXeVlrOG9LRGVaVU8wUG5EX21XVlZmUHp1TTdyQWNwVVRGb25oYTM?oc=5",
+          "triggers": [
+            "CAPEX"
+          ],
+          "companies": []
+        },
+        {
+          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
+          "source": "Swarajya",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
+          "triggers": [
+            "POLICY",
+            "CAPEX"
+          ],
+          "companies": []
+        }
+      ],
+      "confidence": "medium",
+      "watch": "MONITOR",
+      "reason": "Cross-signal CAPEX, POLICY; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
+      "companies": [],
+      "connections": [
+        "Repeated sector-specific change evidence warrants company-level verification."
       ],
       "fresh_count": 0
     },
@@ -257,19 +241,10 @@
       "article_count": 2,
       "trigger_count": 2,
       "triggers": [
-        "PRICING",
-        "TRADE"
+        "CAPEX",
+        "PRICING"
       ],
       "evidence": [
-        {
-          "title": "National Fertilizers Invests ₹5.72 Billion in Assam Valley Fertilizer for New Ammonia-Urea Facility - scanx.trade",
-          "source": "scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSEh4VXFnYTFuMDZPdk9tRk8zWTAtdEpHaVVRM3FvTzZWc2J2SVFyczh4dXcweTFzQ2xqcVRPMXRKZjdYTFBtaXY0cW01Yk9BWTZ2T2ZVS0lfSzlOcmMtaE5PLWFjczZZckZYZHEwbmVFLWY2QUo2OTdJb2ZhVkdmTC1CM2ZFWVI2QXBfOEVTSXZpT1c4TVQ1TmpKTnRNNnlqanBCd1JjRDR2bjF3MU1BZks5WXRXTEFOdW1NWFByQ0U1ZDZJWkpmNGx5eC1ieG81SjhmMmlXQm5aTVIwZHdKQjRMcVJiZEItTmh5aEdySHRuYUYwS0E?oc=5",
-          "triggers": [
-            "TRADE"
-          ],
-          "companies": []
-        },
         {
           "title": "IFFCO Paradip grapples with potential ammonia shortage, threatening fertiliser output - ET Chemicals",
           "source": "ET Chemicals",
@@ -278,45 +253,22 @@
             "PRICING"
           ],
           "companies": []
-        }
-      ],
-      "confidence": "medium",
-      "watch": "MONITOR",
-      "reason": "Cross-signal PRICING, TRADE; 2 distinct story clusters; 2 independent sources.",
-      "source_count": 2,
-      "story_clusters": 2,
-      "companies": [],
-      "connections": [
-        "Trade flow + pricing pressure can expose a supply squeeze or easing cycle."
-      ],
-      "fresh_count": 0
-    },
-    {
-      "industry": "Rail & Infrastructure",
-      "score": 25,
-      "article_count": 1,
-      "trigger_count": 2,
-      "triggers": [
-        "CAPEX",
-        "POLICY"
-      ],
-      "evidence": [
+        },
         {
-          "title": "Bhubaneswar Elevated Road Corridor Project Faces Delays Amid Metro Rail Integration Plans - Swarajya",
-          "source": "Swarajya",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDUzWklvUDhHcEpBUm8ycjNtQUVkV0ExZ2tvX2RJQlZLYzhQa0hkN0RVUVMwaG56VmF3VnEwZUNIZFhKakxIeDBkRGVXQ1dMczRtQWZfbTNkc25WSGRkQlJBeGN4dmswYjFhOG1qNThkNnNzbjUwdWU0Mm9tRkEtR2x5S1FobWRSY3IxQ1Q3cnVIM2JoZmJYb1JBTXlIY0V2c2FzT0FmMU1EVXgyYnZIVm81X3A3UW5PZVJnaEFTUUNId9IB0gFBVV95cUxPaEh5WS1NLURQT1ZtUVROQ01WcUhYNU9DQUhJR2w1Ync2dllqajZGWmJxaXlfUzllbDNjWHYydERwZjYyNjFlbnp5Y2lMZ0o5S1BCX05GM0h2YzBKNEI5X0kycU56N0NyeVBiTGhOclh0dXAya0pVQ3U4X09hcDBtLTY5NE5oVW5OYVZJclAzVEd5Z2ZoU1duMXM3UERwT0FEYzZsN19IMnVReTFtMWE1SzZtc3JuRm9NQURlcXhNa0NMYXNFbGZjbTRnOUlXTkhJR0E?oc=5",
+          "title": "NFL opens new Bio-fertilizers bottling plant in Madhya Pradesh - Indian Chemical News",
+          "source": "Indian Chemical News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVh2cUJJSDAzWkM5aTNhWkRhbnhhZUswYVlma1BPa0V6Nl8xYTIyZThET05WYjVxd0otMTBQNmpsN0lqRll1eUp3NUN5QjllbW1lcWUySndtejFTMmxNUVdvWXdMSEFWbldPZUl4akFDS1lJZzZLZEhpUFpnSkh2TXl3TlBEdFhLU011cWVTRFRuV3lWVVFpYnNkU1ZUZVd4emNMcEo2WllmWHNLcXpUZ9IBtwFBVV95cUxOUFV4VUFKRWtWQ3RUUFdQaUl1aHMyOHBCX2RoVEtSQUlBZTE0V2NPX2dCd0dVSkc2TGMwamM0cHhObkRZY3ZNM0h0ay1udmpxWTk0UWZrZldIWE1fZHdrUWZza0NOd3NKZEZrQ25mLTJtd1drN0Q5cnFDYTNXRjJpSG9WUHYzRWpoUUhtbWphNHd2anRmYjJZT2ZIcDFVdV82WWIzbjMwbmFlcWl6SEQ0bjVydHhra28?oc=5",
           "triggers": [
-            "POLICY",
             "CAPEX"
           ],
           "companies": []
         }
       ],
-      "confidence": "low",
+      "confidence": "medium",
       "watch": "MONITOR",
-      "reason": "Cross-signal CAPEX, POLICY; 1 distinct story clusters.",
-      "source_count": 1,
-      "story_clusters": 1,
+      "reason": "Cross-signal CAPEX, PRICING; 2 distinct story clusters; 2 independent sources.",
+      "source_count": 2,
+      "story_clusters": 2,
       "companies": [],
       "connections": [
         "Repeated sector-specific change evidence warrants company-level verification."
@@ -428,6 +380,5 @@
       "connections": [],
       "fresh_count": 0
     }
-  ],
-  "landed_updated_utc": "2026-11-26T19:33:51.317369+00:00"
+  ]
 }
