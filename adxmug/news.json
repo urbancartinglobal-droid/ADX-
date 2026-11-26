@@ -20,18 +20,46 @@
   ],
   "landed": [
     {
-      "title": "India Clears 8,606 MT Raw Sugar Shipment to US Despite Domestic Supply Tightness - ETV Bharat",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOE5mZlVWcVFBemtkeXRhOFpwbmx0eFBwYkYzVWNSeFhHUERLYThKZjFuclk5TTNaRWJ4TVpyWi1nQ3AxRVVWM1R3MXBuMXlNS0pfLUp0S1FQTDhwcEZsZnJwOFdaZVlkaHZrdjdvSkI0WHFkVGNYeW1hVjgtZUphRWJvMzBNSjRnWHItLV92MkYyRjlyRXlkc2hPS3RmX19uWTFkdEhtWlREdWF5dm1sMENCdDZ3NWRLSkhEdzNYRmItMlhqUGc0SjFqdlbSAdIBQVVfeXFMTzI0RUpuc2FSVmttSmd2Skl5V29vaXRZNmNxTDh1QlpoUUU4MXFpLU9pZTJGSm1USTZEVlRVQ0tHSnVjdWZJeHBEZ2FlVm9haU1xMTdFaU5SOGxtMXdGRWdsSzRUb0NTMWM4dWJjbm1QV05HanlKQm9NY0E4SWhOWEhGcGlISmlwOHdDZG1fdzE2ejFiWlJSV015MnlEVzNlX1lKRGpsbWxsdjNBaUgwdmFBY0xPTjk1LXhjNlNpbXRSRHM3ZVZGVHNvdW1KbE00V09R?oc=5",
-      "published": "Wed, 25 Nov 2026 08:36:31 GMT",
-      "source": "ETV Bharat",
-      "sector": "Sugar & Ethanol",
+      "title": "Overnight rates cross RBI’s MSF rate as liquidity tightens; VRR demand surges - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbFZPTy1HWUJfNy1ia1FTR3Q4Y1RCbUd2eXg0ZVBJQWNpaERvbUNhaEcyYWRTcktVMkJsdjhvajRJa0FQVDRlWVcySFJUYUg1aGxJZ3Voc3FxcS1QX0lIV2lKN3JIdjdmWVFlSkwtcUtHTWJrUzVYWDM0dms3WGZRaEZOeFAtdUVDNVpJTHk3b0dEX2RJUERvNFg5a054LVgyRE9HUVBLSFdYakg4aExqVHhZb3EzSHpwTjRhMTlXS3J3a0UwQTJNdFNuN1ZmS3M4NGJNSUFB0gHbAUFVX3lxTE53XzlvTF95Y1RNMWRTWDJ2UFpmWUtXRFZhY1lpY2tKMmc0dElaYU9rN0lSRnlpU241NVRQMVNsc2k1NEpiZE5OSjhmaWlRbXl5NFBwZkJtRFBTVy1Ba1paYWI4RE1OZi1RVEpPcjFNcWloUV9xMXEyU0stcUVYSG9Jd0wySEY1MnRMZ2FnMTdENVE4WkhWS3JFM0w2Rm93Y3lZUW1BMVFYQ2FnNUY5MDgxNU1jV1NDYVZSTE11MElGMkQzX0tDenV0T3B3bktpbFlCTjZ2YUktMUZmbw?oc=5",
+      "published": "Thu, 26 Nov 2026 08:57:55 GMT",
+      "source": "Moneycontrol.com",
+      "sector": "Banking & Financials",
       "triggers": [
-        "TRADE"
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 0.5
+    },
+    {
+      "title": "Tata Electronics reportedly opens talks with contractors for phase 2 of Assam chip packaging plant - digitimes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3N3TW5JY0EyQzBwUXdJWFZYVW9EaHZibjNxQ2RWdTVHbnd5aXFTLW9xbFZIakFZMlFISnNWXzROM0N3Vk1XdFA3T1k2UzBVcW91OGZhbnk2RXdrYWFKTng3cmtEOGFXbFBTQzRYdEc3RzZuU2EzTDBvVVo1Rmtfa3ZqV3BSNkxDM3BhOFZacGdYZUx5QVZtR3hNakNBMi1NNmJ2X0dn?oc=5",
+      "published": "Thu, 26 Nov 2026 04:51:49 GMT",
+      "source": "digitimes",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
       ],
       "label": "GIGA+",
-      "why": "Fresh sector-specific change signal with an identifiable trigger; promoted for investigation, not because of a predicted price move.",
-      "impact": "Hidden connection: Repeated sector-specific change evidence warrants company-level verification.",
-      "freshness_hours": 23.7
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 4.6
+    },
+    {
+      "title": "GSK Bets on India's 'Strategic' Role in Clinical Trials to Boost Launches - ETPharma",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaVlDWDQxMjloaVRNdjNScGQ5OWlSSG12LWFGWUdvRWk5cnNyX2FLTm1tcExzU0VkSENzYS0wMTZCdFlFbUowWGxSMmZyUTYxcE52M3N5QjFLTHpFTW1WcEN1emZvUmVlVmN5UDNFSVhhZmZyNDZwQllMZm9FNG1pOXc4MjF4LUh2Qnd2V2dvSHdXWmR6UWNrOHB1YzhEd0tRLWJkdG5wOXd4RnpRa1lheUM5dDJKWmgzRmJlWlB0MEI2NmpNc2sxcE95ZXVjUWwzcVdzejJZUVRLQ3kyamfSAeMBQVVfeXFMT2hma2dQZ09VWTBNdWowME8zOUhlcktqYUdoQjkwLUJWeloycXV6LWNvY080MWlDT0MxNUQ1Z1dQalBJREd2anBHZVZKb1dBSWxIcGVvdXJhMzZvN3ZfT2FrTzBNOE55b2RnQ2pFclV4Y1ZYdm81UUkxMkZaa2N1ejF1YlRPX3NyN0xZRlpOUld0N2ducmY3SnE1ZEVLdGxiSFhuOW8yU1hGY2RYME5KSDhMYmtWbDNUX0pOUWdUX013VzhXdHlWYy01ZHJ6b0N4R2p4Nl81TjdDSmlhMVNRMG0tMW8?oc=5",
+      "published": "Wed, 25 Nov 2026 10:40:31 GMT",
+      "source": "ETPharma",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 22.8
     }
   ],
   "opportunities": [
@@ -400,5 +428,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-26T09:27:08.970451+00:00"
 }
