@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "India's Indigenous Counter-Drone System Bhargavastra Clears Trials; How Two-Layer Vehicle-Mounted System Works - The Daily Jagran",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT0xTTnNqcGFKSS1JRllHNWI4ZEZKVTEyV1NGWkN2WG9GLVFDNmQ5NnlUTXo2T19nYlFFSU10Mm9jbWoyS3lvNjdlT0VPNmJMd2tmWlNXSU1wWEI1RUpOeTI3WEhCeVhTWG9uemIySU1Bdng5cHo2WWdJYmU1RENVRDd6Sk1Ib0Z1a3NxUmh4cGtob214SnI5RURqYmI1QUlCY3ItU0FrSEQxcllHZGF6TXVOWWUxakszLVdHQ1hTS0VRRmRxdUxJYlhZX2pMUWlqalBTWEtoUldNcjljT19FRUs3dW1hQUdFb3ptb3dB0gH0AUFVX3lxTE9fMERDS1JBUHVpMXZWWE5iZUhzYnR0N2JwaGNoY2RCRlpXVlFSblpybUtENnRzYWJKZG9CbGlSM3d6enFjelhwSWlCNXBzdFpGdlYycWt6WlNiZFlpNDk2aGE2OWFWdmh0VGU5cThNeGRSS2VITlVlNlVmTS1ySklHWFVBUnI4NjRpT1B5QmlmNjZBX3kyUl92dGFpekhuVDdHd0hReVRZMTRBVmdJSVcxSWFSdkxqb2FlcEJBR1EzZklYeEJzdmdCRmNaU2UyV0NQdTJkSk9rVmRoc21yXzdudlpkVUw1V2ZEcWFPVkRCX2lBdU8?oc=5",
+      "published": "Fri, 27 Nov 2026 01:51:00 GMT",
+      "source": "The Daily Jagran",
+      "sector": "Defence & Aerospace",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Defence & Aerospace signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Defence & Aerospace operating conditions → company-level research candidate.",
+      "freshness_hours": 0.9
+    },
+    {
+      "title": "Indian Government approves six new urea plants - World Fertilizer",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnpValpjUXZhSnRiQ2hwa1hYQXZaaHJiQUdlbFpHeGJXSFJpMElGamtaMGFCVHpQdTJha1RpOWFGckFCUUtuM2FxNThJTlBTeDNobEtaVlNwWDRIT3hRZnIyMGIyNTJOZDc5bHRmYkgxVFFFOWpoMGg1SEpfUENLRU0tVWFIOVBFT0dDWm9nSnRuTkJLd0hiMnowR0VSdw?oc=5",
+      "published": "Thu, 26 Nov 2026 09:40:46 GMT",
+      "source": "World Fertilizer",
+      "sector": "Chemicals & Materials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Chemicals & Materials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Chemicals & Materials operating conditions → company-level research candidate.",
+      "freshness_hours": 17.1
+    },
+    {
+      "title": "IDBI Bank disinvestment enters crucial stage as RBI examines Fairfax, says DIPAM secretary Chawla - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVi05ZXJ0NS1nbkFJeTA5UDI4LWZzNkNpcUJCVkdsbzYwdm9oYXdOZXFvX21DLXVkdVpkd3FfWUt2bVV2OU5OMk1SVmM0TWpZOFJFeXZJcTVFeE9IY3RXYVVfbjFscDhqaU1KOHdOSFZnelNXTXJqWFJUc3p2TGppcDJrTXYtZWhDNGpBOE5DVGtRcTJjSFJIcWV6TXFFT213YkwxSElLV01CVzI5d21UcW5UUWkzLTZiWEVwcVMxbk5wODdVVHF0V2ZnY1JINkd4SEcteGdIMjdjdnF1elVqZjl0QlNmX0xkMzZWLTFTV1Q?oc=5",
+      "published": "Thu, 26 Nov 2026 15:30:28 GMT",
+      "source": "TradingView",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 11.3
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -380,5 +423,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-27T02:47:11.650212+00:00"
 }
