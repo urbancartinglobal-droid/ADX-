@@ -4,7 +4,50 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI money market operations report records net liquidity injection of ₹47,641.20 crore on November 26 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2hzaUhXOUkyQmVYMzhQRlptclVPdDhRTG5zZGREcnNiTkVMejZISGNWVXlqeTNoQlBXeXpMa1dxS2ZmNURlNjNycThNMms2YXNZU1lJUE5JSW14UmlubnFWWnR0eE9XN3dsbWtqcVdlOWo5dFVGU3dRcU82SHJDdGpWdmJOa2V4N2g5UGpFM251UUEx?oc=5",
+      "published": "Fri, 27 Nov 2026 04:19:26 GMT",
+      "source": "Traders Union",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 7.7
+    },
+    {
+      "title": "India chip industry seeks clarity on US tariff exemption, worries supply chain may be excluded - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZlBhSlhnNzJUZGRJdGd3ZW5ycV8yd05xWG5kYWVzY2xvRE0zQWJBMjc5OHd3V1o3am9CNDlvSVQzQ1dwZ3l2cFk0bEJzaW1iUTNNa011bFpyT2dHTnltVnVic21Ub24wTTd6VUJPQkRBRG1YN3V4TnFoeURJNi1zajh5bWl2UXlXSjdEMWRjQ2ZzcG52U2FSeXZOX3RuNThYc0hKWmEtS1I1c1hDeFVTVFI3bnExSmlmSTRzbUxBbkF5aWFuQ2l5WWMxMzZIODE1WGk0cnEySERpRnk0QUF1R3I4WDFodW1leVJoZklxUnLSAfABQVVfeXFMT2ZQYUpYZzcyVGRkSXRnd2VucnFfMndOcVhuZGFlc2Nsb0RNM0FiQTI3OTh3d1daN2pvQjQ5b0lUM0NXcGd5dnBZNGxCc2ltYlEzTWtNdWxack9nR055bVZ1YnNtVG9uME03elVCT0JEQURtWDd1eE5xaHlESTYtc2o4eW1pdlF5V0o3RDFkY0Nmc3BudlNhUnl2Tl90bjU4WHNISlphLUtSNXNYQ3hVU1RSN25xMUppZkk0c21MQW5BeWlhbkNpeVljMTM2SDgxNVhpNHJxMkhEaUZ5NEFBdUdyOFgxaHVtZXlSaGZJcVJy?oc=5",
+      "published": "Fri, 27 Nov 2026 06:22:56 GMT",
+      "source": "Moneycontrol.com",
+      "sector": "Electronics & Semiconductors",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Electronics & Semiconductors signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Electronics & Semiconductors operating conditions → company-level research candidate.",
+      "freshness_hours": 5.7
+    },
+    {
+      "title": "Diafiltration Systems Market To 2035: Biopharma Demand Supports Expansion - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjRBSGFkMXJORnVLLTA3bWR4ZUtvSnJVcWhISVh6bWxhQjE5MF9uOGhNbXNNekNyTTdvRzg5LXNEWVlyUGZHcklZUlZTaUpjUjFBSTliY2Y0dlpOOUVETzhFV2E0amJLUWtaQXlZSGJmMHZSQ2xHR2tpRHhESmlSUlk5enN4a3ZmSm9HYS14NXcyS3oySmtfNTQ0MW90ZWl6Y2NhaDVHdjZKZ3h1UHczUUlNVnFjTnY5LXc?oc=5",
+      "published": "Thu, 26 Nov 2026 14:01:04 GMT",
+      "source": "IndexBox",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GIGA+",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 22.0
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -317,5 +360,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-27T12:03:54.472341+00:00"
 }
