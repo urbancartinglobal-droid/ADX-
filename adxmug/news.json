@@ -4,7 +4,22 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI eases CRR maintenance norms as banking liquidity turns deficit - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMF9VWS1IdVltUkxZTFJYaGNjZXFmXzdGLXhUaU5jZGFQYmdhdF94TjdFX1huVHhWb3JkTTNOOHhpVDJISTdYY2FWOVhvZ0FtNFBKUWVwY2ZKUXFfdzlHb1MzS2pMN1Jid3lhQlR6bzRaT3NicTI5MjRmSnVRQnJ0ZjBtR2QtZ0Q5TXQ5VXVaaFFTUUdFU3BSYkNIOXN5UzlBZVhyM1pxRTbSAagBQVVfeXFMTzBfVVktSHVZbVJMWUxSWGhjY2VxZl83Ri14VGlOY2RhUGJnYXRfeE43RV9YblR4Vm9yZE0zTjh4aVQySEk3WGNhVjlYb2dBbTRQSlFlcGNmSlFxX3c5R29TM0tqTDdSYnd5YUJUem80Wk9zYnEyOTI0Zkp1UUJydGYwbUdkLWdEOU10OVV1WmhRU1FHRVNwUmJDSDlzeVM5QWVYcjNacUU2?oc=5",
+      "published": "Sat, 28 Nov 2026 02:26:22 GMT",
+      "source": "Social News XYZ",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 18.4
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -312,5 +327,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-28T20:52:21.997292+00:00"
 }
