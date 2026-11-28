@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "RBI Eases Daily CRR Maintenance To 90% As Banking Liquidity Slips Into Deficit - Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkVsd2xqc1pMN3M1ZzFnTXI2Z0JsQjdOT0VPZktjYnJhR2YwaEJMT1RPeWkweU84dTVDUkphRUx5VE5XVjR3Wms1SjFIdkVwV3RVSkk4dGVuWnA0Zk56SkJBZTVhTDIzREU3VVh2VWl5UDY2akR0UlktdzZYNDJORXUtanFrTzdLQ1NMODZzejdSdWlFa0JiXzNYZ1ljeGdKRlFMaWZVUko5X3pXem1yenZwRW1HbTNaaTdGcFZlc0Q0SG5KdDdUczFnaUhrZzB3MUHSAdcBQVVfeXFMTXBEcE00ZUJRWUl3S1F2OTZmRWpqVmJXbWwxdmxfOFJIdkF4MVlRdmlySkJONlpUb1lhVUJIeHVZRDJfRzBvLXpqaVItcVlkY1U3RENSa3RhQlNJSmczZnRRQ3k0anhlRFU2MGxCOF94NlVOemFDQzJiTnlYNHZYWXUzSFJvN1UweWNMT1ItTjQ2eTJXM3NLRlE1c0NUYzNYYzkzbmEyNXhnWk9JMXBfUkRZcjNQS1hfZHF1VE1Tc3NSRFg5Vm9vMHhwN2VlY3dSXzhPOWVKeVE?oc=5",
+      "published": "Fri, 27 Nov 2026 16:17:43 GMT",
+      "source": "Deccan Chronicle",
+      "sector": "Banking & Financials",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Banking & Financials signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Banking & Financials operating conditions → company-level research candidate.",
+      "freshness_hours": 11.6
+    },
+    {
+      "title": "Lupin Launches Sitagliptin Diabetes Drug in US After USFDA Nod - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlRNU2VubnljaVcwb29ZU0tfSGw3YTBKdnVvc3BZOTNjcjRMZlZRclp0aTgwSG5ScVNYUVNBVjkxWGRFMnlwZ2hEaGx5TndfZm1JQjZVTWpYR3ZVUlNnVmxVRzBaRXdBYXdaSEphcXBvYWJHc2VVa3lveUtlRGRYTHFoRjdTMUIxaUowNWpHcU9QQTR0eDd1UzlBSkVrOFh4OXdncVc0N0wydDVTZ1FhRHZBRllZcW9xWEHSAboBQVVfeXFMTVpUTVNlbm55Y2lXMG9vWVNLX0hsN2EwSnZ1b3NwWTkzY3I0TGZWUXJadGk4MEhuUnFTWFFTQVY5MVhkRTJ5cGdoRGhseU53X2ZtSUI2VU1qWEd2VVJTZ1ZsVUcwWkV3QWF3WkhKYXFwb2FiR3NlVWt5b3lLZURkWExxaEY3UzFCMWlKMDVqR3FPUEE0dHg3dVM5QUpFazhYeDl3Z3FXNDdMMnQ1U2dRYUR2QUZZWXFvcVhB?oc=5",
+      "published": "Fri, 27 Nov 2026 15:55:30 GMT",
+      "source": "Rediff MoneyWiz",
+      "sector": "Pharma & Healthcare",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Pharma & Healthcare signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Pharma & Healthcare operating conditions → company-level research candidate.",
+      "freshness_hours": 11.9
+    }
+  ],
   "opportunities": [
     {
       "industry": "Sugar & Ethanol",
@@ -308,5 +337,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-28T03:51:14.766923+00:00"
 }
