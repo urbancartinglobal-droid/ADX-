@@ -4,7 +4,36 @@
   "engine": "ADXmug Signal Engine v5 — freshness gate + entity relevance + semantic story clusters + hidden connections + source diversity + 7–10D research watch",
   "method": "Freshness → entity → sector → material change → story cluster → independent confirmation → hidden connection → company mapping → research watch",
   "articles": [],
-  "landed": [],
+  "landed": [
+    {
+      "title": "Ahmedabad Metro Opens Sabarmati Railway Metro Station, Completes Connectivity Across Entire Network - Metro Rail News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56TXlVdHhIc0VsM2hxSWJrUk1odkU3LWZTQ0NYTUkxN3I0eFJkR0gzN05sSFdsaWtnRXRuX2dWTXJPbjNNY3NxLXRYZjFuSTJYenBBb0paY0s4cll4Ykh3N3FocDRVNUhTbFpuUzd0ZXJoMXZjSkZZTk5FRHVHUQ?oc=5",
+      "published": "Sat, 28 Nov 2026 06:35:22 GMT",
+      "source": "Metro Rail News",
+      "sector": "Rail & Infrastructure",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "MACRO",
+      "why": "Fresh Rail & Infrastructure signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Rail & Infrastructure operating conditions → company-level research candidate.",
+      "freshness_hours": 6.3
+    },
+    {
+      "title": "US tariff proposals threaten further disruption to automotive supply chains - Automotive Logistics",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUdWVUVwMWpSaDZMZ1ZjUTAycVVobGdIeURJZnBGWVBGX1hlOXgwTF9neXNmWDFKMk1fWkhkRTV5TGRuc2J4VlR5OGZBVERKTWVrMlM0cThjd0xFMVBYTzNxMUZDSlpiNUs0eDJOalZNU1UzX2huRTRXVHh4djNRZHJCTWp4dHRabkUwVVJyS09US3l0MEt4c2tlZUtwano5SFMtRDZRc2JoUnphUWVGVXNUWEpGLWNxMG5nZ3owOGxkVWpU?oc=5",
+      "published": "Fri, 27 Nov 2026 15:08:59 GMT",
+      "source": "Automotive Logistics",
+      "sector": "Auto & Components",
+      "triggers": [
+        "MATERIAL CHANGE"
+      ],
+      "label": "GLOBAL",
+      "why": "Fresh Auto & Components signal entered the intelligence layer today; ADXmug found a sector entity plus a material change.",
+      "impact": "Hidden connection: fresh change → Auto & Components operating conditions → company-level research candidate.",
+      "freshness_hours": 21.8
+    }
+  ],
   "opportunities": [
     {
       "industry": "Banking & Financials",
@@ -313,5 +342,6 @@
       "connections": [],
       "fresh_count": 0
     }
-  ]
+  ],
+  "landed_updated_utc": "2026-11-28T12:54:08.826540+00:00"
 }
